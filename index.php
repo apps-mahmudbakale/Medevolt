@@ -83,19 +83,19 @@ img.emoji {
 
 		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
 
-		
+
 		<div id="wrap" class="clr">
 
-			
+
 
 <div id="top-bar-wrap" class="clr">
 
 	<div id="top-bar" class="clr has-no-content">
 
-		
+
 		<div id="top-bar-inner" class="clr">
 
-			
+
 	<div id="top-bar-social-alt" class="clr top-bar-left">
 				<div data-elementor-type="wp-post" data-elementor-id="19681" class="elementor elementor-19681" data-elementor-settings="[]">
 						<div class="elementor-inner">
@@ -111,10 +111,10 @@ img.emoji {
 			<div class="textwidget custom-html-widget">
 	<a class="elementor-icon" href="https://en-gb.facebook.com/TXMHealthcare/" style="font-size: 35px">
 	<i aria-hidden="true" class="fab fa-facebook-square"></i>			</a>
-	
+
 	<a class="elementor-icon" href="https://twitter.com/TXMHealthcare" style="font-size: 35px">
 	<i aria-hidden="true" class="fab fa-twitter-square"></i>			</a>
-	
+
 	<a class="elementor-icon" href="https://www.linkedin.com/company/txm-healthcare" style="font-size: 35px">
 	<i aria-hidden="true" class="fab fa-linkedin"></i>			</a>
 	</div>		</div>
@@ -379,45 +379,46 @@ Register Now					</a></div>		</div>
 					</div>
 			</div><!-- #top-bar-social-alt -->
 
-	
+
 		</div><!-- #top-bar-inner -->
 
-		
+
 	</div><!-- #top-bar -->
 
 </div><!-- #top-bar-wrap -->
 
 
-			
+
 <header id="site-header" class="minimal-header clr" data-height="54" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
 
-	
-					
+
+
 			<div id="site-header-inner" class="clr container">
 
-				
-				
+
+
 
 <div id="site-logo" class="clr" itemscope="" itemtype="https://schema.org/Brand">
 
-	
+
 	<div id="site-logo-inner" class="clr">
 
-		<a href="https://www.txmhealthcare.co.uk/" class="custom-logo-link" rel="home" aria-current="page"><picture class="custom-logo">
+		<a href="https://www.txmhealthcare.co.uk/" class="custom-logo-link" rel="home" aria-current="page">
+			<!-- <picture class="custom-logo">
 <source type="image/webp" srcset="TXM%20Healthcare%20-%20Medical%20Recruitment%20Specialists_files/txmlogo2020600222.webp 600w, TXM%20Healthcare%20-%20Medical%20Recruitment%20Specialists_files/txmlogo2020600222-300x111.webp 300w" sizes="(max-width: 600px) 100vw, 600px">
 <img src="TXM%20Healthcare%20-%20Medical%20Recruitment%20Specialists_files/txmlogo2020600222.png" alt="TXM Healthcare" srcset="TXM%20Healthcare%20-%20Medical%20Recruitment%20Specialists_files/txmlogo2020600222.png 600w, TXM%20Healthcare%20-%20Medical%20Recruitment%20Specialists_files/txmlogo2020600222-300x111.png 300w" sizes="(max-width: 600px) 100vw, 600px" width="600" height="222">
-</picture>
+</picture> -->
 </a>
 	</div><!-- #site-logo-inner -->
 
-	
-	
+
+
 </div><!-- #site-logo -->
 
 			<div id="site-navigation-wrap" class="clr">
-			
-			
-			
+
+
+
 			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
 
 				<ul id="menu-main-menu" class="main-menu dropdown-menu sf-menu"><li id="menu-item-14889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14502 current_page_item menu-item-14889"><a href="https://www.txmhealthcare.co.uk/" class="menu-link"><span class="text-wrap">Home</span></a></li><li id="menu-item-14908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14908"><a href="https://www.txmhealthcare.co.uk/careers/" class="menu-link"><span class="text-wrap">Careers<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
@@ -452,13 +453,13 @@ Register Now					</a></div>		</div>
 </li>	<li id="menu-item-17441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17441"><a href="https://www.txmhealthcare.co.uk/contact-us/" class="menu-link"><span class="text-wrap">Contact Us</span></a></li></ul>
 </li>
 			<li class="woo-menu-icon wcmenucart-toggle-drop_down toggle-cart-widget">
-				
-			
+
+
 			<a href="https://www.txmhealthcare.co.uk/basket/" class="wcmenucart">
 				<span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">0</span></span>
 			</a>
 
-			
+
 
 												<div class="current-shop-items-dropdown owp-mini-cart clr">
 						<div class="current-shop-items-inner clr">
@@ -474,27 +475,27 @@ Register Now					</a></div>		</div>
 			</ul>
 			</nav><!-- #site-navigation -->
 
-			
-			
+
+
 					</div><!-- #site-navigation-wrap -->
-			
-		
-	
-				
-	
+
+
+
+
+
 	<div class="oceanwp-mobile-menu-icon clr mobile-right">
 
-		
-		
-		
-			
+
+
+
+
 			<a href="https://www.txmhealthcare.co.uk/basket/" class="wcmenucart">
 				<span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">0</span></span>
 			</a>
 
-			
 
-			
+
+
 		<a href="javascript:void(0)" class="mobile-menu" aria-label="Mobile Menu">
 							<div class="hamburger hamburger--stand" aria-expanded="false">
 					<div class="hamburger-box">
@@ -503,44 +504,44 @@ Register Now					</a></div>		</div>
 				</div>
 						</a>
 
-		
-		
-		
+
+
+
 	</div><!-- #oceanwp-mobile-menu-navbar -->
 
-	
+
 
 			</div><!-- #site-header-inner -->
 
-			
-			
-			
-		
-		
+
+
+
+
+
 </header><!-- #site-header -->
 
 
-			
+
 			<main id="main" class="site-main clr" role="main">
 
-				
-	
+
+
 	<div id="content-wrap" class="container clr">
 
-		
+
 		<div id="primary" class="content-area clr">
 
-			
+
 			<div id="content" class="site-content clr">
 
-				
-				
+
+
 <article class="single-page-article clr">
 
-	
+
 <div class="entry clr" itemprop="text">
 
-	
+
 			<div data-elementor-type="wp-page" data-elementor-id="14502" class="elementor elementor-14502" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
@@ -607,8 +608,8 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-2131fd7 elementor-widget elementor-widget-text-editor" data-id="2131fd7" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>We believe you deserves specialist attention.. With years of 
-experience in placing good candidates let us help you cultivate your 
+				<p>We believe you deserves specialist attention.. With years of
+experience in placing good candidates let us help you cultivate your
 career today.</p>					</div>
 						</div>
 				</div>
@@ -644,7 +645,7 @@ career today.</p>					</div>
 				<div class="elementor-element elementor-element-c5ca5b2 elementor-widget elementor-widget-text-editor" data-id="c5ca5b2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Enjoy your career but looking for more from your role? Channel 
+				<p>Enjoy your career but looking for more from your role? Channel
 Islands perhaps? Short break in Scotland? Our dedicated Nursing team are
  here for you.</p>					</div>
 						</div>
@@ -681,8 +682,8 @@ Islands perhaps? Short break in Scotland? Our dedicated Nursing team are
 				<div class="elementor-element elementor-element-bf50975 elementor-widget elementor-widget-text-editor" data-id="bf50975" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Keen to work with the biggest Clients in the UK? Contact our 
-established Mental Health division and talk to us today about your next 
+				<p>Keen to work with the biggest Clients in the UK? Contact our
+established Mental Health division and talk to us today about your next
 career move.</p>					</div>
 						</div>
 				</div>
@@ -719,7 +720,7 @@ career move.</p>					</div>
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
 				<p>Going The Xtra Mile starts in the office. Are you looking for the
- next step in your career? Find about below how you can join the TXM 
+ next step in your career? Find about below how you can join the TXM
 Family.</p>					</div>
 						</div>
 				</div>
@@ -768,11 +769,11 @@ Family.</p>					</div>
 				<div class="elementor-element elementor-element-rot3ixr elementor-widget elementor-widget-text-editor" data-id="rot3ixr" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>We try to treat everyone how we like to be treated ourselves and 
-that means developing long term relationships based on trust, hard work 
-and mutual respect. Some of our clients have kindly provided feedback 
-which we can share with you below. For further information on how TXM 
-can support you in all of your recruitment needs get in touch with us 
+				<p>We try to treat everyone how we like to be treated ourselves and
+that means developing long term relationships based on trust, hard work
+and mutual respect. Some of our clients have kindly provided feedback
+which we can share with you below. For further information on how TXM
+can support you in all of your recruitment needs get in touch with us
 today!</p>					</div>
 						</div>
 				</div>
@@ -797,10 +798,10 @@ today!</p>					</div>
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
 							<div class="elementor-testimonial-content">Having worked with TXM
- over the years we have developed a trusting relationship. They 
-communicate openly and transparently and we always find that they are a 
+ over the years we have developed a trusting relationship. They
+communicate openly and transparently and we always find that they are a
 business you can rely on.</div>
-			
+
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
@@ -809,7 +810,7 @@ business you can rely on.</div>
 <img src="TXM%20Healthcare%20-%20Medical%20Recruitment%20Specialists_files/row-4-col-2-1.jpg" alt="row 4 col 2 1" loading="lazy" width="824" height="990">
 </picture>
 						</div>
-					
+
 										<div class="elementor-testimonial-details">
 														<div class="elementor-testimonial-name">Frances </div>
 																						<div class="elementor-testimonial-job">NHS Foundation Trust<br>Director of Procurement</div>
@@ -822,12 +823,12 @@ business you can rely on.</div>
 				<div class="elementor-element elementor-element-6kl9wra elementor-widget elementor-widget-testimonial" data-id="6kl9wra" data-element_type="widget" data-widget_type="testimonial.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"TXM Healthcare have 
-always responded to my booking needs expediently and I have enjoyed the 
-personal relationship with my agent over the time we have worked 
+							<div class="elementor-testimonial-content">"TXM Healthcare have
+always responded to my booking needs expediently and I have enjoyed the
+personal relationship with my agent over the time we have worked
 together. I would consider them first, as the quality of service is much
  better than other locum agencies I have previously used"</div>
-			
+
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
@@ -836,7 +837,7 @@ together. I would consider them first, as the quality of service is much
 <img src="TXM%20Healthcare%20-%20Medical%20Recruitment%20Specialists_files/row-2-col-4-2.jpg" alt="row 2 col 4 2" loading="lazy" width="824" height="990">
 </picture>
 						</div>
-					
+
 										<div class="elementor-testimonial-details">
 														<div class="elementor-testimonial-name">RN Nicola</div>
 																						<div class="elementor-testimonial-job">Registered Nurse</div>
@@ -859,7 +860,7 @@ together. I would consider them first, as the quality of service is much
  with TXM in regard to our need for a supply of numerous qualified Staff
  Nurses for our hospital and overall I've been really impressed with the
  performance"</div>
-			
+
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
@@ -868,7 +869,7 @@ together. I would consider them first, as the quality of service is much
 <img src="TXM%20Healthcare%20-%20Medical%20Recruitment%20Specialists_files/row-4-col-5-2.jpg" alt="row 4 col 5 2" loading="lazy" width="824" height="990">
 </picture>
 						</div>
-					
+
 										<div class="elementor-testimonial-details">
 														<div class="elementor-testimonial-name">andrew</div>
 																						<div class="elementor-testimonial-job">Managing Director<br>Private Sector Hospital</div>
@@ -881,13 +882,13 @@ together. I would consider them first, as the quality of service is much
 				<div class="elementor-element elementor-element-1gdmbbl elementor-widget elementor-widget-testimonial" data-id="1gdmbbl" data-element_type="widget" data-widget_type="testimonial.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"I want to thank you 
-so much for your professionalism. Probably your agency is the best. I 
-also want to through you thank the entire staff it is difficult to name 
-any particular one but all your colleagues are friendly and always 
-polite.&nbsp; You always brighten up my stressful day whenever I get to 
+							<div class="elementor-testimonial-content">"I want to thank you
+so much for your professionalism. Probably your agency is the best. I
+also want to through you thank the entire staff it is difficult to name
+any particular one but all your colleagues are friendly and always
+polite.&nbsp; You always brighten up my stressful day whenever I get to
 speak to you"</div>
-			
+
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
@@ -896,7 +897,7 @@ speak to you"</div>
 <img src="TXM%20Healthcare%20-%20Medical%20Recruitment%20Specialists_files/row-2-col-5-1.jpg" alt="row 2 col 5 1" loading="lazy" width="824" height="990">
 </picture>
 						</div>
-					
+
 										<div class="elementor-testimonial-details">
 														<div class="elementor-testimonial-name">Oliver</div>
 																						<div class="elementor-testimonial-job">NHS Medical Staffing Manager</div>
@@ -937,9 +938,9 @@ speak to you"</div>
 						Going The Xtra Mile					</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						TXM stands for The Xtra Mile. The Xtra Mile means many things to 
-different people but for us, it means providing an exceptional level of 
-service that goes beyond expectation. Join us today to find out more! 		
+						TXM stands for The Xtra Mile. The Xtra Mile means many things to
+different people but for us, it means providing an exceptional level of
+service that goes beyond expectation. Join us today to find out more!
 			</p>
 							</div>
 		</div>
@@ -967,7 +968,7 @@ service that goes beyond expectation. Join us today to find out more!
 				</h3>
 									<p class="elementor-icon-box-description">
 						Compliance and Governance provide the foundations for our business
- and when working with us you can be assured that you are in safe, 
+ and when working with us you can be assured that you are in safe,
 experienced hands. 					</p>
 							</div>
 		</div>
@@ -992,8 +993,8 @@ experienced hands. 					</p>
 						Local					</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						We believe that by working and employing locally we get more 
-knowledge of the market and in correlation, better results. As a result 
+						We believe that by working and employing locally we get more
+knowledge of the market and in correlation, better results. As a result
 we now have offices in Milton Keynes, London, Scotland, Northern Ireland
  and Cornwall.					</p>
 							</div>
@@ -1021,8 +1022,8 @@ we now have offices in Milton Keynes, London, Scotland, Northern Ireland
 						Mindful					</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						As a TXM Family we pride ourselves on our empathy and looking 
-after those we work with both inside and outside of our business. You 
+						As a TXM Family we pride ourselves on our empathy and looking
+after those we work with both inside and outside of our business. You
 can always speak to us about anything.					</p>
 							</div>
 		</div>
@@ -1054,7 +1055,7 @@ can always speak to us about anything.					</p>
 						SOLUTIONS					</a>
 				</h3>
 									<p class="elementor-icon-box-description">
-						Unique demands require bespoke solutions and here at TXM 
+						Unique demands require bespoke solutions and here at TXM
 Healthcare we believe every project should have the personal approach it
  needs.					</p>
 							</div>
@@ -1091,7 +1092,7 @@ Healthcare we believe every project should have the personal approach it
 						COMPLIANCE					</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						With safety at the heart of everything we do, you can be assured 
+						With safety at the heart of everything we do, you can be assured
 when working with TXM Healthcare that you're in safe hands.					</p>
 							</div>
 		</div>
@@ -1127,8 +1128,8 @@ when working with TXM Healthcare that you're in safe hands.					</p>
 						SUPPORT					</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						Treating people how you like be treated is key to going the Xtra 
-Mile. Get to know more about our team, governance and good works 
+						Treating people how you like be treated is key to going the Xtra
+Mile. Get to know more about our team, governance and good works
 initiatives.					</p>
 							</div>
 		</div>
@@ -1164,7 +1165,7 @@ initiatives.					</p>
 						CAREERS					</a>
 				</h3>
 									<p class="elementor-icon-box-description">
-						You're a specialist in your field, and so are we. Whether it be 
+						You're a specialist in your field, and so are we. Whether it be
 for a week or forever with years of experience let us take the next step
  in your career The Xtra Mile!					</p>
 							</div>
@@ -1199,9 +1200,9 @@ for a week or forever with years of experience let us take the next step
 								<div class="elementor-text-editor elementor-clearfix">
 				<h3>Use the search below for the band, grade, speciality or location you are looking to work in</h3><p></p><div class="job_listings" data-location="" data-keywords="" data-show_filters="true" data-show_pagination="false" data-per_page="5" data-orderby="featured" data-order="DESC" data-categories="" data-disable-form-state-storage="" data-post_id="14502">
 <form class="job_filters">
-	
+
 	<div class="search_jobs">
-		
+
 		<div class="search_keywords">
 			<label for="search_keywords">Keywords</label>
 			<input type="text" name="search_keywords" id="search_keywords" placeholder="Keywords">
@@ -1214,11 +1215,11 @@ for a week or forever with years of experience let us take the next step
 
 		<div style="clear: both"></div>
 
-		
+
 					<div class="search_submit">
 				<input type="submit" value="Search Jobs">
 			</div>
-		
+
 			</div>
 
 		<ul class="job_types">
@@ -1238,8 +1239,8 @@ for a week or forever with years of experience let us take the next step
 		<div class="location">
 			Nationwide		</div>
 		<ul class="meta">
-			
-														
+
+
 			<li class="date"><time datetime="2021-11-18">Posted 5 days ago</time></li>
 
 					</ul>
@@ -1255,8 +1256,8 @@ for a week or forever with years of experience let us take the next step
 		<div class="location">
 			Worcestershire		</div>
 		<ul class="meta">
-			
-														
+
+
 			<li class="date"><time datetime="2021-11-18">Posted 5 days ago</time></li>
 
 					</ul>
@@ -1272,8 +1273,8 @@ for a week or forever with years of experience let us take the next step
 		<div class="location">
 			North England		</div>
 		<ul class="meta">
-			
-														
+
+
 			<li class="date"><time datetime="2021-11-17">Posted 6 days ago</time></li>
 
 					</ul>
@@ -1289,8 +1290,8 @@ for a week or forever with years of experience let us take the next step
 		<div class="location">
 			West Midlands		</div>
 		<ul class="meta">
-			
-														
+
+
 			<li class="date"><time datetime="2021-11-17">Posted 6 days ago</time></li>
 
 					</ul>
@@ -1306,8 +1307,8 @@ for a week or forever with years of experience let us take the next step
 		<div class="location">
 			North England		</div>
 		<ul class="meta">
-			
-														
+
+
 			<li class="date"><time datetime="2021-11-17">Posted 6 days ago</time></li>
 
 					</ul>
@@ -1420,29 +1421,29 @@ for a week or forever with years of experience let us take the next step
 							<div class="premium-blog-post-author premium-blog-meta-data">
 					<i class="fa fa-user fa-fw"></i>
 					<a href="https://www.txmhealthcare.co.uk/author/bottlegreenmedia/" title="Posts by Ellie Smith" rel="author" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">Ellie Smith</a>				</div>
-			
+
 							<span class="premium-blog-meta-separator">•</span>
 				<div class="premium-blog-post-time premium-blog-meta-data">
 					<i class="fa fa-clock-o"></i>
 					<span>September 24, 2021</span>
 				</div>
-			
+
 							<span class="premium-blog-meta-separator">•</span>
 				<div class="premium-blog-post-categories premium-blog-meta-data">
 					<i class="fa fa-align-left fa-fw"></i>
 					<a href="https://www.txmhealthcare.co.uk/category/news/" rel="category tag">News</a>				</div>
-			
+
 							<span class="premium-blog-meta-separator">•</span>
 				<div class="premium-blog-post-comments premium-blog-meta-data">
 					<i class="fa fa-comments-o fa-fw"></i>
 					<a href="https://www.txmhealthcare.co.uk/emergency-medicine-doctors-we-have-a-brilliant-opportunity-for-you-middle-grad/#respond">No Comments</a>				</div>
 					</div>
-		
+
 							</div>
 						</div>
 
-						<p class="premium-blog-post-content">Emergency Medicine Doctors, 
-we have a brilliant opportunity for you: Middle Grade A&amp;E Doctor 
+						<p class="premium-blog-post-content">Emergency Medicine Doctors,
+we have a brilliant opportunity for you: Middle Grade A&amp;E Doctor
 role based in Wales. Full rota pattern/regular availability, …</p>											</div>
 				</div>
 			</div>
@@ -1475,29 +1476,29 @@ role based in Wales. Full rota pattern/regular availability, …</p>											<
 							<div class="premium-blog-post-author premium-blog-meta-data">
 					<i class="fa fa-user fa-fw"></i>
 					<a href="https://www.txmhealthcare.co.uk/author/bottlegreenmedia/" title="Posts by Ellie Smith" rel="author" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">Ellie Smith</a>				</div>
-			
+
 							<span class="premium-blog-meta-separator">•</span>
 				<div class="premium-blog-post-time premium-blog-meta-data">
 					<i class="fa fa-clock-o"></i>
 					<span>September 22, 2021</span>
 				</div>
-			
+
 							<span class="premium-blog-meta-separator">•</span>
 				<div class="premium-blog-post-categories premium-blog-meta-data">
 					<i class="fa fa-align-left fa-fw"></i>
 					<a href="https://www.txmhealthcare.co.uk/category/news/" rel="category tag">News</a>				</div>
-			
+
 							<span class="premium-blog-meta-separator">•</span>
 				<div class="premium-blog-post-comments premium-blog-meta-data">
 					<i class="fa fa-comments-o fa-fw"></i>
 					<a href="https://www.txmhealthcare.co.uk/is-maternity-cover-locum-work-something-youd-be-interested-in-learning-more-abo/#respond">No Comments</a>				</div>
 					</div>
-		
+
 							</div>
 						</div>
 
 						<p class="premium-blog-post-content">Is Maternity Cover Locum work
- something you’d be interested in learning more about? We have a new 
+ something you’d be interested in learning more about? We have a new
 Consultant #Haematology position based in …</p>											</div>
 				</div>
 			</div>
@@ -1530,29 +1531,29 @@ Consultant #Haematology position based in …</p>											</div>
 							<div class="premium-blog-post-author premium-blog-meta-data">
 					<i class="fa fa-user fa-fw"></i>
 					<a href="https://www.txmhealthcare.co.uk/author/bottlegreenmedia/" title="Posts by Ellie Smith" rel="author" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">Ellie Smith</a>				</div>
-			
+
 							<span class="premium-blog-meta-separator">•</span>
 				<div class="premium-blog-post-time premium-blog-meta-data">
 					<i class="fa fa-clock-o"></i>
 					<span>September 21, 2021</span>
 				</div>
-			
+
 							<span class="premium-blog-meta-separator">•</span>
 				<div class="premium-blog-post-categories premium-blog-meta-data">
 					<i class="fa fa-align-left fa-fw"></i>
 					<a href="https://www.txmhealthcare.co.uk/category/news/" rel="category tag">News</a>				</div>
-			
+
 							<span class="premium-blog-meta-separator">•</span>
 				<div class="premium-blog-post-comments premium-blog-meta-data">
 					<i class="fa fa-comments-o fa-fw"></i>
 					<a href="https://www.txmhealthcare.co.uk/ophthalmology-txm-healthcare-are-continuing-our-ophthalmology-recruitment-push-2/#respond">No Comments</a>				</div>
 					</div>
-		
+
 							</div>
 						</div>
 
 						<p class="premium-blog-post-content">OPHTHALMOLOGY: TXM Healthcare
- are continuing our #Ophthalmology recruitment push with Consultant 
+ are continuing our #Ophthalmology recruitment push with Consultant
 Ophthalmologist opportunities based across the United Kingdom. Must have
  experience in …</p>											</div>
 				</div>
@@ -1577,9 +1578,9 @@ Ophthalmologist opportunities based across the United Kingdom. Must have
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-e97167f elementor-widget elementor-widget-premium-addon-facebook-chat" data-id="e97167f" data-element_type="widget" data-widget_type="premium-addon-facebook-chat.default">
 				<div class="elementor-widget-container">
-			
+
 	<div id="premium-fbchat-container" class="premium-fbchat-container" data-settings="{&quot;appId&quot;:&quot;173455743059370&quot;,&quot;hideMobile&quot;:false,&quot;lang&quot;:&quot;en_US&quot;}">
-		
+
 	</div>
 	<style>
 			</style>
@@ -1595,39 +1596,39 @@ Ophthalmologist opportunities based across the United Kingdom. Must have
 						</div>
 						</div>
 					</div>
-		
-	
+
+
 </div>
 
 </article>
 
-				
+
 			</div><!-- #content -->
 
-			
+
 		</div><!-- #primary -->
 
-		
+
 	</div><!-- #content-wrap -->
 
-	
+
 
 	</main><!-- #main -->
 
-	
-	
-	
-		
+
+
+
+
 <footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
 
-	
+
 	<div id="footer-inner" class="clr">
 
-		
+
 
 <div id="footer-widgets" class="oceanwp-row clr tablet-2-col">
 
-	
+
 	<div class="footer-widgets-inner container">
 
 					<div class="footer-box span_1_of_3 col col-1">
@@ -1651,7 +1652,7 @@ EC2M 1NH</p>
 <p class="footer-address"><a href="mailto:Nursing@TXMHealthcare.co.uk">Click To Contact</a></p>
 </div>
 		</div>				</div><!-- .footer-one-box -->
-				
+
 							<div class="footer-box span_1_of_3 col col-3 ">
 					<div id="text-8" class="footer-widget widget_text clr"><h4 class="widget-title">Cornwall</h4>			<div class="textwidget"><p class="footer-address">Tremough Innovation Centre<br>
 Tremough Campus<br>
@@ -1662,40 +1663,40 @@ TR10 9TA</p>
 <p class="footer-address"><a href="mailto:Southwest@TXMHealthcare.co.uk">Click To Contact</a></p>
 </div>
 		</div>				</div><!-- .footer-one-box -->
-				
-			
-			
+
+
+
 	</div><!-- .container -->
 
-	
+
 </div><!-- #footer-widgets -->
 
 
 
 <div id="footer-bottom" class="clr no-footer-nav">
 
-	
+
 	<div id="footer-bottom-inner" class="container clr">
 
-		
-		
+
+
 			<div id="copyright" class="clr" role="contentinfo">
 				TXM Healthcare 2012-2021 | All Rights Reserved | <a href="https://www.txmhealthcare.co.uk/privacy-policy">Privacy Policy</a>			</div><!-- #copyright -->
 
-			
+
 	</div><!-- #footer-bottom-inner -->
 
-	
+
 </div><!-- #footer-bottom -->
 
 
 	</div><!-- #footer-inner -->
 
-	
+
 </footer><!-- #footer -->
 
-	
-	
+
+
 </div><!-- #wrap -->
 
 
@@ -1793,27 +1794,8 @@ TR10 9TA</p>
 </li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17441"><a href="https://www.txmhealthcare.co.uk/contact-us/">Contact Us</a></li>
 </ul>
-</li>
+</li>  
 
-			<li class="woo-menu-icon wcmenucart-toggle-drop_down toggle-cart-widget">
-				
-			
-			<a href="https://www.txmhealthcare.co.uk/basket/" class="wcmenucart">
-				<span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">0</span></span>
-			</a>
-
-			
-
-												<div class="current-shop-items-dropdown owp-mini-cart clr">
-						<div class="current-shop-items-inner clr">
-							<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content">
-
-	<p class="woocommerce-mini-cart__empty-message">No products in the basket.</p>
-
-
-</div></div>						</div>
-					</div>
-							</li>
 
 			</ul>
 		</nav>
@@ -1822,9 +1804,9 @@ TR10 9TA</p>
 
 </div>
 <!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true" data-cli-style="cli-style-v2" style="background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); font-family: inherit; bottom: 0px; position: fixed; display: none;"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We
- use cookies on our website to give you the most relevant experience by 
-remembering your preferences and repeat visits. By clicking “Accept 
-All”, you consent to the use of ALL the cookies. However, you may visit 
+ use cookies on our website to give you the most relevant experience by
+remembering your preferences and repeat visits. By clicking “Accept
+All”, you consent to the use of ALL the cookies. However, you may visit
 "Cookie Settings" to provide a controlled consent.</div><div class="cli-bar-btn_container"><a role="button" tabindex="0" class="medium cli-plugin-button cli-plugin-main-button cli_settings_button" style="margin: 0px 5px 0px 0px; color: rgb(51, 51, 51); background-color: rgb(222, 223, 224);">Cookie Settings</a><a id="wt-cli-accept-all-btn" tabindex="0" role="button" data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button" style="color: rgb(255, 255, 255); background-color: rgb(97, 162, 41);">Accept All</a></div></div></span></div><div id="cookie-law-info-again" style="display: none; background-color: rgb(255, 255, 255); color: rgb(51, 51, 51); position: fixed; font-family: inherit; width: auto; bottom: 0px; right: 100px;" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
   <div class="cli-modal-dialog" role="document">
 	<div class="cli-modal-content cli-bar-popup">
@@ -1838,10 +1820,10 @@ All”, you consent to the use of ALL the cookies. However, you may visit
 		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
 			<div class="cli-privacy-overview">
 				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
-					<div class="cli-privacy-content-text">This website uses cookies to 
-improve your experience while you navigate through the website. Out of 
-these, the cookies that are categorized as necessary are stored on your 
-browser as they are essential for the working of basic functionalities 
+					<div class="cli-privacy-content-text">This website uses cookies to
+improve your experience while you navigate through the website. Out of
+these, the cookies that are categorized as necessary are stored on your
+browser as they are essential for the working of basic functionalities
 of the ...</div>
 				</div>
 				<a class="cli-privacy-readmore" aria-label="Show more" tabindex="0" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
@@ -1859,9 +1841,9 @@ of the ...</div>
 						<div class="cli-tab-content">
 							<div class="cli-tab-pane cli-fade" data-id="necessary">
 								<div class="wt-cli-cookie-description">
-									Necessary cookies are absolutely essential for the website to 
-function properly. This category only includes cookies that ensures 
-basic functionalities and security features of the website. These 
+									Necessary cookies are absolutely essential for the website to
+function properly. This category only includes cookies that ensures
+basic functionalities and security features of the website. These
 cookies do not store any personal information.								</div>
 							</div>
 						</div>
@@ -1877,10 +1859,10 @@ cookies do not store any personal information.								</div>
 						<div class="cli-tab-content">
 							<div class="cli-tab-pane cli-fade" data-id="non-necessary">
 								<div class="wt-cli-cookie-description">
-									Any cookies that may not be particularly necessary for the 
-website to function and is used specifically to collect user personal 
-data via analytics, ads, other embedded contents are termed as 
-non-necessary cookies. It is mandatory to procure user consent prior to 
+									Any cookies that may not be particularly necessary for the
+website to function and is used specifically to collect user personal
+data via analytics, ads, other embedded contents are termed as
+non-necessary cookies. It is mandatory to procure user consent prior to
 running these cookies on your website.								</div>
 							</div>
 						</div>
@@ -1894,10 +1876,10 @@ running these cookies on your website.								</div>
 				<div class="cli-row">
 					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
 						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
-						
+
 															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
 													</div>
-						
+
 					</div>
 				</div>
 			</div>
@@ -1910,7 +1892,7 @@ running these cookies on your website.								</div>
 <!--googleon: all-->            <script>
                 jQuery(function($){
 
-                    
+
                 });
             </script>
             <div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div><div class="fb-customerchat fb_invisible_flow fb_iframe_widget" page_id="150691074972348" theme_color="" logged_in_greeting="" logged_out_greeting="" greeting_dialog_display="hide" ref="" minimized="" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=173455743059370&amp;container_width=0&amp;current_url=https%3A%2F%2Fwww.txmhealthcare.co.uk%2F&amp;greeting_dialog_display=hide&amp;locale=en_US&amp;log_id=a1fca069-3c90-4b73-ac4d-9b9806183fdc&amp;logged_in_greeting=&amp;logged_out_greeting=&amp;minimized=false&amp;page_id=150691074972348&amp;ref=&amp;request_time=1637701632237&amp;sdk=joey&amp;theme_color="><span style="vertical-align: bottom; width: 0px; height: 0px;"><iframe name="f3e69fa0f626dee" data-testid="dialog_iframe" title="" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" style="padding: 0px; position: fixed; z-index: 2147483646; border-radius: 16px; top: auto; width: 247px; max-height: calc(100% - 80px); background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; bottom: 96px; right: 4px; margin-right: 12px; animation: 6s ease-out 0s 1 normal none running slideInFromBottomDelay; height: 50px;" src="https://web.facebook.com/v2.12/plugins/customerchat.php?app_id=173455743059370&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df27831ad7c1c51%26domain%3Dwww.txmhealthcare.co.uk%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fwww.txmhealthcare.co.uk%252Ff1c974ce00086bc%26relation%3Dparent.parent&amp;container_width=0&amp;current_url=https%3A%2F%2Fwww.txmhealthcare.co.uk%2F&amp;greeting_dialog_display=hide&amp;locale=en_US&amp;log_id=a1fca069-3c90-4b73-ac4d-9b9806183fdc&amp;logged_in_greeting=&amp;logged_out_greeting=&amp;minimized=false&amp;page_id=150691074972348&amp;ref=&amp;request_time=1637701632236&amp;sdk=joey&amp;theme_color=" class="" width="1000px" height="1000px" frameborder="0"></iframe></span></div><div class="fb_dialog  fb_dialog_advanced" alignment="right" desktop_bottom_spacing="24"><div class="fb_dialog_content"><iframe name="blank_f3e69fa0f626dee" tabindex="-1" data-testid="bubble_iframe" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" style="animation: 3s ease-out 0s 1 normal none running slideInFromBottomDelay; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; bottom: 24px; display: block; margin: 0px 12px; overflow: visible; padding: 0px; position: fixed; top: auto; z-index: 2147483644; border-radius: 30px; box-shadow: rgba(0, 0, 0, 0.15) 0px 4px 12px 0px; height: 60px; width: 60px; right: 12px;" src="TXM%20Healthcare%20-%20Medical%20Recruitment%20Specialists_files/bubble_003.htm" width="60px" frameborder="0"></iframe><iframe name="unread_f3e69fa0f626dee" tabindex="-1" data-testid="unread_iframe" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" style="bottom: 68px; position: fixed; width: 20px; height: 24px; z-index: 2147483645; border-radius: 4pt; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%; right: 22px;" src="TXM%20Healthcare%20-%20Medical%20Recruitment%20Specialists_files/bubble_003.htm" frameborder="0"></iframe></div></div></div>
@@ -1935,7 +1917,7 @@ running these cookies on your website.								</div>
 				<div id="omw-18128" class="omw-modal ps">
 
 											<a href="#" class="omw-close-modal"></a>
-					
+
 					<div class="omw-modal-inner clr">
 						<p>[frmmodal-content modal_class=”classes here” label=”Click here”]Please select a valid form.[/frmmodal-content]</p>
 					 </div>
@@ -2117,7 +2099,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                });	
+                });
 window.scopes_array = {};
                 window.backend = 0;
                 jQuery( window ).on( "elementor/frontend/init", function() {
@@ -2172,7 +2154,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                });	
+                });
 window.scopes_array = {};
                 window.backend = 0;
                 jQuery( window ).on( "elementor/frontend/init", function() {
@@ -2227,7 +2209,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                });	
+                });
 window.scopes_array = {};
                 window.backend = 0;
 
@@ -2284,7 +2266,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                });	
+                });
 window.scopes_array = {};
                 window.backend = 0;
                 jQuery( window ).on( "elementor/frontend/init", function() {
@@ -2319,7 +2301,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                });	
+                });
 window.scopes_array = {};
                 window.backend = 0;
                 jQuery( window ).on( "elementor/frontend/init", function() {
@@ -2370,7 +2352,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                });	
+                });
 </script>
 <script src="TXM%20Healthcare%20-%20Medical%20Recruitment%20Specialists_files/preloaded-elements-handlers.js" id="pro-preloaded-elements-handlers-js"></script><svg style="display: none;" class="e-font-icon-svg-symbols"></svg>
 <script src="TXM%20Healthcare%20-%20Medical%20Recruitment%20Specialists_files/preloaded-modules.js" id="preloaded-modules-js"></script>
