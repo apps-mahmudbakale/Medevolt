@@ -446,34 +446,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                         </div>
                     </div>
         </div>
-                <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-6156ad3" data-id="6156ad3" data-element_type="column">
-            <div class="elementor-column-wrap elementor-element-populated">
-                            <div class="elementor-widget-wrap">
-                        <div class="elementor-element elementor-element-daa50cd elementor-widget elementor-widget-wp-widget-custom_html" data-id="daa50cd" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
-                <div class="elementor-widget-container">
-            <div class="textwidget custom-html-widget"><a href="tel:01908326400" class=" toptext" role="button">
-                        <span class="elementor-button-content-wrapper">
-                        <span class="elementor-button-text">Milton Keynes : 01908 326 400</span>
-        </span>
-                    </a></div>      </div>
-                </div>
-                        </div>
-                    </div>
-        </div>
-                <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-3c0190b" data-id="3c0190b" data-element_type="column">
-            <div class="elementor-column-wrap elementor-element-populated">
-                            <div class="elementor-widget-wrap">
-                        <div class="elementor-element elementor-element-b514687 elementor-widget elementor-widget-wp-widget-custom_html" data-id="b514687" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
-                <div class="elementor-widget-container">
-            <div class="textwidget custom-html-widget"><a href="tel:02071948310" class=" toptext" role="button">
-                        <span class="elementor-button-content-wrapper">
-                        <span class="elementor-button-text">London : 0207 194 8310</span>
-        </span>
-                    </a></div>      </div>
-                </div>
-                        </div>
-                    </div>
-        </div>
+
                 <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-0d5f1b3" data-id="0d5f1b3" data-element_type="column">
             <div class="elementor-column-wrap elementor-element-populated">
                             <div class="elementor-widget-wrap">
@@ -481,7 +454,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                 <div class="elementor-widget-container">
             <div class="textwidget custom-html-widget"><a href="tel:01326567471" class=" toptext" role="button">
                         <span class="elementor-button-content-wrapper">
-                        <span class="elementor-button-text">Cornwall : 01326 567 471</span>
+                        <span class="elementor-button-text">Abuja : 01326 567 471</span>
         </span>
                     </a></div>      </div>
                 </div>
@@ -493,7 +466,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                             <div class="elementor-widget-wrap">
                         <div class="elementor-element elementor-element-f12ee11 elementor-widget elementor-widget-wp-widget-custom_html" data-id="f12ee11" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
                 <div class="elementor-widget-container">
-            <div class="textwidget custom-html-widget"><a href="register-now/index.html" class="toptext" role="button">
+            <div class="textwidget custom-html-widget"><a href="{{route('register-now')}}" class="toptext" role="button">
                         <span class="elementor-button-content-wrapper">
                         <span class="elementor-button-text">Register Now</span>
         </span>
@@ -543,34 +516,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                         </div>
                     </div>
         </div>
-                <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-b4df464" data-id="b4df464" data-element_type="column">
-            <div class="elementor-column-wrap elementor-element-populated">
-                            <div class="elementor-widget-wrap">
-                        <div class="elementor-element elementor-element-3643156 elementor-widget elementor-widget-wp-widget-custom_html" data-id="3643156" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
-                <div class="elementor-widget-container">
-            <div class="textwidget custom-html-widget"><a href="tel:01908326400" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
-                        <span class="elementor-button-content-wrapper">
-                        <span class="elementor-button-text">Milton Keynes : 01908 326 400</span>
-        </span>
-                    </a></div>      </div>
-                </div>
-                        </div>
-                    </div>
-        </div>
-                <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-f4421ee" data-id="f4421ee" data-element_type="column">
-            <div class="elementor-column-wrap elementor-element-populated">
-                            <div class="elementor-widget-wrap">
-                        <div class="elementor-element elementor-element-c82b0a1 elementor-widget elementor-widget-wp-widget-custom_html" data-id="c82b0a1" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
-                <div class="elementor-widget-container">
-            <div class="textwidget custom-html-widget"><a href="tel:02071948310" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
-                        <span class="elementor-button-content-wrapper">
-                        <span class="elementor-button-text">London : 0207 194 8310</span>
-        </span>
-                    </a></div>      </div>
-                </div>
-                        </div>
-                    </div>
-        </div>
+
                 <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-1d31b84" data-id="1d31b84" data-element_type="column">
             <div class="elementor-column-wrap elementor-element-populated">
                             <div class="elementor-widget-wrap">
@@ -578,7 +524,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                 <div class="elementor-widget-container">
             <div class="textwidget custom-html-widget"><a href="tel:01326567471" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
                         <span class="elementor-button-content-wrapper">
-                        <span class="elementor-button-text">Cornwall : 01326 567 471</span>
+                        <span class="elementor-button-text">Abuja : 01326 567 471</span>
         </span>
                     </a></div>      </div>
                 </div>
@@ -590,7 +536,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                             <div class="elementor-widget-wrap">
                         <div class="elementor-element elementor-element-d7f8f20 elementor-widget elementor-widget-wp-widget-custom_html" data-id="d7f8f20" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
                 <div class="elementor-widget-container">
-            <div class="textwidget custom-html-widget"><a href="register-now/index.html" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
+            <div class="textwidget custom-html-widget"><a href="{{route('register-now')}}" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
                         <span class="elementor-button-content-wrapper">
                         <span class="elementor-button-text">Register Now</span>
         </span>
@@ -640,34 +586,15 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                         </div>
                     </div>
         </div>
-                <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-e62e673" data-id="e62e673" data-element_type="column">
-            <div class="elementor-column-wrap elementor-element-populated">
-                            <div class="elementor-widget-wrap">
-                        <div class="elementor-element elementor-element-5e92d9f elementor-widget elementor-widget-wp-widget-custom_html" data-id="5e92d9f" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
-                <div class="elementor-widget-container">
-            <div class="textwidget custom-html-widget"><a href="tel:01908326400" class=" toptext" role="button" style="text-align: center">
-Milton Keynes : 01908 326 400                   </a></div>      </div>
-                </div>
-                        </div>
-                    </div>
-        </div>
-                <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-d2ed94d" data-id="d2ed94d" data-element_type="column">
-            <div class="elementor-column-wrap elementor-element-populated">
-                            <div class="elementor-widget-wrap">
-                        <div class="elementor-element elementor-element-059b371 elementor-widget elementor-widget-wp-widget-custom_html" data-id="059b371" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
-                <div class="elementor-widget-container">
-            <div class="textwidget custom-html-widget"><a href="tel:02071948310" class=" toptext" role="button" style="text-align: center">London : 0207 194 8310               </a></div>      </div>
-                </div>
-                        </div>
-                    </div>
-        </div>
+
+
                 <div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-03a47ba" data-id="03a47ba" data-element_type="column">
             <div class="elementor-column-wrap elementor-element-populated">
                             <div class="elementor-widget-wrap">
                         <div class="elementor-element elementor-element-3e6a667 elementor-widget elementor-widget-wp-widget-custom_html" data-id="3e6a667" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
                 <div class="elementor-widget-container">
             <div class="textwidget custom-html-widget"><a href="tel:01326567471" class=" toptext" role="button" style="text-align: center">
-Cornwall : 01326 567 471                    </a></div>      </div>
+Abuja : 01326 567 471                    </a></div>      </div>
                 </div>
                         </div>
                     </div>
@@ -677,7 +604,7 @@ Cornwall : 01326 567 471                    </a></div>      </div>
                             <div class="elementor-widget-wrap">
                         <div class="elementor-element elementor-element-7b351d6 elementor-widget elementor-widget-wp-widget-custom_html" data-id="7b351d6" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
                 <div class="elementor-widget-container">
-            <div class="textwidget custom-html-widget"><a href="register-now/index.html" class="toptext" role="button" style="text-align: center">
+            <div class="textwidget custom-html-widget"><a href="{{route('register-now')}}" class="toptext" role="button" style="text-align: center">
 Register Now                    </a></div>      </div>
                 </div>
                         </div>
@@ -728,7 +655,7 @@ Register Now                    </a></div>      </div>
     <div id="site-logo-inner" class="clr">
 
         <a href="index.html" class="custom-logo-link" rel="home" aria-current="page">
-<img width="600" height="222" src="wp-content/uploads/txmlogo2020600222.png" alt="Medivolt Healthcare"/>
+{{-- <img width="600" height="222" src="wp-content/uploads/txmlogo2020600222.png" alt="Medivolt Healthcare"/> --}}
 </a>
     </div><!-- #site-logo-inner -->
     
@@ -842,7 +769,7 @@ Register Now                    </a></div>      </div>
                             <div class="elementor-widget-wrap">
                         <div class="elementor-element elementor-element-e7e0469 elementor-widget elementor-widget-heading" data-id="e7e0469" data-element_type="widget" data-widget_type="heading.default">
                 <div class="elementor-widget-container">
-            <h1 class="elementor-heading-title elementor-size-xl">WELCOME TO Medivolt Healthcare</h1>        </div>
+            <h1 class="elementor-heading-title elementor-size-xl">WELCOME TO MediVolt Healthcare</h1>        </div>
                 </div>
                 <div class="elementor-element elementor-element-313230e elementor-widget elementor-widget-heading" data-id="313230e" data-element_type="widget" data-widget_type="heading.default">
                 <div class="elementor-widget-container">
@@ -851,7 +778,7 @@ Register Now                    </a></div>      </div>
                 <div class="elementor-element elementor-element-6fa5477 elementor-align-center elementor-widget elementor-widget-button" data-id="6fa5477" data-element_type="widget" data-widget_type="button.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-button-wrapper">
-            <a href="register-now/index.html" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button">
+            <a href="{{route('register-now')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-md" role="button">
                         <span class="elementor-button-content-wrapper">
                         <span class="elementor-button-text">Register Now</span>
         </span>
@@ -1873,21 +1800,14 @@ TR10 9TA</p>
 
         <nav class="clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
 
-            <ul id="menu-main-menu-1" class="fs-dropdown-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14502 current_page_item menu-item-14889"><a href="index.html" aria-current="page">Home</a></li>
+            <ul id="menu-main-menu-1" class="fs-dropdown-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14502 current_page_item menu-item-14889"><a href="{{route('welcome')}}" aria-current="page">Home</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14908"><a href="careers/index.html">Careers</a>
 <ul class="sub-menu">
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14872"><a href="register-now/index.html">Register Now!</a></li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14872"><a href="{{route('register-now')}}">Register Now!</a></li>
     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15052"><a href="latest-roles/index.html">Latest Roles</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14874"><a href="txm-doctors/index.html">TXM Doctors</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14618"><a href="txm-nursing/index.html">TXM Nursing</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14951"><a href="txm-mental-health/index.html">TXM Mental Health</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14616"><a href="txm-cornwall/index.html">TXM Cornwall</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14950"><a href="txm-northern-ireland/index.html">TXM Northern Ireland</a>
-    <ul class="sub-menu">
-        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24701"><a href="txm-rewards/index.html">TXM Rewards</a></li>
-    </ul>
-</li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14949"><a href="txm-scotland/index.html">TXM Scotland</a></li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14874"><a href="txm-doctors/index.html">MediVolt Doctors</a></li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14618"><a href="txm-nursing/index.html">MediVolt Nursing</a></li>
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14951"><a href="txm-mental-health/index.html">MediVolt Allied Health</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14909"><a href="solutions/index.html">Solutions</a>
@@ -1947,19 +1867,6 @@ TR10 9TA</p>
     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17441"><a href="contact-us/index.html">Contact Us</a></li>
 </ul>
 </li>
-
-            <li class="woo-menu-icon wcmenucart-toggle-drop_down toggle-cart-widget">
-                
-            <a href="basket/index.html" class="wcmenucart">
-                <span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">0</span></span>
-            </a>
-
-                                                <div class="current-shop-items-dropdown owp-mini-cart clr">
-                        <div class="current-shop-items-inner clr">
-                            <div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>                     </div>
-                    </div>
-                            </li>
-
             </ul>
         </nav>
 
