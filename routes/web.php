@@ -18,9 +18,9 @@ Route::get('/', function () {
     return view('welcome');
 })->name('welcome');
 
-Route::get('/test', function () {
-    return view('test');
-});
+Route::get('latest-roles', function () {
+    return view('careers.latest-roles');
+})->name('latest-roles');
 
 Auth::routes();
 
