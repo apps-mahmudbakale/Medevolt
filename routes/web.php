@@ -22,6 +22,28 @@ Route::get('latest-roles', function () {
     return view('careers.latest-roles');
 })->name('latest-roles');
 
+Route::get('medevolt-doctors', function () {
+    return view('careers.doctors');
+})->name('doctors');
+
+
+Route::get('medevolt-nursing', function () {
+    return view('careers.nursing');
+})->name('nursing');
+
+Route::get('medevolt-allied-health', function () {
+    return view('careers.allied-health');
+})->name('allied-health');
+
+
+Route::get('medevolt-experiene', function () {
+    return view('solutions.experience');
+})->name('experience');
+
+Route::get('medevolt-direct', function () {
+    return view('solutions.direct');
+})->name('direct');
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

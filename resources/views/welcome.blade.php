@@ -661,49 +661,11 @@ Register Now                    </a></div>      </div>
     
 </div><!-- #site-logo -->
 
-            <div id="site-navigation-wrap" class="clr">
+    <div id="site-navigation-wrap" class="clr">
             
-            
-            
-            <nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
-
-                <ul id="menu-main-menu" class="main-menu dropdown-menu sf-menu"><li id="menu-item-14889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14502 current_page_item menu-item-14889"><a href="index.html" class="menu-link"><span class="text-wrap">Home</span></a></li><li id="menu-item-14908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14908"><a href="careers/index.html" class="menu-link"><span class="text-wrap">Careers<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
-<ul class="sub-menu">
-    <li id="menu-item-14872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14872"><a href="{{route('register-now')}}" class="menu-link"><span class="text-wrap">Register Now!</span></a></li> <li id="menu-item-15052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15052"><a href="{{route('latest-roles')}}" class="menu-link"><span class="text-wrap">Latest Roles</span></a></li>  <li id="menu-item-14874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14874"><a href="txm-doctors/index.html" class="menu-link"><span class="text-wrap">MediVolt Doctors</span></a></li>    <li id="menu-item-14618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14618"><a href="txm-nursing/index.html" class="menu-link"><span class="text-wrap">MediVolt Nursing</span></a></li>    <li id="menu-item-14951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14951"><a href="txm-mental-health/index.html" class="menu-link"><span class="text-wrap">MediVolt Allied Health</span></a></li> 
-</ul>
-</li><li id="menu-item-14909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14909"><a href="solutions/index.html" class="menu-link"><span class="text-wrap">Solutions<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
-<ul class="sub-menu">
-    <li id="menu-item-17060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17060"><a href="txm-experience/index.html" class="menu-link"><span class="text-wrap">MediVolt Experience</span></a></li>  <li id="menu-item-20337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20337"><a href="xtra-miler-f3year/index.html" class="menu-link"><span class="text-wrap">MediVolt F3Year</span></a></li>   <li id="menu-item-18195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18195"><a href="txm-direct/index.html" class="menu-link"><span class="text-wrap">MediVolt Direct</span></a></li>  <li id="menu-item-17058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17058"><a href="nhs/index.html" class="menu-link"><span class="text-wrap">NHS</span></a></li>    <li id="menu-item-24580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-24580"><a href="virtual-hospital/index.html" class="menu-link"><span class="text-wrap">Virtual Hospital<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
-    <ul class="sub-menu">
-        <li id="menu-item-24581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24581"><a href="virtual-register/index.html" class="menu-link"><span class="text-wrap">Virtual Register</span></a></li>  </ul>
-</li>   <li id="menu-item-17059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17059"><a href="private-sector/index.html" class="menu-link"><span class="text-wrap">Private Sector</span></a></li>  <li id="menu-item-20569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-20569"><a href="2xm-healthcare/index.html" class="menu-link"><span class="text-wrap">Medivolt Healthcare<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
-    <ul class="sub-menu">
-    MediVolt    </ul>
-</li></ul>
-</li><li id="menu-item-14927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14927"><a href="compliance/index.html" class="menu-link"><span class="text-wrap">Compliance<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
-<ul class="sub-menu">
-    <li id="menu-item-16967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-16967"><a href="txm-paperless/index.html" class="menu-link"><span class="text-wrap">MediVolt Paperless<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
-    <ul class="sub-menu">
-        <li id="menu-item-17148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17148"><a href="upload-your-documents/index.html" class="menu-link"><span class="text-wrap">Upload Your Documents</span></a></li>    </ul>
-</li>   <li id="menu-item-17064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17064"><a href="governance/index.html" class="menu-link"><span class="text-wrap">Governance</span></a></li>  <li id="menu-item-17219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17219"><a href="revalidation/index.html" class="menu-link"><span class="text-wrap">Revalidation</span></a></li>  <li id="menu-item-14578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14578"><a href="useful-documents/index.html" class="menu-link"><span class="text-wrap">Useful Documents</span></a></li>  <li id="menu-item-18293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-18293"><a href="shop/index.html" class="menu-link"><span class="text-wrap">MediVolt Shop<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
-    <ul class="sub-menu">
-        <li id="menu-item-18297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18297"><a href="shop/standard-terms-conditions/index.html" class="menu-link"><span class="text-wrap">Standard Terms &#038; Conditions</span></a></li>        <li id="menu-item-18296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18296"><a href="returns-policy/index.html" class="menu-link"><span class="text-wrap">Returns Policy</span></a></li>      <li id="menu-item-18298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18298"><a href="consumer-terms-of-sales/index.html" class="menu-link"><span class="text-wrap">Consumer Terms of Sales</span></a></li>    </ul>
-</li>   <li id="menu-item-17279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17279"><a href="covid-19/index.html" class="menu-link"><span class="text-wrap">COVID-19</span></a></li></ul>
-</li><li id="menu-item-14920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14920"><a href="support/index.html" class="menu-link"><span class="text-wrap">Support<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
-<ul class="sub-menu">
-    <li id="menu-item-24233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24233"><a href="news/index.html" class="menu-link"><span class="text-wrap">News</span></a></li>   <li id="menu-item-24416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24416"><a href="blog/index.html" class="menu-link"><span class="text-wrap">Blog</span></a></li>  <li id="menu-item-14767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14767"><a href="about-us/index.html" class="menu-link"><span class="text-wrap">TXM Family</span></a></li>    <li id="menu-item-14910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14910"><a href="refer-a-friend/index.html" class="menu-link"><span class="text-wrap">TXM Refer</span></a></li>   <li id="menu-item-14663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14663"><a href="xtra-miler-scheme/index.html" class="menu-link"><span class="text-wrap">Xtra Miler Scheme</span></a></li>    <li id="menu-item-17002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-17002"><a href="report-a-concern/index.html" class="menu-link"><span class="text-wrap">Report a Concern<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
-    <ul class="sub-menu">
-        <li id="menu-item-17008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17008"><a href="txm-complaints/index.html" class="menu-link"><span class="text-wrap">MediVolt Complaints</span></a></li>      <li id="menu-item-17009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17009"><a href="safeguarding-concern/index.html" class="menu-link"><span class="text-wrap">Safeguarding Concern</span></a></li>      <li id="menu-item-17010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17010"><a href="safety-concern/index.html" class="menu-link"><span class="text-wrap">Safety Concern</span></a></li>      <li id="menu-item-17011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17011"><a href="on-site-issues/index.html" class="menu-link"><span class="text-wrap">On Site Issues</span></a></li>  </ul>
-</li>   <li id="menu-item-17441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17441"><a href="contact-us/index.html" class="menu-link"><span class="text-wrap">Contact Us</span></a></li></ul>
-</li>
-        
-
-            </ul>
-            </nav><!-- #site-navigation -->
-
-            
-            
-                    </div><!-- #site-navigation-wrap -->
+            @include('partials.navs')
+    
+        </div><!-- #site-navigation-wrap -->
             
         
     
@@ -769,7 +731,7 @@ Register Now                    </a></div>      </div>
                             <div class="elementor-widget-wrap">
                         <div class="elementor-element elementor-element-e7e0469 elementor-widget elementor-widget-heading" data-id="e7e0469" data-element_type="widget" data-widget_type="heading.default">
                 <div class="elementor-widget-container">
-            <h1 class="elementor-heading-title elementor-size-xl">WELCOME TO MediVolt Healthcare</h1>        </div>
+            <h1 class="elementor-heading-title elementor-size-xl">WELCOME TO MedeVolt Healthcare</h1>        </div>
                 </div>
                 <div class="elementor-element elementor-element-313230e elementor-widget elementor-widget-heading" data-id="313230e" data-element_type="widget" data-widget_type="heading.default">
                 <div class="elementor-widget-container">
@@ -829,9 +791,9 @@ Register Now                    </a></div>      </div>
                 <div class="elementor-element elementor-element-940f67c elementor-align-center elementor-widget elementor-widget-button" data-id="940f67c" data-element_type="widget" data-widget_type="button.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-button-wrapper">
-            <a href="txm-doctors/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+            <a href="{{route('doctors')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                         <span class="elementor-button-content-wrapper">
-                        <span class="elementor-button-text">meet the team</span>
+                        <span class="elementor-button-text">Find Out More</span>
         </span>
                     </a>
         </div>
@@ -864,9 +826,9 @@ Register Now                    </a></div>      </div>
                 <div class="elementor-element elementor-element-c15a7ea elementor-align-center elementor-widget elementor-widget-button" data-id="c15a7ea" data-element_type="widget" data-widget_type="button.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-button-wrapper">
-            <a href="txm-nursing/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+            <a href="{{route('nursing')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                         <span class="elementor-button-content-wrapper">
-                        <span class="elementor-button-text">meet the team</span>
+                        <span class="elementor-button-text">Find Out More</span>
         </span>
                     </a>
         </div>
@@ -888,7 +850,7 @@ Register Now                    </a></div>      </div>
                 </div>
                 <div class="elementor-element elementor-element-81e304a elementor-widget elementor-widget-heading" data-id="81e304a" data-element_type="widget" data-widget_type="heading.default">
                 <div class="elementor-widget-container">
-            <h3 class="elementor-heading-title elementor-size-default">MENTAL HEALTH JOBS</h3>      </div>
+            <h3 class="elementor-heading-title elementor-size-default">ALLIED HEALTH JOBS</h3>      </div>
                 </div>
                 <div class="elementor-element elementor-element-bf50975 elementor-widget elementor-widget-text-editor" data-id="bf50975" data-element_type="widget" data-widget_type="text-editor.default">
                 <div class="elementor-widget-container">
@@ -899,9 +861,9 @@ Register Now                    </a></div>      </div>
                 <div class="elementor-element elementor-element-8e22496 elementor-align-center elementor-widget elementor-widget-button" data-id="8e22496" data-element_type="widget" data-widget_type="button.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-button-wrapper">
-            <a href="txm-mental-health/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+            <a href="{{ route('allied-health')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                         <span class="elementor-button-content-wrapper">
-                        <span class="elementor-button-text">meet the team</span>
+                        <span class="elementor-button-text">Find Out More</span>
         </span>
                     </a>
         </div>
@@ -923,18 +885,18 @@ Register Now                    </a></div>      </div>
                 </div>
                 <div class="elementor-element elementor-element-f0301c8 elementor-widget elementor-widget-heading" data-id="f0301c8" data-element_type="widget" data-widget_type="heading.default">
                 <div class="elementor-widget-container">
-            <h3 class="elementor-heading-title elementor-size-default">TXM CAREERS</h3>     </div>
+            <h3 class="elementor-heading-title elementor-size-default">MedeVolt CAREERS</h3>     </div>
                 </div>
                 <div class="elementor-element elementor-element-c68ad66 elementor-widget elementor-widget-text-editor" data-id="c68ad66" data-element_type="widget" data-widget_type="text-editor.default">
                 <div class="elementor-widget-container">
                                 <div class="elementor-text-editor elementor-clearfix">
-                <p>Going The Xtra Mile starts in the office. Are you looking for the next step in your career? Find about below how you can join the TXM Family.</p>                    </div>
+                <p>Going The Xtra Mile starts in the office. Are you looking for the next step in your career? Find about below how you can join the MedeVolt Family.</p>                    </div>
                         </div>
                 </div>
                 <div class="elementor-element elementor-element-fe4b6e7 elementor-align-center elementor-widget elementor-widget-button" data-id="fe4b6e7" data-element_type="widget" data-widget_type="button.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-button-wrapper">
-            <a href="careers/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+            <a href="{{route('latest-roles')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                         <span class="elementor-button-content-wrapper">
                         <span class="elementor-button-text">find out more</span>
         </span>
@@ -982,7 +944,7 @@ Register Now                    </a></div>      </div>
                 <div class="elementor-element elementor-element-7ff6d22 elementor-align-center elementor-widget elementor-widget-button" data-id="7ff6d22" data-element_type="widget" data-widget_type="button.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-button-wrapper">
-            <a href="register-now/index.html" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+            <a href="{{route('register-now')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                         <span class="elementor-button-content-wrapper">
                         <span class="elementor-button-text">Register Now</span>
         </span>
@@ -1470,185 +1432,7 @@ Register Now                    </a></div>      </div>
                                 </div>
                     </div>
         </section>
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-df64f24 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="df64f24" data-element_type="section">
-                        <div class="elementor-container elementor-column-gap-default">
-                            <div class="elementor-row">
-                    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b0c22fc" data-id="b0c22fc" data-element_type="column">
-            <div class="elementor-column-wrap elementor-element-populated">
-                            <div class="elementor-widget-wrap">
-                        <div class="elementor-element elementor-element-c0a1ed5 premium-blog-align-left elementor-widget elementor-widget-premium-addon-blog" data-id="c0a1ed5" data-element_type="widget" data-settings="{&quot;force_height&quot;:&quot;true&quot;,&quot;premium_blog_columns_number&quot;:&quot;33.33%&quot;,&quot;premium_blog_grid&quot;:&quot;yes&quot;,&quot;premium_blog_layout&quot;:&quot;even&quot;,&quot;premium_blog_columns_number_tablet&quot;:&quot;50%&quot;,&quot;premium_blog_columns_number_mobile&quot;:&quot;100%&quot;}" data-widget_type="premium-addon-blog.default">
-                <div class="elementor-widget-container">
-                <div class="premium-blog">
-                <div class="premium-blog-wrap  premium-blog-even" data-page="14502">
-                    <div class="premium-blog-post-outer-container" data-total="198">
-            <div class="premium-blog-post-container premium-blog-skin-modern">
-                                    <div class="premium-blog-thumb-effect-wrapper">
-                        <div class="premium-blog-thumbnail-container premium-blog-zoomin-effect">
-                                        <a href="emergency-medicine-doctors-we-have-a-brilliant-opportunity-for-you-middle-grad/index.html" target="_blank">
-            <picture class="attachment-full size-full" loading="lazy" title="Home 5">
-<source type="image/webp" srcset="wp-content/uploads/Emergency-Medicine-Doctors-we-have-a-brilliant-opportunity-for-you.jpg.webp"/>
-<img width="843" height="529" src="wp-content/uploads/Emergency-Medicine-Doctors-we-have-a-brilliant-opportunity-for-you.jpg" alt="Emergency Medicine Doctors we have a brilliant opportunity for you" loading="lazy"/>
-</picture>
-            </a>
-                                    </div>
-                                                    <div class="premium-blog-effect-container premium-blog-framed-effect">
-                                <a class="premium-blog-post-link" href="emergency-medicine-doctors-we-have-a-brilliant-opportunity-for-you-middle-grad/index.html" target="_blank"></a>
-                                                            </div>
-                                            </div>
-                                                <div class="premium-blog-content-wrapper ">
-                    <div class="premium-blog-content-wrapper-inner">
-                        <div class="premium-blog-inner-container">
-                            <div class="premium-blog-entry-container">
-                                                                        <h2 class="premium-blog-entry-title">
-            <a href="emergency-medicine-doctors-we-have-a-brilliant-opportunity-for-you-middle-grad/index.html" target="_blank">
-                Emergency Medicine Doctors, we have a brilliant opportunity for you: Middle Grad&#8230;         </a>
-        </h2>
-                <div class="premium-blog-entry-meta">
-                            <div class="premium-blog-post-author premium-blog-meta-data">
-                    <i class="fa fa-user fa-fw"></i>
-                    <a href="author/bottlegreenmedia/index.html" title="Posts by Ellie Smith" rel="author" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">Ellie Smith</a>             </div>
-            
-                            <span class="premium-blog-meta-separator">•</span>
-                <div class="premium-blog-post-time premium-blog-meta-data">
-                    <i class="fa fa-clock-o"></i>
-                    <span>September 24, 2021</span>
-                </div>
-            
-                            <span class="premium-blog-meta-separator">•</span>
-                <div class="premium-blog-post-categories premium-blog-meta-data">
-                    <i class="fa fa-align-left fa-fw"></i>
-                    <a href="category/news/index.html" rel="category tag">News</a>              </div>
-            
-                            <span class="premium-blog-meta-separator">•</span>
-                <div class="premium-blog-post-comments premium-blog-meta-data">
-                    <i class="fa fa-comments-o fa-fw"></i>
-                    <a href="emergency-medicine-doctors-we-have-a-brilliant-opportunity-for-you-middle-grad/index.html#respond">No Comments</a>             </div>
-                    </div>
-        
-                            </div>
-                        </div>
 
-                        <p class="premium-blog-post-content">Emergency Medicine Doctors, we have a brilliant opportunity for you: Middle Grade A&amp;E Doctor role based in Wales. Full rota pattern/regular availability, …</p>                                            </div>
-                </div>
-            </div>
-        </div>
-
-                <div class="premium-blog-post-outer-container" data-total="198">
-            <div class="premium-blog-post-container premium-blog-skin-modern">
-                                    <div class="premium-blog-thumb-effect-wrapper">
-                        <div class="premium-blog-thumbnail-container premium-blog-zoomin-effect">
-                                        <a href="is-maternity-cover-locum-work-something-youd-be-interested-in-learning-more-abo/index.html" target="_blank">
-            <picture class="attachment-full size-full" loading="lazy" title="Home 6">
-<source type="image/webp" srcset="wp-content/uploads/Is-Maternity-Cover-Locum-work-something-youd-be-interested-in.jpg.webp"/>
-<img width="960" height="525" src="wp-content/uploads/Is-Maternity-Cover-Locum-work-something-youd-be-interested-in.jpg" alt="Is Maternity Cover Locum work something youd be interested in" loading="lazy"/>
-</picture>
-            </a>
-                                    </div>
-                                                    <div class="premium-blog-effect-container premium-blog-framed-effect">
-                                <a class="premium-blog-post-link" href="is-maternity-cover-locum-work-something-youd-be-interested-in-learning-more-abo/index.html" target="_blank"></a>
-                                                            </div>
-                                            </div>
-                                                <div class="premium-blog-content-wrapper ">
-                    <div class="premium-blog-content-wrapper-inner">
-                        <div class="premium-blog-inner-container">
-                            <div class="premium-blog-entry-container">
-                                                                        <h2 class="premium-blog-entry-title premium-blog-entry-title">
-            <a href="is-maternity-cover-locum-work-something-youd-be-interested-in-learning-more-abo/index.html" target="_blank">
-                Is Maternity Cover Locum work something you&#8217;d be interested in learning more abo&#8230;           </a>
-        </h2>
-                <div class="premium-blog-entry-meta">
-                            <div class="premium-blog-post-author premium-blog-meta-data">
-                    <i class="fa fa-user fa-fw"></i>
-                    <a href="author/bottlegreenmedia/index.html" title="Posts by Ellie Smith" rel="author" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">Ellie Smith</a>             </div>
-            
-                            <span class="premium-blog-meta-separator">•</span>
-                <div class="premium-blog-post-time premium-blog-meta-data">
-                    <i class="fa fa-clock-o"></i>
-                    <span>September 22, 2021</span>
-                </div>
-            
-                            <span class="premium-blog-meta-separator">•</span>
-                <div class="premium-blog-post-categories premium-blog-meta-data">
-                    <i class="fa fa-align-left fa-fw"></i>
-                    <a href="category/news/index.html" rel="category tag">News</a>              </div>
-            
-                            <span class="premium-blog-meta-separator">•</span>
-                <div class="premium-blog-post-comments premium-blog-meta-data">
-                    <i class="fa fa-comments-o fa-fw"></i>
-                    <a href="is-maternity-cover-locum-work-something-youd-be-interested-in-learning-more-abo/index.html#respond">No Comments</a>                </div>
-                    </div>
-        
-                            </div>
-                        </div>
-
-                        <p class="premium-blog-post-content">Is Maternity Cover Locum work something you&#8217;d be interested in learning more about? We have a new Consultant #Haematology position based in …</p>                                            </div>
-                </div>
-            </div>
-        </div>
-
-                <div class="premium-blog-post-outer-container" data-total="198">
-            <div class="premium-blog-post-container premium-blog-skin-modern">
-                                    <div class="premium-blog-thumb-effect-wrapper">
-                        <div class="premium-blog-thumbnail-container premium-blog-zoomin-effect">
-                                        <a href="ophthalmology-txm-healthcare-are-continuing-our-ophthalmology-recruitment-push-2/index.html" target="_blank">
-            <picture class="attachment-full size-full" loading="lazy" title="Home 7">
-<source type="image/webp" srcset="wp-content/uploads/1632223999_OPHTHALMOLOGY-TXM-Healthcare-are-continuing-our-Ophthalmology-recruitment-push.jpg.webp"/>
-<img width="843" height="502" src="wp-content/uploads/1632223999_OPHTHALMOLOGY-TXM-Healthcare-are-continuing-our-Ophthalmology-recruitment-push.jpg" alt="1632223999 OPHTHALMOLOGY Medivolt Healthcare are continuing our Ophthalmology recruitment push" loading="lazy"/>
-</picture>
-            </a>
-                                    </div>
-                                                    <div class="premium-blog-effect-container premium-blog-framed-effect">
-                                <a class="premium-blog-post-link" href="ophthalmology-txm-healthcare-are-continuing-our-ophthalmology-recruitment-push-2/index.html" target="_blank"></a>
-                                                            </div>
-                                            </div>
-                                                <div class="premium-blog-content-wrapper ">
-                    <div class="premium-blog-content-wrapper-inner">
-                        <div class="premium-blog-inner-container">
-                            <div class="premium-blog-entry-container">
-                                                                        <h2 class="premium-blog-entry-title premium-blog-entry-title premium-blog-entry-title">
-            <a href="ophthalmology-txm-healthcare-are-continuing-our-ophthalmology-recruitment-push-2/index.html" target="_blank">
-                OPHTHALMOLOGY: Medivolt Healthcare are continuing our #Ophthalmology recruitment push&#8230;         </a>
-        </h2>
-                <div class="premium-blog-entry-meta">
-                            <div class="premium-blog-post-author premium-blog-meta-data">
-                    <i class="fa fa-user fa-fw"></i>
-                    <a href="author/bottlegreenmedia/index.html" title="Posts by Ellie Smith" rel="author" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">Ellie Smith</a>             </div>
-            
-                            <span class="premium-blog-meta-separator">•</span>
-                <div class="premium-blog-post-time premium-blog-meta-data">
-                    <i class="fa fa-clock-o"></i>
-                    <span>September 21, 2021</span>
-                </div>
-            
-                            <span class="premium-blog-meta-separator">•</span>
-                <div class="premium-blog-post-categories premium-blog-meta-data">
-                    <i class="fa fa-align-left fa-fw"></i>
-                    <a href="category/news/index.html" rel="category tag">News</a>              </div>
-            
-                            <span class="premium-blog-meta-separator">•</span>
-                <div class="premium-blog-post-comments premium-blog-meta-data">
-                    <i class="fa fa-comments-o fa-fw"></i>
-                    <a href="ophthalmology-txm-healthcare-are-continuing-our-ophthalmology-recruitment-push-2/index.html#respond">No Comments</a>               </div>
-                    </div>
-        
-                            </div>
-                        </div>
-
-                        <p class="premium-blog-post-content">OPHTHALMOLOGY: Medivolt Healthcare are continuing our #Ophthalmology recruitment push with Consultant Ophthalmologist opportunities based across the United Kingdom. Must have experience in …</p>                                          </div>
-                </div>
-            </div>
-        </div>
-
-                </div>
-    </div>
-                </div>
-                </div>
-                        </div>
-                    </div>
-        </div>
-                                </div>
-                    </div>
-        </section>
                 <section class="elementor-section elementor-top-section elementor-element elementor-element-5d9a605 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5d9a605" data-element_type="section">
                         <div class="elementor-container elementor-column-gap-default">
                             <div class="elementor-row">
@@ -1702,55 +1486,6 @@ Register Now                    </a></div>      </div>
 
     
     <div id="footer-inner" class="clr">
-
-        
-
-<div id="footer-widgets" class="oceanwp-row clr tablet-2-col">
-
-    
-    <div class="footer-widgets-inner container">
-
-                    <div class="footer-box span_1_of_3 col col-1">
-                <div id="text-6" class="footer-widget widget_text clr"><h4 class="widget-title">Milton Keynes</h4>          <div class="textwidget"><p class="footer-address">Walnut House<br />
-Blackhill Drive<br />
-Wolverton Mill<br />
-Milton Keynes<br />
-MK12 5TS</p>
-<p class="footer-address"><a href="tel:01908326400">01908 326 400</a></p>
-<p class="footer-address"><a href="mailto:Jobs@TXMHealthcare.co.uk">Click To Contact</a></p>
-</div>
-        </div>          </div><!-- .footer-one-box -->
-
-                            <div class="footer-box span_1_of_3 col col-2">
-                    <div id="text-7" class="footer-widget widget_text clr"><h4 class="widget-title">London</h4>         <div class="textwidget"><p class="footer-address">New Broad Street House<br />
-Room 522<br />
-35 New Broad Street<br />
-London<br />
-EC2M 1NH</p>
-<p class="footer-address"><a href="tel:02071948310">0207 194 8310</a></p>
-<p class="footer-address"><a href="mailto:Nursing@TXMHealthcare.co.uk">Click To Contact</a></p>
-</div>
-        </div>              </div><!-- .footer-one-box -->
-                
-                            <div class="footer-box span_1_of_3 col col-3 ">
-                    <div id="text-8" class="footer-widget widget_text clr"><h4 class="widget-title">Cornwall</h4>           <div class="textwidget"><p class="footer-address">Tremough Innovation Centre<br />
-Tremough Campus<br />
-Penryn<br />
-Cornwall<br />
-TR10 9TA</p>
-<p class="footer-address"><a href="tel:01326567471">01326 567 471</a></p>
-<p class="footer-address"><a href="mailto:Southwest@TXMHealthcare.co.uk">Click To Contact</a></p>
-</div>
-        </div>              </div><!-- .footer-one-box -->
-                
-            
-            
-    </div><!-- .container -->
-
-    
-</div><!-- #footer-widgets -->
-
-
 
 <div id="footer-bottom" class="clr no-footer-nav">
 
