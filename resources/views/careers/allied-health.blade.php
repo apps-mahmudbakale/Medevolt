@@ -1,239 +1,29 @@
 <!DOCTYPE html>
 <html class="html" lang="en-GB" prefix="og: https://ogp.me/ns#">
-
-<!-- Mirrored from www.txmhealthcare.co.uk/txm-mental-health/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Nov 2021 21:05:10 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
 	<meta charset="UTF-8">
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Search Engine Optimisation by Rank Math - https://s.rankmath.com/home -->
-<title>TXM Mental Health - TXM Healthcare</title>
+<title>MedeVoltMental Health - MedeVoltHealthcare</title>
 <meta name="description" content="Some of the things our Clients and Candidates have said about us"/>
 <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 <link rel="canonical" href="index.html" />
 <meta property="og:locale" content="en_GB" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="TXM Mental Health - TXM Healthcare" />
+<meta property="og:title" content="MedeVoltMental Health - MedeVoltHealthcare" />
 <meta property="og:description" content="Some of the things our Clients and Candidates have said about us" />
 <meta property="og:url" content="index.html" />
-<meta property="og:site_name" content="TXM Healthcare" />
+<meta property="og:site_name" content="MedeVoltHealthcare" />
 <meta property="article:publisher" content="https://www.facebook.com/TXMHealthcare/" />
 <meta property="og:updated_time" content="2021-09-06T06:46:31+01:00" />
 <meta property="og:image" content="wp-content/uploads/row-3-col-1-1.jpg" />
 <meta property="og:image:secure_url" content="wp-content/uploads/row-3-col-1-1.jpg" />
 <meta property="og:image:width" content="824" />
 <meta property="og:image:height" content="990" />
-<meta property="og:image:alt" content="TXM Mental Health" />
-<meta property="og:image:type" content="image/jpeg" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="TXM Mental Health - TXM Healthcare" />
-<meta name="twitter:description" content="Some of the things our Clients and Candidates have said about us" />
-<meta name="twitter:site" content="@TXMHealthcare" />
-<meta name="twitter:creator" content="@TXMHealthcare" />
-<meta name="twitter:image" content="wp-content/uploads/row-3-col-1-1.jpg" />
-<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.txmhealthcare.co.uk/#organization","name":"TXM Healthcare","url":"https://www.txmhealthcare.co.uk","logo":{"@type":"ImageObject","@id":"https://www.txmhealthcare.co.uk/#logo","url":"https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222.png","caption":"TXM Healthcare","inLanguage":"en-GB","width":"600","height":"222"}},{"@type":"WebSite","@id":"https://www.txmhealthcare.co.uk/#website","url":"https://www.txmhealthcare.co.uk","name":"TXM Healthcare","publisher":{"@id":"https://www.txmhealthcare.co.uk/#organization"},"inLanguage":"en-GB"},{"@type":"ImageObject","@id":"https://www.txmhealthcare.co.uk/wp-content/uploads/row-3-col-1-1.jpg","url":"https://www.txmhealthcare.co.uk/wp-content/uploads/row-3-col-1-1.jpg","width":"824","height":"990","inLanguage":"en-GB"},{"@type":"Person","@id":"https://www.txmhealthcare.co.uk/author/admin/","name":"admin","url":"https://www.txmhealthcare.co.uk/author/admin/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/4447bc93421150120e88a1d64f056474?s=96&amp;r=g","url":"https://secure.gravatar.com/avatar/4447bc93421150120e88a1d64f056474?s=96&amp;r=g","caption":"admin","inLanguage":"en-GB"},"worksFor":{"@id":"https://www.txmhealthcare.co.uk/#organization"}},{"@type":"WebPage","@id":"https://www.txmhealthcare.co.uk/txm-mental-health/#webpage","url":"https://www.txmhealthcare.co.uk/txm-mental-health/","name":"TXM Mental Health - TXM Healthcare","datePublished":"2020-05-23T22:32:45+01:00","dateModified":"2021-09-06T06:46:31+01:00","author":{"@id":"https://www.txmhealthcare.co.uk/author/admin/"},"isPartOf":{"@id":"https://www.txmhealthcare.co.uk/#website"},"primaryImageOfPage":{"@id":"https://www.txmhealthcare.co.uk/wp-content/uploads/row-3-col-1-1.jpg"},"inLanguage":"en-GB"},{"@type":"Article","headline":"TXM Mental Health - TXM Healthcare","datePublished":"2020-05-23T22:32:45+01:00","dateModified":"2021-09-06T06:46:31+01:00","author":{"@id":"https://www.txmhealthcare.co.uk/author/admin/"},"publisher":{"@id":"https://www.txmhealthcare.co.uk/#organization"},"description":"Some of the things our Clients and Candidates have said about us","name":"TXM Mental Health - TXM Healthcare","@id":"https://www.txmhealthcare.co.uk/txm-mental-health/#richSnippet","isPartOf":{"@id":"https://www.txmhealthcare.co.uk/txm-mental-health/#webpage"},"image":{"@id":"https://www.txmhealthcare.co.uk/wp-content/uploads/row-3-col-1-1.jpg"},"inLanguage":"en-GB","mainEntityOfPage":{"@id":"https://www.txmhealthcare.co.uk/txm-mental-health/#webpage"}}]}</script>
-<!-- /Rank Math WordPress SEO plugin -->
-
-<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-<link rel='dns-prefetch' href='http://s.w.org/' />
-<link rel="alternate" type="application/rss+xml" title="TXM Healthcare &raquo; Feed" href="../feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="TXM Healthcare &raquo; Comments Feed" href="../comments/feed/index.html" />
-		<!-- This site uses the Google Analytics by MonsterInsights plugin v8.1.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
-							<script src="http://www.googletagmanager.com/gtag/js?id=UA-85607066-1"  type="text/javascript" data-cfasync="false" async></script>
-			<script type="text/javascript" data-cfasync="false">
-				var mi_version = '8.1.0';
-				var mi_track_user = true;
-				var mi_no_track_reason = '';
-				
-								var disableStrs = [
-															'ga-disable-UA-85607066-1',
-									];
-
-				/* Function to detect opted out users */
-				function __gtagTrackerIsOptedOut() {
-					for ( var index = 0; index < disableStrs.length; index++ ) {
-						if ( document.cookie.indexOf( disableStrs[ index ] + '=true' ) > -1 ) {
-							return true;
-						}
-					}
-
-					return false;
-				}
-
-				/* Disable tracking if the opt-out cookie exists. */
-				if ( __gtagTrackerIsOptedOut() ) {
-					for ( var index = 0; index < disableStrs.length; index++ ) {
-						window[ disableStrs[ index ] ] = true;
-					}
-				}
-
-				/* Opt-out function */
-				function __gtagTrackerOptout() {
-					for ( var index = 0; index < disableStrs.length; index++ ) {
-						document.cookie = disableStrs[ index ] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-						window[ disableStrs[ index ] ] = true;
-					}
-				}
-
-				if ( 'undefined' === typeof gaOptout ) {
-					function gaOptout() {
-						__gtagTrackerOptout();
-					}
-				}
-								window.dataLayer = window.dataLayer || [];
-
-				window.MonsterInsightsDualTracker = {
-					helpers: {},
-					trackers: {},
-				};
-				if ( mi_track_user ) {
-					function __gtagDataLayer() {
-						dataLayer.push( arguments );
-					}
-
-					function __gtagTracker( type, name, parameters ) {
-						if ( type === 'event' ) {
-							
-															parameters.send_to = monsterinsights_frontend.ua;
-								__gtagDataLayer.apply( null, arguments );
-													} else {
-							__gtagDataLayer.apply( null, arguments );
-						}
-					}
-					__gtagTracker( 'js', new Date() );
-					__gtagTracker( 'set', {
-						'developer_id.dZGIzZG' : true,
-											} );
-															__gtagTracker( 'config', 'UA-85607066-1', {"forceSSL":"true"} );
-										window.gtag = __gtagTracker;										(
-						function () {
-							/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
-							/* ga and __gaTracker compatibility shim. */
-							var noopfn = function () {
-								return null;
-							};
-							var newtracker = function () {
-								return new Tracker();
-							};
-							var Tracker = function () {
-								return null;
-							};
-							var p = Tracker.prototype;
-							p.get = noopfn;
-							p.set = noopfn;
-							p.send = function (){
-								var args = Array.prototype.slice.call(arguments);
-								args.unshift( 'send' );
-								__gaTracker.apply(null, args);
-							};
-							var __gaTracker = function () {
-								var len = arguments.length;
-								if ( len === 0 ) {
-									return;
-								}
-								var f = arguments[len - 1];
-								if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
-									if ( 'send' === arguments[0] ) {
-										var hitConverted, hitObject = false, action;
-										if ( 'event' === arguments[1] ) {
-											if ( 'undefined' !== typeof arguments[3] ) {
-												hitObject = {
-													'eventAction': arguments[3],
-													'eventCategory': arguments[2],
-													'eventLabel': arguments[4],
-													'value': arguments[5] ? arguments[5] : 1,
-												}
-											}
-										}
-										if ( 'pageview' === arguments[1] ) {
-											if ( 'undefined' !== typeof arguments[2] ) {
-												hitObject = {
-													'eventAction': 'page_view',
-													'page_path' : arguments[2],
-												}
-											}
-										}
-										if ( typeof arguments[2] === 'object' ) {
-											hitObject = arguments[2];
-										}
-										if ( typeof arguments[5] === 'object' ) {
-											Object.assign( hitObject, arguments[5] );
-										}
-										if ( 'undefined' !== typeof arguments[1].hitType ) {
-											hitObject = arguments[1];
-											if ( 'pageview' === hitObject.hitType ) {
-												hitObject.eventAction = 'page_view';
-											}
-										}
-										if ( hitObject ) {
-											action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
-											hitConverted = mapArgs( hitObject );
-											__gtagTracker( 'event', action, hitConverted );
-										}
-									}
-									return;
-								}
-
-								function mapArgs( args ) {
-									var arg, hit = {};
-									var gaMap = {
-										'eventCategory': 'event_category',
-										'eventAction': 'event_action',
-										'eventLabel': 'event_label',
-										'eventValue': 'event_value',
-										'nonInteraction': 'non_interaction',
-										'timingCategory': 'event_category',
-										'timingVar': 'name',
-										'timingValue': 'value',
-										'timingLabel': 'event_label',
-										'page' : 'page_path',
-										'location' : 'page_location',
-										'title' : 'page_title',
-									};
-									for ( arg in args ) {
-																				if ( ! ( ! args.hasOwnProperty(arg) || ! gaMap.hasOwnProperty(arg) ) ) {
-											hit[gaMap[arg]] = args[arg];
-										} else {
-											hit[arg] = args[arg];
-										}
-									}
-									return hit;
-								}
-
-								try {
-									f.hitCallback();
-								} catch ( ex ) {
-								}
-							};
-							__gaTracker.create = newtracker;
-							__gaTracker.getByName = newtracker;
-							__gaTracker.getAll = function () {
-								return [];
-							};
-							__gaTracker.remove = noopfn;
-							__gaTracker.loaded = true;
-							window['__gaTracker'] = __gaTracker;
-						}
-					)();
-									} else {
-										console.log( "" );
-					( function () {
-							function __gtagTracker() {
-								return null;
-							}
-							window['__gtagTracker'] = __gtagTracker;
-							window['gtag'] = __gtagTracker;
-					} )();
-									}
-			</script>
-				<!-- / Google Analytics by MonsterInsights -->
-				<script>
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.txmhealthcare.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=fab647613944cce2c98c440ab05a878f"}};
-			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style>
+<meta property="og:image:alt" content="MedeVoltMental Health" />
+<style>
 img.wp-smiley,
 img.emoji {
 	display: inline !important;
@@ -289,32 +79,12 @@ img.emoji {
 <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3' media='all' />
-<script type="text/template" id="tmpl-variation-template">
-	<div class="woocommerce-variation-description">{{{ data.variation.variation_description }}}</div>
-	<div class="woocommerce-variation-price">{{{ data.variation.price_html }}}</div>
-	<div class="woocommerce-variation-availability">{{{ data.variation.availability_html }}}</div>
-</script>
-<script type="text/template" id="tmpl-unavailable-variation-template">
-	<p>Sorry, this product is unavailable. Please choose a different combination.</p>
-</script>
-<script id='monsterinsights-frontend-script-js-extra'>
-var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.txmhealthcare.co.uk","hash_tracking":"false","ua":"UA-85607066-1","v4_id":""};
-</script>
 <script src='wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.minafbb.js?ver=8.1.0' id='monsterinsights-frontend-script-js'></script>
 <script src='../wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script src='../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<script id='cookie-law-info-js-extra'>
-var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
-var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#61a229","button_1_button_hover":"#4e8221","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#dedfe0","button_3_button_hover":"#b2b2b3","button_3_link_colour":"#333333","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#dedfe0","button_4_button_hover":"#b2b2b3","button_4_link_colour":"#333333","button_4_as_button":"1","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
-var log_object = {"ajax_url":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php"};
-</script>
-<script src='wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public1717.js?ver=2.0.6' id='cookie-law-info-js'></script>
 <script src='wp-content/plugins/download-manager/assets/bootstrap/js/popper.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wpdm-poper-js'></script>
 <script src='wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wpdm-front-bootstrap-js'></script>
-<script id='wpdm-frontjs-js-extra'>
-var wpdm_url = {"home":"https:\/\/www.txmhealthcare.co.uk\/","site":"https:\/\/www.txmhealthcare.co.uk\/","ajax":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php"};
-var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
-</script>
+<
 <script src='wp-content/plugins/download-manager/assets/js/fronta318.js?ver=3.2.18' id='wpdm-frontjs-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/smoothscroll.min8571.js?ver=3.0.7' id='ow-smoothscroll-js'></script>
 <link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/14946.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
@@ -465,34 +235,6 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-6156ad3" data-id="6156ad3" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-daa50cd elementor-widget elementor-widget-wp-widget-custom_html" data-id="daa50cd" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
-				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="tel:01908326400" class=" toptext" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Milton Keynes : 01908 326 400</span>
-		</span>
-					</a></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-3c0190b" data-id="3c0190b" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-b514687 elementor-widget elementor-widget-wp-widget-custom_html" data-id="b514687" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
-				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="tel:02071948310" class=" toptext" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">London : 0207 194 8310</span>
-		</span>
-					</a></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
 				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-0d5f1b3" data-id="0d5f1b3" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
@@ -500,7 +242,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-widget-container">
 			<div class="textwidget custom-html-widget"><a href="tel:01326567471" class=" toptext" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Cornwall : 01326 567 471</span>
+						<span class="elementor-button-text">Abuja : 01326 567 471</span>
 		</span>
 					</a></div>		</div>
 				</div>
@@ -512,7 +254,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f12ee11 elementor-widget elementor-widget-wp-widget-custom_html" data-id="f12ee11" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="../register-now/index.html" class="toptext" role="button">
+			<div class="textwidget custom-html-widget"><a href="{{route('register-now')}}" class="toptext" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Register Now</span>
 		</span>
@@ -562,34 +304,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-b4df464" data-id="b4df464" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-3643156 elementor-widget elementor-widget-wp-widget-custom_html" data-id="3643156" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
-				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="tel:01908326400" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Milton Keynes : 01908 326 400</span>
-		</span>
-					</a></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-f4421ee" data-id="f4421ee" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-c82b0a1 elementor-widget elementor-widget-wp-widget-custom_html" data-id="c82b0a1" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
-				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="tel:02071948310" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">London : 0207 194 8310</span>
-		</span>
-					</a></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
+
 				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-1d31b84" data-id="1d31b84" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
@@ -597,7 +312,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-widget-container">
 			<div class="textwidget custom-html-widget"><a href="tel:01326567471" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Cornwall : 01326 567 471</span>
+						<span class="elementor-button-text">Abuja : 01326 567 471</span>
 		</span>
 					</a></div>		</div>
 				</div>
@@ -609,7 +324,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-d7f8f20 elementor-widget elementor-widget-wp-widget-custom_html" data-id="d7f8f20" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="../register-now/index.html" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
+			<div class="textwidget custom-html-widget"><a href="{{route('register-now')}}" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Register Now</span>
 		</span>
@@ -659,34 +374,15 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-e62e673" data-id="e62e673" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-5e92d9f elementor-widget elementor-widget-wp-widget-custom_html" data-id="5e92d9f" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
-				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="tel:01908326400" class=" toptext" role="button" style="text-align: center">
-Milton Keynes : 01908 326 400					</a></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-d2ed94d" data-id="d2ed94d" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-059b371 elementor-widget elementor-widget-wp-widget-custom_html" data-id="059b371" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
-				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="tel:02071948310" class=" toptext" role="button" style="text-align: center">London : 0207 194 8310				</a></div>		</div>
-				</div>
-						</div>
-					</div>
-		</div>
+
+
 				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-03a47ba" data-id="03a47ba" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-3e6a667 elementor-widget elementor-widget-wp-widget-custom_html" data-id="3e6a667" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
 			<div class="textwidget custom-html-widget"><a href="tel:01326567471" class=" toptext" role="button" style="text-align: center">
-Cornwall : 01326 567 471					</a></div>		</div>
+Abuja : 01326 567 471					</a></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -696,7 +392,7 @@ Cornwall : 01326 567 471					</a></div>		</div>
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-7b351d6 elementor-widget elementor-widget-wp-widget-custom_html" data-id="7b351d6" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="../register-now/index.html" class="toptext" role="button" style="text-align: center">
+			<div class="textwidget custom-html-widget"><a href="{{route('register-now')}}" class="toptext" role="button" style="text-align: center">
 Register Now					</a></div>		</div>
 				</div>
 						</div>
@@ -746,11 +442,11 @@ Register Now					</a></div>		</div>
 	
 	<div id="site-logo-inner" class="clr">
 
-		<a href="../index.html" class="custom-logo-link" rel="home"><picture class="custom-logo">
+		{{-- <a href="{{route('welcome')}}" class="custom-logo-link" rel="home"><picture class="custom-logo">
 <source type="image/webp" srcset="https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222.png.webp 600w, https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222-300x111.png.webp 300w" sizes="(max-width: 600px) 100vw, 600px"/>
-<img width="600" height="222" src="wp-content/uploads/txmlogo2020600222.png" alt="TXM Healthcare" srcset="https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222.png 600w, https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222-300x111.png 300w" sizes="(max-width: 600px) 100vw, 600px"/>
+<img width="600" height="222" src="wp-content/uploads/txmlogo2020600222.png" alt="MedeVoltHealthcare" srcset="https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222.png 600w, https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222-300x111.png 300w" sizes="(max-width: 600px) 100vw, 600px"/>
 </picture>
-</a>
+</a> --}}
 	</div><!-- #site-logo-inner -->
 
 	
@@ -759,59 +455,9 @@ Register Now					</a></div>		</div>
 
 			<div id="site-navigation-wrap" class="clr">
 			
+				@include('partials.navs')
 			
-			
-			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
-
-				<ul id="menu-main-menu" class="main-menu dropdown-menu sf-menu"><li id="menu-item-14889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-14889"><a href="../index.html" class="menu-link"><span class="text-wrap">Home</span></a></li><li id="menu-item-14908" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children dropdown menu-item-14908"><a href="../careers/index.html" class="menu-link"><span class="text-wrap">Careers<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
-<ul class="sub-menu">
-	<li id="menu-item-14872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14872"><a href="../register-now/index.html" class="menu-link"><span class="text-wrap">Register Now!</span></a></li>	<li id="menu-item-15052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15052"><a href="../latest-roles/index.html" class="menu-link"><span class="text-wrap">Latest Roles</span></a></li>	<li id="menu-item-14874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14874"><a href="../txm-doctors/index.html" class="menu-link"><span class="text-wrap">TXM Doctors</span></a></li>	<li id="menu-item-14618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14618"><a href="../txm-nursing/index.html" class="menu-link"><span class="text-wrap">TXM Nursing</span></a></li>	<li id="menu-item-14951" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14946 current_page_item menu-item-14951"><a href="index.html" class="menu-link"><span class="text-wrap">TXM Mental Health</span></a></li>	<li id="menu-item-14616" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14616"><a href="../txm-cornwall/index.html" class="menu-link"><span class="text-wrap">TXM Cornwall</span></a></li>	<li id="menu-item-14950" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14950"><a href="../txm-northern-ireland/index.html" class="menu-link"><span class="text-wrap">TXM Northern Ireland<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-24701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24701"><a href="../txm-rewards/index.html" class="menu-link"><span class="text-wrap">TXM Rewards</span></a></li>	</ul>
-</li>	<li id="menu-item-14949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14949"><a href="../txm-scotland/index.html" class="menu-link"><span class="text-wrap">TXM Scotland</span></a></li></ul>
-</li><li id="menu-item-14909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14909"><a href="../solutions/index.html" class="menu-link"><span class="text-wrap">Solutions<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
-<ul class="sub-menu">
-	<li id="menu-item-17060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17060"><a href="../txm-experience/index.html" class="menu-link"><span class="text-wrap">TXM Experience</span></a></li>	<li id="menu-item-20337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20337"><a href="../xtra-miler-f3year/index.html" class="menu-link"><span class="text-wrap">TXM F3Year</span></a></li>	<li id="menu-item-18195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18195"><a href="../txm-direct/index.html" class="menu-link"><span class="text-wrap">TXM Direct</span></a></li>	<li id="menu-item-17058" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17058"><a href="../nhs/index.html" class="menu-link"><span class="text-wrap">NHS</span></a></li>	<li id="menu-item-24580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-24580"><a href="../virtual-hospital/index.html" class="menu-link"><span class="text-wrap">Virtual Hospital<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-24581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24581"><a href="../virtual-register/index.html" class="menu-link"><span class="text-wrap">Virtual Register</span></a></li>	</ul>
-</li>	<li id="menu-item-17059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17059"><a href="../private-sector/index.html" class="menu-link"><span class="text-wrap">Private Sector</span></a></li>	<li id="menu-item-20569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-20569"><a href="../2xm-healthcare/index.html" class="menu-link"><span class="text-wrap">2XM Healthcare<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-20570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20570"><a href="../register-now-australia/index.html" class="menu-link"><span class="text-wrap">Register Now – Australia</span></a></li>	</ul>
-</li></ul>
-</li><li id="menu-item-14927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14927"><a href="../compliance/index.html" class="menu-link"><span class="text-wrap">Compliance<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
-<ul class="sub-menu">
-	<li id="menu-item-16967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-16967"><a href="../txm-paperless/index.html" class="menu-link"><span class="text-wrap">TXM Paperless<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-17148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17148"><a href="../upload-your-documents/index.html" class="menu-link"><span class="text-wrap">Upload Your Documents</span></a></li>	</ul>
-</li>	<li id="menu-item-17064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17064"><a href="../governance/index.html" class="menu-link"><span class="text-wrap">Governance</span></a></li>	<li id="menu-item-17219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17219"><a href="../revalidation/index.html" class="menu-link"><span class="text-wrap">Revalidation</span></a></li>	<li id="menu-item-14578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14578"><a href="../useful-documents/index.html" class="menu-link"><span class="text-wrap">Useful Documents</span></a></li>	<li id="menu-item-18293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-18293"><a href="../shop/index.html" class="menu-link"><span class="text-wrap">TXM Shop<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-18297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18297"><a href="../shop/standard-terms-conditions/index.html" class="menu-link"><span class="text-wrap">Standard Terms &#038; Conditions</span></a></li>		<li id="menu-item-18296" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18296"><a href="../returns-policy/index.html" class="menu-link"><span class="text-wrap">Returns Policy</span></a></li>		<li id="menu-item-18298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18298"><a href="../consumer-terms-of-sales/index.html" class="menu-link"><span class="text-wrap">Consumer Terms of Sales</span></a></li>	</ul>
-</li>	<li id="menu-item-17279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17279"><a href="../covid-19/index.html" class="menu-link"><span class="text-wrap">COVID-19</span></a></li></ul>
-</li><li id="menu-item-14920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14920"><a href="../support/index.html" class="menu-link"><span class="text-wrap">Support<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
-<ul class="sub-menu">
-	<li id="menu-item-24233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24233"><a href="../news/index.html" class="menu-link"><span class="text-wrap">News</span></a></li>	<li id="menu-item-24416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24416"><a href="../blog/index.html" class="menu-link"><span class="text-wrap">Blog</span></a></li>	<li id="menu-item-14767" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14767"><a href="../about-us/index.html" class="menu-link"><span class="text-wrap">TXM Family</span></a></li>	<li id="menu-item-14910" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14910"><a href="../refer-a-friend/index.html" class="menu-link"><span class="text-wrap">TXM Refer</span></a></li>	<li id="menu-item-14663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14663"><a href="../xtra-miler-scheme/index.html" class="menu-link"><span class="text-wrap">Xtra Miler Scheme</span></a></li>	<li id="menu-item-17002" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-17002"><a href="../report-a-concern/index.html" class="menu-link"><span class="text-wrap">Report a Concern<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
-	<ul class="sub-menu">
-		<li id="menu-item-17008" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17008"><a href="../txm-complaints/index.html" class="menu-link"><span class="text-wrap">TXM Complaints</span></a></li>		<li id="menu-item-17009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17009"><a href="../safeguarding-concern/index.html" class="menu-link"><span class="text-wrap">Safeguarding Concern</span></a></li>		<li id="menu-item-17010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17010"><a href="../safety-concern/index.html" class="menu-link"><span class="text-wrap">Safety Concern</span></a></li>		<li id="menu-item-17011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17011"><a href="../on-site-issues/index.html" class="menu-link"><span class="text-wrap">On Site Issues</span></a></li>	</ul>
-</li>	<li id="menu-item-17441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17441"><a href="../contact-us/index.html" class="menu-link"><span class="text-wrap">Contact Us</span></a></li></ul>
-</li>
-			<li class="woo-menu-icon wcmenucart-toggle-drop_down toggle-cart-widget">
-				
-			<a href="../basket/index.html" class="wcmenucart">
-				<span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">0</span></span>
-			</a>
-
-												<div class="current-shop-items-dropdown owp-mini-cart clr">
-						<div class="current-shop-items-inner clr">
-							<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>						</div>
-					</div>
-							</li>
-
-			</ul>
-			</nav><!-- #site-navigation -->
-
-			
-			
-					</div><!-- #site-navigation-wrap -->
+			</div><!-- #site-navigation-wrap -->
 			
 		
 	
@@ -819,12 +465,6 @@ Register Now					</a></div>		</div>
 	
 	<div class="oceanwp-mobile-menu-icon clr mobile-right">
 
-		
-		
-		
-			<a href="../basket/index.html" class="wcmenucart">
-				<span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">0</span></span>
-			</a>
 
 			
 		<a href="javascript:void(0)" class="mobile-menu"  aria-label="Mobile Menu">
@@ -885,7 +525,7 @@ Register Now					</a></div>		</div>
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-mdadixz no-margin elementor-widget elementor-widget-heading" data-id="mdadixz" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">SPECIALIST MEDICAL RECRUITMENT FOR MENTAL HEALTH WORKERRS</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">SPECIALIST MEDICAL RECRUITMENT FOR ALLIED HEALTH WORKERRS</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-nxvhbhz no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="nxvhbhz" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -904,13 +544,13 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;">At TXM Healthcare, our experts go The Xtra Mile to find Mental Health Workers all over the globe their next opportunity.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
+				<h3><span style="color: #ffffff;">At MedeVoltHealthcare, our experts go The Xtra Mile to find Mental Health Workers all over the globe their next opportunity.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-c2a2844 elementor-align-center elementor-widget elementor-widget-button" data-id="c2a2844" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="../register-now/index.html" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('register-now')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Register Now</span>
 		</span>
@@ -938,7 +578,7 @@ Register Now					</a></div>		</div>
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-467b128 no-margin elementor-widget elementor-widget-heading" data-id="467b128" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">why register with txm healthcare?</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">why register with MedeVolthealthcare?</h2>		</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-mjgd1f5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="mjgd1f5" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -1111,10 +751,8 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-hrw6g7u elementor-widget elementor-widget-image" data-id="hrw6g7u" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-												<picture class="attachment-medium_large size-medium_large" loading="lazy" title="TXM Mental Health 1">
-<source type="image/webp" srcset="https://www.txmhealthcare.co.uk/wp-content/uploads/Mental-Health-768x432.png.webp 768w, https://www.txmhealthcare.co.uk/wp-content/uploads/Mental-Health-600x338.png.webp 600w, https://www.txmhealthcare.co.uk/wp-content/uploads/Mental-Health-300x169.png.webp 300w, https://www.txmhealthcare.co.uk/wp-content/uploads/Mental-Health-1024x576.png.webp 1024w, https://www.txmhealthcare.co.uk/wp-content/uploads/Mental-Health-1536x864.png.webp 1536w, https://www.txmhealthcare.co.uk/wp-content/uploads/Mental-Health.png.webp 1920w" sizes="(max-width: 768px) 100vw, 768px"/>
-<img width="768" height="432" src="wp-content/uploads/Mental-Health-768x432.png" alt="Mental Health" loading="lazy" srcset="https://www.txmhealthcare.co.uk/wp-content/uploads/Mental-Health-768x432.png 768w, https://www.txmhealthcare.co.uk/wp-content/uploads/Mental-Health-600x338.png 600w, https://www.txmhealthcare.co.uk/wp-content/uploads/Mental-Health-300x169.png 300w, https://www.txmhealthcare.co.uk/wp-content/uploads/Mental-Health-1024x576.png 1024w, https://www.txmhealthcare.co.uk/wp-content/uploads/Mental-Health-1536x864.png 1536w, https://www.txmhealthcare.co.uk/wp-content/uploads/Mental-Health.png 1920w" sizes="(max-width: 768px) 100vw, 768px"/>
-</picture>
+												
+<img width="768" height="432" src="wp-content/uploads/Mental-Health-768x432.png" alt="Mental Health">
 														</div>
 						</div>
 				</div>
@@ -1152,7 +790,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-d05dfc8 elementor-align-center elementor-widget elementor-widget-button" data-id="d05dfc8" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="../register-now/index.html" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('register-now')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Register Now</span>
 		</span>
@@ -1174,10 +812,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="TXM Mental Health 2">
-<source type="image/webp" srcset="wp-content/uploads/row-3-col-1-1.jpg.webp"/>
 <img width="824" height="990" src="wp-content/uploads/row-3-col-1-1.jpg" alt="row 3 col 1 1" loading="lazy"/>
-</picture>
 						</div>
 					
 										<div class="elementor-testimonial-details">
@@ -1206,12 +841,12 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-3cb0ee1 elementor-widget elementor-widget-testimonial" data-id="3cb0ee1" data-element_type="widget" data-widget_type="testimonial.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"Having worked with TXM over the years we have developed a trusting relationship. The service was second to none working with efficient staff who follow up with ones welfare in the placement provided. They are a business you can rely on"</div>
+							<div class="elementor-testimonial-content">"Having worked with MedeVoltover the years we have developed a trusting relationship. The service was second to none working with efficient staff who follow up with ones welfare in the placement provided. They are a business you can rely on"</div>
 			
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="TXM Mental Health 3">
+							<picture class="attachment-full size-full" loading="lazy" title="MedeVoltMental Health 3">
 <source type="image/webp" srcset="wp-content/uploads/row-2-col-4-1.jpg.webp"/>
 <img width="824" height="990" src="wp-content/uploads/row-2-col-4-1.jpg" alt="row 2 col 4 1" loading="lazy"/>
 </picture>
@@ -1407,7 +1042,7 @@ Milton Keynes</p></div></div>		</div>
 				<div class="elementor-element elementor-element-rh6v23h elementor-align-center elementor-widget elementor-widget-button" data-id="rh6v23h" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="../register-now/index.html" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('register-now')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Register Now</span>
 		</span>
@@ -1430,7 +1065,7 @@ Milton Keynes</p></div></div>		</div>
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-2e5aa5b no-margin elementor-widget elementor-widget-heading" data-id="2e5aa5b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">THANK YOU FOR CHOOSING TXM HEALTHCARE</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">THANK YOU FOR CHOOSING MedeVolt HEALTHCARE</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-1e12266 no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1e12266" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1443,7 +1078,7 @@ Milton Keynes</p></div></div>		</div>
 				<div class="elementor-element elementor-element-73ea4a8 elementor-widget elementor-widget-text-editor" data-id="73ea4a8" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>We’re delighted that you have chosen to join the TXM Healthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Xtra Mile in supporting the next step in your career.</p>					</div>
+				<p>We’re delighted that you have chosen to join the MedeVoltHealthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Xtra Mile in supporting the next step in your career.</p>					</div>
 						</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-485d424 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="485d424" data-element_type="section">
@@ -1460,7 +1095,7 @@ Milton Keynes</p></div></div>		</div>
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="TXM Mental Health 4">
+							<picture class="attachment-full size-full" loading="lazy" title="MedeVoltMental Health 4">
 <source type="image/webp" srcset="wp-content/uploads/profile_photo-190-2.jpg.webp"/>
 <img width="190" height="190" src="wp-content/uploads/profile_photo-190-2.jpg" alt="profile photo 190 2" loading="lazy"/>
 </picture>
@@ -1484,12 +1119,12 @@ Milton Keynes</p></div></div>		</div>
 						<div class="elementor-element elementor-element-a786eef elementor-widget elementor-widget-testimonial" data-id="a786eef" data-element_type="widget" data-widget_type="testimonial.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"As demand grows for Mental Health Services, the TXM team are working closely with our partners to find market leading solutions that, whilst maintaining a high quality of care, will drive down costs and increase access for patients - technology is really driving innovation and service delivery is changing; its important that we keep evolving too"</div>
+							<div class="elementor-testimonial-content">"As demand grows for Mental Health Services, the MedeVoltteam are working closely with our partners to find market leading solutions that, whilst maintaining a high quality of care, will drive down costs and increase access for patients - technology is really driving innovation and service delivery is changing; its important that we keep evolving too"</div>
 			
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="TXM Mental Health 5">
+							<picture class="attachment-full size-full" loading="lazy" title="MedeVoltMental Health 5">
 <source type="image/webp" srcset="wp-content/uploads/profile_photo-190.jpg.webp"/>
 <img width="190" height="190" src="wp-content/uploads/profile_photo-190.jpg" alt="profile photo 190" loading="lazy"/>
 </picture>
@@ -1555,9 +1190,9 @@ Milton Keynes</p></div></div>		</div>
 				<div class="elementor-element elementor-element-8064482 elementor-align-center elementor-widget elementor-widget-button" data-id="8064482" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="../txm-doctors/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('doctors')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">meet the team</span>
+						<span class="elementor-button-text">find out more</span>
 		</span>
 					</a>
 		</div>
@@ -1590,9 +1225,9 @@ Milton Keynes</p></div></div>		</div>
 				<div class="elementor-element elementor-element-342bc7e elementor-align-center elementor-widget elementor-widget-button" data-id="342bc7e" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="../txm-nursing/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('nursing')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">meet the team</span>
+						<span class="elementor-button-text">find out more</span>
 		</span>
 					</a>
 		</div>
@@ -1614,20 +1249,20 @@ Milton Keynes</p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-62bc8d9 elementor-widget elementor-widget-heading" data-id="62bc8d9" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">TXM SCOTLAND</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">MedeVolt Experience</h3>		</div>
 				</div>
 				<div class="elementor-element elementor-element-8191183 elementor-widget elementor-widget-text-editor" data-id="8191183" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>With our Care Inspectorate Regulation and NHS Scotland Framework status with TXM Scotland you&#8217;re in expert hands.</p>					</div>
+				<p>With our Care Inspectorate Regulation and NHS Scotland Framework status with MedeVoltScotland you&#8217;re in expert hands.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-5c4b917 elementor-align-center elementor-widget elementor-widget-button" data-id="5c4b917" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="../txm-scotland/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('experience')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">meet the team</span>
+						<span class="elementor-button-text">find out more</span>
 		</span>
 					</a>
 		</div>
@@ -1649,7 +1284,7 @@ Milton Keynes</p></div></div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-fbffe33 elementor-widget elementor-widget-heading" data-id="fbffe33" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">TXM CAREERS</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">MedeVolt CAREERS</h3>		</div>
 				</div>
 				<div class="elementor-element elementor-element-e07dc6d elementor-widget elementor-widget-text-editor" data-id="e07dc6d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -1660,7 +1295,7 @@ Milton Keynes</p></div></div>		</div>
 				<div class="elementor-element elementor-element-0925542 elementor-align-center elementor-widget elementor-widget-button" data-id="0925542" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="../careers/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('latest-roles')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">find out more</span>
 		</span>
@@ -1783,56 +1418,7 @@ Milton Keynes</p></div></div>		</div>
 	
 	<div id="footer-inner" class="clr">
 
-		
-
-<div id="footer-widgets" class="oceanwp-row clr tablet-2-col">
-
-	
-	<div class="footer-widgets-inner container">
-
-					<div class="footer-box span_1_of_3 col col-1">
-				<div id="text-6" class="footer-widget widget_text clr"><h4 class="widget-title">Milton Keynes</h4>			<div class="textwidget"><p class="footer-address">Walnut House<br />
-Blackhill Drive<br />
-Wolverton Mill<br />
-Milton Keynes<br />
-MK12 5TS</p>
-<p class="footer-address"><a href="tel:01908326400">01908 326 400</a></p>
-<p class="footer-address"><a href="mailto:Jobs@TXMHealthcare.co.uk">Click To Contact</a></p>
-</div>
-		</div>			</div><!-- .footer-one-box -->
-
-							<div class="footer-box span_1_of_3 col col-2">
-					<div id="text-7" class="footer-widget widget_text clr"><h4 class="widget-title">London</h4>			<div class="textwidget"><p class="footer-address">New Broad Street House<br />
-Room 522<br />
-35 New Broad Street<br />
-London<br />
-EC2M 1NH</p>
-<p class="footer-address"><a href="tel:02071948310">0207 194 8310</a></p>
-<p class="footer-address"><a href="mailto:Nursing@TXMHealthcare.co.uk">Click To Contact</a></p>
-</div>
-		</div>				</div><!-- .footer-one-box -->
-				
-							<div class="footer-box span_1_of_3 col col-3 ">
-					<div id="text-8" class="footer-widget widget_text clr"><h4 class="widget-title">Cornwall</h4>			<div class="textwidget"><p class="footer-address">Tremough Innovation Centre<br />
-Tremough Campus<br />
-Penryn<br />
-Cornwall<br />
-TR10 9TA</p>
-<p class="footer-address"><a href="tel:01326567471">01326 567 471</a></p>
-<p class="footer-address"><a href="mailto:Southwest@TXMHealthcare.co.uk">Click To Contact</a></p>
-</div>
-		</div>				</div><!-- .footer-one-box -->
-				
-			
-			
-	</div><!-- .container -->
-
-	
-</div><!-- #footer-widgets -->
-
-
-
-<div id="footer-bottom" class="clr no-footer-nav">
+   <div id="footer-bottom" class="clr no-footer-nav">
 
 	
 	<div id="footer-bottom-inner" class="container clr">
@@ -1840,7 +1426,7 @@ TR10 9TA</p>
 		
 		
 			<div id="copyright" class="clr" role="contentinfo">
-				TXM Healthcare 2012-2021 | All Rights Reserved | <a href="../privacy-policy/index.html">Privacy Policy</a>			</div><!-- #copyright -->
+				MedeVoltHealthcare 2012-2021 | All Rights Reserved | <a href="../privacy-policy/index.html">Privacy Policy</a>			</div><!-- #copyright -->
 
 			
 	</div><!-- #footer-bottom-inner -->
@@ -1883,25 +1469,25 @@ TR10 9TA</p>
 			<ul id="menu-main-menu-1" class="fs-dropdown-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-14889"><a href="../index.html">Home</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-14908"><a href="../careers/index.html">Careers</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14872"><a href="../register-now/index.html">Register Now!</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14872"><a href="{{route('register-now')}}">Register Now!</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15052"><a href="../latest-roles/index.html">Latest Roles</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14874"><a href="../txm-doctors/index.html">TXM Doctors</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14618"><a href="../txm-nursing/index.html">TXM Nursing</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14946 current_page_item menu-item-14951"><a href="index.html" aria-current="page">TXM Mental Health</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14616"><a href="../txm-cornwall/index.html">TXM Cornwall</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14950"><a href="../txm-northern-ireland/index.html">TXM Northern Ireland</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14874"><a href="../txm-doctors/index.html">MedeVoltDoctors</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14618"><a href="../txm-nursing/index.html">MedeVoltNursing</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14946 current_page_item menu-item-14951"><a href="index.html" aria-current="page">MedeVoltMental Health</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14616"><a href="../txm-cornwall/index.html">MedeVoltCornwall</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14950"><a href="../txm-northern-ireland/index.html">MedeVoltNorthern Ireland</a>
 	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24701"><a href="../txm-rewards/index.html">TXM Rewards</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24701"><a href="../txm-rewards/index.html">MedeVoltRewards</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14949"><a href="../txm-scotland/index.html">TXM Scotland</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14949"><a href="../txm-scotland/index.html">MedeVoltScotland</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14909"><a href="../solutions/index.html">Solutions</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17060"><a href="../txm-experience/index.html">TXM Experience</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20337"><a href="../xtra-miler-f3year/index.html">TXM F3Year</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18195"><a href="../txm-direct/index.html">TXM Direct</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17060"><a href="../txm-experience/index.html">MedeVoltExperience</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20337"><a href="../xtra-miler-f3year/index.html">MedeVoltF3Year</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18195"><a href="../txm-direct/index.html">MedeVoltDirect</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17058"><a href="../nhs/index.html">NHS</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24580"><a href="../virtual-hospital/index.html">Virtual Hospital</a>
 	<ul class="sub-menu">
@@ -1918,7 +1504,7 @@ TR10 9TA</p>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14927"><a href="../compliance/index.html">Compliance</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-16967"><a href="../txm-paperless/index.html">TXM Paperless</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-16967"><a href="../txm-paperless/index.html">MedeVoltPaperless</a>
 	<ul class="sub-menu">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17148"><a href="../upload-your-documents/index.html">Upload Your Documents</a></li>
 	</ul>
@@ -1926,7 +1512,7 @@ TR10 9TA</p>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17064"><a href="../governance/index.html">Governance</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17219"><a href="../revalidation/index.html">Revalidation</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14578"><a href="../useful-documents/index.html">Useful Documents</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18293"><a href="../shop/index.html">TXM Shop</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18293"><a href="../shop/index.html">MedeVoltShop</a>
 	<ul class="sub-menu">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18297"><a href="../shop/standard-terms-conditions/index.html">Standard Terms &#038; Conditions</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18296"><a href="../returns-policy/index.html">Returns Policy</a></li>
@@ -1940,12 +1526,12 @@ TR10 9TA</p>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24233"><a href="../news/index.html">News</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24416"><a href="../blog/index.html">Blog</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14767"><a href="../about-us/index.html">TXM Family</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14910"><a href="../refer-a-friend/index.html">TXM Refer</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14767"><a href="../about-us/index.html">MedeVoltFamily</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14910"><a href="../refer-a-friend/index.html">MedeVoltRefer</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14663"><a href="../xtra-miler-scheme/index.html">Xtra Miler Scheme</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17002"><a href="../report-a-concern/index.html">Report a Concern</a>
 	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17008"><a href="../txm-complaints/index.html">TXM Complaints</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17008"><a href="../txm-complaints/index.html">MedeVoltComplaints</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17009"><a href="../safeguarding-concern/index.html">Safeguarding Concern</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17010"><a href="../safety-concern/index.html">Safety Concern</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17011"><a href="../on-site-issues/index.html">On Site Issues</a></li>
