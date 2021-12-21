@@ -44,6 +44,10 @@ Route::get('medevolt-direct', function () {
     return view('solutions.direct');
 })->name('direct');
 
+Route::get('medevolt-f3Year', function () {
+    return view('solutions.f3year');
+})->name('f3year');
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
