@@ -44,9 +44,25 @@ Route::get('medevolt-direct', function () {
     return view('solutions.direct');
 })->name('direct');
 
-Route::get('medevolt-f3Year', function () {
-    return view('solutions.f3year');
-})->name('f3year');
+Route::get('medevolt-public-sector', function () {
+    return view('solutions.nhs');
+})->name('public');
+
+Route::get('medevolt-private-sector', function () {
+    return view('solutions.private');
+})->name('private');
+
+Route::get('medevolt-virtual-register', function () {
+    return view('solutions.virtual-register');
+})->name('virtual-register');
+
+Route::get('medevolt-virtual-hospital', function () {
+    return view('solutions.virtual-hospital');
+})->name('virtual-hospital');
+
+// Route::get('medevolt-f3Year', function () {
+//     return view('solutions.f3year');
+// })->name('f3year');
 
 Auth::routes();
 

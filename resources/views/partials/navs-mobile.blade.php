@@ -20,15 +20,15 @@
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14909"><a href="">Solutions</a>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17060"><a href="{{route('experience')}}">MedeVoltExperience</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20337"><a href="{{route('f3year')}}">MedeVoltF3Year</a></li>
+	{{-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20337"><a href="{{route('f3year')}}">MedeVoltF3Year</a></li> --}}
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18195"><a href="{{route('direct')}}">MedeVoltDirect</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17058"><a href="../nhs/index.html">Public Sector</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24580"><a href="../virtual-hospital/index.html">Virtual Hospital</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17058"><a href="{{route('public')}}">Public Sector</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24580"><a href="{{route('virtual-hospital')}}">Virtual Hospital</a>
 	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24581"><a href="../virtual-register/index.html">Virtual Register</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24581"><a href="{{route('virtual-register')}}">Virtual Register</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17059"><a href="../private-sector/index.html">Private Sector</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17059"><a href="{{route('private')}}">Private Sector</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14927"><a href="../compliance/index.html">Compliance</a>
@@ -38,8 +38,8 @@
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17148"><a href="../upload-your-documents/index.html">Upload Your Documents</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17064"><a href="../governance/index.html">Governance</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17219"><a href="../revalidation/index.html">Revalidation</a></li>
+	{{-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17064"><a href="../governance/index.html">Governance</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17219"><a href="../revalidation/index.html">Revalidation</a></li> --}}
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14578"><a href="../useful-documents/index.html">Useful Documents</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18293"><a href="../shop/index.html">MedeVoltShop</a>
 	<ul class="sub-menu">
@@ -55,7 +55,7 @@
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24233"><a href="../news/index.html">News</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24416"><a href="../blog/index.html">Blog</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14767"><a href="../about-us/index.html">MedeVoltFamily</a></li>
+	{{-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14767"><a href="../about-us/index.html">MedeVoltFamily</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14910"><a href="../refer-a-friend/index.html">MedeVoltRefer</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14663"><a href="../xtra-miler-scheme/index.html">Xtra Miler Scheme</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17002"><a href="../report-a-concern/index.html">Report a Concern</a>
@@ -65,12 +65,12 @@
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17010"><a href="../safety-concern/index.html">Safety Concern</a></li>
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17011"><a href="../on-site-issues/index.html">On Site Issues</a></li>
 	</ul>
-</li>
+</li> --}}
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17441"><a href="../contact-us/index.html">Contact Us</a></li>
 </ul>
 </li>
 
-			<li class="woo-menu-icon wcmenucart-toggle-drop_down toggle-cart-widget">
+		{{-- 	<li class="woo-menu-icon wcmenucart-toggle-drop_down toggle-cart-widget">
 				
 			<a href="../basket/index.html" class="wcmenucart">
 				<span class="wcmenucart-count"><i class=" icon-handbag" aria-hidden="true" role="img"></i><span class="wcmenucart-details count">0</span></span>
@@ -80,7 +80,7 @@
 						<div class="current-shop-items-inner clr">
 							<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>						</div>
 					</div>
-							</li>
+							</li> --}}
 
 			</ul>
 		</nav>
