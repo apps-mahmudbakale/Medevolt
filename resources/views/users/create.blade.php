@@ -34,7 +34,7 @@
 	      		        <input type="password" name="passwword" class="form-control" placeholder="Password">
 	      		      </div>
 	      		      <div class="col-md-6">
-	      		        <select name="roles" class="form-select">
+	      		        <select name="roles[]" class="form-select">
 	      		          <option selected>Role...</option>
 	      		          @foreach($roles as $key => $role)
 	      		          <option value="{{$role->id}}">{{ $role->name }}</option>

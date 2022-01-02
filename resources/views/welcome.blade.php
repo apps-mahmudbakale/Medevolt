@@ -26,10 +26,10 @@
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Medivolt Healthcare - Medical Recruitment Specialists" />
 <meta name="twitter:description" content="Specialist Medical Recruitment agency offering a range of locum and permanent job opportunities to Doctors, Nurses &amp; Healthcare Assistants. Register Now!" />
-<meta name="twitter:site" content="@TXMHealthcare" />
-<meta name="twitter:creator" content="@TXMHealthcare" />
+<meta name="twitter:site" content="@MedeVoltHealthcare" />
+<meta name="twitter:creator" content="@MedeVoltHealthcare" />
 <meta name="twitter:image" content="wp-content/uploads/row-2-col-5-1.jpg" />
-<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.txmhealthcare.co.uk/#organization","name":"Medivolt Healthcare","url":"https://www.txmhealthcare.co.uk","logo":{"@type":"ImageObject","@id":"https://www.txmhealthcare.co.uk/#logo","url":"https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222.png","caption":"Medivolt Healthcare","inLanguage":"en-GB","width":"600","height":"222"}},{"@type":"WebSite","@id":"https://www.txmhealthcare.co.uk/#website","url":"https://www.txmhealthcare.co.uk","name":"Medivolt Healthcare","publisher":{"@id":"https://www.txmhealthcare.co.uk/#organization"},"inLanguage":"en-GB","potentialAction":{"@type":"SearchAction","target":"https://www.txmhealthcare.co.uk/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.txmhealthcare.co.uk/wp-content/uploads/row-2-col-5-1.jpg","url":"https://www.txmhealthcare.co.uk/wp-content/uploads/row-2-col-5-1.jpg","width":"824","height":"990","inLanguage":"en-GB"},{"@type":"Person","@id":"https://www.txmhealthcare.co.uk/author/adityad/","name":"AdityaD","url":"https://www.txmhealthcare.co.uk/author/adityad/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/6d3d4fae622e2f759e88a7c7e3267ab2?s=96&amp;r=g","url":"https://secure.gravatar.com/avatar/6d3d4fae622e2f759e88a7c7e3267ab2?s=96&amp;r=g","caption":"AdityaD","inLanguage":"en-GB"},"worksFor":{"@id":"https://www.txmhealthcare.co.uk/#organization"}},{"@type":"WebPage","@id":"https://www.txmhealthcare.co.uk/#webpage","url":"https://www.txmhealthcare.co.uk/","name":"Medivolt Healthcare - Medical Recruitment Specialists","datePublished":"2020-05-21T11:43:32+01:00","dateModified":"2021-09-14T20:52:21+01:00","author":{"@id":"https://www.txmhealthcare.co.uk/author/adityad/"},"isPartOf":{"@id":"https://www.txmhealthcare.co.uk/#website"},"primaryImageOfPage":{"@id":"https://www.txmhealthcare.co.uk/wp-content/uploads/row-2-col-5-1.jpg"},"inLanguage":"en-GB"},{"@type":"Article","headline":"Medivolt Healthcare - Medical Recruitment Specialists","datePublished":"2020-05-21T11:43:32+01:00","dateModified":"2021-09-14T20:52:21+01:00","author":{"@id":"https://www.txmhealthcare.co.uk/author/adityad/"},"publisher":{"@id":"https://www.txmhealthcare.co.uk/#organization"},"description":"Specialist Medical Recruitment agency offering a range of locum and permanent job opportunities to Doctors, Nurses &amp; Healthcare Assistants. Register Now!","name":"Medivolt Healthcare - Medical Recruitment Specialists","@id":"https://www.txmhealthcare.co.uk/#richSnippet","isPartOf":{"@id":"https://www.txmhealthcare.co.uk/#webpage"},"image":{"@id":"https://www.txmhealthcare.co.uk/wp-content/uploads/row-2-col-5-1.jpg"},"inLanguage":"en-GB","mainEntityOfPage":{"@id":"https://www.txmhealthcare.co.uk/#webpage"}}]}</script>
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.MedeVolthealthcare.co.uk/#organization","name":"Medivolt Healthcare","url":"https://www.MedeVolthealthcare.co.uk","logo":{"@type":"ImageObject","@id":"https://www.MedeVolthealthcare.co.uk/#logo","url":"https://www.MedeVolthealthcare.co.uk/wp-content/uploads/MedeVoltlogo2020600222.png","caption":"Medivolt Healthcare","inLanguage":"en-GB","width":"600","height":"222"}},{"@type":"WebSite","@id":"https://www.MedeVolthealthcare.co.uk/#website","url":"https://www.MedeVolthealthcare.co.uk","name":"Medivolt Healthcare","publisher":{"@id":"https://www.MedeVolthealthcare.co.uk/#organization"},"inLanguage":"en-GB","potentialAction":{"@type":"SearchAction","target":"https://www.MedeVolthealthcare.co.uk/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.MedeVolthealthcare.co.uk/wp-content/uploads/row-2-col-5-1.jpg","url":"https://www.MedeVolthealthcare.co.uk/wp-content/uploads/row-2-col-5-1.jpg","width":"824","height":"990","inLanguage":"en-GB"},{"@type":"Person","@id":"https://www.MedeVolthealthcare.co.uk/author/adityad/","name":"AdityaD","url":"https://www.MedeVolthealthcare.co.uk/author/adityad/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/6d3d4fae622e2f759e88a7c7e3267ab2?s=96&amp;r=g","url":"https://secure.gravatar.com/avatar/6d3d4fae622e2f759e88a7c7e3267ab2?s=96&amp;r=g","caption":"AdityaD","inLanguage":"en-GB"},"worksFor":{"@id":"https://www.MedeVolthealthcare.co.uk/#organization"}},{"@type":"WebPage","@id":"https://www.MedeVolthealthcare.co.uk/#webpage","url":"https://www.MedeVolthealthcare.co.uk/","name":"Medivolt Healthcare - Medical Recruitment Specialists","datePublished":"2020-05-21T11:43:32+01:00","dateModified":"2021-09-14T20:52:21+01:00","author":{"@id":"https://www.MedeVolthealthcare.co.uk/author/adityad/"},"isPartOf":{"@id":"https://www.MedeVolthealthcare.co.uk/#website"},"primaryImageOfPage":{"@id":"https://www.MedeVolthealthcare.co.uk/wp-content/uploads/row-2-col-5-1.jpg"},"inLanguage":"en-GB"},{"@type":"Article","headline":"Medivolt Healthcare - Medical Recruitment Specialists","datePublished":"2020-05-21T11:43:32+01:00","dateModified":"2021-09-14T20:52:21+01:00","author":{"@id":"https://www.MedeVolthealthcare.co.uk/author/adityad/"},"publisher":{"@id":"https://www.MedeVolthealthcare.co.uk/#organization"},"description":"Specialist Medical Recruitment agency offering a range of locum and permanent job opportunities to Doctors, Nurses &amp; Healthcare Assistants. Register Now!","name":"Medivolt Healthcare - Medical Recruitment Specialists","@id":"https://www.MedeVolthealthcare.co.uk/#richSnippet","isPartOf":{"@id":"https://www.MedeVolthealthcare.co.uk/#webpage"},"image":{"@id":"https://www.MedeVolthealthcare.co.uk/wp-content/uploads/row-2-col-5-1.jpg"},"inLanguage":"en-GB","mainEntityOfPage":{"@id":"https://www.MedeVolthealthcare.co.uk/#webpage"}}]}</script>
 <meta name="google-site-verification" content="4ELEJgRyNgscsK0RBJ-6Jee3_L5siT3ggRZQucbDDqM" />
 <meta name="msvalidate.01" content="4FE4F19D949B9556621478816F58DBAE" />
 <!-- /Rank Math WordPress SEO plugin -->
@@ -228,7 +228,7 @@
             </script>
                 <!-- / Google Analytics by MonsterInsights -->
                 <script>
-            window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.txmhealthcare.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=fab647613944cce2c98c440ab05a878f"}};
+            window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=fab647613944cce2c98c440ab05a878f"}};
             !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
         </script>
         <style>
@@ -263,7 +263,7 @@ img.emoji {
 <link rel='stylesheet' id='elementor-frontend-legacy-css'  href='wp-content/plugins/elementor/assets/css/frontend-legacy.min4c8b.css?ver=3.4.5' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css'  href='wp-content/plugins/elementor/assets/css/frontend.min4c8b.css?ver=3.4.5' media='all' />
 <style id='elementor-frontend-inline-css'>
-@font-face{font-family:eicons;src:url(wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons0b93.eot?5.10.0);src:url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
+@font-face{font-family:eicons;src:url(wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons0b93.eot?5.10.0);src:url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
 </style>
 <link rel='stylesheet' id='elementor-post-19681-css'  href='wp-content/uploads/elementor/css/post-196810756.css?ver=1634639653' media='all' />
 <link rel='stylesheet' id='oceanwp-woo-mini-cart-css'  href='wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
@@ -318,7 +318,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
     <link rel="icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-100x100.png" sizes="32x32" />
 <link rel="icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" />
-<meta name="msapplication-TileImage" content="https://www.txmhealthcare.co.uk/wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" />
+<meta name="msapplication-TileImage" content="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" />
         <style id="wp-custom-css">
             /* Hide header button from 1024pxpx */@media (max-width:1024px){.hide-1024.elementor-column{display:none}}/* Color of the footer newsletter form */#footer .oceanwp-newsletter-form-wrap input[type="email"]{color:#fff}.frm_style_register-now.with_frm_style .frm_checkbox label a,.frm_style_formidable-style.with_frm_style .frm_checkbox label{color:#000 !important}.frm_style_formidable-style.with_frm_style .form-field input[type=text],.frm_style_formidable-style.with_frm_style .form-field select,.frm_style_formidable-style.with_frm_style .form-field textarea,.frm_style_formidable-style.with_frm_style .frm_form_field :invalid,.frm_style_formidable-style.with_frm_style input[type=email],.frm_style_formidable-style.with_frm_style input[type=tel]{width:100%;padding:12px;border:1px solid #ccc;border-radius:4px;resize:vertical}.myr-main-banner{padding:25px 0 !important}.myr-main-content{padding:25px 0 !important}.myr-sub-content{padding:25px 0 !important}.myr-blog{padding:25px 0 !important}.toptext{background-color:unset;font-size:13px}div#top-bar-social-alt{float:unset}.oew-carousel .oew-carousel-entry-media img{width:100%;height:280px}.single .thumbnail img{width:50%}       </style>
         <meta name="generator" content="WordPress Download Manager 3.2.18" />
@@ -433,13 +433,13 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                         <div class="elementor-element elementor-element-09e0eba elementor-widget elementor-widget-wp-widget-custom_html" data-id="09e0eba" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
                 <div class="elementor-widget-container">
             <div class="textwidget custom-html-widget">
-    <a class="elementor-icon" href="https://en-gb.facebook.com/TXMHealthcare/" style="font-size: 35px">
+    <a class="elementor-icon" href="https://en-gb.facebook.com/MedeVoltHealthcare/" style="font-size: 35px">
     <i aria-hidden="true" class="fab fa-facebook-square"></i>           </a>
     
-    <a class="elementor-icon" href="https://twitter.com/TXMHealthcare" style="font-size: 35px">
+    <a class="elementor-icon" href="https://twitter.com/MedeVoltHealthcare" style="font-size: 35px">
     <i aria-hidden="true" class="fab fa-twitter-square"></i>            </a>
     
-    <a class="elementor-icon" href="https://www.linkedin.com/company/txm-healthcare" style="font-size: 35px">
+    <a class="elementor-icon" href="https://www.linkedin.com/company/MedeVolt-healthcare" style="font-size: 35px">
     <i aria-hidden="true" class="fab fa-linkedin"></i>          </a>
     </div>      </div>
                 </div>
@@ -490,7 +490,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                 <div class="elementor-element elementor-element-4b4463f elementor-view-default elementor-widget elementor-widget-icon" data-id="4b4463f" data-element_type="widget" data-widget_type="icon.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-icon-wrapper">
-            <a class="elementor-icon" href="https://en-gb.facebook.com/TXMHealthcare/">
+            <a class="elementor-icon" href="https://en-gb.facebook.com/MedeVoltHealthcare/">
             <i aria-hidden="true" class="fab fa-facebook-square"></i>           </a>
         </div>
                 </div>
@@ -498,7 +498,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                 <div class="elementor-element elementor-element-5e86e2d elementor-view-default elementor-widget elementor-widget-icon" data-id="5e86e2d" data-element_type="widget" data-widget_type="icon.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-icon-wrapper">
-            <a class="elementor-icon" href="https://twitter.com/TXMHealthcare">
+            <a class="elementor-icon" href="https://twitter.com/MedeVoltHealthcare">
             <i aria-hidden="true" class="fab fa-twitter-square"></i>            </a>
         </div>
                 </div>
@@ -506,7 +506,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                 <div class="elementor-element elementor-element-5f604a9 elementor-view-default elementor-widget elementor-widget-icon" data-id="5f604a9" data-element_type="widget" data-widget_type="icon.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-icon-wrapper">
-            <a class="elementor-icon" href="https://www.linkedin.com/company/txm-healthcare">
+            <a class="elementor-icon" href="https://www.linkedin.com/company/MedeVolt-healthcare">
             <i aria-hidden="true" class="fab fa-linkedin"></i>          </a>
         </div>
                 </div>
@@ -560,7 +560,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                 <div class="elementor-element elementor-element-4b4463f elementor-view-default elementor-widget elementor-widget-icon" data-id="4b4463f" data-element_type="widget" data-widget_type="icon.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-icon-wrapper">
-            <a class="elementor-icon" href="https://en-gb.facebook.com/TXMHealthcare/">
+            <a class="elementor-icon" href="https://en-gb.facebook.com/MedeVoltHealthcare/">
             <i aria-hidden="true" class="fab fa-facebook-square"></i>           </a>
         </div>
                 </div>
@@ -568,7 +568,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                 <div class="elementor-element elementor-element-5e86e2d elementor-view-default elementor-widget elementor-widget-icon" data-id="5e86e2d" data-element_type="widget" data-widget_type="icon.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-icon-wrapper">
-            <a class="elementor-icon" href="https://twitter.com/TXMHealthcare">
+            <a class="elementor-icon" href="https://twitter.com/MedeVoltHealthcare">
             <i aria-hidden="true" class="fab fa-twitter-square"></i>            </a>
         </div>
                 </div>
@@ -576,7 +576,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                 <div class="elementor-element elementor-element-5f604a9 elementor-view-default elementor-widget elementor-widget-icon" data-id="5f604a9" data-element_type="widget" data-widget_type="icon.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-icon-wrapper">
-            <a class="elementor-icon" href="https://www.linkedin.com/company/txm-healthcare">
+            <a class="elementor-icon" href="https://www.linkedin.com/company/MedeVolt-healthcare">
             <i aria-hidden="true" class="fab fa-linkedin"></i>          </a>
         </div>
                 </div>
@@ -655,7 +655,7 @@ Register Now                    </a></div>      </div>
     <div id="site-logo-inner" class="clr">
 
         <a href="index.html" class="custom-logo-link" rel="home" aria-current="page">
-{{-- <img width="600" height="222" src="wp-content/uploads/txmlogo2020600222.png" alt="Medivolt Healthcare"/> --}}
+{{-- <img width="600" height="222" src="wp-content/uploads/MedeVoltlogo2020600222.png" alt="Medivolt Healthcare"/> --}}
 </a>
     </div><!-- #site-logo-inner -->
     
@@ -820,7 +820,7 @@ Register Now                    </a></div>      </div>
                 <div class="elementor-element elementor-element-c5ca5b2 elementor-widget elementor-widget-text-editor" data-id="c5ca5b2" data-element_type="widget" data-widget_type="text-editor.default">
                 <div class="elementor-widget-container">
                                 <div class="elementor-text-editor elementor-clearfix">
-                <p>Enjoy your career but looking for more from your role? Channel Islands perhaps? Short break in Scotland? Our dedicated Nursing team are here for you.</p>                    </div>
+                <p>Enjoy your career but looking for more from your role? Our dedicated Nursing team are here for you.</p>                    </div>
                         </div>
                 </div>
                 <div class="elementor-element elementor-element-c15a7ea elementor-align-center elementor-widget elementor-widget-button" data-id="c15a7ea" data-element_type="widget" data-widget_type="button.default">
@@ -855,7 +855,7 @@ Register Now                    </a></div>      </div>
                 <div class="elementor-element elementor-element-bf50975 elementor-widget elementor-widget-text-editor" data-id="bf50975" data-element_type="widget" data-widget_type="text-editor.default">
                 <div class="elementor-widget-container">
                                 <div class="elementor-text-editor elementor-clearfix">
-                <p>Keen to work with the biggest Clients in the UK? Contact our established Mental Health division and talk to us today about your next career move.</p>                    </div>
+                <p>Keen to work with the biggest Clients in the Nation? Contact our established Allied Health division and talk to us today about your next career move.</p>                    </div>
                         </div>
                 </div>
                 <div class="elementor-element elementor-element-8e22496 elementor-align-center elementor-widget elementor-widget-button" data-id="8e22496" data-element_type="widget" data-widget_type="button.default">
@@ -938,7 +938,7 @@ Register Now                    </a></div>      </div>
                 <div class="elementor-element elementor-element-rot3ixr elementor-widget elementor-widget-text-editor" data-id="rot3ixr" data-element_type="widget" data-widget_type="text-editor.default">
                 <div class="elementor-widget-container">
                                 <div class="elementor-text-editor elementor-clearfix">
-                <p>We try to treat everyone how we like to be treated ourselves and that means developing long term relationships based on trust, hard work and mutual respect. Some of our clients have kindly provided feedback which we can share with you below. For further information on how TXM can support you in all of your recruitment needs get in touch with us today!</p>                    </div>
+                <p>We try to treat everyone how we like to be treated ourselves and that means developing long term relationships based on trust, hard work and mutual respect. Some of our clients have kindly provided feedback which we can share with you below. For further information on how MedeVolt can support you in all of your recruitment needs get in touch with us today!</p>                    </div>
                         </div>
                 </div>
                 <div class="elementor-element elementor-element-7ff6d22 elementor-align-center elementor-widget elementor-widget-button" data-id="7ff6d22" data-element_type="widget" data-widget_type="button.default">
@@ -961,7 +961,7 @@ Register Now                    </a></div>      </div>
                         <div class="elementor-element elementor-element-jzgwrdz elementor-widget elementor-widget-testimonial" data-id="jzgwrdz" data-element_type="widget" data-widget_type="testimonial.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-testimonial-wrapper">
-                            <div class="elementor-testimonial-content">Having worked with TXM over the years we have developed a trusting relationship. They communicate openly and transparently and we always find that they are a business you can rely on.</div>
+                            <div class="elementor-testimonial-content">Having worked with MedeVolt over the years we have developed a trusting relationship. They communicate openly and transparently and we always find that they are a business you can rely on.</div>
             
                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                 <div class="elementor-testimonial-meta-inner">
@@ -974,7 +974,7 @@ Register Now                    </a></div>      </div>
                     
                                         <div class="elementor-testimonial-details">
                                                         <div class="elementor-testimonial-name">Frances </div>
-                                                                                        <div class="elementor-testimonial-job">NHS Foundation Trust<br>Director of Procurement</div>
+                                                                                        <div class="elementor-testimonial-job">Public Sector<br>Director of Procurement</div>
                                                     </div>
                                     </div>
             </div>
@@ -1013,7 +1013,7 @@ Register Now                    </a></div>      </div>
                         <div class="elementor-element elementor-element-y7o9kxz elementor-widget elementor-widget-testimonial" data-id="y7o9kxz" data-element_type="widget" data-widget_type="testimonial.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-testimonial-wrapper">
-                            <div class="elementor-testimonial-content">"I have worked closely with TXM in regard to our need for a supply of numerous qualified Staff Nurses for our hospital and overall I've been really impressed with the performance"</div>
+                            <div class="elementor-testimonial-content">"I have worked closely with MedeVolt in regard to our need for a supply of numerous qualified Staff Nurses for our hospital and overall I've been really impressed with the performance"</div>
             
                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                 <div class="elementor-testimonial-meta-inner">
@@ -1087,7 +1087,7 @@ Register Now                    </a></div>      </div>
                         Going The Xtra Mile                 </span>
                 </h3>
                                     <p class="elementor-icon-box-description">
-                        TXM stands for The Xtra Mile. The Xtra Mile means many things to different people but for us, it means providing an exceptional level of service that goes beyond expectation. Join us today to find out more!                  </p>
+                        MedeVolt stands for The Xtra Mile. The Xtra Mile means many things to different people but for us, it means providing an exceptional level of service that goes beyond expectation. Join us today to find out more!                  </p>
                             </div>
         </div>
                 </div>
@@ -1137,7 +1137,7 @@ Register Now                    </a></div>      </div>
                         Local                   </span>
                 </h3>
                                     <p class="elementor-icon-box-description">
-                        We believe that by working and employing locally we get more knowledge of the market and in correlation, better results. As a result we now have offices in Milton Keynes, London, Scotland, Northern Ireland and Cornwall.                 </p>
+                        We believe that by working and employing locally we get more knowledge of the market and in correlation, better results.</p>
                             </div>
         </div>
                 </div>
@@ -1163,7 +1163,7 @@ Register Now                    </a></div>      </div>
                         Mindful                 </span>
                 </h3>
                                     <p class="elementor-icon-box-description">
-                        As a TXM Family we pride ourselves on our empathy and looking after those we work with both inside and outside of our business. You can always speak to us about anything.                  </p>
+                        As a MedeVolt Family we pride ourselves on our empathy and looking after those we work with both inside and outside of our business. You can always speak to us about anything.                  </p>
                             </div>
         </div>
                 </div>
@@ -1185,12 +1185,12 @@ Register Now                    </a></div>      </div>
                 <div class="elementor-widget-container">
                     <div class="elementor-icon-box-wrapper">
                         <div class="elementor-icon-box-icon">
-                <a class="elementor-icon elementor-animation-" href="nurses-if-youre-a-nurse-looking-for-your-next-locum-weekend-or-ongoing/index.html">
+                <a class="elementor-icon elementor-animation-" href="">
                 <i aria-hidden="true" class="far fa-lightbulb"></i>             </a>
             </div>
                         <div class="elementor-icon-box-content">
                 <h3 class="elementor-icon-box-title">
-                    <a href="nurses-if-youre-a-nurse-looking-for-your-next-locum-weekend-or-ongoing/index.html">
+                    <a href="">
                         SOLUTIONS                   </a>
                 </h3>
                                     <p class="elementor-icon-box-description">
@@ -1202,7 +1202,7 @@ Register Now                    </a></div>      </div>
                 <div class="elementor-element elementor-element-ohhadxb elementor-align-center elementor-widget elementor-widget-button" data-id="ohhadxb" data-element_type="widget" data-widget_type="button.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-button-wrapper">
-            <a href="solutions/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+            <a href="" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                         <span class="elementor-button-content-wrapper">
                         <span class="elementor-button-text">FIND OUT MORE</span>
         </span>
@@ -1237,7 +1237,7 @@ Register Now                    </a></div>      </div>
                 <div class="elementor-element elementor-element-vn30vxq elementor-align-center elementor-widget elementor-widget-button" data-id="vn30vxq" data-element_type="widget" data-widget_type="button.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-button-wrapper">
-            <a href="compliance/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+            <a href="" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                         <span class="elementor-button-content-wrapper">
                         <span class="elementor-button-text">FIND OUT MORE</span>
         </span>
@@ -1264,7 +1264,7 @@ Register Now                    </a></div>      </div>
                         SUPPORT                 </span>
                 </h3>
                                     <p class="elementor-icon-box-description">
-                        Treating people how you like be treated is key to going the Xtra Mile. Get to know more about our team, governance and good works initiatives.                  </p>
+                        Treating people how you like be treated is key to going the Xtra Mile. Get to know more about our team and good works initiatives.                  </p>
                             </div>
         </div>
                 </div>
@@ -1272,7 +1272,7 @@ Register Now                    </a></div>      </div>
                 <div class="elementor-element elementor-element-f41bjy0 elementor-align-center elementor-widget elementor-widget-button" data-id="f41bjy0" data-element_type="widget" data-widget_type="button.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-button-wrapper">
-            <a href="support/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+            <a href="" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                         <span class="elementor-button-content-wrapper">
                         <span class="elementor-button-text">FIND OUT MORE</span>
         </span>
@@ -1295,7 +1295,7 @@ Register Now                    </a></div>      </div>
             </div>
                         <div class="elementor-icon-box-content">
                 <h3 class="elementor-icon-box-title">
-                    <a href="doctors-and-nurses-to-get-fast-track-entry-to-uk-under-new-immigration-system/index.html">
+                    <a href="">
                         CAREERS                 </a>
                 </h3>
                                     <p class="elementor-icon-box-description">
@@ -1307,7 +1307,7 @@ Register Now                    </a></div>      </div>
                 <div class="elementor-element elementor-element-ze0ehm9 elementor-align-center elementor-widget elementor-widget-button" data-id="ze0ehm9" data-element_type="widget" data-widget_type="button.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-button-wrapper">
-            <a href="careers/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+            <a href="" class="elementor-button-link elementor-button elementor-size-sm" role="button">
                         <span class="elementor-button-content-wrapper">
                         <span class="elementor-button-text">FIND OUT MORE</span>
         </span>
@@ -1360,7 +1360,7 @@ Register Now                    </a></div>      </div>
 <div class="showing_jobs"></div></form>
 
 
-<noscript>Your browser does not support JavaScript, or it is disabled. JavaScript must be enabled in order to view listings.</noscript>
+
 <ul class="job_listings">
 </ul>
 <a class="load_more_jobs" href="#" style="display:none;"><strong>Load more listings</strong></a></div></p>                  </div>
@@ -1495,7 +1495,7 @@ Register Now                    </a></div>      </div>
         
         
             <div id="copyright" class="clr" role="contentinfo">
-                Medivolt Healthcare 2012-2021 | All Rights Reserved | <a href="privacy-policy/index.html">Privacy Policy</a>         </div><!-- #copyright -->
+                Medivolt Healthcare 2020 | All Rights Reserved | <a href="">Privacy Policy</a>         </div><!-- #copyright -->
 
             
     </div><!-- #footer-bottom-inner -->
@@ -1520,166 +1520,10 @@ Register Now                    </a></div>      </div>
 
 <a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
 
+@include('partials.navs-mobile')
 
 
-
-<div id="mobile-fullscreen" class="clr" >
-
-    <div id="mobile-fullscreen-inner" class="clr">
-
-        <a href="javascript:void(0)" class="close" aria-label="Close Menu" >
-            <div class="close-icon-wrap">
-                <div class="close-icon-inner"></div>
-            </div>
-        </a>
-
-        <nav class="clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
-
-            <ul id="menu-main-menu-1" class="fs-dropdown-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-14502 current_page_item menu-item-14889"><a href="{{route('welcome')}}" aria-current="page">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14908"><a href="careers/index.html">Careers</a>
-<ul class="sub-menu">
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14872"><a href="{{route('register-now')}}">Register Now!</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15052"><a href="{{route('latest-roles')}}">Latest Roles</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14874"><a href="txm-doctors/index.html">MediVolt Doctors</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14618"><a href="txm-nursing/index.html">MediVolt Nursing</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14951"><a href="txm-mental-health/index.html">MediVolt Allied Health</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14909"><a href="solutions/index.html">Solutions</a>
-<ul class="sub-menu">
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17060"><a href="txm-experience/index.html">TXM Experience</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20337"><a href="xtra-miler-f3year/index.html">TXM F3Year</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18195"><a href="txm-direct/index.html">TXM Direct</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17058"><a href="nhs/index.html">NHS</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24580"><a href="virtual-hospital/index.html">Virtual Hospital</a>
-    <ul class="sub-menu">
-        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24581"><a href="virtual-register/index.html">Virtual Register</a></li>
-    </ul>
-</li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17059"><a href="private-sector/index.html">Private Sector</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20569"><a href="2xm-healthcare/index.html">2XM Healthcare</a>
-    <ul class="sub-menu">
-        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20570"><a href="register-now-australia/index.html">Register Now – Australia</a></li>
-    </ul>
-</li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14927"><a href="compliance/index.html">Compliance</a>
-<ul class="sub-menu">
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-16967"><a href="txm-paperless/index.html">TXM Paperless</a>
-    <ul class="sub-menu">
-        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17148"><a href="upload-your-documents/index.html">Upload Your Documents</a></li>
-    </ul>
-</li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17064"><a href="governance/index.html">Governance</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17219"><a href="revalidation/index.html">Revalidation</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14578"><a href="useful-documents/index.html">Useful Documents</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18293"><a href="shop/index.html">TXM Shop</a>
-    <ul class="sub-menu">
-        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18297"><a href="shop/standard-terms-conditions/index.html">Standard Terms &#038; Conditions</a></li>
-        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18296"><a href="returns-policy/index.html">Returns Policy</a></li>
-        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18298"><a href="consumer-terms-of-sales/index.html">Consumer Terms of Sales</a></li>
-    </ul>
-</li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17279"><a href="covid-19/index.html">COVID-19</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14920"><a href="support/index.html">Support</a>
-<ul class="sub-menu">
-    <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24233"><a href="news/index.html">News</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24416"><a href="blog/index.html">Blog</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14767"><a href="about-us/index.html">TXM Family</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14910"><a href="refer-a-friend/index.html">TXM Refer</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14663"><a href="xtra-miler-scheme/index.html">Xtra Miler Scheme</a></li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17002"><a href="report-a-concern/index.html">Report a Concern</a>
-    <ul class="sub-menu">
-        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17008"><a href="txm-complaints/index.html">TXM Complaints</a></li>
-        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17009"><a href="safeguarding-concern/index.html">Safeguarding Concern</a></li>
-        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17010"><a href="safety-concern/index.html">Safety Concern</a></li>
-        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17011"><a href="on-site-issues/index.html">On Site Issues</a></li>
-    </ul>
-</li>
-    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17441"><a href="contact-us/index.html">Contact Us</a></li>
-</ul>
-</li>
-            </ul>
-        </nav>
-
-    </div>
-
-</div>
-<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.</div><div class="cli-bar-btn_container"><a role='button' tabindex='0' class="medium cli-plugin-button cli-plugin-main-button cli_settings_button" style="margin:0px 5px 0px 0px;" >Cookie Settings</a><a id="wt-cli-accept-all-btn" tabindex="0" role='button' data-cli_action="accept_all"  class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button" >Accept All</a></div></div></span></div><div id="cookie-law-info-again" style="display:none;" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
-  <div class="cli-modal-dialog" role="document">
-    <div class="cli-modal-content cli-bar-popup">
-        <button type="button" class="cli-modal-close" id="cliModalClose">
-            <svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
-            <span class="wt-cli-sr-only">Close</span>
-        </button>
-        <div class="cli-modal-body">
-            <div class="cli-container-fluid cli-tab-container">
-    <div class="cli-row">
-        <div class="cli-col-12 cli-align-items-stretch cli-px-0">
-            <div class="cli-privacy-overview">
-                <h4>Privacy Overview</h4>               <div class="cli-privacy-content">
-                    <div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.</div>
-                </div>
-                <a class="cli-privacy-readmore"  aria-label="Show more" tabindex="0" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>           </div>
-        </div>
-        <div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
-                                                <div class="cli-tab-section">
-                        <div class="cli-tab-header">
-                            <a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
-                                Necessary                           </a>
-                            <div class="wt-cli-necessary-checkbox">
-                        <input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
-                        <label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
-                    </div>
-                    <span class="cli-necessary-caption">Always Enabled</span>                       </div>
-                        <div class="cli-tab-content">
-                            <div class="cli-tab-pane cli-fade" data-id="necessary">
-                                <div class="wt-cli-cookie-description">
-                                    Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.                              </div>
-                            </div>
-                        </div>
-                    </div>
-                                                                    <div class="cli-tab-section">
-                        <div class="cli-tab-header">
-                            <a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
-                                Non-necessary                           </a>
-                            <div class="cli-switch">
-                        <input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox"  data-id="checkbox-non-necessary"  checked='checked' />
-                        <label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Non-necessary</span></label>
-                    </div>                      </div>
-                        <div class="cli-tab-content">
-                            <div class="cli-tab-pane cli-fade" data-id="non-necessary">
-                                <div class="wt-cli-cookie-description">
-                                    Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.                              </div>
-                            </div>
-                        </div>
-                    </div>
-                                        </div>
-    </div>
-</div>
-        </div>
-        <div class="cli-modal-footer">
-            <div class="wt-cli-element cli-container-fluid cli-tab-container">
-                <div class="cli-row">
-                    <div class="cli-col-12 cli-align-items-stretch cli-px-0">
-                        <div class="cli-tab-footer wt-cli-privacy-overview-actions">
-                        
-                                                            <a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE & ACCEPT</a>
-                                                    </div>
-                        
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-  </div>
-</div>
-<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
-<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
-<!--googleon: all-->            <script>
+<script>
                 jQuery(function($){
 
                     
@@ -1732,7 +1576,7 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 <script src='wp-includes/js/jquery/jquery.form.minb2f9.js?ver=4.3.0' id='jquery-form-js'></script>
 <script src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minb106.js?ver=2.7.0-wc.5.8.0' id='jquery-blockui-js'></script>
 <script id='wc-add-to-cart-js-extra'>
-var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https:\/\/www.txmhealthcare.co.uk\/basket\/","is_cart":"","cart_redirect_after_add":"yes"};
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","is_cart":"","cart_redirect_after_add":"yes"};
 </script>
 <script src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min3e35.js?ver=5.8.0' id='wc-add-to-cart-js'></script>
 <script src='wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min64be.js?ver=2.1.4-wc.5.8.0' id='js-cookie-js'></script>
@@ -1745,7 +1589,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax
 </script>
 <script src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min3e35.js?ver=5.8.0' id='wc-cart-fragments-js'></script>
 <script id='cb70d11b8-js-extra'>
-var localize = {"ajaxurl":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"c7a5030b01","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
+var localize = {"ajaxurl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"c7a5030b01","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
 </script>
 <script src='wp-content/uploads/essential-addons-elementor/734e5f942.minfabe.js?ver=1637236637' id='cb70d11b8-js'></script>
 <script src='wp-includes/js/imagesloaded.mineda1.js?ver=4.1.4' id='imagesloaded-js'></script>
@@ -1754,11 +1598,11 @@ var localize = {"ajaxurl":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-aj
 <script src='wp-content/themes/oceanwp/assets/js/vendors/sidr8571.js?ver=3.0.7' id='ow-sidr-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min8571.js?ver=3.0.7' id='ow-magnific-popup-js'></script>
 <script id='oceanwp-main-js-extra'>
-var oceanwpLocalize = {"nonce":"ea8d183016","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.txmhealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+var oceanwpLocalize = {"nonce":"ea8d183016","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
 </script>
 <script src='wp-content/themes/oceanwp/assets/js/theme.vanilla.min8571.js?ver=3.0.7' id='oceanwp-main-js'></script>
 <script id='oceanwp-woocommerce-custom-features-js-extra'>
-var oceanwpLocalize = {"nonce":"ea8d183016","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.txmhealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+var oceanwpLocalize = {"nonce":"ea8d183016","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
 </script>
 <script src='wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min8571.js?ver=3.0.7' id='oceanwp-woocommerce-custom-features-js'></script>
 <script src='wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/js/wc-gateway-ppec-order-review4c71.js?ver=2.1.3' id='wc-gateway-ppec-order-review-js'></script>
@@ -1780,13 +1624,13 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 <script src='wp-includes/js/wp-embed.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wp-embed-js'></script>
 <script src='wp-content/plugins/social-networks-auto-poster-facebook-twitter-g/js-css/jquery.modal.min12f5.js?ver=4.3.23' id='modal-js'></script>
 <!--[if lt IE 9]>
-<script src='https://www.txmhealthcare.co.uk/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=3.0.7' id='html5shiv-js'></script>
+<script src='https://www.MedeVolthealthcare.co.uk/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=3.0.7' id='html5shiv-js'></script>
 <![endif]-->
 <script data-namespace="paypal_sdk" data-partner-attribution-id="WooThemes_EC" src='https://www.paypal.com/sdk/js?client-id=AQbghYd-7mRPyimEriYScIgTnYUsLnr5wVnPnmfPaSzwKrUe3qNzfEc5hXr9Ucf_JG_HFAZpJMJYXMuk&amp;merchant-id=MYDXL6JVZSD74&amp;intent=capture&amp;locale=en_GB&amp;components=buttons,funding-eligibility,messages&amp;commit=false&amp;currency=GBP' id='paypal-checkout-sdk-js'></script>
 <script src='wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/js/dist/fetch-polyfill.min4c71.js?ver=2.1.3' id='wc-gateway-ppec-fetch-polyfill-js'></script>
 <script src='wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/js/dist/promise-polyfill.min4c71.js?ver=2.1.3' id='wc-gateway-ppec-promise-polyfill-js'></script>
 <script id='wc-gateway-ppec-smart-payment-buttons-js-extra'>
-var wc_ppec_context = {"use_checkout_js":"","environment":"production","locale":"en_GB","page":null,"button_color":"gold","button_shape":"rect","button_label":"paypal","start_checkout_nonce":"9dbf377f26","start_checkout_url":"\/?wc-ajax=wc_ppec_start_checkout","return_url":"https:\/\/www.txmhealthcare.co.uk\/checkout\/","cancel_url":"","generic_error_msg":"An error occurred while processing your PayPal payment. Please contact the store owner for assistance.","mini_cart_button_layout":"vertical","mini_cart_button_size":"responsive","mini_cart_button_label":"paypal","mini_cart_disallowed_methods":["CARD","CREDIT","PAYLATER"]};
+var wc_ppec_context = {"use_checkout_js":"","environment":"production","locale":"en_GB","page":null,"button_color":"gold","button_shape":"rect","button_label":"paypal","start_checkout_nonce":"9dbf377f26","start_checkout_url":"\/?wc-ajax=wc_ppec_start_checkout","return_url":"https:\/\/www.MedeVolthealthcare.co.uk\/checkout\/","cancel_url":"","generic_error_msg":"An error occurred while processing your PayPal payment. Please contact the store owner for assistance.","mini_cart_button_layout":"vertical","mini_cart_button_size":"responsive","mini_cart_button_label":"paypal","mini_cart_disallowed_methods":["CARD","CREDIT","PAYLATER"]};
 </script>
 <script src='wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/js/wc-gateway-ppec-smart-payment-buttons4c71.js?ver=2.1.3' id='wc-gateway-ppec-smart-payment-buttons-js'></script>
 <script src='wp-content/plugins/wp-job-manager/assets/lib/jquery-deserialize/jquery.deserialize1576.js?ver=1.2.1' id='jquery-deserialize-js'></script>
@@ -1806,21 +1650,21 @@ var job_manager_ajax_filters = {"ajax_url":"\/jm-ajax\/%%endpoint%%\/","is_rtl":
 <script src='wp-includes/js/jquery/ui/mouse.min35d0.js?ver=1.12.1' id='jquery-ui-mouse-js'></script>
 <script src='wp-includes/js/jquery/ui/draggable.min35d0.js?ver=1.12.1' id='jquery-ui-draggable-js'></script>
 <script id='premium-addons-js-extra'>
-var PremiumSettings = {"ajaxurl":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"5c4c70c2b9"};
+var PremiumSettings = {"ajaxurl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"5c4c70c2b9"};
 </script>
 <script src='wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-addons.minfc12.js?ver=4.5.8' id='premium-addons-js'></script>
 <script src='wp-includes/js/jquery/ui/sortable.min35d0.js?ver=1.12.1' id='jquery-ui-sortable-js'></script>
 <script src='wp-includes/js/jquery/ui/resizable.min35d0.js?ver=1.12.1' id='jquery-ui-resizable-js'></script>
 <script id='premium-pro-js-extra'>
-var PremiumProSettings = {"ajaxurl":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"527b982c48","magicSection":"1"};
+var PremiumProSettings = {"ajaxurl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"527b982c48","magicSection":"1"};
 </script>
 <script src='wp-content/plugins/premium-addons-pro/assets/frontend/min-js/premium-addons.min91ee.js?ver=2.5.3' id='premium-pro-js'></script>
 <script src='wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.minccfb.js?ver=3.4.2' id='elementor-pro-webpack-runtime-js'></script>
 <script src='wp-content/plugins/elementor/assets/js/webpack.runtime.min4c8b.js?ver=3.4.5' id='elementor-webpack-runtime-js'></script>
 <script src='wp-content/plugins/elementor/assets/js/frontend-modules.min4c8b.js?ver=3.4.5' id='elementor-frontend-modules-js'></script>
 <script id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"09d1ffa90e","urls":{"assets":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.txmhealthcare.co.uk\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
-"menu_cart":{"cart_page_url":"https:\/\/www.txmhealthcare.co.uk\/basket\/","checkout_page_url":"https:\/\/www.txmhealthcare.co.uk\/checkout\/"},"facebook_sdk":{"lang":"en_GB","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"09d1ffa90e","urls":{"assets":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
+"menu_cart":{"cart_page_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","checkout_page_url":"https:\/\/www.MedeVolthealthcare.co.uk\/checkout\/"},"facebook_sdk":{"lang":"en_GB","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src='wp-content/plugins/elementor-pro/assets/js/frontend.minccfb.js?ver=3.4.2' id='elementor-pro-frontend-js'></script>
 <script src='wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
@@ -1828,12 +1672,12 @@ var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.txmhealthcare.co.uk\/
 <script src='wp-content/plugins/elementor/assets/lib/share-link/share-link.min4c8b.js?ver=3.4.5' id='share-link-js'></script>
 <script src='wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1' id='elementor-dialog-js'></script>
 <script id='elementor-frontend-js-extra'>
-var PaModulesSettings = {"equalHeight_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-for-elementor\/assets\/frontend\/min-js\/premium-eq-height.min.js"};
-var papro_addons = {"url":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","particles_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/particles.min.js","kenburns_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/cycle.min.js","gradient_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/premium-gradient.min.js","parallax_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/premium-parallax.min.js","lottie_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-for-elementor\/assets\/frontend\/min-js\/lottie.min.js"};
+var PaModulesSettings = {"equalHeight_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-for-elementor\/assets\/frontend\/min-js\/premium-eq-height.min.js"};
+var papro_addons = {"url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","particles_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/particles.min.js","kenburns_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/cycle.min.js","gradient_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/premium-gradient.min.js","parallax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/premium-parallax.min.js","lottie_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-for-elementor\/assets\/frontend\/min-js\/lottie.min.js"};
 </script>
 <script id='elementor-frontend-js-before'>
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},
-"version":"3.4.5","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":14502,"title":"TXM%20Healthcare%20-%20Medical%20Recruitment%20Specialists","excerpt":"","featuredImage":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/uploads\/row-2-col-5-1.jpg"}};
+"version":"3.4.5","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":14502,"title":"MedeVolt%20Healthcare%20-%20Medical%20Recruitment%20Specialists","excerpt":"","featuredImage":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/uploads\/row-2-col-5-1.jpg"}};
 </script>
 <script src='wp-content/plugins/elementor/assets/js/frontend.min4c8b.js?ver=3.4.5' id='elementor-frontend-js'></script>
 <script id='elementor-frontend-js-after'>

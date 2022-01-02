@@ -1,6 +1,9 @@
 <?php
 
 use App\Http\Controllers\ApplicationController;
+use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\RoleController;
+use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -66,6 +69,15 @@ Route::get('medevolt-virtual-hospital', function () {
 
 Auth::routes();
 
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/home', [App\Http\Controllers\DashboardController::class, 'index'])->name('home');
 Route::get('/register-now', [ApplicationController::class, 'index'])->name('register-now');
 Route::post('/register-now', [ApplicationController::class, 'store'])->name('register.store');
+
+
+Route::group(['prefix' => 'admin', 'as' => 'admin.', 'middleware' => ['auth']], function ()
+{
+    Route::get('/', [DashboardController::class, 'index'])->name('dashboard');
+    Route::post('test', [UserController::class, 'test'])->name('test');
+    Route::resource('users', UserController::class);
+    Route::resource('roles', RoleController::class);
+});

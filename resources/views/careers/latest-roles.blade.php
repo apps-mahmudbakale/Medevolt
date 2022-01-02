@@ -831,7 +831,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-eb472fe elementor-widget elementor-widget-text-editor" data-id="eb472fe" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Enjoy your career but looking for more from your role? Channel Islands perhaps? Our dedicated Nursing team are here for you.</p>					</div>
+				<p>Enjoy your career but looking for more from your role? Our dedicated Nursing team are here for you.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-6fc2d5c elementor-align-center elementor-widget elementor-widget-button" data-id="6fc2d5c" data-element_type="widget" data-widget_type="button.default">
@@ -866,7 +866,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-e501424 elementor-widget elementor-widget-text-editor" data-id="e501424" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Keen to work with the biggest Clients in the UK? Contact our established Mental Health division and talk to us today about your next career move.</p>					</div>
+				<p>Keen to work with the biggest Clients in the UK? Contact our established Allied Health division and talk to us today about your next career move.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-4b77334 elementor-align-center elementor-widget elementor-widget-button" data-id="4b77334" data-element_type="widget" data-widget_type="button.default">

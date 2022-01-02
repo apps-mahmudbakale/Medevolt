@@ -2,11 +2,10 @@
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
  <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-  <title>BROAD MASSES BASE | HOME</title>
+ <meta charset="utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>MedeVolt Healthcare | Dashboard</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -17,10 +16,13 @@
 </head>
 
 <body>
-  @include('partials.adminheader')
+  @include('partials.header')
   @include('partials.sidebar')
     @yield('content')
-  @include('partials.adminfooter')
+  @include('partials.footer')
   <script src="{{ asset('js/admin.js') }}"></script>
+  <form id="logoutform" action="{{ route('logout') }}" method="POST" style="display: none;">
+      {{ csrf_field() }}
+  </form>
 </body>
 </html>
