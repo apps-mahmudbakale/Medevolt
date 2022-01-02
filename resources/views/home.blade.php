@@ -17,7 +17,7 @@
   <section class="section dashboard">
     <div class="row">
 
-      <!-- Left side columns -->
+{{--       <!-- Left side columns -->
       <div class="col-lg-8">
         <div class="row">
 
@@ -643,7 +643,7 @@
           </div>
         </div><!-- End News & Updates -->
 
-      </div><!-- End Right side columns -->
+      </div><!-- End Right side columns --> --}}
 
     </div>
   </section>

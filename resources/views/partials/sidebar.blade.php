@@ -30,9 +30,9 @@
       @endcan
       @can('read-users')
        <li class="nav-item">
-        <a class="nav-link collapsed" href="">
+        <a class="nav-link collapsed" href="{{route('admin.recruites.index')}}">
           <i class="bi bi-people"></i>
-          <span>Doctors</span>
+          <span>Recruites</span>
         </a>
       </li><!-- End Dashboard Nav -->
       @endcan

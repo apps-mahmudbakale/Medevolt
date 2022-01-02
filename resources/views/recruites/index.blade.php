@@ -5,7 +5,7 @@
 	<main id="main" class="main">
 
 	  <div class="pagetitle">
-	    <h1>Users</h1>
+	    <h1>Recruites</h1>
 	    <nav>
 	      <ol class="breadcrumb">
 	        <li class="breadcrumb-item"><a href="{{route('admin.dashboard')}}">Dashboard</a></li>
@@ -38,19 +38,16 @@
 	                <tr>
 	                  <th scope="row">{{$loop->iteration}}</th>
 	                  <td>{{$recruite->title}}</td>
-	                  <td>{{$recruite->name}}</td>
+	                  <td>{{$recruite->firstname}} {{$recruite->lastname}}</td>
 	                  <td>{{$recruite->email}}</td>
 	                  <td>{{$recruite->phone}}</td>
 	                  <td class="btn-group">
 	                  	@can('read-users')
-	                  	<a href="{{route('admin.users.show', $recruite->id)}}" class="btn btn-success"><i class="bi bi-eye"></i></a>
-	                  	@endcan
-	                  	@can('update-users')
-	                  	<a href="{{route('admin.users.edit', $recruite->id)}}" class="btn btn-primary"><i class="bi bi-pencil-square"></i></a>
+	                  	<a href="{{route('admin.recruites.show', $recruite->id)}}" class="btn btn-success"><i class="bi bi-eye"></i></a>
 	                  	@endcan
 	                  	@can('delete-users')
 	                  	<a href="" class="btn btn-danger" onclick="event.preventDefault(); document.getElementById('del#{{$recruite->id}}').submit();"><i class="bi bi-trash"></i></a>
-	                  	<form id="del#{{$user->id}}" action="{{ route('admin.users.destroy', $recruite->id) }}" method="POST" onsubmit="return confirm('Are you sure');" style="display: inline-block;">
+	                  	<form id="del#{{$recruite->id}}" action="{{ route('admin.recruites.destroy', $recruite->id) }}" method="POST" onsubmit="return confirm('Are you sure');" style="display: inline-block;">
                           <input type="hidden" name="_method" value="DELETE">
                           <input type="hidden" name="_token" value="{{ csrf_token() }}">
                       </form>
