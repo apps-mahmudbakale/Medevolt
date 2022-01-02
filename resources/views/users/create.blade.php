@@ -31,7 +31,7 @@
 	      		        <input type="email" name="email" class="form-control" placeholder="Email">
 	      		      </div>
 	      		      <div class="col-md-6">
-	      		        <input type="password" name="passwword" class="form-control" placeholder="Password">
+	      		        <input type="password" name="password" class="form-control" placeholder="Password">
 	      		      </div>
 	      		      <div class="col-md-6">
 	      		        <select name="roles[]" class="form-select">

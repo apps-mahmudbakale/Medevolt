@@ -63,9 +63,9 @@ Route::get('medevolt-virtual-hospital', function () {
     return view('solutions.virtual-hospital');
 })->name('virtual-hospital');
 
-// Route::get('medevolt-f3Year', function () {
-//     return view('solutions.f3year');
-// })->name('f3year');
+Route::get('medevolt-upload-document', function () {
+    return view('compliance.upload-documents');
+})->name('upload-document');
 
 Auth::routes();
 

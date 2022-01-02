@@ -34,13 +34,13 @@ class UserFormRequest extends FormRequest
             'password' => [
                 'required',
             ],
-            'roles.*'  => [
-                'integer',
-            ],
-            'roles'    => [
-                'required',
-                'array',
-            ],
+            // 'roles.*'  => [
+            //     'integer',
+            // ],
+            // 'roles'    => [
+            //     'required',
+            //     'array',
+            // ],
         ];
     }
 }

@@ -57,7 +57,7 @@ img.emoji {
 <link rel='stylesheet' id='elementor-frontend-legacy-css'  href='wp-content/plugins/elementor/assets/css/frontend-legacy.min4c8b.css?ver=3.4.5' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css'  href='wp-content/plugins/elementor/assets/css/frontend.min4c8b.css?ver=3.4.5' media='all' />
 <style id='elementor-frontend-inline-css'>
-@font-face{font-family:eicons;src:url(wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons0b93.eot?5.10.0);src:url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
+@font-face{font-family:eicons;src:url(wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons0b93.eot?5.10.0);src:url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
 </style>
 <link rel='stylesheet' id='elementor-post-19681-css'  href='wp-content/uploads/elementor/css/post-196810756.css?ver=1634639653' media='all' />
 <link rel='stylesheet' id='oceanwp-woo-mini-cart-css'  href='wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
@@ -88,13 +88,13 @@ img.emoji {
 <script id='cookie-law-info-js-extra'>
 var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
 var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#61a229","button_1_button_hover":"#4e8221","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#dedfe0","button_3_button_hover":"#b2b2b3","button_3_link_colour":"#333333","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#dedfe0","button_4_button_hover":"#b2b2b3","button_4_link_colour":"#333333","button_4_as_button":"1","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
-var log_object = {"ajax_url":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php"};
+var log_object = {"ajax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php"};
 </script>
 <script src='wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public1717.js?ver=2.0.6' id='cookie-law-info-js'></script>
 <script src='wp-content/plugins/download-manager/assets/bootstrap/js/popper.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wpdm-poper-js'></script>
 <script src='wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wpdm-front-bootstrap-js'></script>
 <script id='wpdm-frontjs-js-extra'>
-var wpdm_url = {"home":"https:\/\/www.txmhealthcare.co.uk\/","site":"https:\/\/www.txmhealthcare.co.uk\/","ajax":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php"};
+var wpdm_url = {"home":"https:\/\/www.MedeVolthealthcare.co.uk\/","site":"https:\/\/www.MedeVolthealthcare.co.uk\/","ajax":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php"};
 var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 </script>
 <script src='wp-content/plugins/download-manager/assets/js/fronta318.js?ver=3.2.18' id='wpdm-frontjs-js'></script>
@@ -103,8 +103,8 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 
 <link rel='shortlink' href='../indexde54.html?p=14542' />
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embeddf7f.json?url=https%3A%2F%2Fwww.txmhealthcare.co.uk%2Ftxm-doctors%2F" />
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed6ab4?url=https%3A%2F%2Fwww.txmhealthcare.co.uk%2Ftxm-doctors%2F&amp;format=xml" />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embeddf7f.json?url=https%3A%2F%2Fwww.MedeVolthealthcare.co.uk%2FMedeVolt-doctors%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed6ab4?url=https%3A%2F%2Fwww.MedeVolthealthcare.co.uk%2FMedeVolt-doctors%2F&amp;format=xml" />
 <meta name="google-site-verification" content="-x44A-jJXId6c02KM49itH_1NkXDUcASkuT1VnSAeZw" />    <script type="text/javascript">
         function nxsPostToFav(obj){ obj.preventDefault;
             var k = obj.target.split("-"); var nt = k[0]; var ii = k[1];  var pid = k[2];
@@ -119,7 +119,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 	<link rel="icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-100x100.png" sizes="32x32" />
 <link rel="icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" />
-<meta name="msapplication-TileImage" content="https://www.txmhealthcare.co.uk/wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" />
+<meta name="msapplication-TileImage" content="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" />
 		<style id="wp-custom-css">
 			/* Hide header button from 1024pxpx */@media (max-width:1024px){.hide-1024.elementor-column{display:none}}/* Color of the footer newsletter form */#footer .oceanwp-newsletter-form-wrap input[type="email"]{color:#fff}.frm_style_register-now.with_frm_style .frm_checkbox label a,.frm_style_formidable-style.with_frm_style .frm_checkbox label{color:#000 !important}.frm_style_formidable-style.with_frm_style .form-field input[type=text],.frm_style_formidable-style.with_frm_style .form-field select,.frm_style_formidable-style.with_frm_style .form-field textarea,.frm_style_formidable-style.with_frm_style .frm_form_field :invalid,.frm_style_formidable-style.with_frm_style input[type=email],.frm_style_formidable-style.with_frm_style input[type=tel]{width:100%;padding:12px;border:1px solid #ccc;border-radius:4px;resize:vertical}.myr-main-banner{padding:25px 0 !important}.myr-main-content{padding:25px 0 !important}.myr-sub-content{padding:25px 0 !important}.myr-blog{padding:25px 0 !important}.toptext{background-color:unset;font-size:13px}div#top-bar-social-alt{float:unset}.oew-carousel .oew-carousel-entry-media img{width:100%;height:280px}.single .thumbnail img{width:50%}		</style>
 		<meta name="generator" content="WordPress Download Manager 3.2.18" />
@@ -234,13 +234,13 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 						<div class="elementor-element elementor-element-09e0eba elementor-widget elementor-widget-wp-widget-custom_html" data-id="09e0eba" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
 			<div class="textwidget custom-html-widget">
-	<a class="elementor-icon" href="https://en-gb.facebook.com/TXMHealthcare/" style="font-size: 35px">
+	<a class="elementor-icon" href="https://en-gb.facebook.com/MedeVoltHealthcare/" style="font-size: 35px">
 	<i aria-hidden="true" class="fab fa-facebook-square"></i>			</a>
 	
-	<a class="elementor-icon" href="https://twitter.com/TXMHealthcare" style="font-size: 35px">
+	<a class="elementor-icon" href="https://twitter.com/MedeVoltHealthcare" style="font-size: 35px">
 	<i aria-hidden="true" class="fab fa-twitter-square"></i>			</a>
 	
-	<a class="elementor-icon" href="https://www.linkedin.com/company/txm-healthcare" style="font-size: 35px">
+	<a class="elementor-icon" href="https://www.linkedin.com/company/MedeVolt-healthcare" style="font-size: 35px">
 	<i aria-hidden="true" class="fab fa-linkedin"></i>			</a>
 	</div>		</div>
 				</div>
@@ -292,7 +292,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-4b4463f elementor-view-default elementor-widget elementor-widget-icon" data-id="4b4463f" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://en-gb.facebook.com/TXMHealthcare/">
+			<a class="elementor-icon" href="https://en-gb.facebook.com/MedeVoltHealthcare/">
 			<i aria-hidden="true" class="fab fa-facebook-square"></i>			</a>
 		</div>
 				</div>
@@ -300,7 +300,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-5e86e2d elementor-view-default elementor-widget elementor-widget-icon" data-id="5e86e2d" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://twitter.com/TXMHealthcare">
+			<a class="elementor-icon" href="https://twitter.com/MedeVoltHealthcare">
 			<i aria-hidden="true" class="fab fa-twitter-square"></i>			</a>
 		</div>
 				</div>
@@ -308,7 +308,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-5f604a9 elementor-view-default elementor-widget elementor-widget-icon" data-id="5f604a9" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://www.linkedin.com/company/txm-healthcare">
+			<a class="elementor-icon" href="https://www.linkedin.com/company/MedeVolt-healthcare">
 			<i aria-hidden="true" class="fab fa-linkedin"></i>			</a>
 		</div>
 				</div>
@@ -363,7 +363,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-4b4463f elementor-view-default elementor-widget elementor-widget-icon" data-id="4b4463f" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://en-gb.facebook.com/TXMHealthcare/">
+			<a class="elementor-icon" href="https://en-gb.facebook.com/MedeVoltHealthcare/">
 			<i aria-hidden="true" class="fab fa-facebook-square"></i>			</a>
 		</div>
 				</div>
@@ -371,7 +371,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-5e86e2d elementor-view-default elementor-widget elementor-widget-icon" data-id="5e86e2d" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://twitter.com/TXMHealthcare">
+			<a class="elementor-icon" href="https://twitter.com/MedeVoltHealthcare">
 			<i aria-hidden="true" class="fab fa-twitter-square"></i>			</a>
 		</div>
 				</div>
@@ -379,7 +379,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-5f604a9 elementor-view-default elementor-widget elementor-widget-icon" data-id="5f604a9" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://www.linkedin.com/company/txm-healthcare">
+			<a class="elementor-icon" href="https://www.linkedin.com/company/MedeVolt-healthcare">
 			<i aria-hidden="true" class="fab fa-linkedin"></i>			</a>
 		</div>
 				</div>
@@ -458,8 +458,8 @@ Register Now					</a></div>		</div>
 	<div id="site-logo-inner" class="clr">
 
 		{{-- <a href="{{route('welcome')}}" class="custom-logo-link" rel="home"><picture class="custom-logo">
-<source type="image/webp" srcset="https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222.png.webp 600w, https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222-300x111.png.webp 300w" sizes="(max-width: 600px) 100vw, 600px"/>
-<img width="600" height="222" src="wp-content/uploads/txmlogo2020600222.png" alt="TXM Healthcare" srcset="https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222.png 600w, https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222-300x111.png 300w" sizes="(max-width: 600px) 100vw, 600px"/>
+<source type="image/webp" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/MedeVoltlogo2020600222.png.webp 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/MedeVoltlogo2020600222-300x111.png.webp 300w" sizes="(max-width: 600px) 100vw, 600px"/>
+<img width="600" height="222" src="wp-content/uploads/MedeVoltlogo2020600222.png" alt="MedeVolt Healthcare" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/MedeVoltlogo2020600222.png 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/MedeVoltlogo2020600222-300x111.png 300w" sizes="(max-width: 600px) 100vw, 600px"/>
 </picture>
 </a> --}}
 	</div><!-- #site-logo-inner -->
@@ -562,7 +562,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;">At MedeVolt Healthcare, our experts go The Xtra Mile to find Doctors all over the globe their next opportunity, from Foundation to Consultant level.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
+				<h3><span style="color: #ffffff;">At MedeVolt Healthcare, our experts go The Xtra Mile to find Doctors all over the globe their next opportunity, from Medical Officer to Consultant level.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-c2a2844 elementor-align-center elementor-widget elementor-widget-button" data-id="c2a2844" data-element_type="widget" data-widget_type="button.default">
@@ -622,7 +622,7 @@ Register Now					</a></div>		</div>
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-9vwosbu elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="9vwosbu" data-element_type="widget" data-widget_type="icon-box.default">
+{{-- 				<div class="elementor-element elementor-element-9vwosbu elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="9vwosbu" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
@@ -639,8 +639,8 @@ Register Now					</a></div>		</div>
 							</div>
 		</div>
 				</div>
-				</div>
-				<div class="elementor-element elementor-element-wkhjx3b elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="wkhjx3b" data-element_type="widget" data-widget_type="icon-box.default">
+				</div> --}}
+{{-- 				<div class="elementor-element elementor-element-wkhjx3b elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="wkhjx3b" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
@@ -657,7 +657,7 @@ Register Now					</a></div>		</div>
 							</div>
 		</div>
 				</div>
-				</div>
+				</div> --}}
 				<div class="elementor-element elementor-element-vws47s1 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="vws47s1" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
@@ -682,7 +682,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-twtz2rn" data-id="twtz2rn" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-vms5s9i elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="vms5s9i" data-element_type="widget" data-widget_type="icon-box.default">
+						{{-- <div class="elementor-element elementor-element-vms5s9i elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="vms5s9i" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
@@ -699,8 +699,8 @@ Register Now					</a></div>		</div>
 							</div>
 		</div>
 				</div>
-				</div>
-				<div class="elementor-element elementor-element-qooshp2 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="qooshp2" data-element_type="widget" data-widget_type="icon-box.default">
+				</div> --}}
+				{{-- <div class="elementor-element elementor-element-qooshp2 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="qooshp2" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
@@ -717,7 +717,7 @@ Register Now					</a></div>		</div>
 							</div>
 		</div>
 				</div>
-				</div>
+				</div> --}}
 				<div class="elementor-element elementor-element-hvj0ycb elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="hvj0ycb" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
@@ -860,12 +860,12 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-xyiuqmi elementor-widget elementor-widget-testimonial" data-id="xyiuqmi" data-element_type="widget" data-widget_type="testimonial.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">I have no reservations in recommending TXM Healthcare. They offer a tailor made,  personnel, and highly professional service. All aspects of the work are well thought of and delivered in a seamless fashion with the main aim is to deliver safe service for patients and a comfortable healthy environment for the health professional to deliver their duties to the highest standards"</div>
+							<div class="elementor-testimonial-content">I have no reservations in recommending MedeVolt Healthcare. They offer a tailor made,  personnel, and highly professional service. All aspects of the work are well thought of and delivered in a seamless fashion with the main aim is to deliver safe service for patients and a comfortable healthy environment for the health professional to deliver their duties to the highest standards"</div>
 			
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="TXM Doctors 3">
+							<picture class="attachment-full size-full" loading="lazy" title="MedeVolt Doctors 3">
 <source type="image/webp" srcset="wp-content/uploads/row-2-col-2-1.jpg.webp"/>
 <img width="824" height="990" src="wp-content/uploads/row-2-col-2-1.jpg" alt="row 2 col 2 1" loading="lazy"/>
 </picture>
@@ -956,7 +956,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-459b010 elementor-align-center elementor-widget elementor-widget-button" data-id="459b010" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:aaron.seth@txmhealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:aaron.seth@MedeVolthealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -998,7 +998,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-fb2b0f4 elementor-align-center elementor-widget elementor-widget-button" data-id="fb2b0f4" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:chloe.nicholas@txmhealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:chloe.nicholas@MedeVolthealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1040,7 +1040,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-1f5723f elementor-align-center elementor-widget elementor-widget-button" data-id="1f5723f" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:ashleigh.side@txmhealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:ashleigh.side@MedeVolthealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1088,7 +1088,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-1e84a25 elementor-align-center elementor-widget elementor-widget-button" data-id="1e84a25" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:lacey.limby@txmhealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:lacey.limby@MedeVolthealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1130,7 +1130,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-3zcxk0d elementor-align-center elementor-widget elementor-widget-button" data-id="3zcxk0d" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:alex.coveney-alym@txmhealthcare.co.uk" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:alex.coveney-alym@MedeVolthealthcare.co.uk" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1172,7 +1172,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-709603f elementor-align-center elementor-widget elementor-widget-button" data-id="709603f" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:georgia.nicholas@txmhealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:georgia.nicholas@MedeVolthealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1220,7 +1220,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-8282703 elementor-align-center elementor-widget elementor-widget-button" data-id="8282703" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:alexander.manoli@txmhealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:alexander.manoli@MedeVolthealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1262,7 +1262,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-kayomy1 elementor-align-center elementor-widget elementor-widget-button" data-id="kayomy1" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:alice.ward@txmhealthcare.co.uk" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:alice.ward@MedeVolthealthcare.co.uk" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1304,7 +1304,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-c305954 elementor-align-center elementor-widget elementor-widget-button" data-id="c305954" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:toluwalope.adebayo@txmhealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:toluwalope.adebayo@MedeVolthealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1352,7 +1352,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-4806269 elementor-align-center elementor-widget elementor-widget-button" data-id="4806269" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:abhilasha.joshi@txmhealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:abhilasha.joshi@MedeVolthealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1394,7 +1394,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-51a1ad3 elementor-align-center elementor-widget elementor-widget-button" data-id="51a1ad3" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:julia.bairova@txmhealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:julia.bairova@MedeVolthealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1454,7 +1454,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-df24c40 elementor-align-center elementor-widget elementor-widget-button" data-id="df24c40" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:tiffany.limby@txmhealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:tiffany.limby@MedeVolthealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1496,7 +1496,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-b10a649 elementor-align-center elementor-widget elementor-widget-button" data-id="b10a649" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:bethan.bailey@txmhealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:bethan.bailey@MedeVolthealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1538,7 +1538,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-77a0e64 elementor-align-center elementor-widget elementor-widget-button" data-id="77a0e64" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:amit.gidwani@txmhealthcare.co.uk" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:amit.gidwani@MedeVolthealthcare.co.uk" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1586,7 +1586,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-8aefe74 elementor-align-center elementor-widget elementor-widget-button" data-id="8aefe74" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:colette.pardoe@txmhealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:colette.pardoe@MedeVolthealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1628,7 +1628,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-5bb8166 elementor-align-center elementor-widget elementor-widget-button" data-id="5bb8166" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:william.sumners@txmhealthcare.co.uk" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:william.sumners@MedeVolthealthcare.co.uk" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-right">
 				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
@@ -1683,7 +1683,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-a7da65d elementor-widget elementor-widget-text-editor" data-id="a7da65d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>We’re delighted that you have chosen to join the TXM Healthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Xtra Mile in supporting the next step in your career.</p>					</div>
+				<p>We’re delighted that you have chosen to join the MedeVolt Healthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Xtra Mile in supporting the next step in your career.</p>					</div>
 						</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-1607434 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1607434" data-element_type="section">
@@ -1695,12 +1695,12 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-cb7745c elementor-widget elementor-widget-testimonial" data-id="cb7745c" data-element_type="widget" data-widget_type="testimonial.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"As a healthcare business there is nothing more important than taking care of our people and its important that everyone who works with us feels The Xtra Mile in everything we do. Welcome to the TXM family!"</div>
+							<div class="elementor-testimonial-content">"As a healthcare business there is nothing more important than taking care of our people and its important that everyone who works with us feels The Xtra Mile in everything we do. Welcome to the MedeVolt family!"</div>
 			
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="TXM Doctors 4">
+							<picture class="attachment-full size-full" loading="lazy" title="MedeVolt Doctors 4">
 <source type="image/webp" srcset="wp-content/uploads/profile_photo-190-3.jpg.webp"/>
 <img width="190" height="190" src="wp-content/uploads/profile_photo-190-3.jpg" alt="profile photo 190 3" loading="lazy"/>
 </picture>
@@ -1729,7 +1729,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="TXM Doctors 5">
+							<picture class="attachment-full size-full" loading="lazy" title="MedeVolt Doctors 5">
 <source type="image/webp" srcset="wp-content/uploads/coco.jpg.webp"/>
 <img width="190" height="190" src="wp-content/uploads/coco.jpg" alt="coco" loading="lazy"/>
 </picture>
@@ -2018,34 +2018,32 @@ Register Now					</a></div>		</div>
 	
 	
 		
-<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+	<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
 
-	
-	<div id="footer-inner" class="clr">
+	    
+	    <div id="footer-inner" class="clr">
 
+	<div id="footer-bottom" class="clr no-footer-nav">
 
+	    
+	    <div id="footer-bottom-inner" class="container clr">
 
-<div id="footer-bottom" class="clr no-footer-nav">
+	        
+	        
+	            <div id="copyright" class="clr" role="contentinfo">
+	                Medivolt Healthcare 2020 | All Rights Reserved | <a href="">Privacy Policy</a>         </div><!-- #copyright -->
 
-	
-	<div id="footer-bottom-inner" class="container clr">
+	            
+	    </div><!-- #footer-bottom-inner -->
 
-		
-		
-			<div id="copyright" class="clr" role="contentinfo">
-				TXM Healthcare 2012-2021 | All Rights Reserved | <a href="../privacy-policy/index.html">Privacy Policy</a>			</div><!-- #copyright -->
-
-			
-	</div><!-- #footer-bottom-inner -->
-
-	
-</div><!-- #footer-bottom -->
+	    
+	</div><!-- #footer-bottom -->
 
 
-	</div><!-- #footer-inner -->
+	    </div><!-- #footer-inner -->
 
-	
-</footer><!-- #footer -->
+	    
+	</footer><!-- #footer -->
 
 	
 	
@@ -2110,7 +2108,7 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 <script src='wp-includes/js/jquery/jquery.form.minb2f9.js?ver=4.3.0' id='jquery-form-js'></script>
 <script src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minb106.js?ver=2.7.0-wc.5.8.0' id='jquery-blockui-js'></script>
 <script id='wc-add-to-cart-js-extra'>
-var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https:\/\/www.txmhealthcare.co.uk\/basket\/","is_cart":"","cart_redirect_after_add":"yes"};
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","is_cart":"","cart_redirect_after_add":"yes"};
 </script>
 <script src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min3e35.js?ver=5.8.0' id='wc-add-to-cart-js'></script>
 <script src='wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min64be.js?ver=2.1.4-wc.5.8.0' id='js-cookie-js'></script>
@@ -2123,7 +2121,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax
 </script>
 <script src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min3e35.js?ver=5.8.0' id='wc-cart-fragments-js'></script>
 <script id='17543cd88-js-extra'>
-var localize = {"ajaxurl":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"95cb627a77","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
+var localize = {"ajaxurl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"95cb627a77","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
 </script>
 <script src='wp-content/uploads/essential-addons-elementor/734e5f942.min1a45.js?ver=1637271659' id='17543cd88-js'></script>
 <script src='wp-includes/js/imagesloaded.mineda1.js?ver=4.1.4' id='imagesloaded-js'></script>
@@ -2132,11 +2130,11 @@ var localize = {"ajaxurl":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-aj
 <script src='wp-content/themes/oceanwp/assets/js/vendors/sidr8571.js?ver=3.0.7' id='ow-sidr-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min8571.js?ver=3.0.7' id='ow-magnific-popup-js'></script>
 <script id='oceanwp-main-js-extra'>
-var oceanwpLocalize = {"nonce":"085f226188","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.txmhealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+var oceanwpLocalize = {"nonce":"085f226188","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
 </script>
 <script src='wp-content/themes/oceanwp/assets/js/theme.vanilla.min8571.js?ver=3.0.7' id='oceanwp-main-js'></script>
 <script id='oceanwp-woocommerce-custom-features-js-extra'>
-var oceanwpLocalize = {"nonce":"085f226188","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.txmhealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+var oceanwpLocalize = {"nonce":"085f226188","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
 </script>
 <script src='wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min8571.js?ver=3.0.7' id='oceanwp-woocommerce-custom-features-js'></script>
 <script src='wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/js/wc-gateway-ppec-order-review4c71.js?ver=2.1.3' id='wc-gateway-ppec-order-review-js'></script>
@@ -2159,7 +2157,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 <script src='wp-content/plugins/social-networks-auto-poster-facebook-twitter-g/js-css/jquery.modal.min12f5.js?ver=4.3.23' id='modal-js'></script>
 <script data-namespace="paypal_sdk" data-partner-attribution-id="WooThemes_EC" src='https://www.paypal.com/sdk/js?client-id=AQbghYd-7mRPyimEriYScIgTnYUsLnr5wVnPnmfPaSzwKrUe3qNzfEc5hXr9Ucf_JG_HFAZpJMJYXMuk&amp;merchant-id=MYDXL6JVZSD74&amp;intent=capture&amp;locale=en_GB&amp;components=buttons,funding-eligibility,messages&amp;commit=false&amp;currency=GBP' id='paypal-checkout-sdk-js'></script>
 <script id='wc-gateway-ppec-smart-payment-buttons-js-extra'>
-var wc_ppec_context = {"use_checkout_js":"","environment":"production","locale":"en_GB","page":null,"button_color":"gold","button_shape":"rect","button_label":"paypal","start_checkout_nonce":"d540459e9f","start_checkout_url":"\/?wc-ajax=wc_ppec_start_checkout","return_url":"https:\/\/www.txmhealthcare.co.uk\/checkout\/","cancel_url":"","generic_error_msg":"An error occurred while processing your PayPal payment. Please contact the store owner for assistance.","mini_cart_button_layout":"vertical","mini_cart_button_size":"responsive","mini_cart_button_label":"paypal","mini_cart_disallowed_methods":["CARD","CREDIT","PAYLATER"]};
+var wc_ppec_context = {"use_checkout_js":"","environment":"production","locale":"en_GB","page":null,"button_color":"gold","button_shape":"rect","button_label":"paypal","start_checkout_nonce":"d540459e9f","start_checkout_url":"\/?wc-ajax=wc_ppec_start_checkout","return_url":"https:\/\/www.MedeVolthealthcare.co.uk\/checkout\/","cancel_url":"","generic_error_msg":"An error occurred while processing your PayPal payment. Please contact the store owner for assistance.","mini_cart_button_layout":"vertical","mini_cart_button_size":"responsive","mini_cart_button_label":"paypal","mini_cart_disallowed_methods":["CARD","CREDIT","PAYLATER"]};
 </script>
 <script src='wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/js/wc-gateway-ppec-smart-payment-buttons4c71.js?ver=2.1.3' id='wc-gateway-ppec-smart-payment-buttons-js'></script>
 <script src='wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min3958.js?ver=0.2.1' id='jquery-numerator-js'></script>
@@ -2167,8 +2165,8 @@ var wc_ppec_context = {"use_checkout_js":"","environment":"production","locale":
 <script src='wp-content/plugins/elementor/assets/js/webpack.runtime.min4c8b.js?ver=3.4.5' id='elementor-webpack-runtime-js'></script>
 <script src='wp-content/plugins/elementor/assets/js/frontend-modules.min4c8b.js?ver=3.4.5' id='elementor-frontend-modules-js'></script>
 <script id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"4c04f91df7","urls":{"assets":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.txmhealthcare.co.uk\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
-"menu_cart":{"cart_page_url":"https:\/\/www.txmhealthcare.co.uk\/basket\/","checkout_page_url":"https:\/\/www.txmhealthcare.co.uk\/checkout\/"},"facebook_sdk":{"lang":"en_GB","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"4c04f91df7","urls":{"assets":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
+"menu_cart":{"cart_page_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","checkout_page_url":"https:\/\/www.MedeVolthealthcare.co.uk\/checkout\/"},"facebook_sdk":{"lang":"en_GB","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src='wp-content/plugins/elementor-pro/assets/js/frontend.minccfb.js?ver=3.4.2' id='elementor-pro-frontend-js'></script>
 <script src='wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
@@ -2177,12 +2175,12 @@ var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.txmhealthcare.co.uk\/
 <script src='wp-content/plugins/elementor/assets/lib/share-link/share-link.min4c8b.js?ver=3.4.5' id='share-link-js'></script>
 <script src='wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1' id='elementor-dialog-js'></script>
 <script id='elementor-frontend-js-extra'>
-var PaModulesSettings = {"equalHeight_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-for-elementor\/assets\/frontend\/min-js\/premium-eq-height.min.js"};
-var papro_addons = {"url":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","particles_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/particles.min.js","kenburns_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/cycle.min.js","gradient_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/premium-gradient.min.js","parallax_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/premium-parallax.min.js","lottie_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-for-elementor\/assets\/frontend\/min-js\/lottie.min.js"};
+var PaModulesSettings = {"equalHeight_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-for-elementor\/assets\/frontend\/min-js\/premium-eq-height.min.js"};
+var papro_addons = {"url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","particles_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/particles.min.js","kenburns_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/cycle.min.js","gradient_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/premium-gradient.min.js","parallax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/premium-parallax.min.js","lottie_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-for-elementor\/assets\/frontend\/min-js\/lottie.min.js"};
 </script>
 <script id='elementor-frontend-js-before'>
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},
-"version":"3.4.5","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":14542,"title":"TXM%20Doctors%20-%20TXM%20Healthcare","excerpt":"","featuredImage":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/uploads\/row-2-col-2-1.jpg"}};
+"version":"3.4.5","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":14542,"title":"MedeVolt%20Doctors%20-%20MedeVolt%20Healthcare","excerpt":"","featuredImage":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/uploads\/row-2-col-2-1.jpg"}};
 </script>
 <script src='wp-content/plugins/elementor/assets/js/frontend.min4c8b.js?ver=3.4.5' id='elementor-frontend-js'></script>
 <script id='elementor-frontend-js-after'>

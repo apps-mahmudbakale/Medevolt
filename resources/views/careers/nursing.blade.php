@@ -594,7 +594,7 @@ Register Now					</a></div>		</div>
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-9vwosbu elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="9vwosbu" data-element_type="widget" data-widget_type="icon-box.default">
+				{{-- <div class="elementor-element elementor-element-9vwosbu elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="9vwosbu" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
@@ -611,8 +611,8 @@ Register Now					</a></div>		</div>
 							</div>
 		</div>
 				</div>
-				</div>
-				<div class="elementor-element elementor-element-wkhjx3b elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="wkhjx3b" data-element_type="widget" data-widget_type="icon-box.default">
+				</div> --}}
+		{{-- 		<div class="elementor-element elementor-element-wkhjx3b elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="wkhjx3b" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
@@ -629,7 +629,7 @@ Register Now					</a></div>		</div>
 							</div>
 		</div>
 				</div>
-				</div>
+				</div> --}}
 				<div class="elementor-element elementor-element-vws47s1 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="vws47s1" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
@@ -654,7 +654,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-twtz2rn" data-id="twtz2rn" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-vms5s9i elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="vms5s9i" data-element_type="widget" data-widget_type="icon-box.default">
+					{{-- 	<div class="elementor-element elementor-element-vms5s9i elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="vms5s9i" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
@@ -671,7 +671,7 @@ Register Now					</a></div>		</div>
 							</div>
 		</div>
 				</div>
-				</div>
+				</div> --}}{{-- 
 				<div class="elementor-element elementor-element-qooshp2 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="qooshp2" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
@@ -689,7 +689,7 @@ Register Now					</a></div>		</div>
 							</div>
 		</div>
 				</div>
-				</div>
+				</div> --}}
 				<div class="elementor-element elementor-element-hvj0ycb elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="hvj0ycb" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
@@ -1420,7 +1420,7 @@ Milton Keynes<p>
 				<div class="elementor-element elementor-element-708ac80 elementor-widget elementor-widget-text-editor" data-id="708ac80" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Providing local recruitment solutions to the South West of England MedeVolt Cornwall love remote working from the seaside.</p>					</div>
+				<p>Providing local recruitment solutions to the Nation.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-a1d68c8 elementor-align-center elementor-widget elementor-widget-button" data-id="a1d68c8" data-element_type="widget" data-widget_type="button.default">
@@ -1455,7 +1455,7 @@ Milton Keynes<p>
 				<div class="elementor-element elementor-element-180a3cb elementor-widget elementor-widget-text-editor" data-id="180a3cb" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Keen to work with the biggest Clients in the UK? Contact our established Mental Health division and talk to us today about your next career move.</p>					</div>
+				<p>Keen to work with the biggest Clients in the Nation? Contact our established Allied Health division and talk to us today about your next career move.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-6042b30 elementor-align-center elementor-widget elementor-widget-button" data-id="6042b30" data-element_type="widget" data-widget_type="button.default">
@@ -1516,43 +1516,7 @@ Milton Keynes<p>
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-c642222 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c642222" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8a31886" data-id="8a31886" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-e87569b elementor-widget elementor-widget-image" data-id="e87569b" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-													<a href="https://www.nmc.org.uk/" target="_blank" rel="noopener">
-							
-<img width="400" height="400" src="wp-content/uploads/TWUTLFuP_400x400.jpg" alt="TWUTLFuP_400x400">
-								</a>
-														</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-66a8c25" data-id="66a8c25" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-82f27c2 elementor-widget elementor-widget-image" data-id="82f27c2" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-													<a href="https://www.rcn.org.uk/" target="_blank" rel="noopener">
-<img width="400" height="400" src="wp-content/uploads/3PXx-FLX_400x400.jpg" alt="3PXx">
-								</a>
-														</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
+
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-b9e7e23 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b9e7e23" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
@@ -1664,7 +1628,7 @@ Milton Keynes<p>
 		
 		
 			<div id="copyright" class="clr" role="contentinfo">
-				MedeVolt Healthcare 2012-2021 | All Rights Reserved | <a href="../privacy-policy/index.html">Privacy Policy</a>			</div><!-- #copyright -->
+				MedeVolt Healthcare 2012-2021 | All Rights Reserved | <a href="">Privacy Policy</a>			</div><!-- #copyright -->
 
 			
 	</div><!-- #footer-bottom-inner -->
