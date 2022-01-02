@@ -85,7 +85,7 @@ Route::group(['prefix' => 'admin', 'as' => 'admin.', 'middleware' => ['auth']], 
     Route::get('/', [DashboardController::class, 'index'])->name('dashboard');
     Route::post('test', [UserController::class, 'test'])->name('test');
     Route::resource('users', UserController::class);
-    Route::resource('roles', RoleController::class););
+    Route::resource('roles', RoleController::class);
     Route::resource('recruites', RecruiteController::class);
 
 });
