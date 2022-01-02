@@ -2,10 +2,9 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Application;
 use Illuminate\Http\Request;
 
-class ApplicationController extends Controller
+class RecruiteController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -14,7 +13,8 @@ class ApplicationController extends Controller
      */
     public function index()
     {
-        return view('register');
+        $recruites = Application::all();
+        return view('recruites.index', compact('recruites'));
     }
 
     /**
@@ -35,31 +35,7 @@ class ApplicationController extends Controller
      */
     public function store(Request $request)
     {
-        
-         if ($request->hasFile('cv')) {
-            $fileNameWithExt = $request->file('cv')->getClientOriginalName();
-            $filename = pathinfo($fileNameWithExt, PATHINFO_FILENAME);
-
-            $extension = $request->file('cv')->getClientOriginalExtension();
-
-            $cv = $filename.'_'.time().'.'.$extension;
-            $path = $request->file('cv')->storeAs('public/documents', $cv);
-        } else {
-            $cv = 'no-file.pdf';
-        }
-
-        $application = Application::create([
-            'title' => $request->title,
-            'firstname' => $request->firstname,
-            'lastname' => $request->lastname,
-            'email' => $request->email,
-            'phone' => $request->phone,
-            'career' => $request->career,
-            'role' => $request->role,
-            'cv' => $cv
-        ]);
-
-        return redirect()->route('register-now')->with('success', 'Added');
+        //
     }
 
     /**
@@ -81,7 +57,7 @@ class ApplicationController extends Controller
      */
     public function edit($id)
     {
-        
+        //
     }
 
     /**

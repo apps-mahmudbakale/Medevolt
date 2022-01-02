@@ -20,8 +20,8 @@ class CreateApplicationsTable extends Migration
             $table->string('lastname');
             $table->string('email');
             $table->string('phone');
-            $table->text('career');
-            $table->integer('role_id');
+            $table->string('career');
+            $table->text('role');
             $table->string('cv');
             $table->timestamps();
         });

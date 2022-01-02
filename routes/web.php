@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\ApplicationController;
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\RecruiteController;
 use App\Http\Controllers\RoleController;
 use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
@@ -67,6 +68,11 @@ Route::get('medevolt-upload-document', function () {
     return view('compliance.upload-documents');
 })->name('upload-document');
 
+
+Route::get('medevolt-useful-document', function () {
+    return view('compliance.useful-documents');
+})->name('useful-documents');
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\DashboardController::class, 'index'])->name('home');
@@ -79,5 +85,7 @@ Route::group(['prefix' => 'admin', 'as' => 'admin.', 'middleware' => ['auth']], 
     Route::get('/', [DashboardController::class, 'index'])->name('dashboard');
     Route::post('test', [UserController::class, 'test'])->name('test');
     Route::resource('users', UserController::class);
-    Route::resource('roles', RoleController::class);
+    Route::resource('roles', RoleController::class););
+    Route::resource('recruites', RecruiteController::class);
+
 });
