@@ -562,7 +562,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;">At MedeVolt Healthcare, our experts go The Xtra Mile to find Doctors all over the globe their next opportunity, from Medical Officer to Consultant level.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
+				<h3><span style="color: #ffffff;">At MedeVolt Healthcare, our experts go The Xtra Mile to find Doctors all over the country their next opportunity, from Medical Officer to Consultant level.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-c2a2844 elementor-align-center elementor-widget elementor-widget-button" data-id="c2a2844" data-element_type="widget" data-widget_type="button.default">
@@ -749,7 +749,7 @@ Register Now					</a></div>		</div>
 											</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						Take the next step in your career with the help of our dedicated Junior Doctors division.					</p>
+						Take the next step in your career with the help of our dedicated Team.					</p>
 							</div>
 		</div>
 				</div>
