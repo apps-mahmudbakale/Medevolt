@@ -1194,7 +1194,7 @@ Register Now                    </a></div>      </div>
                         SOLUTIONS                   </a>
                 </h3>
                                     <p class="elementor-icon-box-description">
-                        Unique demands require bespoke solutions and here at Medivolt Healthcare we believe every project should have the personal approach it needs.                    </p>
+                        Unique demands require bespoke solutions and here at Medevolt Healthcare we believe every project should have the personal approach it needs.                    </p>
                             </div>
         </div>
                 </div>
@@ -1229,7 +1229,7 @@ Register Now                    </a></div>      </div>
                         COMPLIANCE                  </span>
                 </h3>
                                     <p class="elementor-icon-box-description">
-                        With safety at the heart of everything we do, you can be assured when working with Medivolt Healthcare that you're in safe hands.                    </p>
+                        With safety at the heart of everything we do, you can be assured when working with Medevolt Healthcare that you're in safe hands.                    </p>
                             </div>
         </div>
                 </div>
@@ -1264,7 +1264,7 @@ Register Now                    </a></div>      </div>
                         SUPPORT                 </span>
                 </h3>
                                     <p class="elementor-icon-box-description">
-                        Treating people how you like be treated is key to going the Xtra Mile. Get to know more about our team and good works initiatives.                  </p>
+                        Treating people how you like be treated is key to going the Extra Mile. Get to know more about our team and good works initiatives.                  </p>
                             </div>
         </div>
                 </div>
@@ -1299,7 +1299,7 @@ Register Now                    </a></div>      </div>
                         CAREERS                 </a>
                 </h3>
                                     <p class="elementor-icon-box-description">
-                        You're a specialist in your field, and so are we. Whether it be for a week or forever with years of experience let us take the next step in your career The Xtra Mile!                  </p>
+                        You're a specialist in your field, and so are we. Whether it be for a week or forever with years of experience let us take the next step in your career The Extra Mile!                  </p>
                             </div>
         </div>
                 </div>
