@@ -548,7 +548,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;"><strong>At MediVolt Healthcare, our experts go The Xtra Mile to find Healthcare professionals all over the globe their next opportunity.</strong></span></h3><h3><span style="color: #ffffff;"><strong>We release new roles onto our website every week, but for a full range of positions and information please contact our team directly by arranging a callback at your convenience.</strong></span></h3>					</div>
+				<h3><span style="color: #ffffff;"><strong>At MediVolt Healthcare, our experts go The Xtra Mile to find Healthcare professionals all over the country their next opportunity.</strong></span></h3><h3><span style="color: #ffffff;"><strong>We release new roles onto our website every week, but for a full range of positions and information please contact our team directly by arranging a callback at your convenience.</strong></span></h3>					</div>
 						</div>
 				</div>
 						</div>
