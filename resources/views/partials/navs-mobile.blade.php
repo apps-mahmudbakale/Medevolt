@@ -11,9 +11,8 @@
 		<nav class="clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
 
 			<ul id="menu-main-menu-1" class="fs-dropdown-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-14889"><a href="{{route('welcome')}}">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-14908"><a href="../careers/index.html">Careers</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-14908"><a href="">Careers</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14872"><a href="{{route('register-now')}}">Register Now!</a></li>
 	 <li id="menu-item-14872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14872"><a href="{{route('register-now')}}" class="menu-link"><span class="text-wrap">Register Now!</span></a></li> <li id="menu-item-15052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15052"><a href="{{route('latest-roles')}}" class="menu-link"><span class="text-wrap">Latest Roles</span></a></li>  <li id="menu-item-14874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14874"><a href="{{route('doctors')}}" class="menu-link"><span class="text-wrap">MediVolt Doctors</span></a></li>    <li id="menu-item-14618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14618"><a href="{{ route('nursing')}}" class="menu-link"><span class="text-wrap">MediVolt Nursing</span></a></li>    <li id="menu-item-14951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14951"><a href="{{ route('allied-health')}}" class="menu-link"><span class="text-wrap">MediVolt Allied Health</span></a></li> 
 </ul>
 </li>

@@ -80,7 +80,6 @@ img.emoji {
 <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3' media='all' />
-<
 <script src='wp-content/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script src='wp-content/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <script src='wp-content/plugins/download-manager/assets/bootstrap/js/popper.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wpdm-poper-js'></script>
@@ -568,7 +567,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-tzhib5k" data-id="tzhib5k" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
+{{-- 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-9d1b4hd no-margin elementor-widget elementor-widget-heading" data-id="9d1b4hd" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -829,7 +828,7 @@ Register Now					</a></div>		</div>
 					</div>
 		</section>
 						</div>
-					</div>
+					</div> --}}
 		</div>
 								</div>
 					</div>
@@ -956,7 +955,7 @@ Register Now					</a></div>		</div>
 							<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-kanotbj" data-id="kanotbj" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
+{{-- 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-lxxiqss no-margin elementor-widget elementor-widget-heading" data-id="lxxiqss" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -1065,7 +1064,7 @@ Register Now					</a></div>		</div>
 					</div>
 		</section>
 						</div>
-					</div>
+					</div> --}}
 		</div>
 								</div>
 					</div>

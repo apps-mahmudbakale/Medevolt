@@ -623,7 +623,10 @@ Register Now					</a></div>		</div>
 				<div class="col-md-12">
 					I'd like to be contacted by :
 					<select name="career" id="" class="form-control">
-						<option>Radiography</option>
+						<option></option>
+						<option value="MedeVolt Doctors">MedeVolt Doctors</option>
+						<option value="MedeVolt Nursing">MedeVolt Nursing</option>
+						<option value="MedeVolt Allied Health">MedeVolt Allied Health</option>
 					</select>
 				</div>
 				<div class="col-md-12">
@@ -633,6 +636,11 @@ Register Now					</a></div>		</div>
 				<div class="col-md-12">
 					Cv Upload
 					<input type="file" name="cv"  class="form-control">
+					<br><hr>
+					<p>Dont worry if your CV isnt up to date, just put your contact details above and our team will reach out and support you updating your CV so its perfect for your next role!</p>
+				</div>
+				<div class="col-md-12">
+					<input type="checkbox" id="c-9-4" checked="checked"><span>I am happy for MedeVolt Healthcare to contact me for the purpose of discussing and completing my registration. </span>
 				</div>
 				<div class="col-md-12">
 					<button type="submit" class="btn btn-primary">Submit</button>
@@ -681,16 +689,16 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-33ece97 elementor-widget elementor-widget-testimonial" data-id="33ece97" data-element_type="widget" data-widget_type="testimonial.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"As a healthcare business there is nothing more important than taking care of our people and its important that everyone who works with us feels The Xtra Mile in everything we do. Welcome to the TXM family!"</div>
+							<div class="elementor-testimonial-content">"As a healthcare business there is nothing more important than taking care of our people and its important that everyone who works with us feels The Xtra Mile in everything we do. Welcome to the MedeVolt family!"</div>
 			
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">						
-<img width="190" height="190" src="wp-content/uploads/profile_photo-190-3.jpg" alt="profile photo 190 3" loading="lazy"/>
+<img width="190" height="190" src="{{asset('img/avatar.jpg')}}" alt="profile photo 190 3" loading="lazy"/>
 						</div>
 					
 										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">JO NICHOLAS</div>
+														<div class="elementor-testimonial-name">Aisha Muhammad Sani</div>
 																						<div class="elementor-testimonial-job">Managing Director</div>
 													</div>
 									</div>
@@ -712,12 +720,12 @@ Register Now					</a></div>		</div>
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-<img width="190" height="190" src="wp-content/uploads/coco.jpg" alt="coco" loading="lazy"/>
+<img width="190" height="190" src="{{asset('img/avatar.jpg')}}" alt="coco" loading="lazy"/>
 
 						</div>
 					
 										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">Chloe nicholas</div>
+														<div class="elementor-testimonial-name">Ikilima Ismail</div>
 																						<div class="elementor-testimonial-job">Sales Director</div>
 													</div>
 									</div>
@@ -771,7 +779,7 @@ Register Now					</a></div>		</div>
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-12bfa9c elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="12bfa9c" data-element_type="widget" data-widget_type="icon-box.default">
+{{-- 				<div class="elementor-element elementor-element-12bfa9c elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="12bfa9c" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
@@ -788,8 +796,8 @@ Register Now					</a></div>		</div>
 							</div>
 		</div>
 				</div>
-				</div>
-				<div class="elementor-element elementor-element-2e406b9 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="2e406b9" data-element_type="widget" data-widget_type="icon-box.default">
+				</div> --}}
+{{-- 				<div class="elementor-element elementor-element-2e406b9 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="2e406b9" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
@@ -806,7 +814,7 @@ Register Now					</a></div>		</div>
 							</div>
 		</div>
 				</div>
-				</div>
+				</div> --}}
 				<div class="elementor-element elementor-element-2ffe422 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="2ffe422" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
@@ -831,7 +839,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-22b8b24" data-id="22b8b24" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-a63c175 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="a63c175" data-element_type="widget" data-widget_type="icon-box.default">
+{{-- 						<div class="elementor-element elementor-element-a63c175 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="a63c175" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
@@ -848,8 +856,8 @@ Register Now					</a></div>		</div>
 							</div>
 		</div>
 				</div>
-				</div>
-				<div class="elementor-element elementor-element-730b01e elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="730b01e" data-element_type="widget" data-widget_type="icon-box.default">
+				</div> --}}
+{{-- 				<div class="elementor-element elementor-element-730b01e elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="730b01e" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
@@ -866,7 +874,7 @@ Register Now					</a></div>		</div>
 							</div>
 		</div>
 				</div>
-				</div>
+				</div> --}}
 				<div class="elementor-element elementor-element-82cd54a elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="82cd54a" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
@@ -958,7 +966,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-b22c79a elementor-widget elementor-widget-text-editor" data-id="b22c79a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;">Medivolt Healthcare, a family run business since 2012</span></h3>					</div>
+				<h3><span style="color: #ffffff;">Medivolt Healthcare, a family run business since 2020</span></h3>					</div>
 						</div>
 				</div>
 						</div>
@@ -1052,7 +1060,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-0359f8b elementor-widget elementor-widget-text-editor" data-id="0359f8b" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Enjoy your career but looking for more from your role? Channel Islands perhaps? Our dedicated Nursing team are here for you.</p>					</div>
+				<p>Enjoy your career but looking for more from your role? Our dedicated Nursing team are here for you.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-6b03dde elementor-align-center elementor-widget elementor-widget-button" data-id="6b03dde" data-element_type="widget" data-widget_type="button.default">
@@ -1087,7 +1095,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-d3f5067 elementor-widget elementor-widget-text-editor" data-id="d3f5067" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Keen to work with the biggest Clients in the UK? Contact our established Mental Health division and talk to us today about your next career move.</p>					</div>
+				<p>Keen to work with the biggest Clients in the country? Contact our established Allied Health division and talk to us today about your next career move.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-a8cbf2f elementor-align-center elementor-widget elementor-widget-button" data-id="a8cbf2f" data-element_type="widget" data-widget_type="button.default">
@@ -1259,7 +1267,7 @@ Register Now					</a></div>		</div>
 		
 		
 			<div id="copyright" class="clr" role="contentinfo">
-				Medivolt Healthcare 2012-2021 | All Rights Reserved | <a href="../privacy-policy/index.html">Privacy Policy</a>			</div><!-- #copyright -->
+				Medivolt Healthcare 2020 | All Rights Reserved | <a href="../privacy-policy/index.html">Privacy Policy</a>			</div><!-- #copyright -->
 
 			
 	</div><!-- #footer-bottom-inner -->

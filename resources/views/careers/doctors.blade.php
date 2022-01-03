@@ -749,7 +749,7 @@ Register Now					</a></div>		</div>
 											</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						Take the next step in your career with the help of our dedicated Team.					</p>
+						Take the next step in your career with the help of our dedicated, experienced, specialist teams.					</p>
 							</div>
 		</div>
 				</div>
@@ -819,7 +819,7 @@ Register Now					</a></div>		</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-hfqvrij elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="hfqvrij" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-iegohgm" data-id="iegohgm" data-element_type="column">
+{{-- 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-iegohgm" data-id="iegohgm" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-bnruiyf elementor-widget elementor-widget-testimonial" data-id="bnruiyf" data-element_type="widget" data-widget_type="testimonial.default">
@@ -853,8 +853,8 @@ Register Now					</a></div>		</div>
 				</div>
 						</div>
 					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-yhhmnbq" data-id="yhhmnbq" data-element_type="column">
+		</div> --}}
+{{-- 				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-yhhmnbq" data-id="yhhmnbq" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-xyiuqmi elementor-widget elementor-widget-testimonial" data-id="xyiuqmi" data-element_type="widget" data-widget_type="testimonial.default">
@@ -890,7 +890,7 @@ Register Now					</a></div>		</div>
 				</div>
 						</div>
 					</div>
-		</div>
+		</div> --}}
 								</div>
 					</div>
 		</section>
@@ -906,25 +906,25 @@ Register Now					</a></div>		</div>
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-tzhib5k" data-id="tzhib5k" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-9d1b4hd no-margin elementor-widget elementor-widget-heading" data-id="9d1b4hd" data-element_type="widget" data-widget_type="heading.default">
+						{{-- <div class="elementor-element elementor-element-9d1b4hd no-margin elementor-widget elementor-widget-heading" data-id="9d1b4hd" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">MEET THE TEAM</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-hsvot3g no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="hsvot3g" data-element_type="widget" data-widget_type="divider.default">
+				</div> --}}
+{{-- 				<div class="elementor-element elementor-element-hsvot3g no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="hsvot3g" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-divider">
 			<span class="elementor-divider-separator">
 						</span>
 		</div>
 				</div>
-				</div>
-				<div class="elementor-element elementor-element-07k93nt elementor-widget elementor-widget-text-editor" data-id="07k93nt" data-element_type="widget" data-widget_type="text-editor.default">
+				</div> --}}
+{{-- 				<div class="elementor-element elementor-element-07k93nt elementor-widget elementor-widget-text-editor" data-id="07k93nt" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
 				<p>Its always nice to put a face to a name, contact the team below</p>					</div>
 						</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-qlp1u7q elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="qlp1u7q" data-element_type="section">
+				</div> --}}
+{{-- 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-qlp1u7q elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="qlp1u7q" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4050e23" data-id="4050e23" data-element_type="column">
@@ -1055,8 +1055,8 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a8a90be elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a8a90be" data-element_type="section">
+		</section> --}}
+{{-- 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a8a90be elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a8a90be" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-479a821" data-id="479a821" data-element_type="column">
@@ -1187,8 +1187,8 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a563e57 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a563e57" data-element_type="section">
+		</section> --}}
+{{-- 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a563e57 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a563e57" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-59f1620" data-id="59f1620" data-element_type="column">
@@ -1319,8 +1319,8 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8e9f142 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8e9f142" data-element_type="section">
+		</section> --}}
+{{-- 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-8e9f142 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8e9f142" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-354d199" data-id="354d199" data-element_type="column">
@@ -1409,20 +1409,20 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
-				<div class="elementor-element elementor-element-5f8c5e3 no-margin elementor-widget elementor-widget-heading" data-id="5f8c5e3" data-element_type="widget" data-widget_type="heading.default">
+		</section> --}}
+{{-- 				<div class="elementor-element elementor-element-5f8c5e3 no-margin elementor-widget elementor-widget-heading" data-id="5f8c5e3" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">MEET THE Support TEAM</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-c7199bb no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="c7199bb" data-element_type="widget" data-widget_type="divider.default">
+				</div> --}}
+{{-- 				<div class="elementor-element elementor-element-c7199bb no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="c7199bb" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-divider">
 			<span class="elementor-divider-separator">
 						</span>
 		</div>
 				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-446d5f7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="446d5f7" data-element_type="section">
+				</div> --}}
+{{-- 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-446d5f7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="446d5f7" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ee4690a" data-id="ee4690a" data-element_type="column">
@@ -1553,8 +1553,8 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6717f4d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6717f4d" data-element_type="section">
+		</section> --}}
+{{-- 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-6717f4d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6717f4d" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8fdd90d" data-id="8fdd90d" data-element_type="column">
@@ -1660,7 +1660,7 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
+		</section> --}}
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-177b938 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="177b938" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -1700,14 +1700,12 @@ Register Now					</a></div>		</div>
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="MedeVolt Doctors 4">
-<source type="image/webp" srcset="wp-content/uploads/profile_photo-190-3.jpg.webp"/>
-<img width="190" height="190" src="wp-content/uploads/profile_photo-190-3.jpg" alt="profile photo 190 3" loading="lazy"/>
-</picture>
+							
+<img width="190" height="190" src="{{asset('img/avatar.jpg')}}" alt="profile photo 190 3" >
 						</div>
 					
 										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">JO NICHOLAS</div>
+														<div class="elementor-testimonial-name">Aisha Muhammad Sani</div>
 																						<div class="elementor-testimonial-job">Managing Director</div>
 													</div>
 									</div>
@@ -1729,14 +1727,11 @@ Register Now					</a></div>		</div>
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="MedeVolt Doctors 5">
-<source type="image/webp" srcset="wp-content/uploads/coco.jpg.webp"/>
-<img width="190" height="190" src="wp-content/uploads/coco.jpg" alt="coco" loading="lazy"/>
-</picture>
+<img width="190" height="190" src="{{asset('img/avatar.jpg')}}" alt="coco" >
 						</div>
 					
 										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">Chloe nicholas</div>
+														<div class="elementor-testimonial-name">Ikilima Ismail</div>
 																						<div class="elementor-testimonial-job">Sales Director</div>
 													</div>
 									</div>
@@ -1778,24 +1773,24 @@ Register Now					</a></div>		</div>
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
 			<div class="elementor-icon">
-			<i aria-hidden="true" class="fas fa-globe-americas"></i>			</div>
+			<i aria-hidden="true" class="fas fa-user-md"></i>			</div>
 		</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-19e5a62 elementor-widget elementor-widget-heading" data-id="19e5a62" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">MedeVolt EXPERIENCE</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">MedeVolt Doctors</h3>		</div>
 				</div>
 				<div class="elementor-element elementor-element-6352729 elementor-widget elementor-widget-text-editor" data-id="6352729" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>At MedeVolt Healthcare we offer a whole range of beautiful island and remote places to work including the Channel Islands and on a Cruise Ship!</p>					</div>
+				<p>We believe you deserves specialist attention.. With years of experience in placing good candidates let us help you cultivate your career today.</p>						</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-f61a1b1 elementor-align-center elementor-widget elementor-widget-button" data-id="f61a1b1" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="{{route('experience')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('doctors')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">find out more</span>
 		</span>
@@ -1824,7 +1819,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-a79cd45 elementor-widget elementor-widget-text-editor" data-id="a79cd45" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Enjoy your career but looking for more from your role? Channel Islands perhaps? Gibraltar? Our dedicated Nursing team are here for you.</p>					</div>
+				<p>Enjoy your career but looking for more from your role? Our dedicated Nursing team are here for you.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-cbdae56 elementor-align-center elementor-widget elementor-widget-button" data-id="cbdae56" data-element_type="widget" data-widget_type="button.default">
@@ -1859,7 +1854,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-f69f4b4 elementor-widget elementor-widget-text-editor" data-id="f69f4b4" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Keen to work with the biggest Clients in the UK? Contact our established Mental Health division and talk to us today about your next career move.</p>					</div>
+				<p>Keen to work with the biggest Clients in the country? Contact our established Allied Health division and talk to us today about your next career move.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-a8be6b3 elementor-align-center elementor-widget elementor-widget-button" data-id="a8be6b3" data-element_type="widget" data-widget_type="button.default">
