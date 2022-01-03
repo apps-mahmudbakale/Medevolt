@@ -591,7 +591,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>With an increasing demand on Healthcare services the private sector is playing an important role in supporting patients in the UK and beyond. Providing jobs opportunities and working with our clients in the private sector is key to our values of Going The Xtra Mile.</p>					</div>
+				<p>With an increasing demand on Healthcare services the private sector is playing an important role in supporting patients in the country and beyond. Providing jobs opportunities and working with our clients in the private sector is key to our values of Going The Extra Mile.</p>					</div>
 						</div>
 				</div>
 						</div>
