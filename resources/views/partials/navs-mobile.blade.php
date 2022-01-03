@@ -18,8 +18,8 @@
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14909"><a href="">Solutions</a>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17060"><a href="{{route('experience')}}">MedeVoltExperience</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18195"><a href="{{route('direct')}}">MedeVoltDirect</a></li>
+	{{-- <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17060"><a href="{{route('experience')}}">MedeVoltExperience</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18195"><a href="{{route('direct')}}">MedeVoltDirect</a></li> --}}
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17059"><a href="{{route('private')}}">Private Sector</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17058"><a href="{{route('public')}}">Public Sector</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24580"><a href="{{route('virtual-hospital')}}">Virtual Hospital</a>

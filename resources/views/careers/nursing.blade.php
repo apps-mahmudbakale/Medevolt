@@ -721,7 +721,7 @@ Register Now					</a></div>		</div>
 											</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						Take the next step in your career with the help of our dedicated Junior Doctors division.					</p>
+						Take the next step in your career with the help of our dedicated  Doctors division.					</p>
 							</div>
 		</div>
 				</div>
@@ -959,14 +959,11 @@ Register Now					</a></div>		</div>
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="MedeVolt Nursing 6">
-<source type="image/webp" srcset="wp-content/uploads/profile_photo-190-2.jpg.webp"/>
-<img width="190" height="190" src="wp-content/uploads/profile_photo-190-2.jpg" alt="profile photo 190 2" loading="lazy"/>
-</picture>
+<img width="190" height="190" src="{{asset('img/avatar.jpg')}}">
 						</div>
 					
 										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">DANNY LIMBY</div>
+														<div class="elementor-testimonial-name">Aisha Muhammad Sani</div>
 																						<div class="elementor-testimonial-job">Director of Health & Social Care</div>
 													</div>
 									</div>
@@ -988,14 +985,12 @@ Register Now					</a></div>		</div>
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="MedeVolt Nursing 7">
-<source type="image/webp" srcset="wp-content/uploads/profile_photo-190-7.jpg.webp"/>
-<img width="190" height="190" src="wp-content/uploads/profile_photo-190-7.jpg" alt="profile photo 190 7" loading="lazy"/>
-</picture>
+
+<img width="190" height="190" src="{{asset('img/avatar.jpg')}}" alt="profile photo 190 7">
 						</div>
 					
 										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">MICHAEL HOLLIS</div>
+														<div class="elementor-testimonial-name">Ikilima Ismail</div>
 																						<div class="elementor-testimonial-job">Sales Director</div>
 													</div>
 									</div>
