@@ -73,6 +73,20 @@ Route::get('medevolt-useful-document', function () {
     return view('compliance.useful-documents');
 })->name('useful-documents');
 
+
+Route::get('medevolt-news', function () {
+    return view('support.news');
+})->name('news');
+
+
+Route::get('medevolt-blog', function () {
+    return view('support.blog');
+})->name('blog');
+
+Route::get('contact-us', function () {
+    return view('contact');
+})->name('contact');
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\DashboardController::class, 'index'])->name('home');

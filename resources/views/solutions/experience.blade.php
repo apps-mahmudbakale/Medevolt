@@ -1371,7 +1371,7 @@ Register Now					</a></div>		</div>
 		
 		
 			<div id="copyright" class="clr" role="contentinfo">
-				MedeVolt Healthcare 2012-2021 | All Rights Reserved | <a href="../privacy-policy/index.html">Privacy Policy</a>			</div><!-- #copyright -->
+				MedeVolt Healthcare 2020 | All Rights Reserved | <a href="">Privacy Policy</a>			</div><!-- #copyright -->
 
 			
 	</div><!-- #footer-bottom-inner -->

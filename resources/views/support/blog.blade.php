@@ -5,27 +5,27 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Private Sector - MedeVolt Healthcare</title>
-<meta name="description" content="With an increasing demand on Healthcare services the private sector is playing an important role in supporting patients in the UK and beyond. Providing jobs"/>
+<!-- Search Engine Optimisation by Rank Math - https://s.rankmath.com/home -->
+<title>Blog - MedeVolt Healthcare</title>
+<meta name="description" content="Today is R U OK? Day 2021. Reach out to..."/>
 <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 <link rel="canonical" href="index.html" />
 <meta property="og:locale" content="en_GB" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Private Sector - MedeVolt Healthcare" />
-<meta property="og:description" content="With an increasing demand on Healthcare services the private sector is playing an important role in supporting patients in the UK and beyond. Providing jobs" />
+<meta property="og:title" content="Blog - MedeVolt Healthcare" />
+<meta property="og:description" content="Today is R U OK? Day 2021. Reach out to..." />
 <meta property="og:url" content="index.html" />
 <meta property="og:site_name" content="MedeVolt Healthcare" />
 <meta property="article:publisher" content="https://www.facebook.com/MedeVoltHealthcare/" />
-<meta property="og:updated_time" content="2021-09-07T18:14:57+01:00" />
-<meta property="og:image" content="wp-content/uploads/row-2-col-5-2.jpg" />
-<meta property="og:image:secure_url" content="wp-content/uploads/row-2-col-5-2.jpg" />
-<meta property="og:image:width" content="824" />
-<meta property="og:image:height" content="990" />
-<meta property="og:image:alt" content="Private Sector" />
-<meta property="og:image:type" content="image/jpeg" />
-<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-<link rel='dns-prefetch' href='http://s.w.org/' />
-<style>
+<meta property="og:updated_time" content="2021-09-09T16:26:25+01:00" />
+<meta property="og:image" content="wp-content/uploads/A-conversation-could-change-a-life-R-U-OK.png" />
+<meta property="og:image:secure_url" content="wp-content/uploads/A-conversation-could-change-a-life-R-U-OK.png" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="400" />
+<meta property="og:image:alt" content="Blog" />
+<meta property="og:image:type" content="image/png" />
+
+		<style>
 img.wp-smiley,
 img.emoji {
 	display: inline !important;
@@ -51,7 +51,7 @@ img.emoji {
 .woocommerce form .form-row .required { visibility: visible; }
 </style>
 <link rel='stylesheet' id='wp-job-manager-job-listings-css'  href='wp-content/plugins/wp-job-manager/assets/dist/css/job-listings9c8b.css?ver=d866e43503c5e047c6b0be0a9557cf8e' media='all' />
-<link rel='stylesheet' id='e4934b358-css'  href='wp-content/uploads/essential-addons-elementor/734e5f942.min5ec7.css?ver=1637372066' media='all' />
+<link rel='stylesheet' id='9f47a16e7-css'  href='wp-content/uploads/essential-addons-elementor/734e5f942.mine30f.css?ver=1637271904' media='all' />
 <link rel='stylesheet' id='wc-gateway-ppec-frontend-css'  href='wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/css/wc-gateway-ppec-frontend4c71.css?ver=2.1.3' media='all' />
 <link rel='stylesheet' id='elementor-frontend-legacy-css'  href='wp-content/plugins/elementor/assets/css/frontend-legacy.min4c8b.css?ver=3.4.5' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css'  href='wp-content/plugins/elementor/assets/css/frontend.min4c8b.css?ver=3.4.5' media='all' />
@@ -70,21 +70,52 @@ img.emoji {
 <link rel='stylesheet' id='elementor-post-19665-css'  href='wp-content/uploads/elementor/css/post-196650756.css?ver=1634639653' media='all' />
 <link rel='stylesheet' id='elementor-pro-css'  href='wp-content/plugins/elementor-pro/assets/css/frontend.minccfb.css?ver=3.4.2' media='all' />
 <link rel='stylesheet' id='premium-pro-css'  href='wp-content/plugins/premium-addons-pro/assets/frontend/min-css/premium-addons.min91ee.css?ver=2.5.3' media='all' />
-<link rel='stylesheet' id='elementor-post-17053-css'  href='wp-content/uploads/elementor/css/post-170532bda.css?ver=1634760878' media='all' />
+<link rel='stylesheet' id='elementor-post-24409-css'  href='wp-content/uploads/elementor/css/post-24409679a.css?ver=1634750060' media='all' />
 <link rel='stylesheet' id='oceanwp-woocommerce-css'  href='wp-content/themes/oceanwp/assets/css/woo/woocommerce.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
 <link rel='stylesheet' id='oceanwp-woo-star-font-css'  href='wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
 <link rel='stylesheet' id='oceanwp-woo-quick-view-css'  href='wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
 <link rel='stylesheet' id='ow-perfect-scrollbar-css'  href='wp-content/themes/oceanwp/assets/css/third/perfect-scrollbar91ce.css?ver=1.5.0' media='all' />
 <link rel='stylesheet' id='omw-styles-css'  href='wp-content/plugins/ocean-modal-window/assets/css/style.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
 <link rel='stylesheet' id='oss-social-share-style-css'  href='wp-content/plugins/ocean-social-sharing/assets/css/style.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDosis%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=fab647613944cce2c98c440ab05a878f' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=fab647613944cce2c98c440ab05a878f' media='all' />
 <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' media='all' />
 
+<script id='monsterinsights-frontend-script-js-extra'>
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/www.MedeVolthealthcare.co.uk","hash_tracking":"false","ua":"UA-85607066-1","v4_id":""};
+</script>
+<script src='wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.minafbb.js?ver=8.1.0' id='monsterinsights-frontend-script-js'></script>
 <script src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <script src='wp-content/plugins/download-manager/assets/bootstrap/js/popper.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wpdm-poper-js'></script>
 <script src='wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wpdm-front-bootstrap-js'></script>
+<script id='wpdm-frontjs-js-extra'>
+var wpdm_url = {"home":"https:\/\/www.MedeVolthealthcare.co.uk\/","site":"https:\/\/www.MedeVolthealthcare.co.uk\/","ajax":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php"};
+var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
+</script>
+<script src='wp-content/plugins/download-manager/assets/js/fronta318.js?ver=3.2.18' id='wpdm-frontjs-js'></script>
+<script src='wp-content/themes/oceanwp/assets/js/vendors/smoothscroll.min8571.js?ver=3.0.7' id='ow-smoothscroll-js'></script>
+<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/24409.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='../indexf6a7.html?p=24409' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed7550.json?url=https%3A%2F%2Fwww.MedeVolthealthcare.co.uk%2Fblog%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed134b?url=https%3A%2F%2Fwww.MedeVolthealthcare.co.uk%2Fblog%2F&amp;format=xml" />
+<meta name="google-site-verification" content="-x44A-jJXId6c02KM49itH_1NkXDUcASkuT1VnSAeZw" />    <script type="text/javascript">
+        function nxsPostToFav(obj){ obj.preventDefault;
+            var k = obj.target.split("-"); var nt = k[0]; var ii = k[1];  var pid = k[2];
+            var data = {  action:'nxs_snap_aj', nxsact: 'manPost', nt:nt, id: pid, nid: ii, et_load_builder_modules:1, _wpnonce: '9dea6fc5fa'};
+            jQuery('#nxsFavNoticeCnt').html('<p> Posting... </p>'); jQuery('#nxsFavNotice').modal({ fadeDuration: 50 });
+            jQuery.post('../wp-admin/admin-ajax.html', data, function(response) { if (response=='') response = 'Message Posted';
+                jQuery('#nxsFavNoticeCnt').html('<p> ' + response + '</p>' +'<input type="button"  onclick="jQuery.modal.close();" class="bClose" value="Close" />');
+            });
+        }
+    </script><script type="text/javascript">document.documentElement.className += " js";</script>
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-100x100.png" sizes="32x32" />
+<link rel="icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" />
+<meta name="msapplication-TileImage" content="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" />
 		<style id="wp-custom-css">
 			/* Hide header button from 1024pxpx */@media (max-width:1024px){.hide-1024.elementor-column{display:none}}/* Color of the footer newsletter form */#footer .oceanwp-newsletter-form-wrap input[type="email"]{color:#fff}.frm_style_register-now.with_frm_style .frm_checkbox label a,.frm_style_formidable-style.with_frm_style .frm_checkbox label{color:#000 !important}.frm_style_formidable-style.with_frm_style .form-field input[type=text],.frm_style_formidable-style.with_frm_style .form-field select,.frm_style_formidable-style.with_frm_style .form-field textarea,.frm_style_formidable-style.with_frm_style .frm_form_field :invalid,.frm_style_formidable-style.with_frm_style input[type=email],.frm_style_formidable-style.with_frm_style input[type=tel]{width:100%;padding:12px;border:1px solid #ccc;border-radius:4px;resize:vertical}.myr-main-banner{padding:25px 0 !important}.myr-main-content{padding:25px 0 !important}.myr-sub-content{padding:25px 0 !important}.myr-blog{padding:25px 0 !important}.toptext{background-color:unset;font-size:13px}div#top-bar-social-alt{float:unset}.oew-carousel .oew-carousel-entry-media img{width:100%;height:280px}.single .thumbnail img{width:50%}		</style>
 		<meta name="generator" content="WordPress Download Manager 3.2.18" />
@@ -165,7 +196,7 @@ img.emoji {
         </style>
         </head>
 
-<body class="page-template-default page page-id-17053 wp-custom-logo wp-embed-responsive theme-oceanwp woocommerce-no-js oceanwp-theme fullscreen-mobile no-header-border content-full-screen has-topbar page-header-disabled has-breadcrumbs has-grid-list account-original-style oceanwp elementor-default elementor-kit-19665 elementor-page elementor-page-17053" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<body class="page-template-default page page-id-24409 wp-custom-logo wp-embed-responsive theme-oceanwp woocommerce-no-js oceanwp-theme fullscreen-mobile no-header-border content-full-width content-max-width has-topbar page-header-disabled has-breadcrumbs has-grid-list account-original-style oceanwp elementor-default elementor-kit-19665 elementor-page elementor-page-24409" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 
 	
 	
@@ -505,14 +536,21 @@ Register Now					</a></div>		</div>
 </div><!-- #site-logo -->
 
 			<div id="site-navigation-wrap" class="clr">
-				@include('partials.navs')
-			</div><!-- #site-navigation-wrap -->
+			
+			
+			
+			@include('partials.navs')
+
+			
+			
+					</div><!-- #site-navigation-wrap -->
 			
 		
 	
 				
 	
 	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
 			
 		<a href="javascript:void(0)" class="mobile-menu"  aria-label="Mobile Menu">
 							<div class="hamburger hamburger--stand" aria-expanded="false">
@@ -560,464 +598,133 @@ Register Now					</a></div>		</div>
 <div class="entry clr" itemprop="text">
 
 	
-			<div data-elementor-type="wp-page" data-elementor-id="17053" class="elementor elementor-17053" data-elementor-settings="[]">
+			<div data-elementor-type="wp-page" data-elementor-id="24409" class="elementor elementor-24409" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-tfxxnir elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="tfxxnir" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-							<div class="elementor-background-overlay"></div>
-							<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-mmddnwa" data-id="mmddnwa" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-mdadixz no-margin elementor-widget elementor-widget-heading" data-id="mdadixz" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">PRIVATE SECTOR JOBS</h1>		</div>
-				</div>
-				<div class="elementor-element elementor-element-nxvhbhz no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="nxvhbhz" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-thvguqa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="thvguqa" data-element_type="section">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-3efc8bd elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="3efc8bd" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-bgnnclg" data-id="bgnnclg" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ab6475" data-id="1ab6475" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
+						<div class="elementor-element elementor-element-dc9731f elementor-grid-eael-col-4 elementor-grid-tablet-eael-col-2 elementor-grid-mobile-eael-col-1 elementor-widget elementor-widget-eael-post-grid" data-id="dc9731f" data-element_type="widget" data-settings="{&quot;eael_post_grid_columns&quot;:&quot;eael-col-4&quot;,&quot;eael_post_grid_columns_tablet&quot;:&quot;eael-col-2&quot;,&quot;eael_post_grid_columns_mobile&quot;:&quot;eael-col-1&quot;}" data-widget_type="eael-post-grid.default">
 				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>With an increasing demand on Healthcare services the private sector is playing an important role in supporting patients in the UK and beyond. Providing jobs opportunities and working with our clients in the private sector is key to our values of Going The Xtra Mile.</p>					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-1ef9728 elementor-align-center elementor-widget elementor-widget-button" data-id="1ef9728" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="{{Route('register-now')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">REGISTER NOW</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-9oi2gj4 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9oi2gj4" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-sn5zxwk" data-id="sn5zxwk" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-39abf6f elementor-widget elementor-widget-heading" data-id="39abf6f" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">WHAT IS GOING THE XTRA MILE?</h2>		</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-fd3b60c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fd3b60c" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4252278" data-id="4252278" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-bffe140 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="bffe140" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-search"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Working to support Clients nationwide with Healthcare staffing needs					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-3e67498 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="3e67498" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-heart"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Going The Xtra Mile in everything we do					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-{{-- 				<div class="elementor-element elementor-element-07ac2d0 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="07ac2d0" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-comments"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Keep in touch with our team using the latest communication tools					</p>
-							</div>
-		</div>
-				</div>
-				</div> --}}
-{{-- 				<div class="elementor-element elementor-element-74b1929 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="74b1929" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-map-marker-alt"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Recruit for multiple locations in one working with an International recruitment group					</p>
-							</div>
-		</div>
-				</div>
-				</div> --}}
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a85d2fb" data-id="a85d2fb" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-3d98e9c elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="3d98e9c" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-cog"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Tried and tested RPO Model ensuring highest chance of success					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-fcac64d elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="fcac64d" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-star"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Specialist Doctors, Nursing and Allied Health teams					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-869a5e8 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="869a5e8" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-user"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Single point of contact Account Management by one of our experienced team					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-7cb48e0 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="7cb48e0" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-calendar-alt"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Work with us proactively to ensure you can always meet your staffing demands					</p>
-							</div>
-		</div>
-				</div>
+			<div id="eael-post-grid-dc9731f" class="eael-post-grid-container">
+            <div class="eael-post-grid eael-post-appender eael-post-appender-dc9731f eael-post-grid-style-default" data-layout-mode="grid"><article class="eael-grid-post eael-post-grid-column" data-id="24593">
+        <div class="eael-grid-post-holder">
+            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay fade-in"><i class="fas fa-long-arrow-alt-right" aria-hidden="true"></i><a href="../emergency-medicine-doctors-we-have-a-brilliant-opportunity-for-you-middle-grad/index.html"></a></div><div class="eael-entry-thumbnail">
+                <picture class="attachment-medium size-medium" loading="lazy" title="Blog 1">
+<source type="image/webp" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Emergency-Medicine-Doctors-we-have-a-brilliant-opportunity-for-you-300x188.jpg.webp 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Emergency-Medicine-Doctors-we-have-a-brilliant-opportunity-for-you-150x94.jpg.webp 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Emergency-Medicine-Doctors-we-have-a-brilliant-opportunity-for-you-768x482.jpg.webp 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Emergency-Medicine-Doctors-we-have-a-brilliant-opportunity-for-you-600x377.jpg.webp 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Emergency-Medicine-Doctors-we-have-a-brilliant-opportunity-for-you.jpg.webp 843w" sizes="(max-width: 300px) 100vw, 300px"/>
+<img width="300" height="188" src="wp-content/uploads/Emergency-Medicine-Doctors-we-have-a-brilliant-opportunity-for-you-300x188.jpg" alt="Emergency Medicine Doctors we have a brilliant opportunity for you" loading="lazy" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Emergency-Medicine-Doctors-we-have-a-brilliant-opportunity-for-you-300x188.jpg 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Emergency-Medicine-Doctors-we-have-a-brilliant-opportunity-for-you-150x94.jpg 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Emergency-Medicine-Doctors-we-have-a-brilliant-opportunity-for-you-768x482.jpg 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Emergency-Medicine-Doctors-we-have-a-brilliant-opportunity-for-you-600x377.jpg 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Emergency-Medicine-Doctors-we-have-a-brilliant-opportunity-for-you.jpg 843w" sizes="(max-width: 300px) 100vw, 300px"/>
+</picture>
+
+            </div>
+        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h2 class="eael-entry-title"><a class="eael-grid-post-link" href="../emergency-medicine-doctors-we-have-a-brilliant-opportunity-for-you-middle-grad/index.html" title="Emergency Medicine Doctors, we have a brilliant opportunity for you: Middle Grad&#8230;">Emergency Medicine Doctors, we have a brilliant opportunity for you: Middle Grad&#8230;</a></h2></header><div class="eael-entry-content">
+                        <div class="eael-grid-post-excerpt"><p>Emergency Medicine Doctors, we have a brilliant opportunity for you:...</p><a href="../emergency-medicine-doctors-we-have-a-brilliant-opportunity-for-you-middle-grad/index.html" class="eael-post-elements-readmore-btn">Read More</a></div>
+                    </div><div class="eael-entry-footer"><div class="eael-entry-meta"></div></div></div></div>
+        </div>
+    </article><article class="eael-grid-post eael-post-grid-column" data-id="24578">
+        <div class="eael-grid-post-holder">
+            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay fade-in"><i class="fas fa-long-arrow-alt-right" aria-hidden="true"></i><a href="../is-maternity-cover-locum-work-something-youd-be-interested-in-learning-more-abo/index.html"></a></div><div class="eael-entry-thumbnail">
+                <picture class="attachment-medium size-medium" loading="lazy" title="Blog 2">
+<source type="image/webp" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Is-Maternity-Cover-Locum-work-something-youd-be-interested-in-300x164.jpg.webp 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Is-Maternity-Cover-Locum-work-something-youd-be-interested-in-150x82.jpg.webp 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Is-Maternity-Cover-Locum-work-something-youd-be-interested-in-768x420.jpg.webp 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Is-Maternity-Cover-Locum-work-something-youd-be-interested-in-600x328.jpg.webp 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Is-Maternity-Cover-Locum-work-something-youd-be-interested-in.jpg.webp 960w" sizes="(max-width: 300px) 100vw, 300px"/>
+<img width="300" height="164" src="wp-content/uploads/Is-Maternity-Cover-Locum-work-something-youd-be-interested-in-300x164.jpg" alt="Is Maternity Cover Locum work something youd be interested in" loading="lazy" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Is-Maternity-Cover-Locum-work-something-youd-be-interested-in-300x164.jpg 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Is-Maternity-Cover-Locum-work-something-youd-be-interested-in-150x82.jpg 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Is-Maternity-Cover-Locum-work-something-youd-be-interested-in-768x420.jpg 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Is-Maternity-Cover-Locum-work-something-youd-be-interested-in-600x328.jpg 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Is-Maternity-Cover-Locum-work-something-youd-be-interested-in.jpg 960w" sizes="(max-width: 300px) 100vw, 300px"/>
+</picture>
+
+            </div>
+        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h2 class="eael-entry-title"><a class="eael-grid-post-link" href="../is-maternity-cover-locum-work-something-youd-be-interested-in-learning-more-abo/index.html" title="Is Maternity Cover Locum work something you&#8217;d be interested in learning more abo&#8230;">Is Maternity Cover Locum work something you&#8217;d be interested in learning more abo&#8230;</a></h2></header><div class="eael-entry-content">
+                        <div class="eael-grid-post-excerpt"><p>Is Maternity Cover Locum work something you&#8217;d be interested in...</p><a href="../is-maternity-cover-locum-work-something-youd-be-interested-in-learning-more-abo/index.html" class="eael-post-elements-readmore-btn">Read More</a></div>
+                    </div><div class="eael-entry-footer"><div class="eael-entry-meta"></div></div></div></div>
+        </div>
+    </article><article class="eael-grid-post eael-post-grid-column" data-id="24562">
+        <div class="eael-grid-post-holder">
+            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay fade-in"><i class="fas fa-long-arrow-alt-right" aria-hidden="true"></i><a href="../ophthalmology-MedeVolt-healthcare-are-continuing-our-ophthalmology-recruitment-push-2/index.html"></a></div><div class="eael-entry-thumbnail">
+                <picture class="attachment-medium size-medium" loading="lazy" title="Blog 3">
+<source type="image/webp" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/1632223999_OPHTHALMOLOGY-MedeVolt-Healthcare-are-continuing-our-Ophthalmology-recruitment-push-300x179.jpg.webp 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/1632223999_OPHTHALMOLOGY-MedeVolt-Healthcare-are-continuing-our-Ophthalmology-recruitment-push-150x89.jpg.webp 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/1632223999_OPHTHALMOLOGY-MedeVolt-Healthcare-are-continuing-our-Ophthalmology-recruitment-push-768x457.jpg.webp 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/1632223999_OPHTHALMOLOGY-MedeVolt-Healthcare-are-continuing-our-Ophthalmology-recruitment-push-600x357.jpg.webp 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/1632223999_OPHTHALMOLOGY-MedeVolt-Healthcare-are-continuing-our-Ophthalmology-recruitment-push.jpg.webp 843w" sizes="(max-width: 300px) 100vw, 300px"/>
+<img width="300" height="179" src="wp-content/uploads/1632223999_OPHTHALMOLOGY-MedeVolt-Healthcare-are-continuing-our-Ophthalmology-recruitment-push-300x179.jpg" alt="1632223999 OPHTHALMOLOGY MedeVolt Healthcare are continuing our Ophthalmology recruitment push" loading="lazy" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/1632223999_OPHTHALMOLOGY-MedeVolt-Healthcare-are-continuing-our-Ophthalmology-recruitment-push-300x179.jpg 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/1632223999_OPHTHALMOLOGY-MedeVolt-Healthcare-are-continuing-our-Ophthalmology-recruitment-push-150x89.jpg 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/1632223999_OPHTHALMOLOGY-MedeVolt-Healthcare-are-continuing-our-Ophthalmology-recruitment-push-768x457.jpg 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/1632223999_OPHTHALMOLOGY-MedeVolt-Healthcare-are-continuing-our-Ophthalmology-recruitment-push-600x357.jpg 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/1632223999_OPHTHALMOLOGY-MedeVolt-Healthcare-are-continuing-our-Ophthalmology-recruitment-push.jpg 843w" sizes="(max-width: 300px) 100vw, 300px"/>
+</picture>
+
+            </div>
+        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h2 class="eael-entry-title"><a class="eael-grid-post-link" href="../ophthalmology-MedeVolt-healthcare-are-continuing-our-ophthalmology-recruitment-push-2/index.html" title="OPHTHALMOLOGY: MedeVolt Healthcare are continuing our #Ophthalmology recruitment push&#8230;">OPHTHALMOLOGY: MedeVolt Healthcare are continuing our #Ophthalmology recruitment push&#8230;</a></h2></header><div class="eael-entry-content">
+                        <div class="eael-grid-post-excerpt"><p>OPHTHALMOLOGY: MedeVolt Healthcare are continuing our #Ophthalmology recruitment push with...</p><a href="../ophthalmology-MedeVolt-healthcare-are-continuing-our-ophthalmology-recruitment-push-2/index.html" class="eael-post-elements-readmore-btn">Read More</a></div>
+                    </div><div class="eael-entry-footer"><div class="eael-entry-meta"></div></div></div></div>
+        </div>
+    </article><article class="eael-grid-post eael-post-grid-column" data-id="24547">
+        <div class="eael-grid-post-holder">
+            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay fade-in"><i class="fas fa-long-arrow-alt-right" aria-hidden="true"></i><a href="../were-helping-hospitals-get-ready-for-winterpressures-with-lots-of-new-roles-on/index.html"></a></div><div class="eael-entry-thumbnail">
+                <picture class="attachment-medium size-medium" loading="lazy" title="Blog 4">
+<source type="image/webp" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Were-helping-hospitals-get-ready-for-WinterPressures-with-lots-of-300x179.jpg.webp 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Were-helping-hospitals-get-ready-for-WinterPressures-with-lots-of-150x89.jpg.webp 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Were-helping-hospitals-get-ready-for-WinterPressures-with-lots-of-768x457.jpg.webp 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Were-helping-hospitals-get-ready-for-WinterPressures-with-lots-of-600x357.jpg.webp 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Were-helping-hospitals-get-ready-for-WinterPressures-with-lots-of.jpg.webp 843w" sizes="(max-width: 300px) 100vw, 300px"/>
+<img width="300" height="179" src="wp-content/uploads/Were-helping-hospitals-get-ready-for-WinterPressures-with-lots-of-300x179.jpg" alt="Were helping hospitals get ready for WinterPressures with lots of" loading="lazy" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Were-helping-hospitals-get-ready-for-WinterPressures-with-lots-of-300x179.jpg 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Were-helping-hospitals-get-ready-for-WinterPressures-with-lots-of-150x89.jpg 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Were-helping-hospitals-get-ready-for-WinterPressures-with-lots-of-768x457.jpg 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Were-helping-hospitals-get-ready-for-WinterPressures-with-lots-of-600x357.jpg 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Were-helping-hospitals-get-ready-for-WinterPressures-with-lots-of.jpg 843w" sizes="(max-width: 300px) 100vw, 300px"/>
+</picture>
+
+            </div>
+        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h2 class="eael-entry-title"><a class="eael-grid-post-link" href="../were-helping-hospitals-get-ready-for-winterpressures-with-lots-of-new-roles-on/index.html" title="We&#8217;re helping hospitals get ready for #WinterPressures with lots of new roles on&#8230;">We&#8217;re helping hospitals get ready for #WinterPressures with lots of new roles on&#8230;</a></h2></header><div class="eael-entry-content">
+                        <div class="eael-grid-post-excerpt"><p>We&#8217;re helping hospitals get ready for #WinterPressures with lots of...</p><a href="../were-helping-hospitals-get-ready-for-winterpressures-with-lots-of-new-roles-on/index.html" class="eael-post-elements-readmore-btn">Read More</a></div>
+                    </div><div class="eael-entry-footer"><div class="eael-entry-meta"></div></div></div></div>
+        </div>
+    </article><article class="eael-grid-post eael-post-grid-column" data-id="24546">
+        <div class="eael-grid-post-holder">
+            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay fade-in"><i class="fas fa-long-arrow-alt-right" aria-hidden="true"></i><a href="../reqd-in-belfast-for-a-days-only-position-offering-21-00-per-ho/index.html"></a></div><div class="eael-entry-thumbnail">
+                <picture class="attachment-medium size-medium" loading="lazy" title="Blog 5">
+<source type="image/webp" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Copy-of-Facebook-Video-Post-2-300x252.jpg.webp 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Copy-of-Facebook-Video-Post-2-150x126.jpg.webp 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Copy-of-Facebook-Video-Post-2-768x644.jpg.webp 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Copy-of-Facebook-Video-Post-2-600x503.jpg.webp 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Copy-of-Facebook-Video-Post-2.jpg.webp 916w" sizes="(max-width: 300px) 100vw, 300px"/>
+<img width="300" height="252" src="wp-content/uploads/Copy-of-Facebook-Video-Post-2-300x252.jpg" alt="Copy of Facebook Video Post 2" loading="lazy" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Copy-of-Facebook-Video-Post-2-300x252.jpg 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Copy-of-Facebook-Video-Post-2-150x126.jpg 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Copy-of-Facebook-Video-Post-2-768x644.jpg 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Copy-of-Facebook-Video-Post-2-600x503.jpg 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Copy-of-Facebook-Video-Post-2.jpg 916w" sizes="(max-width: 300px) 100vw, 300px"/>
+</picture>
+
+            </div>
+        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h2 class="eael-entry-title"><a class="eael-grid-post-link" href="../reqd-in-belfast-for-a-days-only-position-offering-21-00-per-ho/index.html" title="req&#8217;d in Belfast for a days-only position. + Offering £21.00 per ho&#8230;">req&#8217;d in Belfast for a days-only position. + Offering £21.00 per ho&#8230;</a></h2></header><div class="eael-entry-content">
+                        <div class="eael-grid-post-excerpt"><p>&nbsp; req&#8217;d in Belfast for a days-only position. + Offering...</p><a href="../reqd-in-belfast-for-a-days-only-position-offering-21-00-per-ho/index.html" class="eael-post-elements-readmore-btn">Read More</a></div>
+                    </div><div class="eael-entry-footer"><div class="eael-entry-meta"></div></div></div></div>
+        </div>
+    </article><article class="eael-grid-post eael-post-grid-column" data-id="24544">
+        <div class="eael-grid-post-holder">
+            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay fade-in"><i class="fas fa-long-arrow-alt-right" aria-hidden="true"></i><a href="../chloe-has-dozens-of-new-consultant-positions-available-as-winterpressures-deman/index.html"></a></div><div class="eael-entry-thumbnail">
+                <picture class="attachment-medium size-medium" loading="lazy" title="Blog 6">
+<source type="image/webp" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Chloe-has-dozens-of-new-Consultant-positions-available-as-WinterPressures-300x153.jpg.webp 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Chloe-has-dozens-of-new-Consultant-positions-available-as-WinterPressures-150x77.jpg.webp 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Chloe-has-dozens-of-new-Consultant-positions-available-as-WinterPressures-768x392.jpg.webp 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Chloe-has-dozens-of-new-Consultant-positions-available-as-WinterPressures-600x307.jpg.webp 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Chloe-has-dozens-of-new-Consultant-positions-available-as-WinterPressures.jpg.webp 1000w" sizes="(max-width: 300px) 100vw, 300px"/>
+<img width="300" height="153" src="wp-content/uploads/Chloe-has-dozens-of-new-Consultant-positions-available-as-WinterPressures-300x153.jpg" alt="Chloe has dozens of new Consultant positions available as WinterPressures" loading="lazy" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Chloe-has-dozens-of-new-Consultant-positions-available-as-WinterPressures-300x153.jpg 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Chloe-has-dozens-of-new-Consultant-positions-available-as-WinterPressures-150x77.jpg 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Chloe-has-dozens-of-new-Consultant-positions-available-as-WinterPressures-768x392.jpg 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Chloe-has-dozens-of-new-Consultant-positions-available-as-WinterPressures-600x307.jpg 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Chloe-has-dozens-of-new-Consultant-positions-available-as-WinterPressures.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px"/>
+</picture>
+
+            </div>
+        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h2 class="eael-entry-title"><a class="eael-grid-post-link" href="../chloe-has-dozens-of-new-consultant-positions-available-as-winterpressures-deman/index.html" title="Chloe has dozens of new Consultant positions available as #WinterPressures deman&#8230;">Chloe has dozens of new Consultant positions available as #WinterPressures deman&#8230;</a></h2></header><div class="eael-entry-content">
+                        <div class="eael-grid-post-excerpt"><p>Chloe has dozens of new Consultant positions available as #WinterPressures...</p><a href="../chloe-has-dozens-of-new-consultant-positions-available-as-winterpressures-deman/index.html" class="eael-post-elements-readmore-btn">Read More</a></div>
+                    </div><div class="eael-entry-footer"><div class="eael-entry-meta"></div></div></div></div>
+        </div>
+    </article><article class="eael-grid-post eael-post-grid-column" data-id="24540">
+        <div class="eael-grid-post-holder">
+            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay fade-in"><i class="fas fa-long-arrow-alt-right" aria-hidden="true"></i><a href="../looking-for-a-new-temporary-locum-role-were-looking-for-a-consultant-haematolo/index.html"></a></div><div class="eael-entry-thumbnail">
+                <picture class="attachment-medium size-medium" loading="lazy" title="Blog 7">
+<source type="image/webp" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Looking-for-a-new-Temporary-Locum-role-Were-looking-for-300x201.jpg.webp 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Looking-for-a-new-Temporary-Locum-role-Were-looking-for-150x100.jpg.webp 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Looking-for-a-new-Temporary-Locum-role-Were-looking-for-768x514.jpg.webp 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Looking-for-a-new-Temporary-Locum-role-Were-looking-for-600x401.jpg.webp 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Looking-for-a-new-Temporary-Locum-role-Were-looking-for.jpg.webp 807w" sizes="(max-width: 300px) 100vw, 300px"/>
+<img width="300" height="201" src="wp-content/uploads/Looking-for-a-new-Temporary-Locum-role-Were-looking-for-300x201.jpg" alt="Looking for a new Temporary Locum role Were looking for" loading="lazy" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Looking-for-a-new-Temporary-Locum-role-Were-looking-for-300x201.jpg 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Looking-for-a-new-Temporary-Locum-role-Were-looking-for-150x100.jpg 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Looking-for-a-new-Temporary-Locum-role-Were-looking-for-768x514.jpg 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Looking-for-a-new-Temporary-Locum-role-Were-looking-for-600x401.jpg 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/Looking-for-a-new-Temporary-Locum-role-Were-looking-for.jpg 807w" sizes="(max-width: 300px) 100vw, 300px"/>
+</picture>
+
+            </div>
+        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h2 class="eael-entry-title"><a class="eael-grid-post-link" href="../looking-for-a-new-temporary-locum-role-were-looking-for-a-consultant-haematolo/index.html" title="Looking for a new Temporary Locum role? We&#8217;re looking for a Consultant Haematolo&#8230;">Looking for a new Temporary Locum role? We&#8217;re looking for a Consultant Haematolo&#8230;</a></h2></header><div class="eael-entry-content">
+                        <div class="eael-grid-post-excerpt"><p>Looking for a new Temporary Locum role? We&#8217;re looking for...</p><a href="../looking-for-a-new-temporary-locum-role-were-looking-for-a-consultant-haematolo/index.html" class="eael-post-elements-readmore-btn">Read More</a></div>
+                    </div><div class="eael-entry-footer"><div class="eael-entry-meta"></div></div></div></div>
+        </div>
+    </article><article class="eael-grid-post eael-post-grid-column" data-id="24538">
+        <div class="eael-grid-post-holder">
+            <div class="eael-grid-post-holder-inner"><div class="eael-entry-media"><div class="eael-entry-overlay fade-in"><i class="fas fa-long-arrow-alt-right" aria-hidden="true"></i><a href="../if-you-want-your-next-role-to-be-an-offshore-opportunity-then-look-no-further/index.html"></a></div><div class="eael-entry-thumbnail">
+                <picture class="attachment-medium size-medium" loading="lazy" title="Blog 8">
+<source type="image/webp" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/If-you-want-your-next-role-to-be-an-OffShore-300x200.jpg.webp 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/If-you-want-your-next-role-to-be-an-OffShore-150x100.jpg.webp 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/If-you-want-your-next-role-to-be-an-OffShore-768x512.jpg.webp 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/If-you-want-your-next-role-to-be-an-OffShore-600x400.jpg.webp 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/If-you-want-your-next-role-to-be-an-OffShore.jpg.webp 810w" sizes="(max-width: 300px) 100vw, 300px"/>
+<img width="300" height="200" src="wp-content/uploads/If-you-want-your-next-role-to-be-an-OffShore-300x200.jpg" alt="If you want your next role to be an OffShore" loading="lazy" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/If-you-want-your-next-role-to-be-an-OffShore-300x200.jpg 300w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/If-you-want-your-next-role-to-be-an-OffShore-150x100.jpg 150w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/If-you-want-your-next-role-to-be-an-OffShore-768x512.jpg 768w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/If-you-want-your-next-role-to-be-an-OffShore-600x400.jpg 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/If-you-want-your-next-role-to-be-an-OffShore.jpg 810w" sizes="(max-width: 300px) 100vw, 300px"/>
+</picture>
+
+            </div>
+        </div><div class="eael-entry-wrapper"><header class="eael-entry-header"><h2 class="eael-entry-title"><a class="eael-grid-post-link" href="../if-you-want-your-next-role-to-be-an-offshore-opportunity-then-look-no-further/index.html" title="If you want your next role to be an #OffShore opportunity then look no further. &#8230;">If you want your next role to be an #OffShore opportunity then look no further. &#8230;</a></h2></header><div class="eael-entry-content">
+                        <div class="eael-grid-post-excerpt"><p>If you want your next role to be an #OffShore...</p><a href="../if-you-want-your-next-role-to-be-an-offshore-opportunity-then-look-no-further/index.html" class="eael-post-elements-readmore-btn">Read More</a></div>
+                    </div><div class="eael-entry-footer"><div class="eael-entry-meta"></div></div></div></div>
+        </div>
+    </article></div>
+            <div class="clearfix"></div>
+        </div>            <div class="eael-load-more-button-wrap">
+                <button class="eael-load-more-button" id="eael-load-more-btn-dc9731f" data-widget-id="dc9731f" data-widget="dc9731f" data-page-id="24409" data-nonce="d079a923c4" data-template="{&quot;dir&quot;:&quot;lite&quot;,&quot;file_name&quot;:&quot;default.php&quot;,&quot;name&quot;:&quot;Post-Grid&quot;}" data-class="Essential_Addons_Elementor\Elements\Post_Grid" data-layout="grid" data-page="1" data-args="orderby=date&amp;order=desc&amp;ignore_sticky_posts=1&amp;post_status=publish&amp;posts_per_page=8&amp;offset=0&amp;post_type=post" data-max-page="75">
+                    <div class="eael-btn-loader button__loader"></div>
+                    <span>Load More</span>
+                </button>
+            </div>
+        		</div>
 				</div>
 						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-uewm4wi" data-id="uewm4wi" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-hrw6g7u elementor-widget elementor-widget-image" data-id="hrw6g7u" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-				<img width="768" height="460" src="wp-content/uploads/health-care-768x460.jpg" alt="health care">
-					</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-mrxdaxj elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="mrxdaxj" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-							<div class="elementor-background-overlay"></div>
-							<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-kanotbj" data-id="kanotbj" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-lxxiqss no-margin elementor-widget elementor-widget-heading" data-id="lxxiqss" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">FEEDBACK</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-ndepstn no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="ndepstn" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-cocipvx elementor-widget elementor-widget-text-editor" data-id="cocipvx" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>Don&#8217;t just take our word for it. Here are some comments from happy clients, if you read further down you will see a few case studies as well from projects that we particularly enjoyed. Get in touch today to start to discuss your recruitment needs and how we may be able to work together to solve them! </p>					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-6362cfd elementor-align-center elementor-widget elementor-widget-button" data-id="6362cfd" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="mailto:matthew.maple@MedeVolthealthcare.co.ukmailto:commercial@MedeVolthealthcare.co.uk?subject=MedeVolt%20Direct%20:%20Lets%20Talk%20RPO" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">CONTACT OUR COMMERCIAL TEAM</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-hfqvrij elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="hfqvrij" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-iegohgm" data-id="iegohgm" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-bnruiyf elementor-widget elementor-widget-testimonial" data-id="bnruiyf" data-element_type="widget" data-widget_type="testimonial.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"Thanks MedeVolt for delivering another succesful project. Always happy to know we are getting the right people at the right time and I am sure we will be back in touch in the future"</div>
-			
-						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
-				<div class="elementor-testimonial-meta-inner">
-											<div class="elementor-testimonial-image">
-							
-<img width="824" height="990" src="wp-content/uploads/row-2-col-5-2.jpg" alt="row 2 col 5 2">
-						</div>
-					
-										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">james</div>
-																						<div class="elementor-testimonial-job">Care Home Manager</div>
-													</div>
-									</div>
-			</div>
-					</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-yhhmnbq" data-id="yhhmnbq" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-xyiuqmi elementor-widget elementor-widget-testimonial" data-id="xyiuqmi" data-element_type="widget" data-widget_type="testimonial.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"We don't really like to have to use agencies but what I can say is that when we do we always get what we pay for. High quality staff, agreed turnaround time, smooth communication, we like the honesty. All the best"</div>
-			
-						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
-				<div class="elementor-testimonial-meta-inner">
-											<div class="elementor-testimonial-image">
-							
-<img width="824" height="990" src="wp-content/uploads/row-4-col-5-2.jpg" alt="row 4 col 5 2">
-						</div>
-					
-										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">ANDY</div>
-																						<div class="elementor-testimonial-job">Private Hospital Manager</div>
-													</div>
-									</div>
-			</div>
-					</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-x6frm2d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="x6frm2d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-tzhib5k" data-id="tzhib5k" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-9d1b4hd no-margin elementor-widget elementor-widget-heading" data-id="9d1b4hd" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">going the xtra mile to fulfil all your healthcare staffing requirements</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-hsvot3g no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="hsvot3g" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-07k93nt elementor-widget elementor-widget-text-editor" data-id="07k93nt" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>Most success stories begin with a conversation, our team are always excited to discuss how we could work together. Nothing is too great or small and there is no such thing as a stupid question. We look forward hearing from you.</p>					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-ebce351 elementor-align-center elementor-widget elementor-widget-button" data-id="ebce351" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="mailto:matthew.maple@MedeVolthealthcare.co.ukmailto:commercial@MedeVolthealthcare.co.uk?subject=MedeVolt%20Direct%20:%20Lets%20Talk%20RPO" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">CONTACT OUR COMMERCIAL TEAM</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-322d532 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="322d532" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-85896dd" data-id="85896dd" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-48ea71f elementor-widget elementor-widget-counter" data-id="48ea71f" data-element_type="widget" data-widget_type="counter.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-counter">
-			<div class="elementor-counter-number-wrapper">
-				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="700" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
-			</div>
-							<div class="elementor-counter-title">sites supported</div>
-					</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1106c9b" data-id="1106c9b" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-f3ad075 elementor-widget elementor-widget-counter" data-id="f3ad075" data-element_type="widget" data-widget_type="counter.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-counter">
-			<div class="elementor-counter-number-wrapper">
-				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="3500000" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
-			</div>
-							<div class="elementor-counter-title">hours provided</div>
-					</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-90c3dee" data-id="90c3dee" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-bef1e9b elementor-widget elementor-widget-counter" data-id="bef1e9b" data-element_type="widget" data-widget_type="counter.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-counter">
-			<div class="elementor-counter-number-wrapper">
-				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="35000" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
-			</div>
-							<div class="elementor-counter-title">specialists registered</div>
-					</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-da3b03d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="da3b03d" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b201815" data-id="b201815" data-element_type="column">
-			<div class="elementor-column-wrap">
-							<div class="elementor-widget-wrap">
-								</div>
 					</div>
 		</div>
 								</div>
@@ -1053,6 +760,7 @@ Register Now					</a></div>		</div>
 
 	
 	<div id="footer-inner" class="clr">
+
 <div id="footer-bottom" class="clr no-footer-nav">
 
 	
@@ -1061,7 +769,7 @@ Register Now					</a></div>		</div>
 		
 		
 			<div id="copyright" class="clr" role="contentinfo">
-				MedeVolt Healthcare 2020 | All Rights Reserved | <a href="../privacy-policy/index.html">Privacy Policy</a>			</div><!-- #copyright -->
+				MedeVolt Healthcare 2020 | All Rights Reserved | <a href="">Privacy Policy</a>			</div><!-- #copyright -->
 
 			
 	</div><!-- #footer-bottom-inner -->
@@ -1086,10 +794,10 @@ Register Now					</a></div>		</div>
 
 <a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
 
+
 @include('partials.navs-mobile')
 
-
-<script>
+          <script>
                 jQuery(function($){
 
                     
@@ -1108,7 +816,7 @@ Register Now					</a></div>		</div>
 	</div>
 	<div class="owp-qv-overlay"></div>
 </div>
-<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">×</a><p class="owp-cart-title">Basket</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div><!-- BGRC Marker: 2021/11/20 01:34:26am -->
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">×</a><p class="owp-cart-title">Basket</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div><!-- BGRC Marker: 2021/11/18 09:45:05pm -->
 				<div id="omw-18128" class="omw-modal">
 
 											<a href="#" class="omw-close-modal"></a>
@@ -1129,6 +837,8 @@ Register Now					</a></div>		</div>
 		})();
 	</script>
 	<link rel='stylesheet' id='modal-css'  href='wp-content/plugins/social-networks-auto-poster-facebook-twitter-g/js-css/jquery.modal.min12f5.css?ver=4.3.23' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/all.minfc12.css?ver=4.5.8' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.mincbf4.css?ver=4.9.4' media='all' />
 <link rel='stylesheet' id='e-animations-css'  href='wp-content/plugins/elementor/assets/lib/animations/animations.min4c8b.css?ver=3.4.5' media='all' />
 <script src='wp-includes/js/dist/vendor/regenerator-runtime.minb36a.js?ver=0.13.7' id='regenerator-runtime-js'></script>
 <script src='wp-includes/js/dist/vendor/wp-polyfill.min2c7c.js?ver=3.15.0' id='wp-polyfill-js'></script>
@@ -1152,21 +862,21 @@ var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":
 var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_3078efffaa7256eb0f37f9db8f8ec427","fragment_name":"wc_fragments_3078efffaa7256eb0f37f9db8f8ec427","request_timeout":"5000"};
 </script>
 <script src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min3e35.js?ver=5.8.0' id='wc-cart-fragments-js'></script>
-<script id='e4934b358-js-extra'>
-var localize = {"ajaxurl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"e3728e3468","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
+<script id='9f47a16e7-js-extra'>
+var localize = {"ajaxurl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"95cb627a77","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
 </script>
-<script src='wp-content/uploads/essential-addons-elementor/734e5f942.min5ec7.js?ver=1637372066' id='e4934b358-js'></script>
+<script src='wp-content/uploads/essential-addons-elementor/734e5f942.mine30f.js?ver=1637271904' id='9f47a16e7-js'></script>
 <script src='wp-includes/js/imagesloaded.mineda1.js?ver=4.1.4' id='imagesloaded-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/isotope.pkgd.min7c45.js?ver=3.0.6' id='ow-isotop-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min8571.js?ver=3.0.7' id='ow-flickity-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/sidr8571.js?ver=3.0.7' id='ow-sidr-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min8571.js?ver=3.0.7' id='ow-magnific-popup-js'></script>
 <script id='oceanwp-main-js-extra'>
-var oceanwpLocalize = {"nonce":"7d2d64a66d","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+var oceanwpLocalize = {"nonce":"085f226188","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
 </script>
 <script src='wp-content/themes/oceanwp/assets/js/theme.vanilla.min8571.js?ver=3.0.7' id='oceanwp-main-js'></script>
 <script id='oceanwp-woocommerce-custom-features-js-extra'>
-var oceanwpLocalize = {"nonce":"7d2d64a66d","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+var oceanwpLocalize = {"nonce":"085f226188","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
 </script>
 <script src='wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min8571.js?ver=3.0.7' id='oceanwp-woocommerce-custom-features-js'></script>
 <script src='wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/js/wc-gateway-ppec-order-review4c71.js?ver=2.1.3' id='wc-gateway-ppec-order-review-js'></script>
@@ -1192,15 +902,14 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 <![endif]-->
 <script data-namespace="paypal_sdk" data-partner-attribution-id="WooThemes_EC" src='https://www.paypal.com/sdk/js?client-id=AQbghYd-7mRPyimEriYScIgTnYUsLnr5wVnPnmfPaSzwKrUe3qNzfEc5hXr9Ucf_JG_HFAZpJMJYXMuk&amp;merchant-id=MYDXL6JVZSD74&amp;intent=capture&amp;locale=en_GB&amp;components=buttons,funding-eligibility,messages&amp;commit=false&amp;currency=GBP' id='paypal-checkout-sdk-js'></script>
 <script id='wc-gateway-ppec-smart-payment-buttons-js-extra'>
-var wc_ppec_context = {"use_checkout_js":"","environment":"production","locale":"en_GB","page":null,"button_color":"gold","button_shape":"rect","button_label":"paypal","start_checkout_nonce":"a6862b6c46","start_checkout_url":"\/?wc-ajax=wc_ppec_start_checkout","return_url":"https:\/\/www.MedeVolthealthcare.co.uk\/checkout\/","cancel_url":"","generic_error_msg":"An error occurred while processing your PayPal payment. Please contact the store owner for assistance.","mini_cart_button_layout":"vertical","mini_cart_button_size":"responsive","mini_cart_button_label":"paypal","mini_cart_disallowed_methods":["CARD","CREDIT","PAYLATER"]};
+var wc_ppec_context = {"use_checkout_js":"","environment":"production","locale":"en_GB","page":null,"button_color":"gold","button_shape":"rect","button_label":"paypal","start_checkout_nonce":"d540459e9f","start_checkout_url":"\/?wc-ajax=wc_ppec_start_checkout","return_url":"https:\/\/www.MedeVolthealthcare.co.uk\/checkout\/","cancel_url":"","generic_error_msg":"An error occurred while processing your PayPal payment. Please contact the store owner for assistance.","mini_cart_button_layout":"vertical","mini_cart_button_size":"responsive","mini_cart_button_label":"paypal","mini_cart_disallowed_methods":["CARD","CREDIT","PAYLATER"]};
 </script>
 <script src='wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/js/wc-gateway-ppec-smart-payment-buttons4c71.js?ver=2.1.3' id='wc-gateway-ppec-smart-payment-buttons-js'></script>
-<script src='wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min3958.js?ver=0.2.1' id='jquery-numerator-js'></script>
 <script src='wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.minccfb.js?ver=3.4.2' id='elementor-pro-webpack-runtime-js'></script>
 <script src='wp-content/plugins/elementor/assets/js/webpack.runtime.min4c8b.js?ver=3.4.5' id='elementor-webpack-runtime-js'></script>
 <script src='wp-content/plugins/elementor/assets/js/frontend-modules.min4c8b.js?ver=3.4.5' id='elementor-frontend-modules-js'></script>
 <script id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"bd3ceffa87","urls":{"assets":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"4c04f91df7","urls":{"assets":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
 "menu_cart":{"cart_page_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","checkout_page_url":"https:\/\/www.MedeVolthealthcare.co.uk\/checkout\/"},"facebook_sdk":{"lang":"en_GB","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src='wp-content/plugins/elementor-pro/assets/js/frontend.minccfb.js?ver=3.4.2' id='elementor-pro-frontend-js'></script>
@@ -1215,7 +924,7 @@ var papro_addons = {"url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/adm
 </script>
 <script id='elementor-frontend-js-before'>
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},
-"version":"3.4.5","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":17053,"title":"Private%20Sector%20-%20MedeVolt%20Healthcare","excerpt":"","featuredImage":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/uploads\/row-2-col-5-2.jpg"}};
+"version":"3.4.5","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":24409,"title":"Blog%20-%20MedeVolt%20Healthcare","excerpt":"","featuredImage":false}};
 </script>
 <script src='wp-content/plugins/elementor/assets/js/frontend.min4c8b.js?ver=3.4.5' id='elementor-frontend-js'></script>
 <script id='elementor-frontend-js-after'>
@@ -1525,4 +1234,6 @@ window.scopes_array = {};
 <script src='wp-content/plugins/elementor/assets/js/preloaded-modules.min4c8b.js?ver=3.4.5' id='preloaded-modules-js'></script>
 <script src='wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.minccfb.js?ver=3.4.2' id='e-sticky-js'></script>
 </body>
+
+<!-- Mirrored from www.MedeVolthealthcare.co.uk/blog/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Nov 2021 21:12:08 GMT -->
 </html>

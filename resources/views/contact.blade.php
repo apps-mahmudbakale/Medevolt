@@ -6,24 +6,26 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Search Engine Optimisation by Rank Math - https://s.rankmath.com/home -->
-<title>MedeVoltMental Health - MedeVoltHealthcare</title>
-<meta name="description" content="Some of the things our Clients and Candidates have said about us"/>
+<title>Contact Us - Ta Healthcare</title>
+<meta name="description" content="We want you to feel safe and supported when working with MedeVolt Healthcare. If you have any issues which you wish to raise in a confidential manner please use"/>
 <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 <link rel="canonical" href="index.html" />
 <meta property="og:locale" content="en_GB" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="MedeVoltMental Health - MedeVoltHealthcare" />
-<meta property="og:description" content="Some of the things our Clients and Candidates have said about us" />
+<meta property="og:title" content="Contact Us - MedeVolt Healthcare" />
+<meta property="og:description" content="We want you to feel safe and supported when working with MedeVolt Healthcare. If you have any issues which you wish to raise in a confidential manner please use" />
 <meta property="og:url" content="index.html" />
-<meta property="og:site_name" content="MedeVoltHealthcare" />
-<meta property="article:publisher" content="https://www.facebook.com/TXMHealthcare/" />
-<meta property="og:updated_time" content="2021-09-06T06:46:31+01:00" />
-<meta property="og:image" content="wp-content/uploads/row-3-col-1-1.jpg" />
-<meta property="og:image:secure_url" content="wp-content/uploads/row-3-col-1-1.jpg" />
-<meta property="og:image:width" content="824" />
-<meta property="og:image:height" content="990" />
-<meta property="og:image:alt" content="MedeVoltMental Health" />
-<style>
+<meta property="og:site_name" content="MedeVolt Healthcare" />
+<meta property="article:publisher" content="https://www.facebook.com/MedeVoltHealthcare/" />
+<meta property="og:updated_time" content="2021-09-14T21:06:34+01:00" />
+<meta property="og:image" content="wp-content/uploads/MedeVolt-Healthcare-are-recruiting-for-a-Consultant-Respiratory-Medicine-in.xxoh0c1144597e86e2fb5ce28da5f629ecb7oe5EF78F50-e1591014655635.jpg" />
+<meta property="og:image:secure_url" content="wp-content/uploads/MedeVolt-Healthcare-are-recruiting-for-a-Consultant-Respiratory-Medicine-in.xxoh0c1144597e86e2fb5ce28da5f629ecb7oe5EF78F50-e1591014655635.jpg" />
+<meta property="og:image:width" content="1000" />
+<meta property="og:image:height" content="667" />
+<meta property="og:image:alt" content="Contact Us" />
+<meta property="og:image:type" content="image/jpeg" />
+
+		<style>
 img.wp-smiley,
 img.emoji {
 	display: inline !important;
@@ -49,12 +51,12 @@ img.emoji {
 .woocommerce form .form-row .required { visibility: visible; }
 </style>
 <link rel='stylesheet' id='wp-job-manager-job-listings-css'  href='wp-content/plugins/wp-job-manager/assets/dist/css/job-listings9c8b.css?ver=d866e43503c5e047c6b0be0a9557cf8e' media='all' />
-<link rel='stylesheet' id='49fac4c13-css'  href='wp-content/uploads/essential-addons-elementor/734e5f942.min8b89.css?ver=1637272011' media='all' />
+<link rel='stylesheet' id='92956e0fb-css'  href='wp-content/uploads/essential-addons-elementor/734e5f942.minabaf.css?ver=1637241568' media='all' />
 <link rel='stylesheet' id='wc-gateway-ppec-frontend-css'  href='wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/css/wc-gateway-ppec-frontend4c71.css?ver=2.1.3' media='all' />
 <link rel='stylesheet' id='elementor-frontend-legacy-css'  href='wp-content/plugins/elementor/assets/css/frontend-legacy.min4c8b.css?ver=3.4.5' media='all' />
 <link rel='stylesheet' id='elementor-frontend-css'  href='wp-content/plugins/elementor/assets/css/frontend.min4c8b.css?ver=3.4.5' media='all' />
 <style id='elementor-frontend-inline-css'>
-@font-face{font-family:eicons;src:url(wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons0b93.eot?5.10.0);src:url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
+@font-face{font-family:eicons;src:url(wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons0b93.eot?5.10.0);src:url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
 </style>
 <link rel='stylesheet' id='elementor-post-19681-css'  href='wp-content/uploads/elementor/css/post-196810756.css?ver=1634639653' media='all' />
 <link rel='stylesheet' id='oceanwp-woo-mini-cart-css'  href='wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
@@ -68,7 +70,7 @@ img.emoji {
 <link rel='stylesheet' id='elementor-post-19665-css'  href='wp-content/uploads/elementor/css/post-196650756.css?ver=1634639653' media='all' />
 <link rel='stylesheet' id='elementor-pro-css'  href='wp-content/plugins/elementor-pro/assets/css/frontend.minccfb.css?ver=3.4.2' media='all' />
 <link rel='stylesheet' id='premium-pro-css'  href='wp-content/plugins/premium-addons-pro/assets/frontend/min-css/premium-addons.min91ee.css?ver=2.5.3' media='all' />
-<link rel='stylesheet' id='elementor-post-14946-css'  href='wp-content/uploads/elementor/css/post-149465075.css?ver=1634827830' media='all' />
+<link rel='stylesheet' id='elementor-post-17431-css'  href='wp-content/uploads/elementor/css/post-174312d7f.css?ver=1634816939' media='all' />
 <link rel='stylesheet' id='oceanwp-woocommerce-css'  href='wp-content/themes/oceanwp/assets/css/woo/woocommerce.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
 <link rel='stylesheet' id='oceanwp-woo-star-font-css'  href='wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
 <link rel='stylesheet' id='oceanwp-woo-quick-view-css'  href='wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
@@ -79,20 +81,30 @@ img.emoji {
 <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3' media='all' />
+
 <script src='wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.minafbb.js?ver=8.1.0' id='monsterinsights-frontend-script-js'></script>
 <script src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script id='cookie-law-info-js-extra'>
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#61a229","button_1_button_hover":"#4e8221","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#dedfe0","button_3_button_hover":"#b2b2b3","button_3_link_colour":"#333333","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#dedfe0","button_4_button_hover":"#b2b2b3","button_4_link_colour":"#333333","button_4_as_button":"1","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php"};
+</script>
+<script src='wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public1717.js?ver=2.0.6' id='cookie-law-info-js'></script>
 <script src='wp-content/plugins/download-manager/assets/bootstrap/js/popper.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wpdm-poper-js'></script>
 <script src='wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wpdm-front-bootstrap-js'></script>
-<
+<script id='wpdm-frontjs-js-extra'>
+var wpdm_url = {"home":"https:\/\/www.MedeVolthealthcare.co.uk\/","site":"https:\/\/www.MedeVolthealthcare.co.uk\/","ajax":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php"};
+var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
+</script>
 <script src='wp-content/plugins/download-manager/assets/js/fronta318.js?ver=3.2.18' id='wpdm-frontjs-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/smoothscroll.min8571.js?ver=3.0.7' id='ow-smoothscroll-js'></script>
-<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/14946.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/17431.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 
-<link rel='shortlink' href='../index01e8.html?p=14946' />
-<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embedfe8e.json?url=https%3A%2F%2Fwww.txmhealthcare.co.uk%2Ftxm-mental-health%2F" />
-<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embed312f?url=https%3A%2F%2Fwww.txmhealthcare.co.uk%2Ftxm-mental-health%2F&amp;format=xml" />
+<link rel='shortlink' href='../index8037.html?p=17431' />
+<link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embeddacc.json?url=https%3A%2F%2Fwww.MedeVolthealthcare.co.uk%2Fcontact-us%2F" />
+<link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedd6be?url=https%3A%2F%2Fwww.MedeVolthealthcare.co.uk%2Fcontact-us%2F&amp;format=xml" />
 <meta name="google-site-verification" content="-x44A-jJXId6c02KM49itH_1NkXDUcASkuT1VnSAeZw" />    <script type="text/javascript">
         function nxsPostToFav(obj){ obj.preventDefault;
             var k = obj.target.split("-"); var nt = k[0]; var ii = k[1];  var pid = k[2];
@@ -107,7 +119,7 @@ img.emoji {
 	<link rel="icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-100x100.png" sizes="32x32" />
 <link rel="icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" />
-<meta name="msapplication-TileImage" content="https://www.txmhealthcare.co.uk/wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" />
+<meta name="msapplication-TileImage" content="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" />
 		<style id="wp-custom-css">
 			/* Hide header button from 1024pxpx */@media (max-width:1024px){.hide-1024.elementor-column{display:none}}/* Color of the footer newsletter form */#footer .oceanwp-newsletter-form-wrap input[type="email"]{color:#fff}.frm_style_register-now.with_frm_style .frm_checkbox label a,.frm_style_formidable-style.with_frm_style .frm_checkbox label{color:#000 !important}.frm_style_formidable-style.with_frm_style .form-field input[type=text],.frm_style_formidable-style.with_frm_style .form-field select,.frm_style_formidable-style.with_frm_style .form-field textarea,.frm_style_formidable-style.with_frm_style .frm_form_field :invalid,.frm_style_formidable-style.with_frm_style input[type=email],.frm_style_formidable-style.with_frm_style input[type=tel]{width:100%;padding:12px;border:1px solid #ccc;border-radius:4px;resize:vertical}.myr-main-banner{padding:25px 0 !important}.myr-main-content{padding:25px 0 !important}.myr-sub-content{padding:25px 0 !important}.myr-blog{padding:25px 0 !important}.toptext{background-color:unset;font-size:13px}div#top-bar-social-alt{float:unset}.oew-carousel .oew-carousel-entry-media img{width:100%;height:280px}.single .thumbnail img{width:50%}		</style>
 		<meta name="generator" content="WordPress Download Manager 3.2.18" />
@@ -188,7 +200,7 @@ img.emoji {
         </style>
         </head>
 
-<body class="page-template-default page page-id-14946 wp-custom-logo wp-embed-responsive theme-oceanwp woocommerce-no-js oceanwp-theme fullscreen-mobile no-header-border content-full-screen has-topbar page-header-disabled has-breadcrumbs has-grid-list account-original-style oceanwp elementor-default elementor-kit-19665 elementor-page elementor-page-14946" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<body class="page-template-default page page-id-17431 wp-custom-logo wp-embed-responsive theme-oceanwp woocommerce-no-js oceanwp-theme fullscreen-mobile no-header-border content-full-screen has-topbar page-header-disabled has-breadcrumbs has-grid-list account-original-style oceanwp elementor-default elementor-kit-19665 elementor-page elementor-page-17431" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 
 	
 	
@@ -222,15 +234,43 @@ img.emoji {
 						<div class="elementor-element elementor-element-09e0eba elementor-widget elementor-widget-wp-widget-custom_html" data-id="09e0eba" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
 			<div class="textwidget custom-html-widget">
-	<a class="elementor-icon" href="https://en-gb.facebook.com/TXMHealthcare/" style="font-size: 35px">
+	<a class="elementor-icon" href="https://en-gb.facebook.com/MedeVoltHealthcare/" style="font-size: 35px">
 	<i aria-hidden="true" class="fab fa-facebook-square"></i>			</a>
 	
-	<a class="elementor-icon" href="https://twitter.com/TXMHealthcare" style="font-size: 35px">
+	<a class="elementor-icon" href="https://twitter.com/MedeVoltHealthcare" style="font-size: 35px">
 	<i aria-hidden="true" class="fab fa-twitter-square"></i>			</a>
 	
-	<a class="elementor-icon" href="https://www.linkedin.com/company/txm-healthcare" style="font-size: 35px">
+	<a class="elementor-icon" href="https://www.linkedin.com/company/MedeVolt-healthcare" style="font-size: 35px">
 	<i aria-hidden="true" class="fab fa-linkedin"></i>			</a>
 	</div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-6156ad3" data-id="6156ad3" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-daa50cd elementor-widget elementor-widget-wp-widget-custom_html" data-id="daa50cd" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
+				<div class="elementor-widget-container">
+			<div class="textwidget custom-html-widget"><a href="tel:01908326400" class=" toptext" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Milton Keynes : 01908 326 400</span>
+		</span>
+					</a></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-3c0190b" data-id="3c0190b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b514687 elementor-widget elementor-widget-wp-widget-custom_html" data-id="b514687" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
+				<div class="elementor-widget-container">
+			<div class="textwidget custom-html-widget"><a href="tel:02071948310" class=" toptext" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">London : 0207 194 8310</span>
+		</span>
+					</a></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -242,7 +282,7 @@ img.emoji {
 				<div class="elementor-widget-container">
 			<div class="textwidget custom-html-widget"><a href="tel:01326567471" class=" toptext" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Abuja : 01326 567 471</span>
+						<span class="elementor-button-text">Cornwall : 01326 567 471</span>
 		</span>
 					</a></div>		</div>
 				</div>
@@ -254,7 +294,7 @@ img.emoji {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-f12ee11 elementor-widget elementor-widget-wp-widget-custom_html" data-id="f12ee11" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="{{route('register-now')}}" class="toptext" role="button">
+			<div class="textwidget custom-html-widget"><a href="../register-now/index.html" class="toptext" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Register Now</span>
 		</span>
@@ -278,7 +318,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-4b4463f elementor-view-default elementor-widget elementor-widget-icon" data-id="4b4463f" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://en-gb.facebook.com/TXMHealthcare/">
+			<a class="elementor-icon" href="https://en-gb.facebook.com/MedeVoltHealthcare/">
 			<i aria-hidden="true" class="fab fa-facebook-square"></i>			</a>
 		</div>
 				</div>
@@ -286,7 +326,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-5e86e2d elementor-view-default elementor-widget elementor-widget-icon" data-id="5e86e2d" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://twitter.com/TXMHealthcare">
+			<a class="elementor-icon" href="https://twitter.com/MedeVoltHealthcare">
 			<i aria-hidden="true" class="fab fa-twitter-square"></i>			</a>
 		</div>
 				</div>
@@ -294,7 +334,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-5f604a9 elementor-view-default elementor-widget elementor-widget-icon" data-id="5f604a9" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://www.linkedin.com/company/txm-healthcare">
+			<a class="elementor-icon" href="https://www.linkedin.com/company/MedeVolt-healthcare">
 			<i aria-hidden="true" class="fab fa-linkedin"></i>			</a>
 		</div>
 				</div>
@@ -304,7 +344,34 @@ img.emoji {
 						</div>
 					</div>
 		</div>
-
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-b4df464" data-id="b4df464" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-3643156 elementor-widget elementor-widget-wp-widget-custom_html" data-id="3643156" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
+				<div class="elementor-widget-container">
+			<div class="textwidget custom-html-widget"><a href="tel:01908326400" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Milton Keynes : 01908 326 400</span>
+		</span>
+					</a></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-f4421ee" data-id="f4421ee" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c82b0a1 elementor-widget elementor-widget-wp-widget-custom_html" data-id="c82b0a1" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
+				<div class="elementor-widget-container">
+			<div class="textwidget custom-html-widget"><a href="tel:02071948310" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">London : 0207 194 8310</span>
+		</span>
+					</a></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
 				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-1d31b84" data-id="1d31b84" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
@@ -312,7 +379,7 @@ img.emoji {
 				<div class="elementor-widget-container">
 			<div class="textwidget custom-html-widget"><a href="tel:01326567471" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Abuja : 01326 567 471</span>
+						<span class="elementor-button-text">Cornwall : 01326 567 471</span>
 		</span>
 					</a></div>		</div>
 				</div>
@@ -324,7 +391,7 @@ img.emoji {
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-d7f8f20 elementor-widget elementor-widget-wp-widget-custom_html" data-id="d7f8f20" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="{{route('register-now')}}" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
+			<div class="textwidget custom-html-widget"><a href="../register-now/index.html" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Register Now</span>
 		</span>
@@ -348,7 +415,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-4b4463f elementor-view-default elementor-widget elementor-widget-icon" data-id="4b4463f" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://en-gb.facebook.com/TXMHealthcare/">
+			<a class="elementor-icon" href="https://en-gb.facebook.com/MedeVoltHealthcare/">
 			<i aria-hidden="true" class="fab fa-facebook-square"></i>			</a>
 		</div>
 				</div>
@@ -356,7 +423,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-5e86e2d elementor-view-default elementor-widget elementor-widget-icon" data-id="5e86e2d" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://twitter.com/TXMHealthcare">
+			<a class="elementor-icon" href="https://twitter.com/MedeVoltHealthcare">
 			<i aria-hidden="true" class="fab fa-twitter-square"></i>			</a>
 		</div>
 				</div>
@@ -364,7 +431,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-5f604a9 elementor-view-default elementor-widget elementor-widget-icon" data-id="5f604a9" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://www.linkedin.com/company/txm-healthcare">
+			<a class="elementor-icon" href="https://www.linkedin.com/company/MedeVolt-healthcare">
 			<i aria-hidden="true" class="fab fa-linkedin"></i>			</a>
 		</div>
 				</div>
@@ -374,15 +441,34 @@ img.emoji {
 						</div>
 					</div>
 		</div>
-
-
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-e62e673" data-id="e62e673" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5e92d9f elementor-widget elementor-widget-wp-widget-custom_html" data-id="5e92d9f" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
+				<div class="elementor-widget-container">
+			<div class="textwidget custom-html-widget"><a href="tel:01908326400" class=" toptext" role="button" style="text-align: center">
+Milton Keynes : 01908 326 400					</a></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-d2ed94d" data-id="d2ed94d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-059b371 elementor-widget elementor-widget-wp-widget-custom_html" data-id="059b371" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
+				<div class="elementor-widget-container">
+			<div class="textwidget custom-html-widget"><a href="tel:02071948310" class=" toptext" role="button" style="text-align: center">London : 0207 194 8310				</a></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
 				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-03a47ba" data-id="03a47ba" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-3e6a667 elementor-widget elementor-widget-wp-widget-custom_html" data-id="3e6a667" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
 			<div class="textwidget custom-html-widget"><a href="tel:01326567471" class=" toptext" role="button" style="text-align: center">
-Abuja : 01326 567 471					</a></div>		</div>
+Cornwall : 01326 567 471					</a></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -392,7 +478,7 @@ Abuja : 01326 567 471					</a></div>		</div>
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-7b351d6 elementor-widget elementor-widget-wp-widget-custom_html" data-id="7b351d6" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="{{route('register-now')}}" class="toptext" role="button" style="text-align: center">
+			<div class="textwidget custom-html-widget"><a href="../register-now/index.html" class="toptext" role="button" style="text-align: center">
 Register Now					</a></div>		</div>
 				</div>
 						</div>
@@ -442,9 +528,9 @@ Register Now					</a></div>		</div>
 	
 	<div id="site-logo-inner" class="clr">
 
-		{{-- <a href="{{route('welcome')}}" class="custom-logo-link" rel="home"><picture class="custom-logo">
-<source type="image/webp" srcset="https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222.png.webp 600w, https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222-300x111.png.webp 300w" sizes="(max-width: 600px) 100vw, 600px"/>
-<img width="600" height="222" src="wp-content/uploads/txmlogo2020600222.png" alt="MedeVoltHealthcare" srcset="https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222.png 600w, https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222-300x111.png 300w" sizes="(max-width: 600px) 100vw, 600px"/>
+		{{-- <a href="../index.html" class="custom-logo-link" rel="home"><picture class="custom-logo">
+<source type="image/webp" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/MedeVoltlogo2020600222.png.webp 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/MedeVoltlogo2020600222-300x111.png.webp 300w" sizes="(max-width: 600px) 100vw, 600px"/>
+<img width="600" height="222" src="wp-content/uploads/MedeVoltlogo2020600222.png" alt="MedeVolt Healthcare" srcset="https://www.MedeVolthealthcare.co.uk/wp-content/uploads/MedeVoltlogo2020600222.png 600w, https://www.MedeVolthealthcare.co.uk/wp-content/uploads/MedeVoltlogo2020600222-300x111.png 300w" sizes="(max-width: 600px) 100vw, 600px"/>
 </picture>
 </a> --}}
 	</div><!-- #site-logo-inner -->
@@ -455,18 +541,17 @@ Register Now					</a></div>		</div>
 
 			<div id="site-navigation-wrap" class="clr">
 			
-				@include('partials.navs')
+			@include('partials.navs')
 			
-			</div><!-- #site-navigation-wrap -->
+			
+		</div><!-- #site-navigation-wrap -->
 			
 		
 	
 				
 	
 	<div class="oceanwp-mobile-menu-icon clr mobile-right">
-
-
-			
+		
 		<a href="javascript:void(0)" class="mobile-menu"  aria-label="Mobile Menu">
 							<div class="hamburger hamburger--stand" aria-expanded="false">
 					<div class="hamburger-box">
@@ -513,10 +598,10 @@ Register Now					</a></div>		</div>
 <div class="entry clr" itemprop="text">
 
 	
-			<div data-elementor-type="wp-page" data-elementor-id="14946" class="elementor elementor-14946" data-elementor-settings="[]">
+			<div data-elementor-type="wp-page" data-elementor-id="17431" class="elementor elementor-17431" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-tfxxnir myr-main-banner elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="tfxxnir" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-tfxxnir elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="tfxxnir" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
@@ -525,7 +610,7 @@ Register Now					</a></div>		</div>
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-mdadixz no-margin elementor-widget elementor-widget-heading" data-id="mdadixz" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">SPECIALIST MEDICAL RECRUITMENT FOR ALLIED HEALTH WORKERRS</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">CONTACT US</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-nxvhbhz no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="nxvhbhz" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -544,13 +629,14 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;">At MedeVoltHealthcare, our experts go The Xtra Mile to find Mental Health Workers all over the globe their next opportunity.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
+				<h3><span style="color: #ffffff;"><strong>At MedeVolt Healthcare, our experts go The Xtra Mile to find Doctors all over the globe their next opportunity, from Foundation to Consultant level.</strong></span></h3>
+<h3><span style="color: #ffffff;"><strong>Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</strong></span></h3>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-c2a2844 elementor-align-center elementor-widget elementor-widget-button" data-id="c2a2844" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="{{route('register-now')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="../register-now/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Register Now</span>
 		</span>
@@ -570,171 +656,18 @@ Register Now					</a></div>		</div>
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-9oi2gj4 elementor-section-content-middle myr-main-content elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9oi2gj4" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e8d39b6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e8d39b6" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-sn5zxwk" data-id="sn5zxwk" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0ff2fdb" data-id="0ff2fdb" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-467b128 no-margin elementor-widget elementor-widget-heading" data-id="467b128" data-element_type="widget" data-widget_type="heading.default">
+						<div class="elementor-element elementor-element-9b647d8 elementor-widget elementor-widget-html" data-id="9b647d8" data-element_type="widget" data-widget_type="html.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">why register with MedeVolthealthcare?</h2>		</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-mjgd1f5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="mjgd1f5" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-0od392z" data-id="0od392z" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-i2sjpot elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="i2sjpot" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-cog"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Consultants of all specialties are now able to register for remote working at the "Virtual Hospital"					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-{{-- 				<div class="elementor-element elementor-element-9vwosbu elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="9vwosbu" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-book-medical"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Revalidation &amp; Governance support ensures you are always compliant and supported with the GMC.					</p>
-							</div>
-		</div>
-				</div>
-				</div> --}}
-{{-- 				<div class="elementor-element elementor-element-wkhjx3b elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="wkhjx3b" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="far fa-calendar-alt"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Our waiting list clients provide additional work for Consultants on the weekends at sessional rates.					</p>
-							</div>
-		</div>
-				</div>
-				</div> --}}
-				<div class="elementor-element elementor-element-vws47s1 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="vws47s1" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-heart"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						The Xtra Mile means not only competitive pay but supporting you as person throughout your role					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-twtz2rn" data-id="twtz2rn" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-{{-- 						<div class="elementor-element elementor-element-vms5s9i elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="vms5s9i" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-plane-departure"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						We're relocation specialists and leading suppliers of the Channel Islands and other remote locations.					</p>
-							</div>
-		</div>
-				</div>
-				</div> --}}
-{{-- 				<div class="elementor-element elementor-element-qooshp2 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="qooshp2" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-plane-arrival"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Our experts will help you find the right move from overseas as you begin your career in the NHS. 					</p>
-							</div>
-		</div>
-				</div>
-				</div> --}}
-				<div class="elementor-element elementor-element-hvj0ycb elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="hvj0ycb" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="far fa-calendar-check"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						We have a variety of opportunities for flexible working, from ad-hoc shifts to long term contracts.					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-7lif37e elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="7lif37e" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-arrow-up"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Take the next step in your career with the help of our dedicated Junior Doctors division.					</p>
-							</div>
-		</div>
-				</div>
+			<div class="cognito">
+<script src="https://www.cognitoforms.com/s/PMPi6RZInE6WaqNsHk_q7Q"></script>
+<script>Cognito.load("forms", { id: "33" });</script>
+</div>		</div>
 				</div>
 						</div>
 					</div>
@@ -742,38 +675,18 @@ Register Now					</a></div>		</div>
 								</div>
 					</div>
 		</section>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-uewm4wi" data-id="uewm4wi" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-hrw6g7u elementor-widget elementor-widget-image" data-id="hrw6g7u" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												
-<img width="768" height="432" src="wp-content/uploads/Mental-Health-768x432.png" alt="Mental Health">
-														</div>
-						</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-mrxdaxj elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="mrxdaxj" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c4af065 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c4af065" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-kanotbj" data-id="kanotbj" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ce2f788" data-id="ce2f788" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-lxxiqss no-margin elementor-widget elementor-widget-heading" data-id="lxxiqss" data-element_type="widget" data-widget_type="heading.default">
+						<div class="elementor-element elementor-element-7746bfe no-margin elementor-widget elementor-widget-heading" data-id="7746bfe" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">WORKING WITH OUR ALLIED HEALTH DIVISION</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">COME AND VISIT US</h2>		</div>
 				</div>
-				<div class="elementor-element elementor-element-ndepstn no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="ndepstn" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-element elementor-element-21b6f73 no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="21b6f73" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-divider">
 			<span class="elementor-divider-separator">
@@ -781,268 +694,22 @@ Register Now					</a></div>		</div>
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-cocipvx elementor-widget elementor-widget-text-editor" data-id="cocipvx" data-element_type="widget" data-widget_type="text-editor.default">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-9b0e439 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9b0e439" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-14fc195" data-id="14fc195" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b3cac07 elementor-widget elementor-widget-text-editor" data-id="b3cac07" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Some of the things our Clients and Candidates have said about us</p>					</div>
+				<h3><span style="color: #ffffff;"><strong>Ensure Jo sends out an e-mail to the office telling them mind their language by  coming to visit the team at any of our  locations.</strong></span></h3>					</div>
 						</div>
 				</div>
-				<div class="elementor-element elementor-element-d05dfc8 elementor-align-center elementor-widget elementor-widget-button" data-id="d05dfc8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-element elementor-element-6746db8 elementor-align-center elementor-widget elementor-widget-button" data-id="6746db8" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="{{route('register-now')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Register Now</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-hfqvrij elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="hfqvrij" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-20d0d71" data-id="20d0d71" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-8733793 elementor-widget elementor-widget-testimonial" data-id="8733793" data-element_type="widget" data-widget_type="testimonial.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"The most proactive I have ever seen. They help with absolutely everything from timesheets, contacts, payments and are always available. There are no more things they can do to adapt a job for you. Also they have an excellent sense of humour</div>
-			
-						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
-				<div class="elementor-testimonial-meta-inner">
-											<div class="elementor-testimonial-image">
-<img width="824" height="990" src="wp-content/uploads/row-3-col-1-1.jpg" alt="row 3 col 1 1" loading="lazy"/>
-						</div>
-					
-										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">BEATRICE</div>
-																						<div class="elementor-testimonial-job">Registered Nurse</div>
-													</div>
-									</div>
-			</div>
-					</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-156d6c2 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="156d6c2" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-yhhmnbq" data-id="yhhmnbq" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-3cb0ee1 elementor-widget elementor-widget-testimonial" data-id="3cb0ee1" data-element_type="widget" data-widget_type="testimonial.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"Having worked with MedeVoltover the years we have developed a trusting relationship. The service was second to none working with efficient staff who follow up with ones welfare in the placement provided. They are a business you can rely on"</div>
-			
-						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
-				<div class="elementor-testimonial-meta-inner">
-											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="MedeVoltMental Health 3">
-<source type="image/webp" srcset="wp-content/uploads/row-2-col-4-1.jpg.webp"/>
-<img width="824" height="990" src="wp-content/uploads/row-2-col-4-1.jpg" alt="row 2 col 4 1" loading="lazy"/>
-</picture>
-						</div>
-					
-										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">louise</div>
-																						<div class="elementor-testimonial-job">Nurse Team Leader</div>
-													</div>
-									</div>
-			</div>
-					</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-genrxof elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="genrxof" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-x6frm2d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="x6frm2d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-tzhib5k" data-id="tzhib5k" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-9d1b4hd no-margin elementor-widget elementor-widget-heading" data-id="9d1b4hd" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">MEET THE TEAM</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-hsvot3g no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="hsvot3g" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-07k93nt elementor-widget elementor-widget-text-editor" data-id="07k93nt" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>Its always nice to put a face to a name, contact the team below</p>					</div>
-						</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-qlp1u7q elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="qlp1u7q" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b2ngt0t" data-id="b2ngt0t" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-2iobn4v elementor-widget elementor-widget-image" data-id="2iobn4v" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img src="wp-content/uploads/elementor/thumbs/profile_photo-190-11-pcvpcwp6j85mucjg2tjm3ggrmsnzq063iiaozgpwr4.jpg" title="profile_photo-190 (11)" alt="profile_photo-190 (11)" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-h2jyl7g no-margin elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="h2jyl7g" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="http://xn--a href=01908 326 400-9z2la/a" target="_blank">Shaun Greig</a></h3><p class="elementor-image-box-description">Recruitment Consultant<p>Milton Keynes</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-758215b elementor-align-center elementor-widget elementor-widget-button" data-id="758215b" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="tel:01908326400" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="fas fa-phone"></i>			</span>
-						<span class="elementor-button-text">Phone</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-nam1h0g elementor-align-center elementor-widget elementor-widget-button" data-id="nam1h0g" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="mailto:shaun.greig@txmhealthcare.co.uk" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
-						<span class="elementor-button-text">E-Mail</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-kzmqidt" data-id="kzmqidt" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-mbci7q1 elementor-widget elementor-widget-image" data-id="mbci7q1" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img src="wp-content/uploads/elementor/thumbs/profile_photo-190-9-pcvpd47w1wfxf88iuwsmnekgdvmxfkzy7jiktoerdc.jpg" title="profile_photo-190 (9)" alt="profile_photo-190 (9)" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-ydrvaz8 no-margin elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ydrvaz8" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Omar Hassine</h3><p class="elementor-image-box-description">Principle Consultant<p>
-Milton Keynes</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-5dd4f30 elementor-align-center elementor-widget elementor-widget-button" data-id="5dd4f30" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="tel:01908326400" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="fas fa-phone"></i>			</span>
-						<span class="elementor-button-text">Phone</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-kayomy1 elementor-align-center elementor-widget elementor-widget-button" data-id="kayomy1" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="mailto:omar.hassine@txmhealthcare.co.uk" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
-						<span class="elementor-button-text">E-Mail</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5za0l3q" data-id="5za0l3q" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-dn68xsk elementor-widget elementor-widget-image" data-id="dn68xsk" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img src="wp-content/uploads/elementor/thumbs/TimothyHunter-pcqaw9c3susne3dfy9255jolyzz2jv2tcigqgqngnk.jpg" title="TimothyHunter" alt="TimothyHunter" />														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-ijqizle no-margin elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ijqizle" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Timothy Hunter</h3><p class="elementor-image-box-description">Recruitment Consultant<p>
-Milton Keynes</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-bdaed0d elementor-align-center elementor-widget elementor-widget-button" data-id="bdaed0d" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="tel:01908326400" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="fas fa-phone"></i>			</span>
-						<span class="elementor-button-text">Phone</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-3zcxk0d elementor-align-center elementor-widget elementor-widget-button" data-id="3zcxk0d" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="mailto:timothy.hunter@txmhealthcare.co.uk" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-				<i aria-hidden="true" class="far fa-envelope"></i>			</span>
-						<span class="elementor-button-text">E-Mail</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<div class="elementor-element elementor-element-rh6v23h elementor-align-center elementor-widget elementor-widget-button" data-id="rh6v23h" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="{{route('register-now')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('register-now')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Register Now</span>
 		</span>
@@ -1056,87 +723,212 @@ Milton Keynes</p></div></div>		</div>
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-c11229a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c11229a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-614efab elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="614efab" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-36a3881" data-id="36a3881" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-de57ff0 elementor-widget elementor-widget-text-editor" data-id="de57ff0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+				<p>We want you to feel safe and supported when working with MedeVolt Healthcare. If you have any issues which you wish to raise in a confidential manner please use the forms below and we will ensure that the best person contacts you as soon as possible. </p>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d6f420e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d6f420e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-224171f" data-id="224171f" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c581226" data-id="c581226" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-423dc34" data-id="423dc34" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-23f00ac elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="23f00ac" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-961cf8d" data-id="961cf8d" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e1d664a elementor-widget elementor-widget-spacer" data-id="e1d664a" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7b11f0f elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b11f0f" data-element_type="section">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-053ed55" data-id="053ed55" data-element_type="column">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1b9c570" data-id="1b9c570" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-2e5aa5b no-margin elementor-widget elementor-widget-heading" data-id="2e5aa5b" data-element_type="widget" data-widget_type="heading.default">
+						<div class="elementor-element elementor-element-d102816 elementor-view-stacked elementor-shape-circle elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="d102816" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">THANK YOU FOR CHOOSING MedeVolt HEALTHCARE</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-1e12266 no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1e12266" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-73ea4a8 elementor-widget elementor-widget-text-editor" data-id="73ea4a8" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>We’re delighted that you have chosen to join the MedeVoltHealthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Xtra Mile in supporting the next step in your career.</p>					</div>
-						</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-485d424 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="485d424" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b764f51" data-id="b764f51" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-885cd6e elementor-widget elementor-widget-testimonial" data-id="885cd6e" data-element_type="widget" data-widget_type="testimonial.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"Since we started the mental health division in London in 2012 its grown from strength to strength. With nearly a decades market experience and key contracts with great healthcare providers like the NHS, Priory Group and BUPA, we ensure our team always has access to the latest and best jobs in the market always offering service reflective of The Xtra Mile"</div>
-			
-						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
-				<div class="elementor-testimonial-meta-inner">
-											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="MedeVoltMental Health 4">
-<source type="image/webp" srcset="wp-content/uploads/profile_photo-190-2.jpg.webp"/>
-<img width="190" height="190" src="wp-content/uploads/profile_photo-190-2.jpg" alt="profile photo 190 2" loading="lazy"/>
-</picture>
-						</div>
-					
-										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">DANNY LIMBY</div>
-																						<div class="elementor-testimonial-job">Director of Health &amp; Social Care</div>
-													</div>
-									</div>
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="../doctors-and-nurses-to-get-fast-track-entry-to-uk-under-new-immigration-system/index.html">
+				<i aria-hidden="true" class="fas fa-search"></i>				</a>
 			</div>
-					</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<a href="{{route('register-now')}}" >
+						REGISTER NOW					</a>
+				</h3>
+									<p class="elementor-icon-box-description">
+						You're a specialist in your field, and so are we. Whether it be for a week or forever with years of experience let us take the next step in your career The Xtra Mile!					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cfba5c0 elementor-align-center elementor-widget elementor-widget-button" data-id="cfba5c0" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="{{route('register-now')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">FIND OUT MORE</span>
+		</span>
+					</a>
+		</div>
 				</div>
 				</div>
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-516ccad" data-id="516ccad" data-element_type="column">
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-e082e1f" data-id="e082e1f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-a786eef elementor-widget elementor-widget-testimonial" data-id="a786eef" data-element_type="widget" data-widget_type="testimonial.default">
+						<div class="elementor-element elementor-element-23b8fe1 elementor-view-stacked elementor-shape-circle elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="23b8fe1" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"As demand grows for Mental Health Services, the MedeVoltteam are working closely with our partners to find market leading solutions that, whilst maintaining a high quality of care, will drive down costs and increase access for patients - technology is really driving innovation and service delivery is changing; its important that we keep evolving too"</div>
-			
-						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
-				<div class="elementor-testimonial-meta-inner">
-											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="MedeVoltMental Health 5">
-<source type="image/webp" srcset="wp-content/uploads/profile_photo-190.jpg.webp"/>
-<img width="190" height="190" src="wp-content/uploads/profile_photo-190.jpg" alt="profile photo 190" loading="lazy"/>
-</picture>
-						</div>
-					
-										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">Matthew maple</div>
-																						<div class="elementor-testimonial-job">Commercial Director</div>
-													</div>
-									</div>
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="../nurses-if-youre-a-nurse-looking-for-your-next-locum-weekend-or-ongoing/index.html">
+				<i aria-hidden="true" class="far fa-lightbulb"></i>				</a>
 			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<a href="../nurses-if-youre-a-nurse-looking-for-your-next-locum-weekend-or-ongoing/index.html" >
+						FEEDBACK					</a>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Unique demands require bespoke solutions and here at MedeVolt Healthcare we believe every project should have the personal approach it needs.					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d6b7da2 elementor-align-center elementor-widget elementor-widget-button" data-id="d6b7da2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">FIND OUT MORE</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
 					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1ce3b5d" data-id="1ce3b5d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c64a061 elementor-view-stacked elementor-shape-circle elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="c64a061" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-biking"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						XTRA MILER SCHEME					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						With safety at the heart of everything we do, you can be assured when working with MedeVolt Healthcare that you're in safe hands.					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-f064d25 elementor-align-center elementor-widget elementor-widget-button" data-id="f064d25" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="../xtra-miler-scheme/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">FIND OUT MORE</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-606b4ca" data-id="606b4ca" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6d0809f elementor-view-stacked elementor-shape-circle elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="6d0809f" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-user-friends"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						REFER A FRIEND					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						With safety at the heart of everything we do, you can be assured when working with MedeVolt Healthcare that you're in safe hands.					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8b46e10 elementor-align-center elementor-widget elementor-widget-button" data-id="8b46e10" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="../MedeVolt-refer/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">FIND OUT MORE</span>
+		</span>
+					</a>
+		</div>
 				</div>
 				</div>
 						</div>
@@ -1145,54 +937,48 @@ Milton Keynes</p></div></div>		</div>
 								</div>
 					</div>
 		</section>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-63cdf64 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="63cdf64" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-48314cc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="48314cc" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6240c9d" data-id="6240c9d" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9de7e4f" data-id="9de7e4f" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-2c2ca05 elementor-widget elementor-widget-text-editor" data-id="2c2ca05" data-element_type="widget" data-widget_type="text-editor.default">
+						<div class="elementor-element elementor-element-2b7507f elementor-widget elementor-widget-text-editor" data-id="2b7507f" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Want to get started immediately? Reach out to our teams today and find out about our new paperless rapid onboarding process!</p>					</div>
+				<p>We want you to feel safe and supported when working with MedeVolt Healthcare. If you have any issues which you wish to raise in a confidential manner please use the forms below and we will ensure that the best person contacts you as soon as possible. </p>					</div>
 						</div>
 				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-bc4ca3e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bc4ca3e" data-element_type="section">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a264662 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a264662" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-5ebf859" data-id="5ebf859" data-element_type="column">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7538aff" data-id="7538aff" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-79c8c13 elementor-view-default elementor-widget elementor-widget-icon" data-id="79c8c13" data-element_type="widget" data-widget_type="icon.default">
+						<div class="elementor-element elementor-element-3ba97bd elementor-view-default elementor-widget elementor-widget-icon" data-id="3ba97bd" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
 			<div class="elementor-icon">
-			<i aria-hidden="true" class="fas fa-user-md"></i>			</div>
+			<i aria-hidden="true" class="fas fa-heartbeat"></i>			</div>
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-7f3b14b elementor-widget elementor-widget-heading" data-id="7f3b14b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-2e6fd6c elementor-widget elementor-widget-heading" data-id="2e6fd6c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">DOCTORS JOBS</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">SAFEGUARDING</h3>		</div>
 				</div>
-				<div class="elementor-element elementor-element-eb5ed9d elementor-widget elementor-widget-text-editor" data-id="eb5ed9d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-94c69d0 elementor-widget elementor-widget-text-editor" data-id="94c69d0" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>We believe your career deserves specialist attention.. With years of experience in placing good candidates let us help you cultivate </p>					</div>
+				<p>Please use this form to report a safeguarding issue to the MedeVolt Healthcare Safeguarding team.</p>					</div>
 						</div>
 				</div>
-				<div class="elementor-element elementor-element-8064482 elementor-align-center elementor-widget elementor-widget-button" data-id="8064482" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-element elementor-element-d13636d elementor-align-center elementor-widget elementor-widget-button" data-id="d13636d" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="{{route('doctors')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="../safeguarding-concern/index.html" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">find out more</span>
+						<span class="elementor-button-text">CONTACT US</span>
 		</span>
 					</a>
 		</div>
@@ -1201,33 +987,33 @@ Milton Keynes</p></div></div>		</div>
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-34c7feb" data-id="34c7feb" data-element_type="column">
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-c92dd31" data-id="c92dd31" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-800bb46 elementor-view-default elementor-widget elementor-widget-icon" data-id="800bb46" data-element_type="widget" data-widget_type="icon.default">
+						<div class="elementor-element elementor-element-c48855b elementor-view-default elementor-widget elementor-widget-icon" data-id="c48855b" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
 			<div class="elementor-icon">
-			<i aria-hidden="true" class="fas fa-user-nurse"></i>			</div>
+			<i aria-hidden="true" class="fas fa-walking"></i>			</div>
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-87de406 elementor-widget elementor-widget-heading" data-id="87de406" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-3c3ffc6 elementor-widget elementor-widget-heading" data-id="3c3ffc6" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">NURSING JOBS</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">ON-SITE</h3>		</div>
 				</div>
-				<div class="elementor-element elementor-element-46f2c68 elementor-widget elementor-widget-text-editor" data-id="46f2c68" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-130349d elementor-widget elementor-widget-text-editor" data-id="130349d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Enjoy your career but looking for more from your role? Specialist Perhaps? Our dedicated Nursing team are here for you.</p>					</div>
+				<p>Please use this form to open a discussion regarding any issues you are experiencing.</p>					</div>
 						</div>
 				</div>
-				<div class="elementor-element elementor-element-342bc7e elementor-align-center elementor-widget elementor-widget-button" data-id="342bc7e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-element elementor-element-4046e0d elementor-align-center elementor-widget elementor-widget-button" data-id="4046e0d" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="{{route('nursing')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="../on-site-issues/index.html" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">find out more</span>
+						<span class="elementor-button-text">CONTACT US</span>
 		</span>
 					</a>
 		</div>
@@ -1236,33 +1022,33 @@ Milton Keynes</p></div></div>		</div>
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-5586924" data-id="5586924" data-element_type="column">
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3e546cd" data-id="3e546cd" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-fdd6e53 elementor-view-default elementor-widget elementor-widget-icon" data-id="fdd6e53" data-element_type="widget" data-widget_type="icon.default">
+						<div class="elementor-element elementor-element-396e108 elementor-view-default elementor-widget elementor-widget-icon" data-id="396e108" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
 			<div class="elementor-icon">
-			<i aria-hidden="true" class="fas fa-brain"></i>			</div>
+			<i aria-hidden="true" class="fas fa-hand-holding-heart"></i>			</div>
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-62bc8d9 elementor-widget elementor-widget-heading" data-id="62bc8d9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-ed1303d elementor-widget elementor-widget-heading" data-id="ed1303d" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Allied Health</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">SAFETY</h3>		</div>
 				</div>
-				<div class="elementor-element elementor-element-8191183 elementor-widget elementor-widget-text-editor" data-id="8191183" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-636cd16 elementor-widget elementor-widget-text-editor" data-id="636cd16" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Keen to work with the biggest Clients in the country? Contact our established Allied Health division and talk to us today about your next career move.</p>						</div>
+				<p>Please use form to make a confidential disclosure regarding safety issues on site.</p>					</div>
 						</div>
 				</div>
-				<div class="elementor-element elementor-element-5c4b917 elementor-align-center elementor-widget elementor-widget-button" data-id="5c4b917" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-element elementor-element-eb69bcc elementor-align-center elementor-widget elementor-widget-button" data-id="eb69bcc" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="{{route('experience')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="../safety-concern/index.html" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">find out more</span>
+						<span class="elementor-button-text">CONTACT US</span>
 		</span>
 					</a>
 		</div>
@@ -1271,33 +1057,33 @@ Milton Keynes</p></div></div>		</div>
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1366f19" data-id="1366f19" data-element_type="column">
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-b1ad387" data-id="b1ad387" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-75eee67 elementor-view-default elementor-widget elementor-widget-icon" data-id="75eee67" data-element_type="widget" data-widget_type="icon.default">
+						<div class="elementor-element elementor-element-92060b9 elementor-view-default elementor-widget elementor-widget-icon" data-id="92060b9" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
 			<div class="elementor-icon">
-			<i aria-hidden="true" class="fas fa-search"></i>			</div>
+			<i aria-hidden="true" class="far fa-file-excel"></i>			</div>
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-fbffe33 elementor-widget elementor-widget-heading" data-id="fbffe33" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-6c7dce9 elementor-widget elementor-widget-heading" data-id="6c7dce9" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">MedeVolt CAREERS</h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">MedeVolt COMPLAINTS</h3>		</div>
 				</div>
-				<div class="elementor-element elementor-element-e07dc6d elementor-widget elementor-widget-text-editor" data-id="e07dc6d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-905ac0d elementor-widget elementor-widget-text-editor" data-id="905ac0d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Going The Xtra Mile starts in the office. Are you looking for your next career move? Check out more information below.</p>					</div>
+				<p>Please use this form to contact our Directors regarding the behaviour of MedeVolt Healthcare staff.</p>					</div>
 						</div>
 				</div>
-				<div class="elementor-element elementor-element-0925542 elementor-align-center elementor-widget elementor-widget-button" data-id="0925542" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-element elementor-element-96277ed elementor-align-center elementor-widget elementor-widget-button" data-id="96277ed" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="{{route('latest-roles')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="../MedeVolt-complaints/index.html" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">find out more</span>
+						<span class="elementor-button-text">CONTACT US</span>
 		</span>
 					</a>
 		</div>
@@ -1315,13 +1101,13 @@ Milton Keynes</p></div></div>		</div>
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-7d939d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7d939d1" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7b28a79 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b28a79" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-8d20377" data-id="8d20377" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-457aa18" data-id="457aa18" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-34adf98 elementor-widget elementor-widget-counter" data-id="34adf98" data-element_type="widget" data-widget_type="counter.default">
+						<div class="elementor-element elementor-element-6573ceb elementor-widget elementor-widget-counter" data-id="6573ceb" data-element_type="widget" data-widget_type="counter.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-counter">
 			<div class="elementor-counter-number-wrapper">
@@ -1336,10 +1122,10 @@ Milton Keynes</p></div></div>		</div>
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1f1a254" data-id="1f1a254" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3b56783" data-id="3b56783" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-a30ed71 elementor-widget elementor-widget-counter" data-id="a30ed71" data-element_type="widget" data-widget_type="counter.default">
+						<div class="elementor-element elementor-element-cae5612 elementor-widget elementor-widget-counter" data-id="cae5612" data-element_type="widget" data-widget_type="counter.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-counter">
 			<div class="elementor-counter-number-wrapper">
@@ -1354,10 +1140,10 @@ Milton Keynes</p></div></div>		</div>
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-9467c05" data-id="9467c05" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4ec98f7" data-id="4ec98f7" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-483bf2f elementor-widget elementor-widget-counter" data-id="483bf2f" data-element_type="widget" data-widget_type="counter.default">
+						<div class="elementor-element elementor-element-17545f2 elementor-widget elementor-widget-counter" data-id="17545f2" data-element_type="widget" data-widget_type="counter.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-counter">
 			<div class="elementor-counter-number-wrapper">
@@ -1375,10 +1161,10 @@ Milton Keynes</p></div></div>		</div>
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-5f5bde9 myr-blog elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5f5bde9" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-17ceb15 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="17ceb15" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6411a6a" data-id="6411a6a" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0f6136d" data-id="0f6136d" data-element_type="column">
 			<div class="elementor-column-wrap">
 							<div class="elementor-widget-wrap">
 								</div>
@@ -1418,7 +1204,9 @@ Milton Keynes</p></div></div>		</div>
 	
 	<div id="footer-inner" class="clr">
 
-   <div id="footer-bottom" class="clr no-footer-nav">
+		
+
+<div id="footer-bottom" class="clr no-footer-nav">
 
 	
 	<div id="footer-bottom-inner" class="container clr">
@@ -1426,7 +1214,7 @@ Milton Keynes</p></div></div>		</div>
 		
 		
 			<div id="copyright" class="clr" role="contentinfo">
-				MedeVoltHealthcare 2012-2021 | All Rights Reserved | <a href="../privacy-policy/index.html">Privacy Policy</a>			</div><!-- #copyright -->
+				MedeVolt Healthcare 2020 | All Rights Reserved | <a href="">Privacy Policy</a>			</div><!-- #copyright -->
 
 			
 	</div><!-- #footer-bottom-inner -->
@@ -1451,9 +1239,10 @@ Milton Keynes</p></div></div>		</div>
 
 <a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
 
-	@include('partials.navs-mobile')
-       
-<script>
+
+@include('partials.navs-mobile')
+
+  <script>
                 jQuery(function($){
 
                     
@@ -1472,7 +1261,7 @@ Milton Keynes</p></div></div>		</div>
 	</div>
 	<div class="owp-qv-overlay"></div>
 </div>
-<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">×</a><p class="owp-cart-title">Basket</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div><!-- BGRC Marker: 2021/11/18 09:46:52pm -->
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">×</a><p class="owp-cart-title">Basket</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div><!-- BGRC Marker: 2021/11/18 01:19:28pm -->
 				<div id="omw-18128" class="omw-modal">
 
 											<a href="#" class="omw-close-modal"></a>
@@ -1504,7 +1293,7 @@ wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
 <script src='wp-includes/js/jquery/jquery.form.minb2f9.js?ver=4.3.0' id='jquery-form-js'></script>
 <script src='wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.minb106.js?ver=2.7.0-wc.5.8.0' id='jquery-blockui-js'></script>
 <script id='wc-add-to-cart-js-extra'>
-var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https:\/\/www.txmhealthcare.co.uk\/basket\/","is_cart":"","cart_redirect_after_add":"yes"};
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View basket","cart_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","is_cart":"","cart_redirect_after_add":"yes"};
 </script>
 <script src='wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min3e35.js?ver=5.8.0' id='wc-add-to-cart-js'></script>
 <script src='wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min64be.js?ver=2.1.4-wc.5.8.0' id='js-cookie-js'></script>
@@ -1516,21 +1305,21 @@ var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":
 var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_3078efffaa7256eb0f37f9db8f8ec427","fragment_name":"wc_fragments_3078efffaa7256eb0f37f9db8f8ec427","request_timeout":"5000"};
 </script>
 <script src='wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min3e35.js?ver=5.8.0' id='wc-cart-fragments-js'></script>
-<script id='49fac4c13-js-extra'>
-var localize = {"ajaxurl":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"95cb627a77","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
+<script id='92956e0fb-js-extra'>
+var localize = {"ajaxurl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"95cb627a77","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."}};
 </script>
-<script src='wp-content/uploads/essential-addons-elementor/734e5f942.min8b89.js?ver=1637272011' id='49fac4c13-js'></script>
+<script src='wp-content/uploads/essential-addons-elementor/734e5f942.minabaf.js?ver=1637241568' id='92956e0fb-js'></script>
 <script src='wp-includes/js/imagesloaded.mineda1.js?ver=4.1.4' id='imagesloaded-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/isotope.pkgd.min7c45.js?ver=3.0.6' id='ow-isotop-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min8571.js?ver=3.0.7' id='ow-flickity-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/sidr8571.js?ver=3.0.7' id='ow-sidr-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min8571.js?ver=3.0.7' id='ow-magnific-popup-js'></script>
 <script id='oceanwp-main-js-extra'>
-var oceanwpLocalize = {"nonce":"085f226188","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.txmhealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+var oceanwpLocalize = {"nonce":"085f226188","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
 </script>
 <script src='wp-content/themes/oceanwp/assets/js/theme.vanilla.min8571.js?ver=3.0.7' id='oceanwp-main-js'></script>
 <script id='oceanwp-woocommerce-custom-features-js-extra'>
-var oceanwpLocalize = {"nonce":"085f226188","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.txmhealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
+var oceanwpLocalize = {"nonce":"085f226188","isRTL":"","menuSearchStyle":"disabled","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","cart_redirect_after_add":"yes","view_cart":"View basket","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step."};
 </script>
 <script src='wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min8571.js?ver=3.0.7' id='oceanwp-woocommerce-custom-features-js'></script>
 <script src='wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/js/wc-gateway-ppec-order-review4c71.js?ver=2.1.3' id='wc-gateway-ppec-order-review-js'></script>
@@ -1552,11 +1341,11 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","
 <script src='wp-includes/js/wp-embed.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wp-embed-js'></script>
 <script src='wp-content/plugins/social-networks-auto-poster-facebook-twitter-g/js-css/jquery.modal.min12f5.js?ver=4.3.23' id='modal-js'></script>
 <!--[if lt IE 9]>
-<script src='https://www.txmhealthcare.co.uk/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=3.0.7' id='html5shiv-js'></script>
+<script src='https://www.MedeVolthealthcare.co.uk/wp-content/themes/oceanwp/assets/js/third/html5.min.js?ver=3.0.7' id='html5shiv-js'></script>
 <![endif]-->
 <script data-namespace="paypal_sdk" data-partner-attribution-id="WooThemes_EC" src='https://www.paypal.com/sdk/js?client-id=AQbghYd-7mRPyimEriYScIgTnYUsLnr5wVnPnmfPaSzwKrUe3qNzfEc5hXr9Ucf_JG_HFAZpJMJYXMuk&amp;merchant-id=MYDXL6JVZSD74&amp;intent=capture&amp;locale=en_GB&amp;components=buttons,funding-eligibility,messages&amp;commit=false&amp;currency=GBP' id='paypal-checkout-sdk-js'></script>
 <script id='wc-gateway-ppec-smart-payment-buttons-js-extra'>
-var wc_ppec_context = {"use_checkout_js":"","environment":"production","locale":"en_GB","page":null,"button_color":"gold","button_shape":"rect","button_label":"paypal","start_checkout_nonce":"d540459e9f","start_checkout_url":"\/?wc-ajax=wc_ppec_start_checkout","return_url":"https:\/\/www.txmhealthcare.co.uk\/checkout\/","cancel_url":"","generic_error_msg":"An error occurred while processing your PayPal payment. Please contact the store owner for assistance.","mini_cart_button_layout":"vertical","mini_cart_button_size":"responsive","mini_cart_button_label":"paypal","mini_cart_disallowed_methods":["CARD","CREDIT","PAYLATER"]};
+var wc_ppec_context = {"use_checkout_js":"","environment":"production","locale":"en_GB","page":null,"button_color":"gold","button_shape":"rect","button_label":"paypal","start_checkout_nonce":"d540459e9f","start_checkout_url":"\/?wc-ajax=wc_ppec_start_checkout","return_url":"https:\/\/www.MedeVolthealthcare.co.uk\/checkout\/","cancel_url":"","generic_error_msg":"An error occurred while processing your PayPal payment. Please contact the store owner for assistance.","mini_cart_button_layout":"vertical","mini_cart_button_size":"responsive","mini_cart_button_label":"paypal","mini_cart_disallowed_methods":["CARD","CREDIT","PAYLATER"]};
 </script>
 <script src='wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/js/wc-gateway-ppec-smart-payment-buttons4c71.js?ver=2.1.3' id='wc-gateway-ppec-smart-payment-buttons-js'></script>
 <script src='wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min3958.js?ver=0.2.1' id='jquery-numerator-js'></script>
@@ -1564,8 +1353,8 @@ var wc_ppec_context = {"use_checkout_js":"","environment":"production","locale":
 <script src='wp-content/plugins/elementor/assets/js/webpack.runtime.min4c8b.js?ver=3.4.5' id='elementor-webpack-runtime-js'></script>
 <script src='wp-content/plugins/elementor/assets/js/frontend-modules.min4c8b.js?ver=3.4.5' id='elementor-frontend-modules-js'></script>
 <script id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"4c04f91df7","urls":{"assets":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.txmhealthcare.co.uk\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
-"menu_cart":{"cart_page_url":"https:\/\/www.txmhealthcare.co.uk\/basket\/","checkout_page_url":"https:\/\/www.txmhealthcare.co.uk\/checkout\/"},"facebook_sdk":{"lang":"en_GB","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","nonce":"4c04f91df7","urls":{"assets":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},
+"menu_cart":{"cart_page_url":"https:\/\/www.MedeVolthealthcare.co.uk\/basket\/","checkout_page_url":"https:\/\/www.MedeVolthealthcare.co.uk\/checkout\/"},"facebook_sdk":{"lang":"en_GB","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src='wp-content/plugins/elementor-pro/assets/js/frontend.minccfb.js?ver=3.4.2' id='elementor-pro-frontend-js'></script>
 <script src='wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2' id='elementor-waypoints-js'></script>
@@ -1574,12 +1363,12 @@ var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.txmhealthcare.co.uk\/
 <script src='wp-content/plugins/elementor/assets/lib/share-link/share-link.min4c8b.js?ver=3.4.5' id='share-link-js'></script>
 <script src='wp-content/plugins/elementor/assets/lib/dialog/dialog.mina288.js?ver=4.8.1' id='elementor-dialog-js'></script>
 <script id='elementor-frontend-js-extra'>
-var PaModulesSettings = {"equalHeight_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-for-elementor\/assets\/frontend\/min-js\/premium-eq-height.min.js"};
-var papro_addons = {"url":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php","particles_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/particles.min.js","kenburns_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/cycle.min.js","gradient_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/premium-gradient.min.js","parallax_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/premium-parallax.min.js","lottie_url":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/premium-addons-for-elementor\/assets\/frontend\/min-js\/lottie.min.js"};
+var PaModulesSettings = {"equalHeight_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-for-elementor\/assets\/frontend\/min-js\/premium-eq-height.min.js"};
+var papro_addons = {"url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-admin\/admin-ajax.php","particles_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/particles.min.js","kenburns_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/cycle.min.js","gradient_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/premium-gradient.min.js","parallax_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-pro\/assets\/frontend\/min-js\/premium-parallax.min.js","lottie_url":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/premium-addons-for-elementor\/assets\/frontend\/min-js\/lottie.min.js"};
 </script>
 <script id='elementor-frontend-js-before'>
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},
-"version":"3.4.5","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":14946,"title":"TXM%20Mental%20Health%20-%20TXM%20Healthcare","excerpt":"","featuredImage":"https:\/\/www.txmhealthcare.co.uk\/wp-content\/uploads\/row-3-col-1-1.jpg"}};
+"version":"3.4.5","is_static":false,"experimentalFeatures":{"e_import_export":true,"landing-pages":true,"elements-color-picker":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":17431,"title":"Contact%20Us%20-%20MedeVolt%20Healthcare","excerpt":"","featuredImage":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-content\/uploads\/MedeVolt-Healthcare-are-recruiting-for-a-Consultant-Respiratory-Medicine-in.xxoh0c1144597e86e2fb5ce28da5f629ecb7oe5EF78F50-e1591014655635.jpeg"}};
 </script>
 <script src='wp-content/plugins/elementor/assets/js/frontend.min4c8b.js?ver=3.4.5' id='elementor-frontend-js'></script>
 <script id='elementor-frontend-js-after'>

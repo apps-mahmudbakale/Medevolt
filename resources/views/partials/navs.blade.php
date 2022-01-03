@@ -26,8 +26,8 @@
 <li id="menu-item-17279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17279"><a href="" class="menu-link"><span class="text-wrap">COVID-19</span></a></li></ul>
 </li><li id="menu-item-14920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14920"><a href="" class="menu-link"><span class="text-wrap">Support<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
 <ul class="sub-menu">
-    <li id="menu-item-24233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24233"><a href="" class="menu-link"><span class="text-wrap">News</span></a></li>   <li id="menu-item-24416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24416"><a href="" class="menu-link"><span class="text-wrap">Blog</span></a></li>   </ul>
-</li>   <li id="menu-item-17441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17441"><a href="{{-- {{route('contact')}} --}}" class="menu-link"><span class="text-wrap">Contact Us</span></a></li></ul>
+    <li id="menu-item-24233" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24233"><a href="{{route('news')}}" class="menu-link"><span class="text-wrap">News</span></a></li>   <li id="menu-item-24416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24416"><a href="{{route('blog')}}" class="menu-link"><span class="text-wrap">Blog</span></a></li>   </ul>
+</li>   <li id="menu-item-17441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17441"><a href="{{route('contact')}}" class="menu-link"><span class="text-wrap">Contact Us</span></a></li></ul>
 </li>
 
 
