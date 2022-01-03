@@ -735,7 +735,7 @@ Register Now                    </a></div>      </div>
                 </div>
                 <div class="elementor-element elementor-element-313230e elementor-widget elementor-widget-heading" data-id="313230e" data-element_type="widget" data-widget_type="heading.default">
                 <div class="elementor-widget-container">
-            <h2 class="elementor-heading-title elementor-size-small">Going The xtra mile</h2>       </div>
+            <h2 class="elementor-heading-title elementor-size-small">Going The Extra mile</h2>       </div>
                 </div>
                 <div class="elementor-element elementor-element-6fa5477 elementor-align-center elementor-widget elementor-widget-button" data-id="6fa5477" data-element_type="widget" data-widget_type="button.default">
                 <div class="elementor-widget-container">
@@ -890,7 +890,7 @@ Register Now                    </a></div>      </div>
                 <div class="elementor-element elementor-element-c68ad66 elementor-widget elementor-widget-text-editor" data-id="c68ad66" data-element_type="widget" data-widget_type="text-editor.default">
                 <div class="elementor-widget-container">
                                 <div class="elementor-text-editor elementor-clearfix">
-                <p>Going The Xtra Mile starts in the office. Are you looking for the next step in your career? Find about below how you can join the MedeVolt Family.</p>                    </div>
+                <p>Going The Extra Mile starts in the office. Are you looking for the next step in your career? Find about below how you can join the MedeVolt Family.</p>                    </div>
                         </div>
                 </div>
                 <div class="elementor-element elementor-element-fe4b6e7 elementor-align-center elementor-widget elementor-widget-button" data-id="fe4b6e7" data-element_type="widget" data-widget_type="button.default">
@@ -1084,10 +1084,10 @@ Register Now                    </a></div>      </div>
                         <div class="elementor-icon-box-content">
                 <h3 class="elementor-icon-box-title">
                     <span  >
-                        Going The Xtra Mile                 </span>
+                        Going The Extra Mile                 </span>
                 </h3>
                                     <p class="elementor-icon-box-description">
-                        MedeVolt stands for The Xtra Mile. The Xtra Mile means many things to different people but for us, it means providing an exceptional level of service that goes beyond expectation. Join us today to find out more!                  </p>
+                        MedeVolt stands for The Extra Mile. The Extra Mile means many things to different people but for us, it means providing an exceptional level of service that goes beyond expectation. Join us today to find out more!                  </p>
                             </div>
         </div>
                 </div>
