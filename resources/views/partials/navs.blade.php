@@ -13,7 +13,7 @@
     <ul class="sub-menu">
         <li id="menu-item-24581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24581"><a href="{{route('virtual-register')}}" class="menu-link"><span class="text-wrap">Virtual Register</span></a></li>  </ul>
 </li></ul>
-</li><li id="menu-item-14927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14927"><a href="compliance/index.html" class="menu-link"><span class="text-wrap">Compliance<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+</li><li id="menu-item-14927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14927"><a href="" class="menu-link"><span class="text-wrap">Compliance<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
 <ul class="sub-menu">
     <li id="menu-item-16967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-16967"><a href="txm-paperless/index.html" class="menu-link"><span class="text-wrap">MediVolt Paperless<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
     <ul class="sub-menu">

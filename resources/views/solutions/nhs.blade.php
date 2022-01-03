@@ -740,7 +740,7 @@ Register Now					</a></div>		</div>
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-mrxdaxj elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="mrxdaxj" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+{{-- 				<section class="elementor-section elementor-top-section elementor-element elementor-element-mrxdaxj elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="mrxdaxj" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
@@ -861,8 +861,8 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-x6frm2d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="x6frm2d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		</section> --}}
+{{-- 				<section class="elementor-section elementor-top-section elementor-element elementor-element-x6frm2d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="x6frm2d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-tzhib5k" data-id="tzhib5k" data-element_type="column">
@@ -1102,7 +1102,7 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
+		</section> --}}
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-ff1e68e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ff1e68e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">

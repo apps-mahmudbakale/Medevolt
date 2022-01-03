@@ -560,7 +560,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-c777a1e elementor-align-center elementor-widget elementor-widget-button" data-id="c777a1e" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('contact')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Contact us</span>
 		</span>
@@ -637,7 +637,7 @@ Register Now					</a></div>		</div>
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-mrxdaxj elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="mrxdaxj" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+{{-- 				<section class="elementor-section elementor-top-section elementor-element elementor-element-mrxdaxj elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="mrxdaxj" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
@@ -758,7 +758,7 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
+		</section> --}}
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-be0a824 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="be0a824" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">

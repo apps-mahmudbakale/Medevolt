@@ -542,9 +542,62 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-1b885f1 elementor-widget elementor-widget-html" data-id="1b885f1" data-element_type="widget" data-widget_type="html.default">
 				<div class="elementor-widget-container">
 			<div class="cognito">
-<script src="https://www.cognitoforms.com/s/PMPi6RZInE6WaqNsHk_q7Q"></script>
-<script>Cognito.load("forms", { id: "45" });</script>
-</div>		</div>
+		<form action="{{route('register.store')}}" class="" method="POST" enctype="multipart/form-data">
+			@csrf
+			<h2>Your Details</h2>
+			<div class="row col-md-12">
+			<div class="col-md-4">
+				Title
+				<input type="text" name="title" class="form-control">
+			</div>
+			<div class="col-md-4">
+				Firstname
+				<input type="text" name="firstname" class="form-control">
+			</div>
+			<div class="col-md-4">
+				Lastname
+				<input type="text" name="lastname" class="form-control">
+			</div>
+			<div class="col-md-6">
+				Email
+				<input type="email" name="email" class="form-control">
+			</div>
+			<div class="col-md-6">
+				Phone
+				<input type="text" name="phone" class="form-control">
+			</div>
+			<h2>Paperless Registration</h2>
+			<div class="col-md-12">
+				I'd like to be contacted by :
+				<select name="career" id="" class="form-control">
+					<option></option>
+					<option value="MedeVolt Doctors">MedeVolt Doctors</option>
+					<option value="MedeVolt Nursing">MedeVolt Nursing</option>
+					<option value="MedeVolt Allied Health">MedeVolt Allied Health</option>
+				</select>
+			</div>
+			<div class="col-md-12">
+				The idea role for me would be
+				<textarea name="role" id="" cols="30" rows="10" class="form-control"></textarea>
+			</div>
+			<br>
+			<div class="col-md-12">
+				Cv Upload
+				<input type="file" name="cv"  class="form-control">
+				<br>
+				<br><hr>
+				<p>Dont worry if your CV isnt up to date, just put your contact details above and our team will reach out and support you updating your CV so its perfect for your next role!</p>
+			</div>
+			<div class="col-md-12">
+				<input type="checkbox" id="c-9-4" checked="checked"><span>I am happy for MedeVolt Healthcare to contact me for the purpose of discussing and completing my registration. </span>
+			</div>
+			<div class="col-md-12">
+				<button type="submit" class="btn btn-primary">Submit</button>
+			</div>
+		</div>
+		</form>
+			</div>		
+	</div>
 				</div>
 						</div>
 					</div>
@@ -588,7 +641,7 @@ Register Now					</a></div>		</div>
 		</div>
 				</div>
 				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-hfqvrij elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="hfqvrij" data-element_type="section">
+{{-- 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-hfqvrij elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="hfqvrij" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-iegohgm" data-id="iegohgm" data-element_type="column">
@@ -700,7 +753,7 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
+		</section> --}}
 						</div>
 					</div>
 		</div>

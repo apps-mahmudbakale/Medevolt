@@ -572,7 +572,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-f6969c2 elementor-align-center elementor-widget elementor-widget-button" data-id="f6969c2" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('contact')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">CONTACT US</span>
 		</span>
@@ -633,9 +633,11 @@ Register Now					</a></div>		</div>
 					The idea role for me would be
 					<textarea name="role" id="" cols="30" rows="10" class="form-control"></textarea>
 				</div>
+				<br>
 				<div class="col-md-12">
 					Cv Upload
 					<input type="file" name="cv"  class="form-control">
+					<br>
 					<br><hr>
 					<p>Dont worry if your CV isnt up to date, just put your contact details above and our team will reach out and support you updating your CV so its perfect for your next role!</p>
 				</div>
@@ -647,7 +649,8 @@ Register Now					</a></div>		</div>
 				</div>
 			</div>
 			</form>
-</div>		</div>
+		</div>		
+	</div>
 				</div>
 						</div>
 					</div>

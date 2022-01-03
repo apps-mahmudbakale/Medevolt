@@ -544,7 +544,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;">At MedeVoltHealthcare, our experts go The Xtra Mile to find Mental Health Workers all over the country their next opportunity.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
+				<h3><span style="color: #ffffff;">At MedeVoltHealthcare, our experts go The Xtra Mile to find Mental, Physiotherapy, Labscienstists, Pharmacist and all other allied health workers all over the country their next opportunity.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-c2a2844 elementor-align-center elementor-widget elementor-widget-button" data-id="c2a2844" data-element_type="widget" data-widget_type="button.default">
@@ -782,10 +782,10 @@ Register Now					</a></div>		</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-cocipvx elementor-widget elementor-widget-text-editor" data-id="cocipvx" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
+			{{-- 	<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
 				<p>Some of the things our Clients and Candidates have said about us</p>					</div>
-						</div>
+						</div> --}}
 				</div>
 				<div class="elementor-element elementor-element-d05dfc8 elementor-align-center elementor-widget elementor-widget-button" data-id="d05dfc8" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
@@ -798,7 +798,7 @@ Register Now					</a></div>		</div>
 		</div>
 				</div>
 				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-hfqvrij elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="hfqvrij" data-element_type="section">
+{{-- 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-hfqvrij elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="hfqvrij" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-20d0d71" data-id="20d0d71" data-element_type="column">
@@ -874,14 +874,14 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
+		</section> --}}
 						</div>
 					</div>
 		</div>
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-x6frm2d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="x6frm2d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+{{-- 				<section class="elementor-section elementor-top-section elementor-element elementor-element-x6frm2d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="x6frm2d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-tzhib5k" data-id="tzhib5k" data-element_type="column">
@@ -1055,7 +1055,7 @@ Milton Keynes</p></div></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
+		</section> --}}
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-c11229a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c11229a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -1095,14 +1095,11 @@ Milton Keynes</p></div></div>		</div>
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="MedeVoltMental Health 4">
-<source type="image/webp" srcset="wp-content/uploads/profile_photo-190-2.jpg.webp"/>
-<img width="190" height="190" src="wp-content/uploads/profile_photo-190-2.jpg" alt="profile photo 190 2" loading="lazy"/>
-</picture>
+<img width="190" height="190" src="{{asset('img/avatar.jpg')}}" alt="profile photo 190 2">
 						</div>
 					
 										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">DANNY LIMBY</div>
+														<div class="elementor-testimonial-name">Aisha Muhammad Sani</div>
 																						<div class="elementor-testimonial-job">Director of Health &amp; Social Care</div>
 													</div>
 									</div>
@@ -1124,14 +1121,12 @@ Milton Keynes</p></div></div>		</div>
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-							<picture class="attachment-full size-full" loading="lazy" title="MedeVoltMental Health 5">
-<source type="image/webp" srcset="wp-content/uploads/profile_photo-190.jpg.webp"/>
-<img width="190" height="190" src="wp-content/uploads/profile_photo-190.jpg" alt="profile photo 190" loading="lazy"/>
-</picture>
+
+<img width="190" height="190" src="{{asset('img/avatar.jpg')}}" alt="profile photo 190">
 						</div>
 					
 										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">Matthew maple</div>
+														<div class="elementor-testimonial-name">Ikilima Ismail</div>
 																						<div class="elementor-testimonial-job">Commercial Director</div>
 													</div>
 									</div>

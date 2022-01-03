@@ -916,7 +916,7 @@ Register Now                    </a></div>      </div>
                                 </div>
                     </div>
         </section>
-                <section class="elementor-section elementor-top-section elementor-element elementor-element-t2gvx2f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="t2gvx2f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+{{--                 <section class="elementor-section elementor-top-section elementor-element elementor-element-t2gvx2f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="t2gvx2f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                             <div class="elementor-background-overlay"></div>
                             <div class="elementor-container elementor-column-gap-default">
                             <div class="elementor-row">
@@ -1067,7 +1067,7 @@ Register Now                    </a></div>      </div>
         </div>
                                 </div>
                     </div>
-        </section>
+        </section> --}}
                 <section class="elementor-section elementor-top-section elementor-element elementor-element-xf3xggu myr-sub-content elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="xf3xggu" data-element_type="section">
                         <div class="elementor-container elementor-column-gap-default">
                             <div class="elementor-row">

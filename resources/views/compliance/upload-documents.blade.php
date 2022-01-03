@@ -717,7 +717,7 @@ Register Now					</a></div>		</div>
 		</div>
 				</div>
 				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b021d50 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b021d50" data-element_type="section">
+{{-- 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b021d50 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b021d50" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7dde01c" data-id="7dde01c" data-element_type="column">
@@ -780,7 +780,7 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
+		</section> --}}
 						</div>
 					</div>
 		</div>

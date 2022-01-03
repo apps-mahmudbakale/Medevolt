@@ -669,6 +669,24 @@ Register Now					</a></div>		</div>
 		</div>
 				</div>
 				</div>
+						<div class="elementor-element elementor-element-7cb48e0 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="7cb48e0" data-element_type="widget" data-widget_type="icon-box.default">
+						<div class="elementor-widget-container">
+							<div class="elementor-icon-box-wrapper">
+								<div class="elementor-icon-box-icon">
+						<span class="elementor-icon elementor-animation-" >
+						<i aria-hidden="true" class="fas fa-calendar-alt"></i>				</span>
+					</div>
+								<div class="elementor-icon-box-content">
+						<h3 class="elementor-icon-box-title">
+							<span  >
+													</span>
+						</h3>
+											<p class="elementor-icon-box-description">
+								Work with us proactively to ensure you can always meet your staffing demands					</p>
+									</div>
+				</div>
+						</div>
+						</div>
 {{-- 				<div class="elementor-element elementor-element-07ac2d0 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="07ac2d0" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
@@ -765,24 +783,7 @@ Register Now					</a></div>		</div>
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-7cb48e0 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="7cb48e0" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-" >
-				<i aria-hidden="true" class="fas fa-calendar-alt"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span  >
-											</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Work with us proactively to ensure you can always meet your staffing demands					</p>
-							</div>
-		</div>
-				</div>
-				</div>
+
 						</div>
 					</div>
 		</div>
@@ -808,7 +809,7 @@ Register Now					</a></div>		</div>
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-mrxdaxj elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="mrxdaxj" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+{{-- 				<section class="elementor-section elementor-top-section elementor-element elementor-element-mrxdaxj elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="mrxdaxj" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
@@ -909,7 +910,7 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
+		</section> --}}
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-x6frm2d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="x6frm2d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
