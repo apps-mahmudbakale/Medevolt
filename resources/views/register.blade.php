@@ -595,6 +595,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-ac71e87 elementor-widget elementor-widget-html" data-id="ac71e87" data-element_type="widget" data-widget_type="html.default">
 				<div class="elementor-widget-container">
 			<div class="cognito row">
+			{{-- 	<span><p>Thank you.</p> <p>Your CV was successfully submitted.</p> <p>Right now using the power of the internet this submission is being sent to the perfect recruitment consultant based on the details provfided..</p> <p>We will be in touch within 24 hours. If you wish to speak to anyone sooner please give us a call on 01908 326 400 between the hours of 830am and 530pm.</p> <p>Please continue to look around our website or refresh this page if you need to submit for the form again for any reason.</p> <p>We look forward to taking your career The Xtra Mile!&nbsp;</p></span> --}}
 			<form action="{{route('register.store')}}" class="" method="POST" enctype="multipart/form-data">
 				@csrf
 				<h2>Your Details</h2>

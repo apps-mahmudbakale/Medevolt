@@ -243,7 +243,7 @@ img.emoji {
 				<div class="elementor-widget-container">
 			<div class="textwidget custom-html-widget"><a href="tel:01326567471" class=" toptext" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Abuja : 01326 567 471</span>
+						<span class="elementor-button-text">Abuja : +2347049225550</span>
 		</span>
 					</a></div>		</div>
 				</div>
@@ -529,7 +529,7 @@ Register Now					</a></div>		</div>
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-mdadixz no-margin elementor-widget elementor-widget-heading" data-id="mdadixz" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">TAKE YOUR CAREER THE XTRA MILE</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">TAKE YOUR CAREER THE EXTRA MILE</h1>		</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-thvguqa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="thvguqa" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -548,7 +548,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;"><strong>At MediVolt Healthcare, our experts go The Xtra Mile to find Healthcare professionals all over the country their next opportunity.</strong></span></h3><h3><span style="color: #ffffff;"><strong>We release new roles onto our website every week, but for a full range of positions and information please contact our team directly by arranging a callback at your convenience.</strong></span></h3>					</div>
+				<h3><span style="color: #ffffff;"><strong>At MediVolt Healthcare, our experts go The Extra Mile to find Healthcare professionals all over the country their next opportunity.</strong></span></h3><h3><span style="color: #ffffff;"><strong>We release new roles onto our website every week, but for a full range of positions and information please contact our team directly by arranging a callback at your convenience.</strong></span></h3>					</div>
 						</div>
 				</div>
 						</div>
@@ -901,7 +901,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-7b39767 elementor-widget elementor-widget-text-editor" data-id="7b39767" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Going The Xtra Mile starts in the office. Are you looking for the next step in your career? Find about below how you can join the MedeVolt Family.</p>					</div>
+				<p>Going The Extra Mile starts in the office. Are you looking for the next step in your career? Find about below how you can join the MedeVolt Family.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-b014816 elementor-align-center elementor-widget elementor-widget-button" data-id="b014816" data-element_type="widget" data-widget_type="button.default">
