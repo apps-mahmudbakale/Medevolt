@@ -518,7 +518,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>As the evolution of Telemedicine provides greater access to healthcare we are working with a number of organisations that following successful pilots are now starting to expand services across the UK. Whilst we believe that nothing will ever replace face to face care but in order to keep up with demand Healthcare is evolving, and we want the best Healthcare Professionals involved with that.</p>					</div>
+				<p>As the evolution of Telemedicine provides greater access to healthcare we are working with a number of organisations that following successful pilots are now starting to expand services across the country. Whilst we believe that nothing will ever replace face to face care but in order to keep up with demand Healthcare is evolving, and we want the best Healthcare Professionals involved with that.</p>					</div>
 						</div>
 				</div>
 						</div>
