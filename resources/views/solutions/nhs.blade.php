@@ -595,7 +595,7 @@ Register Now					</a></div>		</div>
 											</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						Going The Xtra Mile in everything we do					</p>
+						Going The Extra Mile in everything we do					</p>
 							</div>
 		</div>
 				</div>
@@ -730,7 +730,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 												
-<img width="768" height="512" src="wp-content/uploads/93478279_3893986617309423_814802557871325184_o-768x512.jpg" alt="93478279 3893986617309423 814802557871325184 o" loading="lazy">
+<img width="768" height="512" src="{{asset('img/public.jpg')}}" alt="93478279 3893986617309423 814802557871325184 o" loading="lazy">
 														</div>
 						</div>
 				</div>

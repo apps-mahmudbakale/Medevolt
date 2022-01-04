@@ -442,11 +442,9 @@ Register Now					</a></div>		</div>
 	
 	<div id="site-logo-inner" class="clr">
 
-		{{-- <a href="{{route('welcome')}}" class="custom-logo-link" rel="home"><picture class="custom-logo">
-<source type="image/webp" srcset="https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222.png.webp 600w, https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222-300x111.png.webp 300w" sizes="(max-width: 600px) 100vw, 600px"/>
-<img width="600" height="222" src="wp-content/uploads/txmlogo2020600222.png" alt="MedeVoltHealthcare" srcset="https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222.png 600w, https://www.txmhealthcare.co.uk/wp-content/uploads/txmlogo2020600222-300x111.png 300w" sizes="(max-width: 600px) 100vw, 600px"/>
-</picture>
-</a> --}}
+		<a href="{{route('welcome')}}" class="custom-logo-link" rel="home">
+<img width="600" height="222" src="{{asset('img/Medevolt logo.png')}}" alt="MedeVoltHealthcare">
+</a>
 	</div><!-- #site-logo-inner -->
 
 	
@@ -544,7 +542,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;">At MedeVoltHealthcare, our experts go The Xtra Mile to find Mental, Physiotherapy, Labscienstists, Pharmacist and all other allied health workers all over the country their next opportunity.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
+				<h3><span style="color: #ffffff;">At MedeVoltHealthcare, our experts go The Extra Mile to find Mental, Physiotherapy, Labscienstists, Pharmacist and all other allied health workers all over the country their next opportunity.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-c2a2844 elementor-align-center elementor-widget elementor-widget-button" data-id="c2a2844" data-element_type="widget" data-widget_type="button.default">
@@ -653,7 +651,7 @@ Register Now					</a></div>		</div>
 											</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						The Xtra Mile means not only competitive pay but supporting you as person throughout your role					</p>
+						The Extra Mile means not only competitive pay but supporting you as person throughout your role					</p>
 							</div>
 		</div>
 				</div>
@@ -1078,7 +1076,7 @@ Milton Keynes</p></div></div>		</div>
 				<div class="elementor-element elementor-element-73ea4a8 elementor-widget elementor-widget-text-editor" data-id="73ea4a8" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>We’re delighted that you have chosen to join the MedeVoltHealthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Xtra Mile in supporting the next step in your career.</p>					</div>
+				<p>We’re delighted that you have chosen to join the MedeVoltHealthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Extra Mile in supporting the next step in your career.</p>					</div>
 						</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-485d424 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="485d424" data-element_type="section">
@@ -1090,7 +1088,7 @@ Milton Keynes</p></div></div>		</div>
 						<div class="elementor-element elementor-element-885cd6e elementor-widget elementor-widget-testimonial" data-id="885cd6e" data-element_type="widget" data-widget_type="testimonial.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"Since we started the mental health division in London in 2012 its grown from strength to strength. With nearly a decades market experience and key contracts with great healthcare providers like the NHS, Priory Group and BUPA, we ensure our team always has access to the latest and best jobs in the market always offering service reflective of The Xtra Mile"</div>
+							<div class="elementor-testimonial-content">"Since we started the mental health division in London in 2012 its grown from strength to strength. With nearly a decades market experience and key contracts with great healthcare providers like the NHS, Priory Group and BUPA, we ensure our team always has access to the latest and best jobs in the market always offering service reflective of The Extra Mile"</div>
 			
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
@@ -1284,7 +1282,7 @@ Milton Keynes</p></div></div>		</div>
 				<div class="elementor-element elementor-element-e07dc6d elementor-widget elementor-widget-text-editor" data-id="e07dc6d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Going The Xtra Mile starts in the office. Are you looking for your next career move? Check out more information below.</p>					</div>
+				<p>Going The Extra Mile starts in the office. Are you looking for your next career move? Check out more information below.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-0925542 elementor-align-center elementor-widget elementor-widget-button" data-id="0925542" data-element_type="widget" data-widget_type="button.default">

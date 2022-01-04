@@ -626,7 +626,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-3c4e798 elementor-align-center elementor-widget elementor-widget-button" data-id="3c4e798" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="https://www.cognitoforms.com/MedeVoltGroup1/ONBOARDINGDOCUMENTS" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('register-now')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">onboard now</span>
 		</span>
@@ -671,9 +671,32 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-434a945 elementor-widget elementor-widget-html" data-id="434a945" data-element_type="widget" data-widget_type="html.default">
 				<div class="elementor-widget-container">
 			<div class="cognito">
-<script src="https://www.cognitoforms.com/s/PMPi6RZInE6WaqNsHk_q7Q"></script>
-<script>Cognito.load("forms", { id: "26" });</script>
-</div>		</div>
+				<form novalidate="" lang="en"><div class="c-forms-form" tabindex="0"><div class="c-editor" style="display:none;"><input type="text" class="c-forms-form-style"></div><div class="c-forms-form-body toggle-on" sys:attach="toggle" toggle:on="{ binding displayConfirmation, source = " toggle:action="hide"><div class="c-forms-heading"><div class="c-forms-logo"><img style="max-width: 100%;" src="https://www.cognitoforms.com/file/TB25OwRB2_y9kLtCEBSAeT4ntqJSehUOReTBoNmi-UH08zoyj7YnmkUOuKdxzstg"></div><div class="c-forms-form-title"><h2>ON BOARDING DOCUMENTS</h2><div class="c-forms-description">FOR DOCTORS</div></div></div><div class="c-forms-template" sys:attach="dataview" dataview:data="{binding entry, source="><div class="c-forms-form-main c-span-24 c-sml-span-12"><div class="c-text-singleline c-field  c-col-1 c-sml-col-1 c-span-24 c-sml-span-12" data-field="FULLNAME"><div class="c-label  "><label id="c-0-56-label" for="c-0-56">FULL NAME <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor"><input type="text" id="c-0-56" placeholder=""></div><div class="c-validation" aria-hidden="true"></div></div><div class="c-section  c-col-1 c-sml-col-1 c-span-24 c-sml-span-12" data-field="EMPLOYMENTHISTORYREFERENCECHECKS"><div class="c-title"><h3>EMPLOYMENT HISTORY &amp; REFERENCE CHECKS</h3></div><div class=""><div class="c-file c-field  c-col-1 c-sml-col-1 c-span-12 c-sml-span-12" data-field="CV"><div class="c-label  "><label id="c-1-55-label" for="c-1-55">C.V <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor c-fileupload" data-max-file-count="20" data-max-file-size="250"> <div class="c-fileupload-dropzone c-background-highlight"><span class="c-upload-button"><button type="button" id="file-upload-1">Upload</button><input type="file" name="file" multiple="" tabindex="-1" aria-hidden="true"></span><span class="c-fileupload-dropzone-message">or drag files here.</span> </div>
+									<div class="c-validation c-warning" aria-hidden="true"></div>
+									<div class="c-fileupload-filelist"></div></div><div class="c-validation" aria-hidden="true"></div></div><div class="c-file c-field  c-col-13 c-sml-col-1 c-span-12 c-sml-span-12" data-field="REFERENCEONE"><div class="c-label  "><label id="c-2-54-label" for="c-2-54">REFERENCE ONE <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor c-fileupload" data-max-file-count="20" data-max-file-size="250"> <div class="c-fileupload-dropzone c-background-highlight"><span class="c-upload-button"><button type="button" id="file-upload-2">Upload</button><input type="file" name="file" multiple="" tabindex="-1" aria-hidden="true"></span><span class="c-fileupload-dropzone-message">or drag files here.</span> </div>
+									<div class="c-validation c-warning" aria-hidden="true"></div>
+									<div class="c-fileupload-filelist"></div></div><div class="c-validation" aria-hidden="true"></div></div><div class="c-file c-field  c-col-1 c-sml-col-1 c-span-12 c-sml-span-12" data-field="REFERENCETWO"><div class="c-label  "><label id="c-3-53-label" for="c-3-53">REFERENCE TWO <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor c-fileupload" data-max-file-count="20" data-max-file-size="250"> <div class="c-fileupload-dropzone c-background-highlight"><span class="c-upload-button"><button type="button" id="file-upload-3">Upload</button><input type="file" name="file" multiple="" tabindex="-1" aria-hidden="true"></span><span class="c-fileupload-dropzone-message">or drag files here.</span> </div>
+									<div class="c-validation c-warning" aria-hidden="true"></div>
+									<div class="c-fileupload-filelist"></div></div><div class="c-validation" aria-hidden="true"></div></div><div class="c-file c-field  c-col-13 c-sml-col-1 c-span-12 c-sml-span-12" data-field="REFERENCETHREE"><div class="c-label  "><label id="c-4-52-label" for="c-4-52">REFERENCE THREE <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor c-fileupload" data-max-file-count="20" data-max-file-size="250"> <div class="c-fileupload-dropzone c-background-highlight"><span class="c-upload-button"><button type="button" id="file-upload-4">Upload</button><input type="file" name="file" multiple="" tabindex="-1" aria-hidden="true"></span><span class="c-fileupload-dropzone-message">or drag files here.</span> </div>
+									<div class="c-validation c-warning" aria-hidden="true"></div>
+									<div class="c-fileupload-filelist"></div></div><div class="c-validation" aria-hidden="true"></div></div><div class="c-field c-col-1 c-sml-col-1 c-span-24 c-sml-span-12"><div class="c-editor c-html"><p>FOR MORE INFORMATION REGARDING CV &amp; REFERENCING CHECKS, PLEASE CLICK&nbsp;<a href="https://www.nhsemployers.org/your-workforce/recruit/employment-checks/employment-history-and-reference-checks">HERE</a><br class="Apple-interchange-newline"><br></p></div></div></div><div class="c-validation" aria-hidden="true"></div></div><div class="c-section  c-col-1 c-sml-col-1 c-span-24 c-sml-span-12" data-field="RIGHTTOWORKCHECKS"><div class="c-title"><h3>RIGHT TO WORK CHECKS</h3></div><div class=""><div class="c-file c-field  c-col-1 c-sml-col-1 c-span-24 c-sml-span-12" data-field="PASSPORT"><div class="c-label  "><label id="c-5-49-label" for="c-5-49">PASSPORT <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor c-fileupload" data-max-file-count="20" data-max-file-size="250"> <div class="c-fileupload-dropzone c-background-highlight"><span class="c-upload-button"><button type="button" id="file-upload-5">Upload</button><input type="file" name="file" multiple="" tabindex="-1" aria-hidden="true"></span><span class="c-fileupload-dropzone-message">or drag files here.</span> </div>
+									<div class="c-validation c-warning" aria-hidden="true"></div>
+									<div class="c-fileupload-filelist"></div></div><div class="c-validation" aria-hidden="true"></div><div class="c-helptext c-html"><p><em>MUST BE CLEAR COLOUR COPY WITH ALL 4 CORNERS OF THE PHOTO PAGES SHOWING</em></p></div></div><div class="c-file c-field  c-col-1 c-sml-col-1 c-span-24 c-sml-span-12" data-field="VISA"><div class="c-label  "><label id="c-6-48-label" for="c-6-48">VISA <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor c-fileupload" data-max-file-count="20" data-max-file-size="250"> <div class="c-fileupload-dropzone c-background-highlight"><span class="c-upload-button"><button type="button" id="file-upload-6">Upload</button><input type="file" name="file" multiple="" tabindex="-1" aria-hidden="true"></span><span class="c-fileupload-dropzone-message">or drag files here.</span> </div>
+									<div class="c-validation c-warning" aria-hidden="true"></div>
+									<div class="c-fileupload-filelist"></div></div><div class="c-validation" aria-hidden="true"></div><div class="c-helptext c-html"><p><em>MUST BE&nbsp;CLEAR COLOUR COPY OF THE FRONT AND BACK OF YOUR BRP</em></p></div></div><div class="c-field c-col-1 c-sml-col-1 c-span-24 c-sml-span-12"><div class="c-editor c-html"><p>FOR MORE INFORMATION REGARDING RIGHT TO WORK CHECKS, PLEASE CLICK&nbsp;<a href="https://www.nhsemployers.org/your-workforce/recruit/employment-checks/right-to-work-checks">HERE</a></p></div></div></div><div class="c-validation" aria-hidden="true"></div></div><div class="c-section  c-col-1 c-sml-col-1 c-span-24 c-sml-span-12" data-field="IDENTITYCHECKS"><div class="c-title"><h3>IDENTITY CHECKS</h3></div><div class=""><div class="c-file c-field  c-col-1 c-sml-col-1 c-span-12 c-sml-span-12" data-field="DRIVINGLICENCE"><div class="c-label  "><label id="c-7-45-label" for="c-7-45">DRIVING LICENCE <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor c-fileupload" data-max-file-count="20" data-max-file-size="250"> <div class="c-fileupload-dropzone c-background-highlight"><span class="c-upload-button"><button type="button" id="file-upload-7">Upload</button><input type="file" name="file" multiple="" tabindex="-1" aria-hidden="true"></span><span class="c-fileupload-dropzone-message">or drag files here.</span> </div>
+									<div class="c-validation c-warning" aria-hidden="true"></div>
+									<div class="c-fileupload-filelist"></div></div><div class="c-validation" aria-hidden="true"></div><div class="c-helptext c-html"><p><em>CLEAR COLOUR COPY WITH YOUR CURRENT ADDRESS</em></p></div></div><div class="c-file c-field  c-col-13 c-sml-col-1 c-span-12 c-sml-span-12" data-field="IFYOUDONOTHAVEADRIVINGLICENCEPLEASEUPLOADADIFFERENTFORMOFPHOTOID"><div class="c-label  "><label id="c-8-44-label" for="c-8-44">*IF YOU DO NOT HAVE A DRIVING LICENCE PLEASE UPLOAD A DIFFERENT FORM OF PHOTO ID <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor c-fileupload" data-max-file-count="20" data-max-file-size="250"> <div class="c-fileupload-dropzone c-background-highlight"><span class="c-upload-button"><button type="button" id="file-upload-8">Upload</button><input type="file" name="file" multiple="" tabindex="-1" aria-hidden="true"></span><span class="c-fileupload-dropzone-message">or drag files here.</span> </div>
+									<div class="c-validation c-warning" aria-hidden="true"></div>
+									<div class="c-fileupload-filelist"></div></div><div class="c-validation" aria-hidden="true"></div><div class="c-helptext c-html"><p><em>CANNOT BE PASSPORT IF&nbsp;YOU HAVE PROVIDED THIS ALREADY</em></p></div></div><div class="c-file c-field  c-col-1 c-sml-col-1 c-span-12 c-sml-span-12" data-field="PHOTO"><div class="c-label  "><label id="c-9-43-label" for="c-9-43">PHOTO <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor c-fileupload" data-max-file-count="20" data-max-file-size="250"> <div class="c-fileupload-dropzone c-background-highlight"><span class="c-upload-button"><button type="button" id="file-upload-9">Upload</button><input type="file" name="file" multiple="" tabindex="-1" aria-hidden="true"></span><span class="c-fileupload-dropzone-message">or drag files here.</span> </div>
+									<div class="c-validation c-warning" aria-hidden="true"></div>
+									<div class="c-fileupload-filelist"></div></div><div class="c-validation" aria-hidden="true"></div><div class="c-helptext c-html"><p><em>THIS PHONE SHOULD BE TAKEN WITH A WHITE BACKGROUND AS IT BE USED FOR YOUR ID BADGE</em></p></div></div><div class="c-file c-field  c-col-1 c-sml-col-1 c-span-12 c-sml-span-12" data-field="PROOFOFADDRESSONE"><div class="c-label  "><label id="c-10-42-label" for="c-10-42">PROOF OF ADDRESS ONE <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor c-fileupload" data-max-file-count="20" data-max-file-size="250"> <div class="c-fileupload-dropzone c-background-highlight"><span class="c-upload-button"><button type="button" id="file-upload-10">Upload</button><input type="file" name="file" multiple="" tabindex="-1" aria-hidden="true"></span><span class="c-fileupload-dropzone-message">or drag files here.</span> </div>
+									<div class="c-validation c-warning" aria-hidden="true"></div>
+									<div class="c-fileupload-filelist"></div></div><div class="c-validation" aria-hidden="true"></div><div class="c-helptext c-html"><p><em>MUST BE DATED WITHIN THE LAST 3 MONTHS&nbsp;- CANNOT ACCEPT INTERNET OR MOBILE PHONE BILLS</em></p></div></div><div class="c-file c-field  c-col-13 c-sml-col-1 c-span-12 c-sml-span-12" data-field="PROOFOFADDRESSTWO"><div class="c-label  "><label id="c-11-41-label" for="c-11-41">PROOF OF ADDRESS TWO <span class="c-offscreen c-required-screenreaders">required</span> <span class="c-offscreen c-validation-screenreaders">, <span></span></span></label></div><div class="c-editor c-fileupload" data-max-file-count="20" data-max-file-size="250"> <div class="c-fileupload-dropzone c-background-highlight"><span class="c-upload-button"><button type="button" id="file-upload-11">Upload</button><input type="file" name="file" multiple="" tabindex="-1" aria-hidden="true"></span><span class="c-fileupload-dropzone-message">or drag files here.</span> </div>
+									<div class="c-validation c-warning" aria-hidden="true"></div>
+									<div class="c-fileupload-filelist"></div></div><div class="c-validation" aria-hidden="true"></div><div class="c-helptext c-html"><p><em>MUST BE DATED WITHIN THE LAST 3 MONTHS&nbsp;- CANNOT ACCEPT INTERNET OR MOBILE PHONE BILLS</em></p></div></div><div class="c-field c-col-1 c-sml-col-1 c-span-24 c-sml-span-12"><div class="c-editor c-html"><p>FOR MORE INFORMATION REGARDING IDENTITY CHECKS, PLEASE CLICK&nbsp;<a href="https://www.nhsemployers.org/your-workforce/recruit/employment-checks/identity-checks">HERE</a></p></div></div></div><div class="c-validation" aria-hidden="true"></div></div><div class="c-section  c-col-1 c-sml-col-1 c-span-24 c-sml-span-12" data-field="OCCUPATIONALHEALTHCHECKS">
+							</form>
+			</div>	
+				</div>
 				</div>
 						</div>
 					</div>
@@ -709,7 +732,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-2e138e3 elementor-align-center elementor-widget elementor-widget-button" data-id="2e138e3" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="../register-now/index.html" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('register-now')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">register now</span>
 		</span>
@@ -781,203 +804,6 @@ Register Now					</a></div>		</div>
 								</div>
 					</div>
 		</section> --}}
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-x6frm2d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="x6frm2d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-tzhib5k" data-id="tzhib5k" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-9d1b4hd no-margin elementor-widget elementor-widget-heading" data-id="9d1b4hd" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">SAFE, SECURE, SPEEDY</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-hsvot3g no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="hsvot3g" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-07k93nt elementor-widget elementor-widget-text-editor" data-id="07k93nt" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>We are currently seeking Doctors whom are interested in working remotely in the following specialties</p>					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-7460711 elementor-align-center elementor-widget elementor-widget-button" data-id="7460711" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="https://www.cognitoforms.com/MedeVoltGroup1/ONBOARDINGDOCUMENTS" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">onboard now</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-qlp1u7q elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="qlp1u7q" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-b2ngt0t" data-id="b2ngt0t" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-2iobn4v elementor-widget elementor-widget-image" data-id="2iobn4v" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img src="https://medical.oceanwp.org/wp-content/uploads/2017/09/img_563214.jpg" title="Upload Your Documents 3" alt="img 563214">														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-h2jyl7g no-margin elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="h2jyl7g" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Reduced Lead Times</h3><p class="elementor-image-box-description">Nulla metus metus ullamcorper vel tincidunt sed, euismod in ouisque volutpat litora torquent</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-nam1h0g elementor-align-center elementor-widget elementor-widget-button" data-id="nam1h0g" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-									<i class="fa fa-angle-double-right" aria-hidden="true"></i>
-							</span>
-						<span class="elementor-button-text">Read More</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-kzmqidt" data-id="kzmqidt" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-mbci7q1 elementor-widget elementor-widget-image" data-id="mbci7q1" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img src="https://medical.oceanwp.org/wp-content/uploads/2017/09/img_957412.jpg" title="Upload Your Documents 4" alt="img 957412">														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-ydrvaz8 no-margin elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ydrvaz8" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Sustainable Practice</h3><p class="elementor-image-box-description">Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae sem massa mattis</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-kayomy1 elementor-align-center elementor-widget elementor-widget-button" data-id="kayomy1" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-									<i class="fa fa-angle-double-right" aria-hidden="true"></i>
-							</span>
-						<span class="elementor-button-text">Read More</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5za0l3q" data-id="5za0l3q" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-dn68xsk elementor-widget elementor-widget-image" data-id="dn68xsk" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-image">
-												<img src="https://medical.oceanwp.org/wp-content/uploads/2017/09/img_369542.jpg" title="Upload Your Documents 5" alt="img 369542">														</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-ijqizle no-margin elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ijqizle" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">No Compromise on Safety</h3><p class="elementor-image-box-description">Ullamcorper. Nulla facilisi. Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-3zcxk0d elementor-align-center elementor-widget elementor-widget-button" data-id="3zcxk0d" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-right">
-									<i class="fa fa-angle-double-right" aria-hidden="true"></i>
-							</span>
-						<span class="elementor-button-text">Read More</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-f35241a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f35241a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1126ca5" data-id="1126ca5" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-6a14eb1 elementor-widget elementor-widget-counter" data-id="6a14eb1" data-element_type="widget" data-widget_type="counter.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-counter">
-			<div class="elementor-counter-number-wrapper">
-				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="18" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix"></span>
-			</div>
-							<div class="elementor-counter-title">projects delivered</div>
-					</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-080f02e" data-id="080f02e" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-e3be090 elementor-widget elementor-widget-counter" data-id="e3be090" data-element_type="widget" data-widget_type="counter.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-counter">
-			<div class="elementor-counter-number-wrapper">
-				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="5635" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
-			</div>
-							<div class="elementor-counter-title">compliant candidates</div>
-					</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3a6271a" data-id="3a6271a" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-c255543 elementor-widget elementor-widget-counter" data-id="c255543" data-element_type="widget" data-widget_type="counter.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-counter">
-			<div class="elementor-counter-number-wrapper">
-				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="69" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
-			</div>
-							<div class="elementor-counter-title">TREES SAVED​</div>
-					</div>
-				</div>
-				</div>
 						</div>
 					</div>
 		</div>

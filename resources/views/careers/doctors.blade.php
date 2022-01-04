@@ -562,7 +562,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;">At MedeVolt Healthcare, our experts go The Xtra Mile to find Doctors all over the country their next opportunity, from Medical Officer to Consultant level.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
+				<h3><span style="color: #ffffff;">At MedeVolt Healthcare, our experts go The Extra Mile to find Doctors all over the country their next opportunity, from Medical Officer to Consultant level.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-c2a2844 elementor-align-center elementor-widget elementor-widget-button" data-id="c2a2844" data-element_type="widget" data-widget_type="button.default">
@@ -671,7 +671,7 @@ Register Now					</a></div>		</div>
 											</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						The Xtra Mile means not only competitive pay but supporting you as person throughout your role					</p>
+						The Extra Mile means not only competitive pay but supporting you as person throughout your role					</p>
 							</div>
 		</div>
 				</div>
@@ -769,7 +769,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-hrw6g7u elementor-widget elementor-widget-image" data-id="hrw6g7u" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
-<img width="768" height="401" src="wp-content/uploads/GP-Family-models-768x401.jpg" alt="GP Family models">
+<img width="768" height="401" src="{{asset('img/doctors.jpg')}}" alt="GP Family models">
 
 														</div>
 						</div>
@@ -1683,7 +1683,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-a7da65d elementor-widget elementor-widget-text-editor" data-id="a7da65d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>We’re delighted that you have chosen to join the MedeVolt Healthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Xtra Mile in supporting the next step in your career.</p>					</div>
+				<p>We’re delighted that you have chosen to join the MedeVolt Healthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Extra Mile in supporting the next step in your career.</p>					</div>
 						</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-1607434 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1607434" data-element_type="section">
@@ -1695,7 +1695,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-cb7745c elementor-widget elementor-widget-testimonial" data-id="cb7745c" data-element_type="widget" data-widget_type="testimonial.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"As a healthcare business there is nothing more important than taking care of our people and its important that everyone who works with us feels The Xtra Mile in everything we do. Welcome to the MedeVolt family!"</div>
+							<div class="elementor-testimonial-content">"As a healthcare business there is nothing more important than taking care of our people and its important that everyone who works with us feels The Extra Mile in everything we do. Welcome to the MedeVolt family!"</div>
 			
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
@@ -1889,7 +1889,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-0b844b6 elementor-widget elementor-widget-text-editor" data-id="0b844b6" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Going The Xtra Mile starts in the office. Are you looking for the next step in your career? Find about below how you can join the MedeVolt Family.</p>					</div>
+				<p>Going The Extra Mile starts in the office. Are you looking for the next step in your career? Find about below how you can join the MedeVolt Family.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-bb5b7e6 elementor-align-center elementor-widget elementor-widget-button" data-id="bb5b7e6" data-element_type="widget" data-widget_type="button.default">

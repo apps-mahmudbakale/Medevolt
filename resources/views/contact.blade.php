@@ -6,7 +6,7 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Search Engine Optimisation by Rank Math - https://s.rankmath.com/home -->
-<title>Contact Us - Ta Healthcare</title>
+<title>Contact Us - MedeVolt Healthcare</title>
 <meta name="description" content="We want you to feel safe and supported when working with MedeVolt Healthcare. If you have any issues which you wish to raise in a confidential manner please use"/>
 <meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
 <link rel="canonical" href="index.html" />
@@ -629,14 +629,14 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;"><strong>At MedeVolt Healthcare, our experts go The Xtra Mile to find Doctors all over the globe their next opportunity, from Foundation to Consultant level.</strong></span></h3>
+				<h3><span style="color: #ffffff;"><strong>At MedeVolt Healthcare, our experts go The Extra Mile to find Doctors all over the globe their next opportunity, from Foundation to Consultant level.</strong></span></h3>
 <h3><span style="color: #ffffff;"><strong>Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</strong></span></h3>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-c2a2844 elementor-align-center elementor-widget elementor-widget-button" data-id="c2a2844" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="../register-now/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('register-now')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Register Now</span>
 		</span>
@@ -810,7 +810,7 @@ Register Now					</a></div>		</div>
 						REGISTER NOW					</a>
 				</h3>
 									<p class="elementor-icon-box-description">
-						You're a specialist in your field, and so are we. Whether it be for a week or forever with years of experience let us take the next step in your career The Xtra Mile!					</p>
+						You're a specialist in your field, and so are we. Whether it be for a week or forever with years of experience let us take the next step in your career The Extra Mile!					</p>
 							</div>
 		</div>
 				</div>
@@ -836,12 +836,12 @@ Register Now					</a></div>		</div>
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
 						<div class="elementor-icon-box-icon">
-				<a class="elementor-icon elementor-animation-" href="../nurses-if-youre-a-nurse-looking-for-your-next-locum-weekend-or-ongoing/index.html">
+				<a class="elementor-icon elementor-animation-" href="{{route('contact')}}">
 				<i aria-hidden="true" class="far fa-lightbulb"></i>				</a>
 			</div>
 						<div class="elementor-icon-box-content">
 				<h3 class="elementor-icon-box-title">
-					<a href="../nurses-if-youre-a-nurse-looking-for-your-next-locum-weekend-or-ongoing/index.html" >
+					<a href="{{route('contact')}}" >
 						FEEDBACK					</a>
 				</h3>
 									<p class="elementor-icon-box-description">
@@ -877,7 +877,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-icon-box-content">
 				<h3 class="elementor-icon-box-title">
 					<span  >
-						XTRA MILER SCHEME					</span>
+						Extra MILER SCHEME					</span>
 				</h3>
 									<p class="elementor-icon-box-description">
 						With safety at the heart of everything we do, you can be assured when working with MedeVolt Healthcare that you're in safe hands.					</p>
@@ -888,7 +888,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-f064d25 elementor-align-center elementor-widget elementor-widget-button" data-id="f064d25" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="../xtra-miler-scheme/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{route('register-now')}}" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">FIND OUT MORE</span>
 		</span>
@@ -923,9 +923,9 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-8b46e10 elementor-align-center elementor-widget elementor-widget-button" data-id="8b46e10" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="../MedeVolt-refer/index.html" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">FIND OUT MORE</span>
+						<span class="elementor-button-text">Coming Soon</span>
 		</span>
 					</a>
 		</div>
@@ -937,170 +937,7 @@ Register Now					</a></div>		</div>
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-48314cc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="48314cc" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9de7e4f" data-id="9de7e4f" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-2b7507f elementor-widget elementor-widget-text-editor" data-id="2b7507f" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>We want you to feel safe and supported when working with MedeVolt Healthcare. If you have any issues which you wish to raise in a confidential manner please use the forms below and we will ensure that the best person contacts you as soon as possible. </p>					</div>
-						</div>
-				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a264662 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a264662" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7538aff" data-id="7538aff" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-3ba97bd elementor-view-default elementor-widget elementor-widget-icon" data-id="3ba97bd" data-element_type="widget" data-widget_type="icon.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-wrapper">
-			<div class="elementor-icon">
-			<i aria-hidden="true" class="fas fa-heartbeat"></i>			</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-2e6fd6c elementor-widget elementor-widget-heading" data-id="2e6fd6c" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">SAFEGUARDING</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-94c69d0 elementor-widget elementor-widget-text-editor" data-id="94c69d0" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>Please use this form to report a safeguarding issue to the MedeVolt Healthcare Safeguarding team.</p>					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-d13636d elementor-align-center elementor-widget elementor-widget-button" data-id="d13636d" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="../safeguarding-concern/index.html" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">CONTACT US</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-c92dd31" data-id="c92dd31" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-c48855b elementor-view-default elementor-widget elementor-widget-icon" data-id="c48855b" data-element_type="widget" data-widget_type="icon.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-wrapper">
-			<div class="elementor-icon">
-			<i aria-hidden="true" class="fas fa-walking"></i>			</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-3c3ffc6 elementor-widget elementor-widget-heading" data-id="3c3ffc6" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">ON-SITE</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-130349d elementor-widget elementor-widget-text-editor" data-id="130349d" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>Please use this form to open a discussion regarding any issues you are experiencing.</p>					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-4046e0d elementor-align-center elementor-widget elementor-widget-button" data-id="4046e0d" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="../on-site-issues/index.html" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">CONTACT US</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3e546cd" data-id="3e546cd" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-396e108 elementor-view-default elementor-widget elementor-widget-icon" data-id="396e108" data-element_type="widget" data-widget_type="icon.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-wrapper">
-			<div class="elementor-icon">
-			<i aria-hidden="true" class="fas fa-hand-holding-heart"></i>			</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-ed1303d elementor-widget elementor-widget-heading" data-id="ed1303d" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">SAFETY</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-636cd16 elementor-widget elementor-widget-text-editor" data-id="636cd16" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>Please use form to make a confidential disclosure regarding safety issues on site.</p>					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-eb69bcc elementor-align-center elementor-widget elementor-widget-button" data-id="eb69bcc" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="../safety-concern/index.html" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">CONTACT US</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-b1ad387" data-id="b1ad387" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-92060b9 elementor-view-default elementor-widget elementor-widget-icon" data-id="92060b9" data-element_type="widget" data-widget_type="icon.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-wrapper">
-			<div class="elementor-icon">
-			<i aria-hidden="true" class="far fa-file-excel"></i>			</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-6c7dce9 elementor-widget elementor-widget-heading" data-id="6c7dce9" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">MedeVolt COMPLAINTS</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-905ac0d elementor-widget elementor-widget-text-editor" data-id="905ac0d" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-								<div class="elementor-text-editor elementor-clearfix">
-				<p>Please use this form to contact our Directors regarding the behaviour of MedeVolt Healthcare staff.</p>					</div>
-						</div>
-				</div>
-				<div class="elementor-element elementor-element-96277ed elementor-align-center elementor-widget elementor-widget-button" data-id="96277ed" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="../MedeVolt-complaints/index.html" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">CONTACT US</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
+
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-7b28a79 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b28a79" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">

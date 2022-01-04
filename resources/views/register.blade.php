@@ -12,7 +12,7 @@
 <meta property="og:locale" content="en_GB" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Register Now - Medivolt Healthcare" />
-<meta property="og:description" content="We’re delighted that you have chosen to join the Medivolt Healthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Xtra Mile" />
+<meta property="og:description" content="We’re delighted that you have chosen to join the Medivolt Healthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Extra Mile" />
 <meta property="og:url" content="index.html" />
 <meta property="og:site_name" content="Medivolt Healthcare" />
 <meta property="article:publisher" content="https://www.facebook.com/TXMHealthcare/" />
@@ -595,7 +595,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-ac71e87 elementor-widget elementor-widget-html" data-id="ac71e87" data-element_type="widget" data-widget_type="html.default">
 				<div class="elementor-widget-container">
 			<div class="cognito row">
-			{{-- 	<span><p>Thank you.</p> <p>Your CV was successfully submitted.</p> <p>Right now using the power of the internet this submission is being sent to the perfect recruitment consultant based on the details provfided..</p> <p>We will be in touch within 24 hours. If you wish to speak to anyone sooner please give us a call on 01908 326 400 between the hours of 830am and 530pm.</p> <p>Please continue to look around our website or refresh this page if you need to submit for the form again for any reason.</p> <p>We look forward to taking your career The Xtra Mile!&nbsp;</p></span> --}}
+			{{-- 	<span><p>Thank you.</p> <p>Your CV was successfully submitted.</p> <p>Right now using the power of the internet this submission is being sent to the perfect recruitment consultant based on the details provfided..</p> <p>We will be in touch within 24 hours. If you wish to speak to anyone sooner please give us a call on 01908 326 400 between the hours of 830am and 530pm.</p> <p>Please continue to look around our website or refresh this page if you need to submit for the form again for any reason.</p> <p>We look forward to taking your career The Extra Mile!&nbsp;</p></span> --}}
 			<form action="{{route('register.store')}}" class="" method="POST" enctype="multipart/form-data">
 				@csrf
 				<h2>Your Details</h2>
@@ -681,7 +681,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-3da79b8 elementor-widget elementor-widget-text-editor" data-id="3da79b8" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>We’re delighted that you have chosen to join the Medivolt Healthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Xtra Mile in supporting the next step in your career.</p>					</div>
+				<p>We’re delighted that you have chosen to join the Medivolt Healthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Extra Mile in supporting the next step in your career.</p>					</div>
 						</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a46d959 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a46d959" data-element_type="section">
@@ -693,7 +693,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-element elementor-element-33ece97 elementor-widget elementor-widget-testimonial" data-id="33ece97" data-element_type="widget" data-widget_type="testimonial.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"As a healthcare business there is nothing more important than taking care of our people and its important that everyone who works with us feels The Xtra Mile in everything we do. Welcome to the MedeVolt family!"</div>
+							<div class="elementor-testimonial-content">"As a healthcare business there is nothing more important than taking care of our people and its important that everyone who works with us feels The Extra Mile in everything we do. Welcome to the MedeVolt family!"</div>
 			
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
@@ -832,7 +832,7 @@ Register Now					</a></div>		</div>
 											</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						The Xtra Mile means not only competitive pay but supporting you as person throughout your role					</p>
+						The Extra Mile means not only competitive pay but supporting you as person throughout your role					</p>
 							</div>
 		</div>
 				</div>
@@ -931,7 +931,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-widget-container">
 								<div class="elementor-image">
 												
-<img width="768" height="512" src="wp-content/uploads/JUNIOR1-768x512.jpg" alt="JUNIOR1" loading="lazy">
+<img width="768" height="512" src="{{asset('img/register.jpeg')}}" alt="JUNIOR1" loading="lazy">
 
 														</div>
 						</div>
@@ -1134,7 +1134,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-76266b3 elementor-widget elementor-widget-text-editor" data-id="76266b3" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Going The Xtra Mile starts in the office. Are you looking for the next step in your career? Find about below how you can join the MedeVolt Family.</p>					</div>
+				<p>Going The Extra Mile starts in the office. Are you looking for the next step in your career? Find about below how you can join the MedeVolt Family.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-140fa1e elementor-align-center elementor-widget elementor-widget-button" data-id="140fa1e" data-element_type="widget" data-widget_type="button.default">
@@ -1271,7 +1271,7 @@ Register Now					</a></div>		</div>
 		
 		
 			<div id="copyright" class="clr" role="contentinfo">
-				Medivolt Healthcare 2020 | All Rights Reserved | <a href="../privacy-policy/index.html">Privacy Policy</a>			</div><!-- #copyright -->
+				Medivolt Healthcare 2020 | All Rights Reserved | <a href="">Privacy Policy</a>			</div><!-- #copyright -->
 
 			
 	</div><!-- #footer-bottom-inner -->
@@ -1297,167 +1297,9 @@ Register Now					</a></div>		</div>
 <a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
 
 
+@include('partials.navs-mobile')
 
-
-<div id="mobile-fullscreen" class="clr" >
-
-	<div id="mobile-fullscreen-inner" class="clr">
-
-		<a href="javascript:void(0)" class="close" aria-label="Close Menu" >
-			<div class="close-icon-wrap">
-				<div class="close-icon-inner"></div>
-			</div>
-		</a>
-
-		<nav class="clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
-
-			<ul id="menu-main-menu-1" class="fs-dropdown-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-14889"><a href="{{route('welcome')}}">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-14908"><a href="../careers/index.html">Careers</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14785 current_page_item menu-item-14872"><a href="{{route('register-now')}}" aria-current="page">Register Now!</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15052"><a href="{{route('latest-roles')}}">Latest Roles</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14874"><a href="../txm-doctors/index.html">MediVolt Doctors</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14618"><a href="../txm-nursing/index.html">MediVolt Nursing</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14951"><a href="../txm-mental-health/index.html">MediVolt Allied Health</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14909"><a href="../solutions/index.html">Solutions</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17060"><a href="../txm-experience/index.html">TXM Experience</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20337"><a href="../xtra-miler-f3year/index.html">TXM F3Year</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18195"><a href="../txm-direct/index.html">TXM Direct</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17058"><a href="../nhs/index.html">NHS</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24580"><a href="../virtual-hospital/index.html">Virtual Hospital</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24581"><a href="../virtual-register/index.html">Virtual Register</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17059"><a href="../private-sector/index.html">Private Sector</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20569"><a href="../2xm-healthcare/index.html">2XM Healthcare</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20570"><a href="../register-now-australia/index.html">Register Now – Australia</a></li>
-	</ul>
-</li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14927"><a href="../compliance/index.html">Compliance</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-16967"><a href="../txm-paperless/index.html">TXM Paperless</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17148"><a href="../upload-your-documents/index.html">Upload Your Documents</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17064"><a href="../governance/index.html">Governance</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17219"><a href="../revalidation/index.html">Revalidation</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14578"><a href="../useful-documents/index.html">Useful Documents</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18293"><a href="../shop/index.html">TXM Shop</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18297"><a href="../shop/standard-terms-conditions/index.html">Standard Terms &#038; Conditions</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18296"><a href="../returns-policy/index.html">Returns Policy</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18298"><a href="../consumer-terms-of-sales/index.html">Consumer Terms of Sales</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17279"><a href="../covid-19/index.html">COVID-19</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14920"><a href="../support/index.html">Support</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24233"><a href="../news/index.html">News</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24416"><a href="../blog/index.html">Blog</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14767"><a href="../about-us/index.html">TXM Family</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14910"><a href="../refer-a-friend/index.html">TXM Refer</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14663"><a href="../xtra-miler-scheme/index.html">Xtra Miler Scheme</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-17002"><a href="../report-a-concern/index.html">Report a Concern</a>
-	<ul class="sub-menu">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17008"><a href="../txm-complaints/index.html">TXM Complaints</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17009"><a href="../safeguarding-concern/index.html">Safeguarding Concern</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17010"><a href="../safety-concern/index.html">Safety Concern</a></li>
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17011"><a href="../on-site-issues/index.html">On Site Issues</a></li>
-	</ul>
-</li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17441"><a href="../contact-us/index.html">Contact Us</a></li>
-</ul>
-</li>
-
-
-			</ul>
-		</nav>
-
-	</div>
-
-</div>
-<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.</div><div class="cli-bar-btn_container"><a role='button' tabindex='0' class="medium cli-plugin-button cli-plugin-main-button cli_settings_button" style="margin:0px 5px 0px 0px;" >Cookie Settings</a><a id="wt-cli-accept-all-btn" tabindex="0" role='button' data-cli_action="accept_all"  class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button" >Accept All</a></div></div></span></div><div id="cookie-law-info-again" style="display:none;" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
-  <div class="cli-modal-dialog" role="document">
-	<div class="cli-modal-content cli-bar-popup">
-	  	<button type="button" class="cli-modal-close" id="cliModalClose">
-			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
-			<span class="wt-cli-sr-only">Close</span>
-	  	</button>
-	  	<div class="cli-modal-body">
-			<div class="cli-container-fluid cli-tab-container">
-	<div class="cli-row">
-		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
-			<div class="cli-privacy-overview">
-				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
-					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.</div>
-				</div>
-				<a class="cli-privacy-readmore"  aria-label="Show more" tabindex="0" role="button" data-readmore-text="Show more" data-readless-text="Show less"></a>			</div>
-		</div>
-		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
-												<div class="cli-tab-section">
-						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
-								Necessary							</a>
-							<div class="wt-cli-necessary-checkbox">
-                        <input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
-                        <label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
-                    </div>
-                    <span class="cli-necessary-caption">Always Enabled</span> 						</div>
-						<div class="cli-tab-content">
-							<div class="cli-tab-pane cli-fade" data-id="necessary">
-								<div class="wt-cli-cookie-description">
-									Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								</div>
-							</div>
-						</div>
-					</div>
-																	<div class="cli-tab-section">
-						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
-								Non-necessary							</a>
-							<div class="cli-switch">
-                        <input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox"  data-id="checkbox-non-necessary"  checked='checked' />
-                        <label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Non-necessary</span></label>
-                    </div>						</div>
-						<div class="cli-tab-content">
-							<div class="cli-tab-pane cli-fade" data-id="non-necessary">
-								<div class="wt-cli-cookie-description">
-									Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								</div>
-							</div>
-						</div>
-					</div>
-										</div>
-	</div>
-</div>
-	  	</div>
-	  	<div class="cli-modal-footer">
-			<div class="wt-cli-element cli-container-fluid cli-tab-container">
-				<div class="cli-row">
-					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
-						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
-						
-															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE & ACCEPT</a>
-													</div>
-						
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-  </div>
-</div>
-<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
-<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
-<!--googleon: all-->            <script>
+<script>
                 jQuery(function($){
 
                     

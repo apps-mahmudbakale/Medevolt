@@ -625,7 +625,7 @@ Register Now					</a></div>		</div>
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-39abf6f elementor-widget elementor-widget-heading" data-id="39abf6f" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">WHAT IS GOING THE XTRA MILE?</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">WHAT IS GOING THE Extra MILE?</h2>		</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-fd3b60c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fd3b60c" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -664,7 +664,7 @@ Register Now					</a></div>		</div>
 											</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						Going The Xtra Mile in everything we do					</p>
+						Going The Extra Mile in everything we do					</p>
 							</div>
 		</div>
 				</div>
@@ -919,7 +919,7 @@ Register Now					</a></div>		</div>
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-9d1b4hd no-margin elementor-widget elementor-widget-heading" data-id="9d1b4hd" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">going the xtra mile to fulfil all your healthcare staffing requirements</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">going the Extra mile to fulfil all your healthcare staffing requirements</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-hsvot3g no-margin elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="hsvot3g" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">

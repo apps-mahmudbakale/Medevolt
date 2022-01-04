@@ -816,7 +816,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-icon-box-content">
 				<h3 class="elementor-icon-box-title">
 					<span  >
-						nursing / HCA					</span>
+						nursing 					</span>
 				</h3>
 									<p class="elementor-icon-box-description">
 						Click below to obtain the latest version of our timesheet.					</p>
@@ -827,7 +827,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-3df2a1a elementor-align-center elementor-widget elementor-widget-button" data-id="3df2a1a" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="wp-content/uploads/MedeVolt-Nursing-HCA-Timesheet-Template-Doc66HC-V1.pdf" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{asset('docs/nursing.pdf')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Click Here</span>
 		</span>
@@ -851,7 +851,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-icon-box-content">
 				<h3 class="elementor-icon-box-title">
 					<span  >
-						sessional					</span>
+						Allied Health					</span>
 				</h3>
 									<p class="elementor-icon-box-description">
 						Click below to obtain the latest version of our timesheet.					</p>
@@ -862,7 +862,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-0025f15 elementor-align-center elementor-widget elementor-widget-button" data-id="0025f15" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="wp-content/uploads/MedeVolt-Doctors-Sessional-Timesheet-Template-Doc68HC-V1.pdf" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{asset('doc/allied-health.pdf')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Click Here</span>
 		</span>
@@ -886,7 +886,7 @@ Register Now					</a></div>		</div>
 						<div class="elementor-icon-box-content">
 				<h3 class="elementor-icon-box-title">
 					<span  >
-						Theatre Practitioner					</span>
+						Virtual Hospital					</span>
 				</h3>
 									<p class="elementor-icon-box-description">
 						Click below to obtain the latest version of our TP timesheet.					</p>
@@ -897,7 +897,7 @@ Register Now					</a></div>		</div>
 				<div class="elementor-element elementor-element-0c2a0d6 elementor-align-center elementor-widget elementor-widget-button" data-id="0c2a0d6" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="wp-content/uploads/MedeVolt-Theatre-Practitioner-Timesheet-Template-Doc69HC-V1.pdf" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{asset('doc/virtual-hospital.pdf')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Click Here</span>
 		</span>
@@ -911,7 +911,7 @@ Register Now					</a></div>		</div>
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-5151357 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5151357" data-element_type="section">
+{{-- 				<section class="elementor-section elementor-top-section elementor-element elementor-element-5151357 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5151357" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-29a8efe" data-id="29a8efe" data-element_type="column">
@@ -1074,8 +1074,8 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-f8ebf01 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f8ebf01" data-element_type="section">
+		</section> --}}
+{{-- 				<section class="elementor-section elementor-top-section elementor-element elementor-element-f8ebf01 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f8ebf01" data-element_type="section">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
@@ -1221,7 +1221,7 @@ Register Now					</a></div>		</div>
 		</div>
 								</div>
 					</div>
-		</section>
+		</section> --}}
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-6b672c9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6b672c9" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
@@ -1380,66 +1380,6 @@ Register Now					</a></div>		</div>
 								</div>
 					</div>
 		</section>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-9d69587 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9d69587" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2b7a08b" data-id="2b7a08b" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-ee7f1ab elementor-widget elementor-widget-counter" data-id="ee7f1ab" data-element_type="widget" data-widget_type="counter.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-counter">
-			<div class="elementor-counter-number-wrapper">
-				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="100" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">%</span>
-			</div>
-							<div class="elementor-counter-title">platinum rated by neuven</div>
-					</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-870dce8" data-id="870dce8" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-f9125d2 elementor-widget elementor-widget-counter" data-id="f9125d2" data-element_type="widget" data-widget_type="counter.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-counter">
-			<div class="elementor-counter-number-wrapper">
-				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="8" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix"></span>
-			</div>
-							<div class="elementor-counter-title">NHS NATIONAL FRAMEWORKS</div>
-					</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-945901d" data-id="945901d" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-b12507b elementor-widget elementor-widget-counter" data-id="b12507b" data-element_type="widget" data-widget_type="counter.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-counter">
-			<div class="elementor-counter-number-wrapper">
-				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="100" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">%</span>
-			</div>
-							<div class="elementor-counter-title">COMPLIANT CANDIATES</div>
-					</div>
-				</div>
-				</div>
 						</div>
 					</div>
 		</div>
