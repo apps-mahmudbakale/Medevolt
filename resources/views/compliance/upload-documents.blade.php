@@ -677,7 +677,7 @@ Register Now					</a></div>		</div>
 						<h2>ON BOARDING DOCUMENTS</h2>
 						<hr>
 						<br>
-						<img style="max-width: 100%; width: 50%"  src="{{asset('img/Medevolt logo5.png')}}">					
+						<img style="max-width: 100%; width: 50%;"  src="{{asset('img/Medevolt logo5.png')}}">					
 					</div>
 					<div class="col-md-12">
 						Full Name
