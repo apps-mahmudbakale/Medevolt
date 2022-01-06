@@ -9,7 +9,7 @@
 	    <nav>
 	      <ol class="breadcrumb">
 	        <li class="breadcrumb-item"><a href="{{route('admin.dashboard')}}">Dashboard</a></li>
-	        <li class="breadcrumb-item"><a href="{{route('admin.users.index')}}">Users</a></li>
+	        <li class="breadcrumb-item"><a href="{{route('admin.recruites.index')}}">Users</a></li>
 	        <li class="breadcrumb-item active">View User</li>
 	      </ol>
 	    </nav>
@@ -22,7 +22,7 @@
 	            <div class="card-body profile-card pt-4 d-flex flex-column align-items-center">
 
 	              <img src="{{asset('img/avatar.jpg')}}" alt="Profile" class="rounded-circle">
-	              <h2>{{$user->name}}</h2>
+	              <h2>{{$recruite->title}}  {{$recruite->firstname}} {{$recruite->lastname}}</h2>
 	              <h3></h3>
 	            </div>
 	          </div>
@@ -37,54 +37,43 @@
 	              <ul class="nav nav-tabs nav-tabs-bordered">
 
 	                <li class="nav-item">
-	                  <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#profile-overview"> User Deatails</button>
+	                  <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#profile-overview"> Recruite Deatails</button>
 	                </li>
 
-	                <li class="nav-item">
+	               {{--  <li class="nav-item">
 	                  <button class="nav-link" data-bs-toggle="tab" data-bs-target="#profile-edit">Edit User</button>
-	                </li>
+	                </li> --}}
 	              </ul>
 	              <div class="tab-content pt-2">
 
 	                <div class="tab-pane fade show active profile-overview" id="profile-overview">
-	                  <h5 class="card-title">User Details</h5>
+	                  <h5 class="card-title">Recruite Details</h5>
 
 	                  <div class="row">
 	                    <div class="col-lg-3 col-md-4 label ">Full Name</div>
-	                    <div class="col-lg-9 col-md-8">{{$user->name}}</div>
+	                    <div class="col-lg-9 col-md-8">{{$recruite->title}} {{$recruite->firstname}} {{$recruite->lastname}}</div>
 	                  </div>
 
 	                  <div class="row">
 	                    <div class="col-lg-3 col-md-4 label">Email</div>
-	                    <div class="col-lg-9 col-md-8">{{$user->email}}</div>
+	                    <div class="col-lg-9 col-md-8">{{$recruite->email}}</div>
+	                  </div>
+	                   <div class="row">
+	                    <div class="col-lg-3 col-md-4 label">Phone</div>
+	                    <div class="col-lg-9 col-md-8">{{$recruite->phone}}</div>
+	                  </div>
+	                   <div class="row">
+	                    <div class="col-lg-3 col-md-4 label">Career</div>
+	                    <div class="col-lg-9 col-md-8">{{$recruite->career}}</div>
+	                  </div>
+	                   <div class="row">
+	                    <div class="col-lg-3 col-md-4 label">Role</div>
+	                    <div class="col-lg-9 col-md-8">{{$recruite->role}}</div>
+	                  </div>
+	                   <div class="row">
+	                    <div class="col-lg-9 col-md-8"><a href="/storage/cv/{{$recruite->cv}}" download class="btn btn-primary btn-block"><i class="bi bi-card-text"></i> Download Cv</a></div>
 	                  </div>
 	                </div>
-
-	                <div class="tab-pane fade profile-edit pt-3" id="profile-edit">
-
-	                  <!-- Profile Edit Form -->
-	                  <form action="{{route('admin.users.update', $user->id)}}" method="POST">
-	                  @csrf
-	                  @method('PUT') 
-	                   <div class="row mb-3">
-	                      <label for="name" class="col-md-4 col-lg-3 col-form-label">Full Name</label>
-	                      <div class="col-md-8 col-lg-9">
-	                        <input name="name" type="text" class="form-control" id="name" value="{{$user->name}}">
-	                      </div>
-	                    </div>
-	                    <div class="row mb-3">
-	                      <label for="email" class="col-md-4 col-lg-3 col-form-label">Email</label>
-	                      <div class="col-md-8 col-lg-9">
-	                        <input name="email" type="email" class="form-control" id="email" value="{{$user->email}}">
-	                      </div>
-	                    </div>
-	                    <div class="text-center">
-	                      <button type="submit" class="btn btn-primary">Save Changes</button>
-	                    </div>
-	                  </form><!-- End Profile Edit Form -->
-
-	                </div>
-
 	              </div><!-- End Bordered Tabs -->
 
 	            </div>

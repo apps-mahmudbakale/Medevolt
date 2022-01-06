@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Application;
+use App\Models\Job;
 use Illuminate\Http\Request;
 
 class ApplicationController extends Controller
@@ -43,7 +44,7 @@ class ApplicationController extends Controller
             $extension = $request->file('cv')->getClientOriginalExtension();
 
             $cv = $filename.'_'.time().'.'.$extension;
-            $path = $request->file('cv')->storeAs('public/documents', $cv);
+            $path = $request->file('cv')->storeAs('public/cv', $cv);
         } else {
             $cv = 'no-file.pdf';
         }
@@ -60,6 +61,13 @@ class ApplicationController extends Controller
         ]);
 
         return redirect()->route('register-now')->with('success', 'Added');
+    }
+
+    public function roles()
+    {
+        $roles = Job::all();
+
+        return view('careers.latest-roles', compact('roles'));
     }
 
     /**

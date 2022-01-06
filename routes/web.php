@@ -2,6 +2,8 @@
 
 use App\Http\Controllers\ApplicationController;
 use App\Http\Controllers\DashboardController;
+use App\Http\Controllers\DocumentController;
+use App\Http\Controllers\JobController;
 use App\Http\Controllers\RecruiteController;
 use App\Http\Controllers\RoleController;
 use App\Http\Controllers\UserController;
@@ -22,9 +24,10 @@ Route::get('/', function () {
     return view('welcome');
 })->name('welcome');
 
-Route::get('latest-roles', function () {
-    return view('careers.latest-roles');
-})->name('latest-roles');
+// Route::get('latest-roles', function () {
+//     return view('careers.latest-roles');
+// })->name('latest-roles');
+
 
 Route::get('medevolt-doctors', function () {
     return view('careers.doctors');
@@ -40,13 +43,13 @@ Route::get('medevolt-allied-health', function () {
 })->name('allied-health');
 
 
-Route::get('medevolt-experiene', function () {
-    return view('solutions.experience');
-})->name('experience');
+// Route::get('medevolt-experiene', function () {
+//     return view('solutions.experience');
+// })->name('experience');
 
-Route::get('medevolt-direct', function () {
-    return view('solutions.direct');
-})->name('direct');
+// Route::get('medevolt-direct', function () {
+//     return view('solutions.direct');
+// })->name('direct');
 
 Route::get('medevolt-public-sector', function () {
     return view('solutions.nhs');
@@ -93,6 +96,10 @@ Route::get('/home', [App\Http\Controllers\DashboardController::class, 'index'])-
 Route::get('/register-now', [ApplicationController::class, 'index'])->name('register-now');
 Route::post('/register-now', [ApplicationController::class, 'store'])->name('register.store');
 
+Route::post('/documents', [DocumentController::class, 'store'])->name('documents.store');
+
+Route::get('latest-roles', [App\Http\Controllers\ApplicationController::class, 'roles'])->name('latest-roles');
+
 
 Route::group(['prefix' => 'admin', 'as' => 'admin.', 'middleware' => ['auth']], function ()
 {
@@ -101,5 +108,7 @@ Route::group(['prefix' => 'admin', 'as' => 'admin.', 'middleware' => ['auth']], 
     Route::resource('users', UserController::class);
     Route::resource('roles', RoleController::class);
     Route::resource('recruites', RecruiteController::class);
+    Route::resource('jobs', JobController::class);
+    Route::resource('documents', DocumentController::class);
 
 });

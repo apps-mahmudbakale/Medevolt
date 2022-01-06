@@ -43,7 +43,11 @@ class UserController extends Controller
      */
     public function store(UserFormRequest $request)
     {
-        $user = User::create($request->all());
+        $user = User::create([
+                'name' => $request->name,
+                'email' => $request->email,
+                'password' => bcrypt($request->password)
+        ]);
         $user->roles()->sync($request->input('roles'));
 
         return redirect()->route('admin.users.index')->with('success', 'User Added');

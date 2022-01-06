@@ -14,7 +14,9 @@ class JobController extends Controller
      */
     public function index()
     {
-        //
+        $jobs = Job::all();
+
+        return view('jobs.index', compact('jobs'));
     }
 
     /**
@@ -24,7 +26,7 @@ class JobController extends Controller
      */
     public function create()
     {
-        //
+        return view('jobs.create');
     }
 
     /**
@@ -35,7 +37,9 @@ class JobController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $job = Job::create($request->all());
+
+        return redirect()->route('admin.jobs.index')->with('success', 'Jobs Added');
     }
 
     /**
@@ -57,7 +61,7 @@ class JobController extends Controller
      */
     public function edit(Job $job)
     {
-        //
+        return view('jobs.edit', compact('job'));
     }
 
     /**
@@ -69,7 +73,9 @@ class JobController extends Controller
      */
     public function update(Request $request, Job $job)
     {
-        //
+        $job->update($request->all());
+
+         return redirect()->route('admin.jobs.index')->with('Job Updated');
     }
 
     /**
@@ -80,6 +86,8 @@ class JobController extends Controller
      */
     public function destroy(Job $job)
     {
-        //
+        $job->delete();
+
+        return back()->with('success', 'Job Deleted');
     }
 }

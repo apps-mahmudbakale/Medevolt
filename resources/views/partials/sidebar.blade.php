@@ -30,9 +30,25 @@
       @endcan
       @can('read-users')
        <li class="nav-item">
+        <a class="nav-link collapsed" href="{{route('admin.jobs.index')}}">
+          <i class="bi bi-briefcase"></i>
+          <span>Jobs</span>
+        </a>
+      </li><!-- End Dashboard Nav -->
+      @endcan
+      @can('read-users')
+       <li class="nav-item">
         <a class="nav-link collapsed" href="{{route('admin.recruites.index')}}">
           <i class="bi bi-people"></i>
           <span>Recruites</span>
+        </a>
+      </li><!-- End Dashboard Nav -->
+      @endcan
+      @can('read-users')
+       <li class="nav-item">
+        <a class="nav-link collapsed" href="{{route('admin.documents.index')}}">
+          <i class="bi bi-card-text"></i>
+          <span>Documents</span>
         </a>
       </li><!-- End Dashboard Nav -->
       @endcan

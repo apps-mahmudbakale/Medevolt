@@ -599,7 +599,9 @@ Register Now					</a></div>		</div>
 <form class="job_filters">
 	
 	<div class="search_jobs">
-		
+		@foreach($roles as $key => $role)
+		<p>{{$role->role}} {{$role->location}} {{$role->qty}}</p>
+	@endforeach
 		<div class="search_keywords">
 			<label for="search_keywords">Keywords</label>
 			<input type="text" name="search_keywords" id="search_keywords" placeholder="Keywords" value="" />
@@ -622,7 +624,11 @@ Register Now					</a></div>		</div>
 		<ul class="job_types">
 			</ul>
 	<input type="hidden" name="filter_job_type[]" value="" />
-<div class="showing_jobs"></div></form>
+<div class="showing_jobs">
+	@foreach($roles as $key => $role)
+		<p>{{$role->role}} {{$role->location}} {{$role->qty}}</p>
+	@endforeach
+</div></form>
 
 
 <noscript>Your browser does not support JavaScript, or it is disabled. JavaScript must be enabled in order to view listings.</noscript>
