@@ -599,9 +599,6 @@ Register Now					</a></div>		</div>
 <form class="job_filters">
 	
 	<div class="search_jobs">
-		@foreach($roles as $key => $role)
-		<p>{{$role->role}} {{$role->location}} {{$role->qty}}</p>
-	@endforeach
 		<div class="search_keywords">
 			<label for="search_keywords">Keywords</label>
 			<input type="text" name="search_keywords" id="search_keywords" placeholder="Keywords" value="" />
@@ -613,7 +610,6 @@ Register Now					</a></div>		</div>
 		</div>
 
 		<div style="clear: both"></div>
-
 		
 					<div class="search_submit">
 				<input type="submit" value="Search Jobs">
@@ -625,16 +621,28 @@ Register Now					</a></div>		</div>
 			</ul>
 	<input type="hidden" name="filter_job_type[]" value="" />
 <div class="showing_jobs">
-	@foreach($roles as $key => $role)
-		<p>{{$role->role}} {{$role->location}} {{$role->qty}}</p>
-	@endforeach
 </div></form>
 
 
 <noscript>Your browser does not support JavaScript, or it is disabled. JavaScript must be enabled in order to view listings.</noscript>
 <ul class="job_listings">
+	@foreach($roles as $key => $role)
+	<li class="post-25123 job_listing type-job_listing status-publish has-post-thumbnail hentry entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav" data-longitude="" data-latitude="" style="visibility: visible;">
+	<a href="">
+		<img class="company_logo" src="wp-content/uploads/Psych200x200-150x150.png" alt="">		
+		<div class="position">
+			<h3>{{$role->role}} ({{$role->qty}}) – {{$role->location}}</h3>
+			<div class="company"></div>
+		</div>
+		<div class="location">{{$role->location}}</div>
+		<ul class="meta">											
+		<li class="date"><time datetime="2021-12-21">{{$role->created_at}}</time></li></ul>
+	</a>
+</li>
+@endforeach
 </ul>
-<a class="load_more_jobs" href="#" style="display:none;"><strong>Load more listings</strong></a></div></p>					</div>
+<a class="load_more_jobs" href="#" style="display:block;"><strong>Load more listings</strong></a>
+</div></p>					</div>
 						</div>
 				</div>
 						</div>
