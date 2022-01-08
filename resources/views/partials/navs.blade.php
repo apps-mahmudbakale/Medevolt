@@ -15,10 +15,10 @@
 </li></ul>
 </li><li id="menu-item-14927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14927"><a href="" class="menu-link"><span class="text-wrap">Compliance<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
 <ul class="sub-menu">
-    <li id="menu-item-16967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-16967"><a href="txm-paperless/index.html" class="menu-link"><span class="text-wrap">MediVolt Paperless<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
+    <li id="menu-item-16967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-16967"><a href="" class="menu-link"><span class="text-wrap">MedeVolt Paperless<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
     <ul class="sub-menu">
         <li id="menu-item-17148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17148"><a href="{{route('upload-document')}}" class="menu-link"><span class="text-wrap">Upload Your Documents</span></a></li>    </ul>
-</li>   <li id="menu-item-14578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14578"><a href="{{route('useful-documents')}}" class="menu-link"><span class="text-wrap">Useful Documents</span></a></li>  <li id="menu-item-18293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-18293"><a href="" class="menu-link"><span class="text-wrap">MediVolt Shop<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
+</li>   <li id="menu-item-14578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14578"><a href="{{route('useful-documents')}}" class="menu-link"><span class="text-wrap">Useful Documents</span></a></li>  <li id="menu-item-18293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-18293"><a href="" class="menu-link"><span class="text-wrap">MedeVolt Shop<i class="nav-arrow fa fa-angle-right" aria-hidden="true" role="img"></i></span></a>
     <ul class="sub-menu">
         <li id="menu-item-18297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18297"><a href="" class="menu-link"><span class="text-wrap">Coming Soon !!!</span></a></li>        
         </ul>

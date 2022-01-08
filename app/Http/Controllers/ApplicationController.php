@@ -70,6 +70,13 @@ class ApplicationController extends Controller
         return view('careers.latest-roles', compact('roles'));
     }
 
+    public function welcome()
+    {
+        $roles = Job::paginate(5);
+
+        return view('welcome', compact('roles'));
+    }
+
     /**
      * Display the specified resource.
      *

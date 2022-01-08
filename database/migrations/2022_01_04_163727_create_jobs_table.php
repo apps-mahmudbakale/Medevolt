@@ -18,6 +18,7 @@ class CreateJobsTable extends Migration
             $table->string('role');
             $table->string('location');
             $table->integer('qty');
+            $table->text('description');
             $table->timestamps();
         });
     }

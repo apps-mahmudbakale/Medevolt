@@ -34,7 +34,9 @@ class RolesAndPermissionsSeeder extends Seeder
             'roles',
             'recruites',
             'jobs',
-            'documents'
+            'documents',
+            'news',
+            'blog',
            
         ];
 

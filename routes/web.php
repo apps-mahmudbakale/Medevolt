@@ -20,9 +20,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-})->name('welcome');
+// Route::get('/', function () {
+//     return view('welcome');
+// })->name('welcome');
 
 // Route::get('latest-roles', function () {
 //     return view('careers.latest-roles');
@@ -99,6 +99,8 @@ Route::post('/register-now', [ApplicationController::class, 'store'])->name('reg
 Route::post('/documents', [DocumentController::class, 'store'])->name('documents.store');
 
 Route::get('latest-roles', [App\Http\Controllers\ApplicationController::class, 'roles'])->name('latest-roles');
+
+Route::get('/', [App\Http\Controllers\ApplicationController::class, 'welcome'])->name('welcome');
 
 
 Route::group(['prefix' => 'admin', 'as' => 'admin.', 'middleware' => ['auth']], function ()
