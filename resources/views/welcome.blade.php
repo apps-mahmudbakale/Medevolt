@@ -1143,7 +1143,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
             </div>
             <div class="location">{{$role->location}}</div>
             <ul class="meta">                                           
-            <li class="date"><time datetime="2021-12-21">{{$role->created_at}}</time></li></ul>
+            <li class="date"><time datetime="{{$role->created_at}}">{{$role->created_at->diffForHumans()}}</time></li></ul>
         </a>
     </li>
     @endforeach

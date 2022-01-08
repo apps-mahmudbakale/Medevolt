@@ -39,7 +39,7 @@
                   <tr>
                     <th scope="row">{{$loop->iteration}}</th>
                     <td>{{$role->name}}</td>
-                    <td>{{$role->created_at}}</td>
+                    <td>{{$role->created_at->toFormattedDateString()}}</td>
                     <td class="btn-group">
                       @can('read-roles')
                       <a href="{{route('admin.roles.show', $role->id)}}" class="btn btn-success"><i class="bi bi-eye"></i></a>
