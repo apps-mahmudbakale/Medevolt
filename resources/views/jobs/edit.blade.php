@@ -34,6 +34,9 @@
 	      		      <div class="col-md-6">
 	      		        <input type="number" name="qty" value="{{ old('firstname', isset($job) ? $job->qty : '') }}" class="form-control" placeholder="Quantity">
 	      		      </div>
+	      		      <div class="col-md-12">
+	      		        <textarea name="description" placeholder="Job Description"  cols="30" rows="10" class="form-control">{{ old('firstname', isset($job) ? $job->description : '') }}</textarea>
+	      		      </div>
 	      		      <div>
 	      		        <button type="submit" class="btn btn-primary">Submit</button>
 	      		      </div>

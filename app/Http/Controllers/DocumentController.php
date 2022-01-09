@@ -14,7 +14,8 @@ class DocumentController extends Controller
      */
     public function index()
     {
-        return view('documents.index');
+        $documents = Document::all();
+        return view('documents.index', compact('documents'));
     }
 
     /**
@@ -166,17 +167,18 @@ class DocumentController extends Controller
         }
 
         $document = Document::create([
-            'fullname' = $request->name,
-            'cv' = $cv,
-            'refone' = $refone,
-            'reftwo' = $reftwo,
-            'refthree' = $refthree,
-            'degree' = $degree,
-            'licence' = $licence,
-            'identity' = $identity,
-            'photo' = $photo,
-            'proof_add_one' = $proof_add_one,
-            'proof_add_two' = $proof_add_two
+            'fullname' => $request->fullname,
+            'cv' => $cv,
+            'refone' => $refone,
+            'reftwo' => $reftwo,
+            'refthree' => $refthree,
+            'degree' => $degree,
+            'licence' => $licence,
+            'identity' => $identity,
+            'drivers_licence' => $drivers_licence,
+            'photo' => $photo,
+            'proof_add_one' => $proof_add_one,
+            'proof_add_two' => $proof_add_two
 
         ]);
 

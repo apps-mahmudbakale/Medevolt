@@ -43,7 +43,7 @@
 	                  <td>{{$job->role}}</td>
 	                  <td>{{$job->location}}</td>
 	                  <td>{{$job->qty}}</td>
-	                  <td>{{$job->created_at->diffForHumans()}}</td>
+	                  <td>{{$job->created_at->toDateString()}}</td>
 	                  <td class="btn-group">
 	                  	@can('read-users')
 	                  	<a href="{{route('admin.jobs.edit', $job->id)}}" class="btn btn-primary"><i class="bi bi-pencil-square"></i></a>

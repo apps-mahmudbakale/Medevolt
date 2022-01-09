@@ -13,7 +13,9 @@ class Job extends Model
         'role',
         'location',
         'qty',
+        'description',
         'created_at',
         'updated_at'
     ];
 }
+

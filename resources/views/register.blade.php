@@ -12,7 +12,7 @@
 <meta property="og:locale" content="en_GB" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Register Now - Medivolt Healthcare" />
-<meta property="og:description" content="We’re delighted that you have chosen to join the Medivolt Healthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Extra Mile" />
+<meta property="og:description" content="We’re delighted that you have chosen to join the Medivolt Healthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Beyond Expectations" />
 <meta property="og:url" content="index.html" />
 <meta property="og:site_name" content="Medivolt Healthcare" />
 <meta property="article:publisher" content="https://www.facebook.com/TXMHealthcare/" />
@@ -231,7 +231,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 	<div id="site-logo-inner" class="clr">
 
 		<a href="{{route('welcome')}}" class="custom-logo-link" rel="home">
-<img width="600" height="222" src="{{asset('img/logo.jpg')}}" alt="Medivolt Healthcare">
+<img width="600" height="222" style="max-width: 216px;" src="{{asset('img/logo5.png')}}" alt="Medivolt Healthcare">
 </a>
 	</div><!-- #site-logo-inner -->
 
@@ -367,7 +367,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-widget-container">
 			<div class="cognito row">
 				@if(Session::has('success'))
-				<span><p>Thank you.</p> <p>Your CV was successfully submitted.</p> <p>Right now using the power of the internet this submission is being sent to the perfect recruitment consultant based on the details provfided..</p> <p>We will be in touch within 24 hours. If you wish to speak to anyone sooner please give us a call on 01908 326 400 between the hours of 830am and 530pm.</p> <p>Please continue to look around our website or refresh this page if you need to submit for the form again for any reason.</p> <p>We look forward to taking your career The Extra Mile!&nbsp;</p></span>
+				<span><p>Thank you.</p> <p>Your CV was successfully submitted.</p> <p>Right now using the power of the internet this submission is being sent to the perfect recruitment consultant based on the details provfided..</p> <p>We will be in touch within 24 hours. If you wish to speak to anyone sooner please give us a call on <b>+237049255550</b> between the hours of <b>8:30am and 5:30pm</b>.</p> <p>Please continue to look around our website or refresh this page if you need to submit for the form again for any reason.</p> <p>We look forward to taking your career Beyond Expectations!&nbsp;</p></span>
 			@else
 			<form action="{{route('register.store')}}" class="" method="POST" enctype="multipart/form-data">
 				@csrf
@@ -404,7 +404,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 					</select>
 				</div>
 				<div class="col-md-12">
-					The idea role for me would be
+					The ideal role for me would be
 					<textarea name="role" id="" cols="30" rows="10" class="form-control"></textarea>
 				</div>
 				<br>
@@ -455,7 +455,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-3da79b8 elementor-widget elementor-widget-text-editor" data-id="3da79b8" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>We’re delighted that you have chosen to join the Medivolt Healthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go The Extra Mile in supporting the next step in your career.</p>					</div>
+				<p>We’re delighted that you have chosen to join the Medivolt Healthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go  Beyond Expectations in supporting the next step in your career.</p>					</div>
 						</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a46d959 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a46d959" data-element_type="section">
@@ -467,7 +467,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 						<div class="elementor-element elementor-element-33ece97 elementor-widget elementor-widget-testimonial" data-id="33ece97" data-element_type="widget" data-widget_type="testimonial.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"As a healthcare business there is nothing more important than taking care of our people and its important that everyone who works with us feels The Extra Mile in everything we do. Welcome to the MedeVolt family!"</div>
+							<div class="elementor-testimonial-content">"As a healthcare business there is nothing more important than taking care of our people and its important that everyone who works with us feels  Beyond Expectations in everything we do. Welcome to the MedeVolt family!"</div>
 			
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
@@ -477,7 +477,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 					
 										<div class="elementor-testimonial-details">
 														<div class="elementor-testimonial-name">Aisha Muhammad Sani</div>
-																						<div class="elementor-testimonial-job">Managing Director</div>
+				<div class="elementor-testimonial-job">Managing Director</div>
 													</div>
 									</div>
 			</div>
@@ -504,7 +504,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 					
 										<div class="elementor-testimonial-details">
 														<div class="elementor-testimonial-name">Ikilima Ismail</div>
-																						<div class="elementor-testimonial-job">Sales Director</div>
+											<div class="elementor-testimonial-job">Sales Director</div>
 													</div>
 									</div>
 			</div>
@@ -606,7 +606,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 											</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						The Extra Mile means not only competitive pay but supporting you as person throughout your role					</p>
+						The Beyond Expectations means not only competitive pay but supporting you as person throughout your role					</p>
 							</div>
 		</div>
 				</div>
@@ -908,7 +908,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-76266b3 elementor-widget elementor-widget-text-editor" data-id="76266b3" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Going The Extra Mile starts in the office. Are you looking for the next step in your career? Find about below how you can join the MedeVolt Family.</p>					</div>
+				<p>Going Beyond Expectations starts in the office. Are you looking for the next step in your career? Find about below how you can join the MedeVolt Family.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-140fa1e elementor-align-center elementor-widget elementor-widget-button" data-id="140fa1e" data-element_type="widget" data-widget_type="button.default">

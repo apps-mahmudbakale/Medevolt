@@ -2,9 +2,11 @@
 
 namespace App\Http\Controllers;
 
+use App\Mail\WelcomeMail;
 use App\Models\Application;
 use App\Models\Job;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Mail;
 
 class ApplicationController extends Controller
 {
@@ -59,6 +61,8 @@ class ApplicationController extends Controller
             'role' => $request->role,
             'cv' => $cv
         ]);
+
+        Mail::to($request->email)->send(new WelcomeMail());
 
         return redirect()->route('register-now')->with('success', 'Added');
     }

@@ -417,16 +417,14 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                     
             <div id="site-header-inner" class="clr container">
 
-                
-                
 
-<div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
+        <div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
 
     
     <div id="site-logo-inner" class="clr">
 
-        <a href="index.html" class="custom-logo-link" rel="home" aria-current="page">
-<img width="600" height="222" src="{{asset('img/logo.png')}}" alt="Medivolt Healthcare"/>
+        <a href="{{route('welcome')}}}" class="custom-logo-link" rel="home" aria-current="page">
+<img width="600" height="222" style="max-width: 216px;" src="{{asset('img/logo5.png')}}" alt="Medivolt Healthcare"/>
 </a>
     </div><!-- #site-logo-inner -->
     
@@ -436,11 +434,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
             
             @include('partials.navs')
     
-        </div><!-- #site-navigation-wrap -->
-            
-        
-    
-                
+        </div><!-- #site-navigation-wrap -->        
     
     <div class="oceanwp-mobile-menu-icon clr mobile-right">
             
@@ -687,7 +681,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                                 </div>
                     </div>
         </section>
-{{--                 <section class="elementor-section elementor-top-section elementor-element elementor-element-t2gvx2f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="t2gvx2f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <section class="elementor-section elementor-top-section elementor-element elementor-element-t2gvx2f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="t2gvx2f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                             <div class="elementor-background-overlay"></div>
                             <div class="elementor-container elementor-column-gap-default">
                             <div class="elementor-row">
@@ -737,15 +731,12 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                 <div class="elementor-testimonial-meta-inner">
                                             <div class="elementor-testimonial-image">
-                            <picture class="attachment-full size-full" loading="lazy" title="Home 1">
-<source type="image/webp" srcset="wp-content/uploads/row-4-col-2-1.jpg.webp"/>
-<img width="824" height="990" src="wp-content/uploads/row-4-col-2-1.jpg" alt="row 4 col 2 1" loading="lazy"/>
-</picture>
+<img width="824" height="990" src="{{asset('img/avatar.jpg')}}" alt="row 4 col 2 1" loading="lazy">
                         </div>
                     
                                         <div class="elementor-testimonial-details">
-                                                        <div class="elementor-testimonial-name">Frances </div>
-                                                                                        <div class="elementor-testimonial-job">Public Sector<br>Director of Procurement</div>
+                                                        <div class="elementor-testimonial-name">Abubakar Kala</div>
+                    <div class="elementor-testimonial-job">HR Manager<br>Foresigt Specialist Clinic Gombe</div>
                                                     </div>
                                     </div>
             </div>
@@ -760,16 +751,13 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                 <div class="elementor-testimonial-meta-inner">
                                             <div class="elementor-testimonial-image">
-                            <picture class="attachment-full size-full" loading="lazy" title="Home 2">
-<source type="image/webp" srcset="wp-content/uploads/row-2-col-4-2.jpg.webp"/>
-<img width="824" height="990" src="wp-content/uploads/row-2-col-4-2.jpg" alt="row 2 col 4 2" loading="lazy"/>
-</picture>
+<img width="824" height="990" src="wp-content/uploads/row-2-col-4-2.jpg" alt="row 2 col 4 2" loading="lazy">
                         </div>
                     
                                         <div class="elementor-testimonial-details">
-                                                        <div class="elementor-testimonial-name">RN Nicola</div>
-                                                                                        <div class="elementor-testimonial-job">Registered Nurse</div>
-                                                    </div>
+                                                        <div class="elementor-testimonial-name">Omolola Olawumi</div>
+                        <div class="elementor-testimonial-job">Admin Manager <br> FSCDS Abuja</div>
+                                                </div>
                                     </div>
             </div>
                     </div>
@@ -789,22 +777,20 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                 <div class="elementor-testimonial-meta-inner">
                                             <div class="elementor-testimonial-image">
-                            <picture class="attachment-full size-full" loading="lazy" title="Home 3">
-<source type="image/webp" srcset="wp-content/uploads/row-4-col-5-2.jpg.webp"/>
-<img width="824" height="990" src="wp-content/uploads/row-4-col-5-2.jpg" alt="row 4 col 5 2" loading="lazy"/>
-</picture>
+                            
+<img width="824" height="990" src="{{asset('img/avatar.jpg')}}" alt="row 4 col 5 2" loading="lazy">
                         </div>
                     
                                         <div class="elementor-testimonial-details">
-                                                        <div class="elementor-testimonial-name">andrew</div>
-                                                                                        <div class="elementor-testimonial-job">Managing Director<br>Private Sector Hospital</div>
+                                                        <div class="elementor-testimonial-name">Abbas Bello</div>
+                                        <div class="elementor-testimonial-job">HR Manager <br>Sokoto State Advance Diagnostic Centre</div>
                                                     </div>
                                     </div>
             </div>
                     </div>
                 </div>
                 </div>
-                <div class="elementor-element elementor-element-1gdmbbl elementor-widget elementor-widget-testimonial" data-id="1gdmbbl" data-element_type="widget" data-widget_type="testimonial.default">
+          {{--       <div class="elementor-element elementor-element-1gdmbbl elementor-widget elementor-widget-testimonial" data-id="1gdmbbl" data-element_type="widget" data-widget_type="testimonial.default">
                 <div class="elementor-widget-container">
                     <div class="elementor-testimonial-wrapper">
                             <div class="elementor-testimonial-content">"I want to thank you so much for your professionalism. Probably your agency is the best. I also want to through you thank the entire staff it is difficult to name any particular one but all your colleagues are friendly and always polite.  You always brighten up my stressful day whenever I get to speak to you"</div>
@@ -818,15 +804,15 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
 </picture>
                         </div>
                     
-                                        <div class="elementor-testimonial-details">
-                                                        <div class="elementor-testimonial-name">Oliver</div>
-                                                                                        <div class="elementor-testimonial-job">NHS Medical Staffing Manager</div>
+                <div class="elementor-testimonial-details">
+                                <div class="elementor-testimonial-name">Oliver</div>
+                <div class="elementor-testimonial-job">NHS Medical Staffing Manager</div>
                                                     </div>
                                     </div>
             </div>
                     </div>
                 </div>
-                </div>
+                </div> --}}
                         </div>
                     </div>
         </div>
@@ -838,7 +824,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
         </div>
                                 </div>
                     </div>
-        </section> --}}
+        </section>
                 <section class="elementor-section elementor-top-section elementor-element elementor-element-xf3xggu myr-sub-content elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="xf3xggu" data-element_type="section">
                         <div class="elementor-container elementor-column-gap-default">
                             <div class="elementor-row">

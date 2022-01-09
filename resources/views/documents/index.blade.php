@@ -5,11 +5,11 @@
 	<main id="main" class="main">
 
 	  <div class="pagetitle">
-	    <h1>Jobs</h1>
+	    <h1>Documents</h1>
 	    <nav>
 	      <ol class="breadcrumb">
 	        <li class="breadcrumb-item"><a href="{{route('admin.dashboard')}}">Dashboard</a></li>
-	        <li class="breadcrumb-item active">Jobs</li>
+	        <li class="breadcrumb-item active">Documents</li>
 	      </ol>
 	    </nav>
 	  </div><!-- End Page Title -->
@@ -20,37 +20,30 @@
 
 	        <div class="card">
 	          <div class="card-body">
-	            <h5 class="card-title">Jobs</h5>
-	            @can('create-users')
-	            <a href="{{route('admin.jobs.create')}}" class="btn btn-primary right"><i class="bi bi-plus"></i> Create Job</a>
-	            @endcan
+	            <h5 class="card-title">Documents</h5>
 	            <!-- Table with stripped rows -->
 	            <table class="table datatable">
 	              <thead>
 	                <tr>
 	                  <th scope="col">#</th>
-	                  <th scope="col">Role</th>
-	                  <th scope="col">Location</th>
-	                  <th scope="col">Quantity</th>
-	                  <th scope="col">Date Created</th>
+	                  <th scope="col">Full Name</th>
+	                  <th scope="col">Date Uploaded</th>
 	                  <th scope="col">Action</th>
 	                </tr>
 	              </thead>
 	              <tbody>
-	              	@foreach($jobs as $key => $job)
+	              	@foreach($documents as $key => $document)
 	                <tr>
 	                  <th scope="row">{{$loop->iteration}}</th>
-	                  <td>{{$job->role}}</td>
-	                  <td>{{$job->location}}</td>
-	                  <td>{{$job->qty}}</td>
-	                  <td>{{$job->created_at->diffForHumans()}}</td>
+	                  <td>{{$document->fullname}}</td>
+	                  <td>{{$document->created_at->toDateString()}}</td>
 	                  <td class="btn-group">
 	                  	@can('read-users')
-	                  	<a href="{{route('admin.jobs.edit', $job->id)}}" class="btn btn-primary"><i class="bi bi-pencil-square"></i></a>
+	                  	<a href="{{route('admin.jobs.show', $document->id)}}" class="btn btn-success"><i class="bi bi-eye"></i></a>
 	                  	@endcan
 	                  	@can('delete-users')
-	                  	<a href="" class="btn btn-danger" onclick="event.preventDefault(); document.getElementById('del#{{$job->id}}').submit();"><i class="bi bi-trash"></i></a>
-	                  	<form id="del#{{$job->id}}" action="{{ route('admin.jobs.destroy', $job->id) }}" method="POST" onsubmit="return confirm('Are you sure');" style="display: inline-block;">
+	                  	<a href="" class="btn btn-danger" onclick="event.preventDefault(); document.getElementById('del#{{$document->id}}').submit();"><i class="bi bi-trash"></i></a>
+	                  	<form id="del#{{$document->id}}" action="{{ route('admin.jobs.destroy', $document->id) }}" method="POST" onsubmit="return confirm('Are you sure');" style="display: inline-block;">
                           <input type="hidden" name="_method" value="DELETE">
                           <input type="hidden" name="_token" value="{{ csrf_token() }}">
                       </form>

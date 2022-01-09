@@ -207,7 +207,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 	<div id="site-logo-inner" class="clr">
 
 		<a href="{{route('welcome')}}" class="custom-logo-link" rel="home">
-<img width="600" height="222" src="{{asset('img/logo.png')}}" alt="MedeVolt Healthcare">
+<img width="600" height="222" style="max-width: 216px;" src="{{asset('img/logo5.png')}}" alt="MedeVolt Healthcare">
 </a>
 	</div><!-- #site-logo-inner -->
 
@@ -360,14 +360,14 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-434a945 elementor-widget elementor-widget-html" data-id="434a945" data-element_type="widget" data-widget_type="html.default">
 				<div class="elementor-widget-container">
-			<div class="cognito">
+			<div class="cognito" style="border: 8px solid #f2f2f2; padding: 10px 10px;">
 				<form action="{{route('documents.store')}}" method="POST" enctype="multipart/form-data">
 					@csrf
 					<div class="col-md-12">
 						<h2>ON BOARDING DOCUMENTS</h2>
 						<hr>
 						<br>
-						<img style="max-width: 100%; width: 50%;"  src="{{asset('img/Medevolt logo5.png')}}">					
+						<img style="max-width: 194%; width: 100%;"  src="{{asset('img/Medevolt logo5.png')}}">					
 					</div>
 					<div class="col-md-12">
 						Full Name

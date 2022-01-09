@@ -7,6 +7,7 @@ use App\Http\Controllers\JobController;
 use App\Http\Controllers\RecruiteController;
 use App\Http\Controllers\RoleController;
 use App\Http\Controllers\UserController;
+use App\Mail\WelcomeMail;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -24,9 +25,9 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // })->name('welcome');
 
-// Route::get('latest-roles', function () {
-//     return view('careers.latest-roles');
-// })->name('latest-roles');
+Route::get('/test', function () {
+    return new WelcomeMail();
+});
 
 
 Route::get('medevolt-doctors', function () {
