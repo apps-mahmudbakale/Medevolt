@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+{{-- <!DOCTYPE html>
 <html class="html" lang="en-GB" prefix="og: https://ogp.me/ns#">
 <head>
 	<meta charset="UTF-8">
@@ -752,3 +752,6 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 
 <!-- Mirrored from www.MedeVolthealthcare.co.uk/news/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Nov 2021 21:11:48 GMT -->
 </html>
+ --}}
+
+ <h2 align="center">Comming Soon</h2>

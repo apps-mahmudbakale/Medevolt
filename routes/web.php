@@ -97,6 +97,8 @@ Route::post('/documents', [DocumentController::class, 'store'])->name('documents
 
 Route::get('latest-roles', [App\Http\Controllers\ApplicationController::class, 'roles'])->name('latest-roles');
 
+Route::get('job/{id}', [App\Http\Controllers\ApplicationController::class, 'show'])->name('job.show');
+
 Route::get('/', [App\Http\Controllers\ApplicationController::class, 'welcome'])->name('welcome');
 
 

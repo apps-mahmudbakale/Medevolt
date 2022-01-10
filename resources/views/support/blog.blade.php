@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+{{-- <!DOCTYPE html>
 <html class="html" lang="en-GB" prefix="og: https://ogp.me/ns#">
 <head>
 	<meta charset="UTF-8">
@@ -934,3 +934,5 @@ window.scopes_array = {};
 
 <!-- Mirrored from www.MedeVolthealthcare.co.uk/blog/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Nov 2021 21:12:08 GMT -->
 </html>
+ --}}
+  <h2 align="center">Comming Soon</h2>

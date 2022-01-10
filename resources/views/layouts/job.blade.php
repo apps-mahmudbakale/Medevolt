@@ -28,7 +28,8 @@
 <meta name="twitter:description" content="Specialist Medical Recruitment agency offering a range of locum and permanent job opportunities to Doctors, Nurses &amp; Healthcare Assistants. Register Now!" />
 <meta name="twitter:site" content="@MedeVoltHealthcare" />
 <meta name="twitter:creator" content="@MedeVoltHealthcare" />
-
+<meta name="twitter:image" content="wp-content/uploads/row-2-col-5-1.jpg" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.MedeVolthealthcare.co.uk/#organization","name":"Medivolt Healthcare","url":"https://www.MedeVolthealthcare.co.uk","logo":{"@type":"ImageObject","@id":"https://www.MedeVolthealthcare.co.uk/#logo","url":"https://www.MedeVolthealthcare.co.uk/wp-content/uploads/MedeVoltlogo2020600222.png","caption":"Medivolt Healthcare","inLanguage":"en-GB","width":"600","height":"222"}},{"@type":"WebSite","@id":"https://www.MedeVolthealthcare.co.uk/#website","url":"https://www.MedeVolthealthcare.co.uk","name":"Medivolt Healthcare","publisher":{"@id":"https://www.MedeVolthealthcare.co.uk/#organization"},"inLanguage":"en-GB","potentialAction":{"@type":"SearchAction","target":"https://www.MedeVolthealthcare.co.uk/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.MedeVolthealthcare.co.uk/wp-content/uploads/row-2-col-5-1.jpg","url":"https://www.MedeVolthealthcare.co.uk/wp-content/uploads/row-2-col-5-1.jpg","width":"824","height":"990","inLanguage":"en-GB"},{"@type":"Person","@id":"https://www.MedeVolthealthcare.co.uk/author/adityad/","name":"AdityaD","url":"https://www.MedeVolthealthcare.co.uk/author/adityad/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/6d3d4fae622e2f759e88a7c7e3267ab2?s=96&amp;r=g","url":"https://secure.gravatar.com/avatar/6d3d4fae622e2f759e88a7c7e3267ab2?s=96&amp;r=g","caption":"AdityaD","inLanguage":"en-GB"},"worksFor":{"@id":"https://www.MedeVolthealthcare.co.uk/#organization"}},{"@type":"WebPage","@id":"https://www.MedeVolthealthcare.co.uk/#webpage","url":"https://www.MedeVolthealthcare.co.uk/","name":"Medivolt Healthcare - Medical Recruitment Specialists","datePublished":"2020-05-21T11:43:32+01:00","dateModified":"2021-09-14T20:52:21+01:00","author":{"@id":"https://www.MedeVolthealthcare.co.uk/author/adityad/"},"isPartOf":{"@id":"https://www.MedeVolthealthcare.co.uk/#website"},"primaryImageOfPage":{"@id":"https://www.MedeVolthealthcare.co.uk/wp-content/uploads/row-2-col-5-1.jpg"},"inLanguage":"en-GB"},{"@type":"Article","headline":"Medivolt Healthcare - Medical Recruitment Specialists","datePublished":"2020-05-21T11:43:32+01:00","dateModified":"2021-09-14T20:52:21+01:00","author":{"@id":"https://www.MedeVolthealthcare.co.uk/author/adityad/"},"publisher":{"@id":"https://www.MedeVolthealthcare.co.uk/#organization"},"description":"Specialist Medical Recruitment agency offering a range of locum and permanent job opportunities to Doctors, Nurses &amp; Healthcare Assistants. Register Now!","name":"Medivolt Healthcare - Medical Recruitment Specialists","@id":"https://www.MedeVolthealthcare.co.uk/#richSnippet","isPartOf":{"@id":"https://www.MedeVolthealthcare.co.uk/#webpage"},"image":{"@id":"https://www.MedeVolthealthcare.co.uk/wp-content/uploads/row-2-col-5-1.jpg"},"inLanguage":"en-GB","mainEntityOfPage":{"@id":"https://www.MedeVolthealthcare.co.uk/#webpage"}}]}</script>
 <meta name="google-site-verification" content="4ELEJgRyNgscsK0RBJ-6Jee3_L5siT3ggRZQucbDDqM" />
 <meta name="msvalidate.01" content="4FE4F19D949B9556621478816F58DBAE" />
 <!-- /Rank Math WordPress SEO plugin -->
@@ -37,7 +38,199 @@
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel="alternate" type="application/rss+xml" title="Medivolt Healthcare &raquo; Feed" href="feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="Medivolt Healthcare &raquo; Comments Feed" href="comments/feed/index.html" />
+        <!-- This site uses the Google Analytics by MonsterInsights plugin v8.1.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+                            <script src="http://www.googletagmanager.com/gtag/js?id=UA-85607066-1"  type="text/javascript" data-cfasync="false" async></script>
+            <script type="text/javascript" data-cfasync="false">
+                var mi_version = '8.1.0';
+                var mi_track_user = true;
+                var mi_no_track_reason = '';
+                
+                                var disableStrs = [
+                                                            'ga-disable-UA-85607066-1',
+                                    ];
 
+                /* Function to detect opted out users */
+                function __gtagTrackerIsOptedOut() {
+                    for ( var index = 0; index < disableStrs.length; index++ ) {
+                        if ( document.cookie.indexOf( disableStrs[ index ] + '=true' ) > -1 ) {
+                            return true;
+                        }
+                    }
+
+                    return false;
+                }
+
+                /* Disable tracking if the opt-out cookie exists. */
+                if ( __gtagTrackerIsOptedOut() ) {
+                    for ( var index = 0; index < disableStrs.length; index++ ) {
+                        window[ disableStrs[ index ] ] = true;
+                    }
+                }
+
+                /* Opt-out function */
+                function __gtagTrackerOptout() {
+                    for ( var index = 0; index < disableStrs.length; index++ ) {
+                        document.cookie = disableStrs[ index ] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+                        window[ disableStrs[ index ] ] = true;
+                    }
+                }
+
+                if ( 'undefined' === typeof gaOptout ) {
+                    function gaOptout() {
+                        __gtagTrackerOptout();
+                    }
+                }
+                                window.dataLayer = window.dataLayer || [];
+
+                window.MonsterInsightsDualTracker = {
+                    helpers: {},
+                    trackers: {},
+                };
+                if ( mi_track_user ) {
+                    function __gtagDataLayer() {
+                        dataLayer.push( arguments );
+                    }
+
+                    function __gtagTracker( type, name, parameters ) {
+                        if ( type === 'event' ) {
+                            
+                                                            parameters.send_to = monsterinsights_frontend.ua;
+                                __gtagDataLayer.apply( null, arguments );
+                                                    } else {
+                            __gtagDataLayer.apply( null, arguments );
+                        }
+                    }
+                    __gtagTracker( 'js', new Date() );
+                    __gtagTracker( 'set', {
+                        'developer_id.dZGIzZG' : true,
+                                            } );
+                                                            __gtagTracker( 'config', 'UA-85607066-1', {"forceSSL":"true"} );
+                                        window.gtag = __gtagTracker;                                        (
+                        function () {
+                            /* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+                            /* ga and __gaTracker compatibility shim. */
+                            var noopfn = function () {
+                                return null;
+                            };
+                            var newtracker = function () {
+                                return new Tracker();
+                            };
+                            var Tracker = function () {
+                                return null;
+                            };
+                            var p = Tracker.prototype;
+                            p.get = noopfn;
+                            p.set = noopfn;
+                            p.send = function (){
+                                var args = Array.prototype.slice.call(arguments);
+                                args.unshift( 'send' );
+                                __gaTracker.apply(null, args);
+                            };
+                            var __gaTracker = function () {
+                                var len = arguments.length;
+                                if ( len === 0 ) {
+                                    return;
+                                }
+                                var f = arguments[len - 1];
+                                if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+                                    if ( 'send' === arguments[0] ) {
+                                        var hitConverted, hitObject = false, action;
+                                        if ( 'event' === arguments[1] ) {
+                                            if ( 'undefined' !== typeof arguments[3] ) {
+                                                hitObject = {
+                                                    'eventAction': arguments[3],
+                                                    'eventCategory': arguments[2],
+                                                    'eventLabel': arguments[4],
+                                                    'value': arguments[5] ? arguments[5] : 1,
+                                                }
+                                            }
+                                        }
+                                        if ( 'pageview' === arguments[1] ) {
+                                            if ( 'undefined' !== typeof arguments[2] ) {
+                                                hitObject = {
+                                                    'eventAction': 'page_view',
+                                                    'page_path' : arguments[2],
+                                                }
+                                            }
+                                        }
+                                        if ( typeof arguments[2] === 'object' ) {
+                                            hitObject = arguments[2];
+                                        }
+                                        if ( typeof arguments[5] === 'object' ) {
+                                            Object.assign( hitObject, arguments[5] );
+                                        }
+                                        if ( 'undefined' !== typeof arguments[1].hitType ) {
+                                            hitObject = arguments[1];
+                                            if ( 'pageview' === hitObject.hitType ) {
+                                                hitObject.eventAction = 'page_view';
+                                            }
+                                        }
+                                        if ( hitObject ) {
+                                            action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+                                            hitConverted = mapArgs( hitObject );
+                                            __gtagTracker( 'event', action, hitConverted );
+                                        }
+                                    }
+                                    return;
+                                }
+
+                                function mapArgs( args ) {
+                                    var arg, hit = {};
+                                    var gaMap = {
+                                        'eventCategory': 'event_category',
+                                        'eventAction': 'event_action',
+                                        'eventLabel': 'event_label',
+                                        'eventValue': 'event_value',
+                                        'nonInteraction': 'non_interaction',
+                                        'timingCategory': 'event_category',
+                                        'timingVar': 'name',
+                                        'timingValue': 'value',
+                                        'timingLabel': 'event_label',
+                                        'page' : 'page_path',
+                                        'location' : 'page_location',
+                                        'title' : 'page_title',
+                                    };
+                                    for ( arg in args ) {
+                                                                                if ( ! ( ! args.hasOwnProperty(arg) || ! gaMap.hasOwnProperty(arg) ) ) {
+                                            hit[gaMap[arg]] = args[arg];
+                                        } else {
+                                            hit[arg] = args[arg];
+                                        }
+                                    }
+                                    return hit;
+                                }
+
+                                try {
+                                    f.hitCallback();
+                                } catch ( ex ) {
+                                }
+                            };
+                            __gaTracker.create = newtracker;
+                            __gaTracker.getByName = newtracker;
+                            __gaTracker.getAll = function () {
+                                return [];
+                            };
+                            __gaTracker.remove = noopfn;
+                            __gaTracker.loaded = true;
+                            window['__gaTracker'] = __gaTracker;
+                        }
+                    )();
+                                    } else {
+                                        console.log( "" );
+                    ( function () {
+                            function __gtagTracker() {
+                                return null;
+                            }
+                            window['__gtagTracker'] = __gtagTracker;
+                            window['gtag'] = __gtagTracker;
+                    } )();
+                                    }
+            </script>
+                <!-- / Google Analytics by MonsterInsights -->
+                <script>
+            window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=fab647613944cce2c98c440ab05a878f"}};
+            !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+        </script>
         <style>
 img.wp-smiley,
 img.emoji {
@@ -52,47 +245,49 @@ img.emoji {
     padding: 0 !important;
 }
 </style>
-    <link rel='stylesheet' id='formidable-css'  href='{{asset('wp-content/plugins/formidable/css/formidableformsab4e.css')}}' media='all' />
-<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='{{asset('wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style74e5.css?ver=5.9.1')}}' media='all' />
-<link rel='stylesheet' id='wc-blocks-style-css'  href='{{asset('wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style74e5.css?ver=5.9.1')}}' media='all' />
-<link rel='stylesheet' id='wpdm-font-awesome-css'  href='{{asset('wp-content/plugins/download-manager/assets/fontawesome/css/all986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
-<link rel='stylesheet' id='wpdm-front-bootstrap-css'  href='{{asset('wp-content/plugins/download-manager/assets/bootstrap/css/bootstrap.min986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
-<link rel='stylesheet' id='wpdm-front-css'  href='{{asset('wp-content/plugins/download-manager/assets/css/front986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
+    <link rel='stylesheet' id='formidable-css'  href='wp-content/plugins/formidable/css/formidableformsab4e.css' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style74e5.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style74e5.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='cookie-law-info-css'  href='wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public1717.css?ver=2.0.6' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css'  href='wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr1717.css?ver=2.0.6' media='all' />
+<link rel='stylesheet' id='wpdm-font-awesome-css'  href='wp-content/plugins/download-manager/assets/fontawesome/css/all986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
+<link rel='stylesheet' id='wpdm-front-bootstrap-css'  href='wp-content/plugins/download-manager/assets/bootstrap/css/bootstrap.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
+<link rel='stylesheet' id='wpdm-front-css'  href='wp-content/plugins/download-manager/assets/css/front986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
 <style id='woocommerce-inline-inline-css'>
 .woocommerce form .form-row .required { visibility: visible; }
 </style>
-<link rel='stylesheet' id='select2-css'  href='{{asset('wp-content/plugins/woocommerce/assets/css/select23e35.css?ver=5.8.0')}}' media='all' />
-<link rel='stylesheet' id='wp-job-manager-frontend-css'  href='{{asset('wp-content/plugins/wp-job-manager/assets/dist/css/frontend57be.css?ver=236c4df3818affbbe6ace90d15f27b79')}}' media='all' />
-<link rel='stylesheet' id='cb70d11b8-css'  href='{{asset('wp-content/uploads/essential-addons-elementor/734e5f942.minfabe.css?ver=1637236637')}}' media='all' />
-<link rel='stylesheet' id='wc-gateway-ppec-frontend-css'  href='{{asset('wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/css/wc-gateway-ppec-frontend4c71.css?ver=2.1.3')}}' media='all' />
-<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='{{asset('wp-content/plugins/elementor/assets/css/frontend-legacy.min4c8b.css?ver=3.4.5')}}' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css'  href='{{asset('wp-content/plugins/elementor/assets/css/frontend.min4c8b.css?ver=3.4.5')}}' media='all' />
+<link rel='stylesheet' id='select2-css'  href='wp-content/plugins/woocommerce/assets/css/select23e35.css?ver=5.8.0' media='all' />
+<link rel='stylesheet' id='wp-job-manager-frontend-css'  href='wp-content/plugins/wp-job-manager/assets/dist/css/frontend57be.css?ver=236c4df3818affbbe6ace90d15f27b79' media='all' />
+<link rel='stylesheet' id='cb70d11b8-css'  href='wp-content/uploads/essential-addons-elementor/734e5f942.minfabe.css?ver=1637236637' media='all' />
+<link rel='stylesheet' id='wc-gateway-ppec-frontend-css'  href='wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/css/wc-gateway-ppec-frontend4c71.css?ver=2.1.3' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='wp-content/plugins/elementor/assets/css/frontend-legacy.min4c8b.css?ver=3.4.5' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='wp-content/plugins/elementor/assets/css/frontend.min4c8b.css?ver=3.4.5' media='all' />
 <style id='elementor-frontend-inline-css'>
 @font-face{font-family:eicons;src:url(wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons0b93.eot?5.10.0);src:url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://www.MedeVolthealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
 </style>
-<link rel='stylesheet' id='elementor-post-19681-css'  href='{{asset('wp-content/uploads/elementor/css/post-196810756.css?ver=1634639653')}}' media='all' />
-<link rel='stylesheet' id='oceanwp-woo-mini-cart-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
-<link rel='stylesheet' id='font-awesome-css'  href='{{asset('wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min9e0b.css?ver=5.15.1')}}' media='all' />
-<link rel='stylesheet' id='simple-line-icons-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min8d5a.css?ver=2.4.0')}}' media='all' />
-<link rel='stylesheet' id='oceanwp-style-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/style.min8571.css?ver=3.0.7')}}' media='all' />
-<link rel='stylesheet' id='oceanwp-hamburgers-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/third/hamburgers/hamburgers.min8571.css?ver=3.0.7')}}' media='all' />
-<link rel='stylesheet' id='oceanwp-stand-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/third/hamburgers/types/stand8571.css?ver=3.0.7')}}' media='all' />
+<link rel='stylesheet' id='elementor-post-19681-css'  href='wp-content/uploads/elementor/css/post-196810756.css?ver=1634639653' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-mini-cart-css'  href='wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min9e0b.css?ver=5.15.1' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min8d5a.css?ver=2.4.0' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css'  href='wp-content/themes/oceanwp/assets/css/style.min8571.css?ver=3.0.7' media='all' />
+<link rel='stylesheet' id='oceanwp-hamburgers-css'  href='wp-content/themes/oceanwp/assets/css/third/hamburgers/hamburgers.min8571.css?ver=3.0.7' media='all' />
+<link rel='stylesheet' id='oceanwp-stand-css'  href='wp-content/themes/oceanwp/assets/css/third/hamburgers/types/stand8571.css?ver=3.0.7' media='all' />
 <link rel='stylesheet' id='oceanwp-google-font-poppins-css'  href='http://fonts.googleapis.com/css?family=Poppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&amp;subset=latin&amp;display=swap&amp;ver=fab647613944cce2c98c440ab05a878f' media='all' />
-<link rel='stylesheet' id='elementor-icons-css'  href='{{asset('wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.minb683.css?ver=5.12.0')}}' media='all' />
-<link rel='stylesheet' id='elementor-post-19665-css'  href='{{asset('wp-content/uploads/elementor/css/post-196650756.css?ver=1634639653')}}' media='all' />
-<link rel='stylesheet' id='elementor-pro-css'  href='{{asset('wp-content/plugins/elementor-pro/assets/css/frontend.minccfb.css?ver=3.4.2')}}' media='all' />
-<link rel='stylesheet' id='premium-pro-css'  href='{{asset('wp-content/plugins/premium-addons-pro/assets/frontend/min-css/premium-addons.min91ee.css?ver=2.5.3')}}' media='all' />
-<link rel='stylesheet' id='elementor-post-14502-css'  href='{{asset('wp-content/uploads/elementor/css/post-145028d87.css?ver=1634639654')}}' media='all' />
-<link rel='stylesheet' id='oceanwp-woocommerce-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/woo/woocommerce.min986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
-<link rel='stylesheet' id='oceanwp-woo-star-font-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
-<link rel='stylesheet' id='oceanwp-woo-quick-view-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
-<link rel='stylesheet' id='ow-perfect-scrollbar-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/third/perfect-scrollbar91ce.css?ver=1.5.0')}}' media='all' />
-<link rel='stylesheet' id='omw-styles-css'  href='{{asset('wp-content/plugins/ocean-modal-window/assets/css/style.min986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
-<link rel='stylesheet' id='oss-social-share-style-css'  href='{{asset('wp-content/plugins/ocean-social-sharing/assets/css/style.min986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.minb683.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-post-19665-css'  href='wp-content/uploads/elementor/css/post-196650756.css?ver=1634639653' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='wp-content/plugins/elementor-pro/assets/css/frontend.minccfb.css?ver=3.4.2' media='all' />
+<link rel='stylesheet' id='premium-pro-css'  href='wp-content/plugins/premium-addons-pro/assets/frontend/min-css/premium-addons.min91ee.css?ver=2.5.3' media='all' />
+<link rel='stylesheet' id='elementor-post-14502-css'  href='wp-content/uploads/elementor/css/post-145028d87.css?ver=1634639654' media='all' />
+<link rel='stylesheet' id='oceanwp-woocommerce-css'  href='wp-content/themes/oceanwp/assets/css/woo/woocommerce.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-star-font-css'  href='wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-quick-view-css'  href='wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
+<link rel='stylesheet' id='ow-perfect-scrollbar-css'  href='wp-content/themes/oceanwp/assets/css/third/perfect-scrollbar91ce.css?ver=1.5.0' media='all' />
+<link rel='stylesheet' id='omw-styles-css'  href='wp-content/plugins/ocean-modal-window/assets/css/style.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
+<link rel='stylesheet' id='oss-social-share-style-css'  href='wp-content/plugins/ocean-social-sharing/assets/css/style.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDosis%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=fab647613944cce2c98c440ab05a878f' media='all' />
-<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='{{asset('wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3')}}' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='{{asset('wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3')}}' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='{{asset('wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3')}}' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3' media='all' />
 <script src='wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.minafbb.js?ver=8.1.0' id='monsterinsights-frontend-script-js'></script>
 <script src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
@@ -268,104 +463,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
 </header><!-- #site-header -->
 
             
-            <main id="main" class="site-main clr" role="main">
-
-                
-    
-    <div id="content-wrap" class="container clr" style="margin-left: 43px; margin-top: 20px;">
-
-        
-        <div id="primary" class="content-area clr">
-
-            
-            <div id="content" class="site-content clr">
-
-                
-                
-<article id="post-25118">
-
-    
-<div class="thumbnail">
-
-   <img width="200" height="200" src="{{asset('img/GenMed200x200.png.webp')}}" alt="You are currently viewing Consultant Acute Medicine – London" loading="lazy">
-
-</div><!-- .thumbnail -->
-
-
-<header class="entry-header clr">
-    <h1 class="single-post-title entry-title" itemprop="headline">{{$role->role}} – {{$role->location}}</h1><!-- .single-post-title -->
-</header><!-- .entry-header -->
-
-
-
-<div class="entry-content clr" itemprop="text">
-    <div class="single_job_listing">
-            
-<ul class="job-listing-meta meta">
-    
-                        
-    <li class="location"><a class="google_map_link" href="https://maps.google.com/maps?q=London&amp;zoom=14&amp;size=512x512&amp;maptype=roadmap&amp;sensor=false" target="_blank" rel="noopener">{{$role->loation}}</a></li>
-
-    <li class="date-posted"><time datetime="2021-12-21">Posted {{$role->created_at}}</time></li>
-
-    
-    </ul>
-
-
-        <div class="job_description">
-            <p><strong>{{$role->role}}</strong></p>
-<p><b>Location</b>: {{$role->location}}</p>
-<p><b>Position:</b>&nbsp;{{$role->role}}</p>
-<p>Medevolt Healthcare are currently seeking a&nbsp;<strong>{{$role->role}} </strong>to work in a <b>Hospital</b> based in&nbsp;<strong>{{$role->location}}.</strong></p>
-<p><b>Contract Type:</b> Full-time.</p>
-<p><b>Length &amp; Details</b>: As soon as possible</p>
-<p><b>Rate of Pay</b>: Competitive Rates Offered</p>
-<p>If you are interested and wish to receive more information about the job then please send your CV to:&nbsp;<strong>contact@</strong><b>medevolthealthcare.co.uk&nbsp;</b>or call Funmilayo on&nbsp;<b>+237049255550&nbsp;</b></p>
-<p><i>Medevolt Healthcare is an equal opportunities employer. If you have any specific requirements or require assistance or reasonable adjustments to be made for you during the selection process due to disability or long-term health condition, we will do our best to assist you.</i></p>
-        </div>
-
-                        <div class="job_application application">
-        
-        <input type="button" class="application_button button" value="Apply for job">
-
-        <div class="application_details" style="display: block;">
-            <p>To apply for this job <strong>email your details to</strong> <a class="job_application_email" href="mailto:contact@medevolthealthcare.com?subject=Application%20via%20{{$role->role}}-{{$role->location}}listing%20on%20https%3A%2F%2Fwww.medevolthealthcare.com">contact@medevolthealthcare.com</a>.</p>
-        </div>
-            </div>
-            </div>
-
-</div><!-- .entry -->
-
-<div class="post-tags clr">
-    </div>
-
-</article>
-
-                
-            </div><!-- #content -->
-
-            
-        </div><!-- #primary -->
-
-        
-
-<aside id="right-sidebar" class="sidebar-container widget-area sidebar-primary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" role="complementary" aria-label="Primary Sidebar">
-
-    
-    <div id="right-sidebar-inner" class="clr">
-
-        
-    </div><!-- #sidebar-inner -->
-
-    
-</aside><!-- #right-sidebar -->
-
-
-    </div><!-- #content-wrap -->
-
-    
-
-    </main><!-- #main -->
+    @yield('content')
 
     <footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
 

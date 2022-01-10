@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\Mail\WelcomeMail;
 use App\Models\Application;
 use App\Models\Job;
+use App\Models\Role;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 
@@ -89,7 +90,9 @@ class ApplicationController extends Controller
      */
     public function show($id)
     {
-        //
+        $role = Job::find($id);
+        return view('careers.job', compact('role'));
+        // dd($role);
     }
 
     /**
