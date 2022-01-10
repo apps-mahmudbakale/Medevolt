@@ -287,7 +287,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
     
 <div class="thumbnail">
 
-   <img width="200" height="200" src="{{asset('img/GenMed200x200.png.webp')}}" alt="You are currently viewing Consultant Acute Medicine – London" loading="lazy">
+   <img width="200" height="200" src="{{asset('img/GenMed200x200.png.webp')}}" alt="You are currently viewing {{$role->role}}" loading="lazy">
 
 </div><!-- .thumbnail -->
 
@@ -306,7 +306,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                         
     <li class="location"><a class="google_map_link" href="https://maps.google.com/maps?q=London&amp;zoom=14&amp;size=512x512&amp;maptype=roadmap&amp;sensor=false" target="_blank" rel="noopener">{{$role->loation}}</a></li>
 
-    <li class="date-posted"><time datetime="2021-12-21">Posted {{$role->created_at}}</time></li>
+    <li class="date-posted"><time datetime="2021-12-21">Posted {{$role->created_at->diffForHumans()}}</time></li>
 
     
     </ul>
