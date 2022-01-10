@@ -21,13 +21,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
-// })->name('welcome');
-
 Route::get('/test', function () {
-    return new WelcomeMail();
-});
+    return view('careers.job');
+})->name('job');
 
 
 Route::get('medevolt-doctors', function () {
@@ -44,9 +40,9 @@ Route::get('medevolt-allied-health', function () {
 })->name('allied-health');
 
 
-// Route::get('medevolt-experiene', function () {
-//     return view('solutions.experience');
-// })->name('experience');
+Route::get('medevolt-about', function () {
+    return view('support.about');
+})->name('about');
 
 // Route::get('medevolt-direct', function () {
 //     return view('solutions.direct');

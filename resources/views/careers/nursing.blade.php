@@ -846,7 +846,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-708ac80 elementor-widget elementor-widget-text-editor" data-id="708ac80" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Enjoy your career but looking for more from your role? Our dedicated Nursing team are here for you.</p>					</div>
+				<p>Enjoy your career but looking for more from your role? Our dedicated Nursing team are here for you every step of the way.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-a1d68c8 elementor-align-center elementor-widget elementor-widget-button" data-id="a1d68c8" data-element_type="widget" data-widget_type="button.default">
@@ -955,7 +955,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="700" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">4+</span>
 			</div>
 							<div class="elementor-counter-title">sites supported</div>
 					</div>
@@ -973,7 +973,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="3500000" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">37,920+</span>
 			</div>
 							<div class="elementor-counter-title">hours provided</div>
 					</div>
@@ -991,7 +991,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="35000" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">44+</span>
 			</div>
 							<div class="elementor-counter-title">specialists registered</div>
 					</div>
@@ -1054,7 +1054,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 		
 		
 			<div id="copyright" class="clr" role="contentinfo">
-				MedeVolt Healthcare 2012-2021 | All Rights Reserved | <a href="">Privacy Policy</a>			</div><!-- #copyright -->
+				MedeVolt Healthcare 2021 | All Rights Reserved | <a href="">Privacy Policy</a>			</div><!-- #copyright -->
 
 			
 	</div><!-- #footer-bottom-inner -->

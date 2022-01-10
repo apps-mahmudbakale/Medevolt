@@ -316,28 +316,32 @@ img.emoji {
 			<div class="row col-md-12">
 			<div class="col-md-4">
 				Title
-				<input type="text" name="title" class="form-control">
+			<select name="title" id="" required class="form-control">
+				<option>Mr.</option>
+				<option>Miss.</option>
+				<option>Mrs.</option>
+			</select>
 			</div>
 			<div class="col-md-4">
 				Firstname
-				<input type="text" name="firstname" class="form-control">
+				<input type="text" name="firstname" required class="form-control">
 			</div>
 			<div class="col-md-4">
 				Lastname
-				<input type="text" name="lastname" class="form-control">
+				<input type="text" name="lastname" required class="form-control">
 			</div>
 			<div class="col-md-6">
 				Email
-				<input type="email" name="email" class="form-control">
+				<input type="email" name="email" required class="form-control">
 			</div>
 			<div class="col-md-6">
 				Phone
-				<input type="text" name="phone" class="form-control">
+				<input type="text" name="phone" required class="form-control">
 			</div>
 			<h2>Paperless Registration</h2>
 			<div class="col-md-12">
 				I'd like to be contacted by :
-				<select name="career" id="" class="form-control">
+				<select name="career" id="" required class="form-control">
 					<option></option>
 					<option value="MedeVolt Doctors">MedeVolt Doctors</option>
 					<option value="MedeVolt Nursing">MedeVolt Nursing</option>
@@ -345,13 +349,13 @@ img.emoji {
 				</select>
 			</div>
 			<div class="col-md-12">
-				The idea role for me would be
-				<textarea name="role" id="" cols="30" rows="10" class="form-control"></textarea>
+				The ideal role for me would be
+				<textarea name="role" id="" cols="30" required rows="10" class="form-control"></textarea>
 			</div>
 			<br>
 			<div class="col-md-12">
 				Cv Upload
-				<input type="file" name="cv"  class="form-control">
+				<input type="file" name="cv" required  class="form-control">
 				<br>
 				<br><hr>
 				<p>Dont worry if your CV isnt up to date, just put your contact details above and our team will reach out and support you updating your CV so its perfect for your next role!</p>
@@ -692,57 +696,57 @@ img.emoji {
 								</div>
 					</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-f35241a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f35241a" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-322d532 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="322d532" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" style="background:#006db6; color: white;">
 						<div class="elementor-container elementor-column-gap-default">
 							<div class="elementor-row">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1126ca5" data-id="1126ca5" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-85896dd" data-id="85896dd" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-6a14eb1 elementor-widget elementor-widget-counter" data-id="6a14eb1" data-element_type="widget" data-widget_type="counter.default">
+						<div class="elementor-element elementor-element-48ea71f elementor-widget elementor-widget-counter" data-id="48ea71f" data-element_type="widget" data-widget_type="counter.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-counter">
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="18" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="700" data-from-value="" data-delimiter=","></span>
+				<span class="elementor-counter-number-suffix">4+</span>
 			</div>
-							<div class="elementor-counter-title">projects delivered</div>
+							<div class="elementor-counter-title">sites supported</div>
 					</div>
 				</div>
 				</div>
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-080f02e" data-id="080f02e" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1106c9b" data-id="1106c9b" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-e3be090 elementor-widget elementor-widget-counter" data-id="e3be090" data-element_type="widget" data-widget_type="counter.default">
+						<div class="elementor-element elementor-element-f3ad075 elementor-widget elementor-widget-counter" data-id="f3ad075" data-element_type="widget" data-widget_type="counter.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-counter">
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="370" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="3500000" data-from-value="" data-delimiter=","></span>
+				<span class="elementor-counter-number-suffix">37,902+</span>
 			</div>
-							<div class="elementor-counter-title">roles filled</div>
+							<div class="elementor-counter-title">hours provided</div>
 					</div>
 				</div>
 				</div>
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3a6271a" data-id="3a6271a" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-90c3dee" data-id="90c3dee" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-c255543 elementor-widget elementor-widget-counter" data-id="c255543" data-element_type="widget" data-widget_type="counter.default">
+						<div class="elementor-element elementor-element-bef1e9b elementor-widget elementor-widget-counter" data-id="bef1e9b" data-element_type="widget" data-widget_type="counter.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-counter">
 			<div class="elementor-counter-number-wrapper">
-				<span class="elementor-counter-number-prefix">£</span>
-				<span class="elementor-counter-number" data-duration="2000" data-to-value="1200000" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-prefix"></span>
+				<span class="elementor-counter-number" data-duration="2000" data-to-value="35000" data-from-value="" data-delimiter=","></span>
+				<span class="elementor-counter-number-suffix">44+</span>
 			</div>
-							<div class="elementor-counter-title">savings delivered</div>
+							<div class="elementor-counter-title">specialists registered</div>
 					</div>
 				</div>
 				</div>

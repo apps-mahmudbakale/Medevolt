@@ -296,7 +296,7 @@ img.emoji {
 						<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>We understand the importance of public sector jobs being filled promptly with high quality healthcare specialists. We are trusted around the nation to provide trusts with high quality staff, through an public ratified Framework. </p>					</div>
+				<p>We understand the importance of public sector jobs being filled promptly with high quality healthcare specialists. We are trusted around the nation to provide public hospitals with high quality staff, through a careful selections of qualified personels. </p>					</div>
 						</div>
 				</div>
 						</div>
@@ -365,7 +365,7 @@ img.emoji {
 											</span>
 				</h3>
 									<p class="elementor-icon-box-description">
-						Going Beyond Expectations in everything we do					</p>
+						Going The Extra Mile in everything we do					</p>
 							</div>
 		</div>
 				</div>
@@ -885,7 +885,7 @@ img.emoji {
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="700" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">4+</span>
 			</div>
 							<div class="elementor-counter-title">sites supported</div>
 					</div>
@@ -903,7 +903,7 @@ img.emoji {
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="3500000" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">37,902+</span>
 			</div>
 							<div class="elementor-counter-title">hours provided</div>
 					</div>
@@ -921,7 +921,7 @@ img.emoji {
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="35000" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">44+</span>
 			</div>
 							<div class="elementor-counter-title">specialists registered</div>
 					</div>
@@ -984,7 +984,7 @@ img.emoji {
 		
 		
 			<div id="copyright" class="clr" role="contentinfo">
-				MedeVolt Healthcare 2012-2021 | All Rights Reserved | <a href="../privacy-policy/index.html">Privacy Policy</a>			</div><!-- #copyright -->
+				MedeVolt Healthcare 2021 | All Rights Reserved | <a href="">Privacy Policy</a>			</div><!-- #copyright -->
 
 			
 	</div><!-- #footer-bottom-inner -->

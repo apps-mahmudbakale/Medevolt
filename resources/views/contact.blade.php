@@ -328,7 +328,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 						<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;"><strong>At MedeVolt Healthcare, our experts go Beyond Expectations to find Doctors all over the globe their next opportunity, from Foundation to Consultant level.</strong></span></h3>
+				<h3><span style="color: #ffffff;"><strong>At MedeVolt Healthcare, our experts go The Extra Mile to find Doctors all over the globe their next opportunity, from Foundation to Consultant level.</strong></span></h3>
 <h3><span style="color: #ffffff;"><strong>Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</strong></span></h3>					</div>
 						</div>
 				</div>
@@ -372,20 +372,21 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 					</div>
 					<div class="col-md-12">
 						Name
-						<input type="text" name="name" class="form-control">
+						<input type="text" name="name" required class="form-control">
 					</div>
 					<div class="col-md-12">
 						Email
-						<input type="email" name="email" class="form-control">
+						<input type="email" name="email" required class="form-control">
 					</div>
 					<div class="col-md-12">
 						Phone
-						<input type="text" name="phone" class="form-control">
+						<input type="text" name="phone" required class="form-control">
 					</div>
 					<div class="col-md-12">
 						How can we help you
-						<textarea name="help" id="" cols="30" rows="10" class="form-control"></textarea>
+						<textarea name="help" id="" cols="30" required rows="10" class="form-control"></textarea>
 					</div>
+					<br>
 					<div class="col-md-12">
 						<button type="submit" class="btn btn-primary">Submit</button>
 					</div>
@@ -673,7 +674,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="700" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">4+</span>
 			</div>
 							<div class="elementor-counter-title">sites supported</div>
 					</div>
@@ -691,7 +692,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="3500000" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">37,920+</span>
 			</div>
 							<div class="elementor-counter-title">hours provided</div>
 					</div>
@@ -709,7 +710,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="35000" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">44+</span>
 			</div>
 							<div class="elementor-counter-title">specialists registered</div>
 					</div>

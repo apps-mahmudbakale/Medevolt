@@ -330,7 +330,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 						<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;">At MedeVolt Healthcare, our experts go Beyond Expectations to find Doctors all over the country their next opportunity, from Medical Officer to Consultant level.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
+				<h3><span style="color: #ffffff;">At MedeVolt Healthcare, our experts go The Extra Mile to find Doctors all over the country their next opportunity, from Medical Officer to Consultant level.</span></h3><h3><span style="color: #ffffff;">Our team understand you’re a unique specialist in your field and as such, we believe your career deserves specialist attention with service uniquely tailored for you.</span></h3>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-c2a2844 elementor-align-center elementor-widget elementor-widget-button" data-id="c2a2844" data-element_type="widget" data-widget_type="button.default">
@@ -1587,7 +1587,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-a79cd45 elementor-widget elementor-widget-text-editor" data-id="a79cd45" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Enjoy your career but looking for more from your role? Our dedicated Nursing team are here for you.</p>					</div>
+				<p>Enjoy your career but looking for more from your role? Our dedicated Nursing team are here for you every step of the way.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-cbdae56 elementor-align-center elementor-widget elementor-widget-button" data-id="cbdae56" data-element_type="widget" data-widget_type="button.default">
@@ -1695,7 +1695,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="700" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">4+</span>
 			</div>
 							<div class="elementor-counter-title">sites supported</div>
 					</div>
@@ -1713,7 +1713,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="3500000" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">37.920+</span>
 			</div>
 							<div class="elementor-counter-title">hours provided</div>
 					</div>
@@ -1731,7 +1731,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="35000" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">44+</span>
 			</div>
 							<div class="elementor-counter-title">specialists registered</div>
 					</div>
@@ -1794,7 +1794,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 	        
 	        
 	            <div id="copyright" class="clr" role="contentinfo">
-	                Medivolt Healthcare 2020 | All Rights Reserved | <a href="">Privacy Policy</a>         </div><!-- #copyright -->
+	                Medevolt Healthcare 2020 | All Rights Reserved | <a href="">Privacy Policy</a>         </div><!-- #copyright -->
 
 	            
 	    </div><!-- #footer-bottom-inner -->

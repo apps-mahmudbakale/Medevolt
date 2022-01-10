@@ -375,28 +375,32 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="row col-md-12">
 				<div class="col-md-4">
 					Title
-					<input type="text" name="title" class="form-control">
+					<select name="title" id="" required class="form-control">
+						<option>Mr.</option>
+						<option>Miss.</option>
+						<option>Mrs.</option>
+					</select>
 				</div>
 				<div class="col-md-4">
 					Firstname
-					<input type="text" name="firstname" class="form-control">
+					<input type="text" name="firstname" required class="form-control">
 				</div>
 				<div class="col-md-4">
 					Lastname
-					<input type="text" name="lastname" class="form-control">
+					<input type="text" name="lastname" required class="form-control">
 				</div>
 				<div class="col-md-6">
 					Email
-					<input type="email" name="email" class="form-control">
+					<input type="email" name="email" required class="form-control">
 				</div>
 				<div class="col-md-6">
 					Phone
-					<input type="text" name="phone" class="form-control">
+					<input type="text" name="phone" required class="form-control">
 				</div>
 				<h2>Paperless Registration</h2>
 				<div class="col-md-12">
 					I'd like to be contacted by :
-					<select name="career" id="" class="form-control">
+					<select name="career" id="" required class="form-control">
 						<option></option>
 						<option value="MedeVolt Doctors">MedeVolt Doctors</option>
 						<option value="MedeVolt Nursing">MedeVolt Nursing</option>
@@ -405,12 +409,12 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				</div>
 				<div class="col-md-12">
 					The ideal role for me would be
-					<textarea name="role" id="" cols="30" rows="10" class="form-control"></textarea>
+					<textarea required name="role" id="" cols="30" rows="10" class="form-control"></textarea>
 				</div>
 				<br>
 				<div class="col-md-12">
 					Cv Upload
-					<input type="file" name="cv"  class="form-control">
+					<input type="file" name="cv" required class="form-control">
 					<br>
 					<br><hr>
 					<p>Dont worry if your CV isnt up to date, just put your contact details above and our team will reach out and support you updating your CV so its perfect for your next role!</p>
@@ -531,7 +535,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-7c89bc0 no-margin elementor-widget elementor-widget-heading" data-id="7c89bc0" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">BENEFITS OF WORKING WITH Medivolt Healthcare</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">BENEFITS OF WORKING WITH Medevolt Healthcare</h2>		</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-a50052c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a50052c" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -744,7 +748,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-b22c79a elementor-widget elementor-widget-text-editor" data-id="b22c79a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;">Medivolt Healthcare, a family run business since 2020</span></h3>					</div>
+				<h3><span style="color: #ffffff;">Medevolt Healthcare, a family run business since 2020</span></h3>					</div>
 						</div>
 				</div>
 						</div>
@@ -838,7 +842,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-0359f8b elementor-widget elementor-widget-text-editor" data-id="0359f8b" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<p>Enjoy your career but looking for more from your role? Our dedicated Nursing team are here for you.</p>					</div>
+				<p>Enjoy your career but looking for more from your role? Our dedicated Nursing team are here for you every step of the way.</p>					</div>
 						</div>
 				</div>
 				<div class="elementor-element elementor-element-6b03dde elementor-align-center elementor-widget elementor-widget-button" data-id="6b03dde" data-element_type="widget" data-widget_type="button.default">
@@ -946,7 +950,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="700" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">4+</span>
 			</div>
 							<div class="elementor-counter-title">sites supported</div>
 					</div>
@@ -964,7 +968,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="3500000" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">37,920+</span>
 			</div>
 							<div class="elementor-counter-title">hours provided</div>
 					</div>
@@ -982,7 +986,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 			<div class="elementor-counter-number-wrapper">
 				<span class="elementor-counter-number-prefix"></span>
 				<span class="elementor-counter-number" data-duration="2000" data-to-value="35000" data-from-value="" data-delimiter=","></span>
-				<span class="elementor-counter-number-suffix">+</span>
+				<span class="elementor-counter-number-suffix">44+</span>
 			</div>
 							<div class="elementor-counter-title">specialists registered</div>
 					</div>
@@ -1045,7 +1049,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 		
 		
 			<div id="copyright" class="clr" role="contentinfo">
-				Medivolt Healthcare 2020 | All Rights Reserved | <a href="">Privacy Policy</a>			</div><!-- #copyright -->
+				Medevolt Healthcare 2020 | All Rights Reserved | <a href="">Privacy Policy</a>			</div><!-- #copyright -->
 
 			
 	</div><!-- #footer-bottom-inner -->

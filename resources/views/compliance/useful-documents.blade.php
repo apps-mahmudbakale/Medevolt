@@ -341,7 +341,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-dd7ec8d elementor-align-center elementor-widget elementor-widget-button" data-id="dd7ec8d" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="mailto:safeguarding@MedeVolthealthcare.co.uk" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="mailto:contac@medevolthealthcare.com," class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">CONTACT US</span>
 		</span>
@@ -489,7 +489,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-5f8eb38 elementor-align-center elementor-widget elementor-widget-button" data-id="5f8eb38" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="wp-content/uploads/MedeVolt-Doctors-Timesheet-Template-Doc67HC-V1.pdf" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{asset('doc/doctors.pdf')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">click here</span>
 		</span>
@@ -524,7 +524,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-3df2a1a elementor-align-center elementor-widget elementor-widget-button" data-id="3df2a1a" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="{{asset('docs/nursing.pdf')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{asset('doc/nursing.pdf')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Click Here</span>
 		</span>
@@ -594,7 +594,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-element elementor-element-0c2a0d6 elementor-align-center elementor-widget elementor-widget-button" data-id="0c2a0d6" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="{{asset('doc/virtual-hospital.pdf')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="{{asset('doc/doctors.pdf')}}" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-text">Click Here</span>
 		</span>

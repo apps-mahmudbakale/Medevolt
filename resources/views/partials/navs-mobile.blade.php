@@ -47,6 +47,7 @@
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14920"><a href="">Support</a>
 <ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24233"><a href="{{route('about')}}">About Us</a></li>
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24233"><a href="{{route('news')}}">News</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24416"><a href="{{route('blog')}}">Blog</a></li>
 	

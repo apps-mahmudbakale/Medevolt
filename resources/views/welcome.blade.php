@@ -585,7 +585,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                 <div class="elementor-element elementor-element-c5ca5b2 elementor-widget elementor-widget-text-editor" data-id="c5ca5b2" data-element_type="widget" data-widget_type="text-editor.default">
                 <div class="elementor-widget-container">
                                 <div class="elementor-text-editor elementor-clearfix">
-                <p>Enjoy your career but looking for more from your role? Our dedicated Nursing team are here for you.</p>                    </div>
+                <p>Enjoy your career but looking for more from your role? Our dedicated Nursing team are here for you every step of the way.</p>                    </div>
                         </div>
                 </div>
                 <div class="elementor-element elementor-element-c15a7ea elementor-align-center elementor-widget elementor-widget-button" data-id="c15a7ea" data-element_type="widget" data-widget_type="button.default">
@@ -736,7 +736,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                     
                                         <div class="elementor-testimonial-details">
                                                         <div class="elementor-testimonial-name">Abubakar Kala</div>
-                    <div class="elementor-testimonial-job">HR Manager<br>Foresigt Specialist Clinic Gombe</div>
+                    <div class="elementor-testimonial-job">HR Manager<br>Foresight Specialist Clinic Gombe</div>
                                                     </div>
                                     </div>
             </div>
@@ -756,7 +756,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                     
                                         <div class="elementor-testimonial-details">
                                                         <div class="elementor-testimonial-name">Omolola Olawumi</div>
-                        <div class="elementor-testimonial-job">Admin Manager <br> FSCDS Abuja</div>
+                        <div class="elementor-testimonial-job">Admin Manager <br> Foresight Specialist Clinic Abuja</div>
                                                 </div>
                                     </div>
             </div>
@@ -844,7 +844,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                         Going Beyond Expectations                 </span>
                 </h3>
                                     <p class="elementor-icon-box-description">
-                        MedeVolt stands for The Beyond Expectations. The Beyond Expectations means many things to different people but for us, it means providing an exceptional level of service that goes beyond expectation. Join us today to find out more!                  </p>
+                        MedeVolt stands for Going Beyond Expectations. Going Beyond Expectations means many things to different people but for us, it means providing an exceptional level of service that exceeds expectations. Join us today to find out more!                  </p>
                             </div>
         </div>
                 </div>
@@ -1056,7 +1056,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                         CAREERS                 </a>
                 </h3>
                                     <p class="elementor-icon-box-description">
-                        You're a specialist in your field, and so are we. Whether it be for a week or forever with years of experience let us take the next step in your career The Beyond Expectations!                  </p>
+                        You're a specialist in your field, and so are we. Whether it be for a week or forever with years of experience let us take the next step in your career  The Extra Mile!                  </p>
                             </div>
         </div>
                 </div>
@@ -1122,7 +1122,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
         @foreach($roles as $key => $role)
         <li class="post-25123 job_listing type-job_listing status-publish has-post-thumbnail hentry entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav" data-longitude="" data-latitude="" style="visibility: visible;">
         <a href="">
-            <img class="company_logo" src="wp-content/uploads/Psych200x200-150x150.png" alt="">     
+            <img class="company_logo" src="{{asset('img/GenMed200x200.png.webp')}}" alt=""> 
             <div class="position">
                 <h3>{{$role->role}} ({{$role->qty}}) – {{$role->location}}</h3>
                 <div class="company"></div>
@@ -1155,7 +1155,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
             <div class="elementor-counter-number-wrapper">
                 <span class="elementor-counter-number-prefix"></span>
                 <span class="elementor-counter-number" data-duration="2000" data-to-value="700" data-from-value="" data-delimiter=","></span>
-                <span class="elementor-counter-number-suffix">+</span>
+                <span class="elementor-counter-number-suffix">4+</span>
             </div>
                             <div class="elementor-counter-title">sites supported</div>
                     </div>
@@ -1173,7 +1173,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
             <div class="elementor-counter-number-wrapper">
                 <span class="elementor-counter-number-prefix"></span>
                 <span class="elementor-counter-number" data-duration="2000" data-to-value="3500000" data-from-value="" data-delimiter=","></span>
-                <span class="elementor-counter-number-suffix">+</span>
+                <span class="elementor-counter-number-suffix">37,920+</span>
             </div>
                             <div class="elementor-counter-title">hours provided</div>
                     </div>
@@ -1191,7 +1191,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
             <div class="elementor-counter-number-wrapper">
                 <span class="elementor-counter-number-prefix"></span>
                 <span class="elementor-counter-number" data-duration="2000" data-to-value="35000" data-from-value="" data-delimiter=","></span>
-                <span class="elementor-counter-number-suffix">+</span>
+                <span class="elementor-counter-number-suffix">44+</span>
             </div>
                             <div class="elementor-counter-title">specialists registered</div>
                     </div>
@@ -1266,7 +1266,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
         
         
             <div id="copyright" class="clr" role="contentinfo">
-                Medivolt Healthcare 2020 | All Rights Reserved | <a href="">Privacy Policy</a>         </div><!-- #copyright -->
+                Medevolt Healthcare 2020 | All Rights Reserved | <a href="">Privacy Policy</a>         </div><!-- #copyright -->
 
             
     </div><!-- #footer-bottom-inner -->

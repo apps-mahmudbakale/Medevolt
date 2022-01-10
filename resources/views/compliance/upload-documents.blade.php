@@ -367,11 +367,11 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 						<h2>ON BOARDING DOCUMENTS</h2>
 						<hr>
 						<br>
-						<img style="max-width: 194%; width: 100%;"  src="{{asset('img/Medevolt logo5.png')}}">					
+						<img style="max-width: 194%; width: 100%;"  src="{{asset('img/upload.jpg')}}">					
 					</div>
 					<div class="col-md-12">
 						Full Name
-						<input type="text" name="fullname" class="form-control">
+						<input type="text" name="fullname" required class="form-control">
 					</div>
 					<br>
 					<div class="col-md-12">
@@ -381,54 +381,54 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 					</div>
 					<div class="col-md-12">
 						<label for="">Cv</label>
-						<input type="file" name="cv" class="form-control">
+						<input type="file" name="cv" required class="form-control">
 					</div>
 					<div class="col-md-12">
-						Reference One
-						<input type="file" name="refone" class="form-control">
+						Gurantor Form
+						<input type="file" name="refone" required class="form-control">
+					</div>
+					<div class="col-md-12">
+						Reference one
+						<input type="file" name="reftwo" required class="form-control">
 					</div>
 					<div class="col-md-12">
 						Reference two
-						<input type="file" name="reftwo" class="form-control">
-					</div>
-					<div class="col-md-12">
-						Reference Three
-						<input type="file" name="refthree" class="form-control">
+						<input type="file" name="refthree" required class="form-control">
 					</div>
 					<div class="col-md-12">
 						<h3>RIGHT TO WORK CHECKS</h3>
 					</div>
 					<div class="col-md-12">
 						Professional Degree/Certificate
-						<input type="file" name="degree" class="form-control">
+						<input type="file" name="degree" required class="form-control">
 					</div>
 					<div class="col-md-12">
 						Professional Licence
-						<input type="file" name="licence" class="form-control">
+						<input type="file" name="licence" required class="form-control">
 					</div>
 					<div class="col-md-12">
 						<h3>IDENTITY CHECKS</h3>
 					</div>
 					<div class="col-md-12">
 						Drivers Licence
-						<input type="file" name="drivers_licence" class="form-control">
+						<input type="file" name="drivers_licence" required class="form-control">
 					</div>
 					<div class="col-md-12">
 						*IF YOU DO NOT HAVE A DRIVING LICENCE PLEASE UPLOAD A DIFFERENT FORM OF PHOTO ID
-						<input type="file" name="identity" class="form-control">
+						<input type="file" name="identity" required class="form-control">
 					</div>
 					<div class="col-md-12">
 						Photo
-						<input type="file" name="photo" class="form-control">
+						<input type="file" name="photo" required class="form-control">
 					</div>
 
 					<div class="col-md-12">
 						Proof of Address One
-						<input type="file" name="proof_add_one" class="form-control">
+						<input type="file" name="proof_add_one" required class="form-control">
 					</div>
 					<div class="col-md-12">
 						Proof of Address Two
-						<input type="file" name="proof_add_two" class="form-control">
+						<input type="file" name="proof_add_two" required class="form-control">
 					</div>
 					<div class="col-md-12">
 						<br>

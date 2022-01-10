@@ -19,4 +19,14 @@ class Application extends Model
         'role',
         'cv'
     ];
+
+    public static $rules = array(
+        'firstname'             => 'required|string',                        // just a normal required validation
+        'lastname'             => 'required|string',                        // just a normal required validation
+        'email'            => 'required|email|unique:ducks',     // required and must be unique in the ducks table
+        'phone'         => 'required|integer',
+        'career' => 'required',
+        'firstname'             => 'required',                        // just a normal required validation
+                   // required and has to match the password field
+    );
 }
