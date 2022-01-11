@@ -272,7 +272,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
 
                 
     
-    <div id="content-wrap" class="container clr" style="margin-left: 43px; margin-top: 20px;">
+    <div id="content-wrap" class="container clr" style="margin-left: 15px; margin-top: 20px;">
 
         
         <div id="primary" class="content-area clr">
@@ -304,7 +304,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
 <ul class="job-listing-meta meta">
     
                         
-    <li class="location"><a class="google_map_link" href="https://maps.google.com/maps?q=London&amp;zoom=14&amp;size=512x512&amp;maptype=roadmap&amp;sensor=false" target="_blank" rel="noopener">{{$role->location}}</a></li>
+    <li class="location"><a class="google_map_link" href=""  rel="noopener">{{$role->location}}</a></li>
 
     <li class="date-posted"><time datetime="2021-12-21">Posted {{$role->created_at->diffForHumans()}}</time></li>
 
@@ -320,7 +320,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
 <p><b>Contract Type:</b> Full-time.</p>
 <p><b>Length &amp; Details</b>: As soon as possible</p>
 <p><b>Rate of Pay</b>: Competitive Rates Offered</p>
-<p>If you are interested and wish to receive more information about the job then please send your CV to:&nbsp;<strong>contact@</strong><b>medevolthealthcare.co.uk&nbsp;</b>or call Funmilayo on&nbsp;<b>+237049255550&nbsp;</b></p>
+<p>If you are interested and wish to receive more information about the job then please send your CV to:&nbsp;<strong>contact@</strong><b>medevolthealthcare.com&nbsp;</b>or call Funmilayo on&nbsp;<b>+237049255550&nbsp;</b></p>
 <p><i>Medevolt Healthcare is an equal opportunities employer. If you have any specific requirements or require assistance or reasonable adjustments to be made for you during the selection process due to disability or long-term health condition, we will do our best to assist you.</i></p>
         </div>
 

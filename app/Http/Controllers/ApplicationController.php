@@ -77,7 +77,7 @@ class ApplicationController extends Controller
 
     public function welcome()
     {
-        $roles = Job::paginate(5);
+        $roles = Job::paginate(10);
 
         return view('welcome', compact('roles'));
     }

@@ -9,8 +9,8 @@
 	    <nav>
 	      <ol class="breadcrumb">
 	        <li class="breadcrumb-item"><a href="{{route('admin.dashboard')}}">Dashboard</a></li>
-	        <li class="breadcrumb-item"><a href="{{route('admin.recruites.index')}}">Users</a></li>
-	        <li class="breadcrumb-item active">View User</li>
+	        <li class="breadcrumb-item"><a href="{{route('admin.recruites.index')}}">Recruites</a></li>
+	        <li class="breadcrumb-item active">View Recruites</li>
 	      </ol>
 	    </nav>
 	  </div><!-- End Page Title -->

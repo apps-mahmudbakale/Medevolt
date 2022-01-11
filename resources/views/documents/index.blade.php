@@ -39,11 +39,11 @@
 	                  <td>{{$document->created_at->toDateString()}}</td>
 	                  <td class="btn-group">
 	                  	@can('read-users')
-	                  	<a href="{{route('admin.jobs.show', $document->id)}}" class="btn btn-success"><i class="bi bi-eye"></i></a>
+	                  	<a href="{{route('admin.documents.show', $document->id)}}" class="btn btn-success"><i class="bi bi-eye"></i></a>
 	                  	@endcan
 	                  	@can('delete-users')
 	                  	<a href="" class="btn btn-danger" onclick="event.preventDefault(); document.getElementById('del#{{$document->id}}').submit();"><i class="bi bi-trash"></i></a>
-	                  	<form id="del#{{$document->id}}" action="{{ route('admin.jobs.destroy', $document->id) }}" method="POST" onsubmit="return confirm('Are you sure');" style="display: inline-block;">
+	                  	<form id="del#{{$document->id}}" action="{{ route('admin.documents.destroy', $document->id) }}" method="POST" onsubmit="return confirm('Are you sure');" style="display: inline-block;">
                           <input type="hidden" name="_method" value="DELETE">
                           <input type="hidden" name="_token" value="{{ csrf_token() }}">
                       </form>
