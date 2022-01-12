@@ -81,6 +81,10 @@ class RecruiteController extends Controller
      */
     public function destroy($id)
     {
-        //
+        $application = Application::find($id);
+        
+        $application->delete();
+
+        return back()->with('success', 'Recruite Deleted');
     }
 }

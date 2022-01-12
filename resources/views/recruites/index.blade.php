@@ -30,6 +30,7 @@
 	                  <th scope="col">Name</th>
 	                  <th scope="col">Email</th>
 	                  <th scope="col">Phone</th>
+	                  <th scope="col">Role</th>
 	                  <th scope="col">Action</th>
 	                </tr>
 	              </thead>
@@ -41,6 +42,7 @@
 	                  <td>{{$recruite->firstname}} {{$recruite->lastname}}</td>
 	                  <td>{{$recruite->email}}</td>
 	                  <td>{{$recruite->phone}}</td>
+	                  <td>{{$recruite->carrer}}</td>
 	                  <td class="btn-group">
 	                  	@can('read-users')
 	                  	<a href="{{route('admin.recruites.show', $recruite->id)}}" class="btn btn-success"><i class="bi bi-eye"></i></a>
