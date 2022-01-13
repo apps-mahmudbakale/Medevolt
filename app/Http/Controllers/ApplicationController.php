@@ -53,11 +53,13 @@ class ApplicationController extends Controller
         }
 
         $application = Application::create([
+            'job_id'=> $request->job_id,
             'title' => $request->title,
             'firstname' => $request->firstname,
             'lastname' => $request->lastname,
             'email' => $request->email,
             'phone' => $request->phone,
+            'job_type' => $request->job_type,
             'career' => $request->career,
             'role' => $request->role,
             'cv' => $cv
