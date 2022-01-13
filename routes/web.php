@@ -44,9 +44,9 @@ Route::get('medevolt-about', function () {
     return view('support.about');
 })->name('about');
 
-Route::get('/', function () {
-    return view('welcome');
-})->name('welcome');
+// Route::get('/', function () {
+//     return view('under_dev');
+// })->name('welcome');
 
 Route::get('medevolt-public-sector', function () {
     return view('solutions.nhs');
@@ -99,7 +99,7 @@ Route::get('latest-roles', [App\Http\Controllers\ApplicationController::class, '
 
 Route::get('job/{id}', [App\Http\Controllers\ApplicationController::class, 'show'])->name('job.show');
 
-// Route::get('/', [App\Http\Controllers\ApplicationController::class, 'welcome'])->name('welcome');
+Route::get('/', [App\Http\Controllers\ApplicationController::class, 'welcome'])->name('welcome');
 
 
 Route::group(['prefix' => 'admin', 'as' => 'admin.', 'middleware' => ['auth']], function ()

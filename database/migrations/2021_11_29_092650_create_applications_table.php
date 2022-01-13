@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\Schema;
 
 class CreateApplicationsTable extends Migration
 {
-    /**
+    /** 
      * Run the migrations.
      *
      * @return void
@@ -15,13 +15,13 @@ class CreateApplicationsTable extends Migration
     {
         Schema::create('applications', function (Blueprint $table) {
             $table->id();
-            $table->integer('job_id');
+            $table->integer('job_id')->nullable();
             $table->string('title');
             $table->string('firstname');
             $table->string('lastname');
-            $table->string('email');
-            $table->string('phone');
-            $table->string('job_type');
+            $table->string('email')->unique();
+            $table->string('phone')->unique();
+            $table->string('job_type')->nullable();
             $table->string('career');
             $table->text('role');
             $table->string('cv');
