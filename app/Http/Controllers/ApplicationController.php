@@ -88,9 +88,9 @@ class ApplicationController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function show($id)
+    public function show($slug)
     {
-        $role = Job::find($id);
+        $role = Job::where('slug', $slug)->firstOrFail();
         return view('careers.job', compact('role'));
         // dd($role);
     }

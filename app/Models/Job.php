@@ -14,6 +14,7 @@ class Job extends Model
         'location',
         'qty',
         'description',
+        'slug',
         'created_at',
         'updated_at'
     ];

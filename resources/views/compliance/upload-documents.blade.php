@@ -385,7 +385,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 					</div>
 					<div class="col-md-12">
 						Gurantor Form
-						<input type="file" name="refone" required class="form-control">
+						<input type="file" name="guarantor_form" required class="form-control">
 					</div>
 					<div class="col-md-12">
 						Reference one

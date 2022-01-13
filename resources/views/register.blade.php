@@ -379,6 +379,8 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 						<option>Mr.</option>
 						<option>Miss.</option>
 						<option>Mrs.</option>
+						<option>Dr.</option>
+						<option>Prof.</option>
 					</select>
 				</div>
 				<div class="col-md-4">
@@ -405,6 +407,15 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 						<option value="MedeVolt Doctors">MedeVolt Doctors</option>
 						<option value="MedeVolt Nursing">MedeVolt Nursing</option>
 						<option value="MedeVolt Allied Health">MedeVolt Allied Health</option>
+					</select>
+				</div>
+				<div class="col-md-12">
+					Job Type :
+					<select name="job_type" id="" required class="form-control">
+						<option></option>
+						<option value="Full-Time">Full-Time</option>
+						<option value="Part-Time">Part-Time</option>
+						<option value="Locum">Locum</option>
 					</select>
 				</div>
 				<div class="col-md-12">

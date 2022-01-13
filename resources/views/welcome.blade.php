@@ -1121,7 +1121,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
 <ul class="job_listings">
         @foreach($roles as $key => $role)
         <li class="post-25123 job_listing type-job_listing status-publish has-post-thumbnail hentry entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav" data-longitude="" data-latitude="" style="visibility: visible;">
-        <a href="{{route('job.show', $role->id)}}">
+        <a href="{{route('job.show', $role->slug)}}">
             <img class="company_logo" src="{{asset('img/GenMed200x200.png.webp')}}" alt=""> 
             <div class="position">
                 <h3>{{$role->role}} ({{$role->qty}}) – {{$role->location}}</h3>

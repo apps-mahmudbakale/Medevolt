@@ -58,9 +58,9 @@
 	              		      <li class="list-group-item d-flex justify-content-between align-items-start">
 	              		        <div class="ms-2 me-auto">
 	              		          <div class="fw-bold">Guarantor Form</div>
-	              		          	{{$document->cv}}
+	              		          	{{$document->guarantor_form}}
 	              		        </div>
-	              		       <a href="/storage/documents/{{$document->refone}}" download><span class="badge bg-primary rounded-pill">Download</span></a>
+	              		       <a href="/storage/documents/{{$document->guarantor_form}}" download><span class="badge bg-primary rounded-pill">Download</span></a>
 	              		      </li>
 	              		      <li class="list-group-item d-flex justify-content-between align-items-start">
 	              		        <div class="ms-2 me-auto">

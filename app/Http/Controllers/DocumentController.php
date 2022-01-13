@@ -47,7 +47,18 @@ class DocumentController extends Controller
         } else {
             $cv = 'no-file.pdf';
         }
-         if ($request->hasFile('refone')) {
+         if ($request->hasFile('guarantor_form')) {
+            $fileNameWithExt = $request->file('guarantor_form')->getClientOriginalName();
+            $filename = pathinfo($fileNameWithExt, PATHINFO_FILENAME);
+
+            $extension = $request->file('guarantor_form')->getClientOriginalExtension();
+
+            $guarantor_form = $filename.'_'.time().'.'.$extension;
+            $path = $request->file('guarantor_form')->storeAs('public/documents', $guarantor_form);
+        } else {
+            $guarantor_form = 'no-file.pdf';
+        }
+        if ($request->hasFile('refone')) {
             $fileNameWithExt = $request->file('refone')->getClientOriginalName();
             $filename = pathinfo($fileNameWithExt, PATHINFO_FILENAME);
 
@@ -58,7 +69,8 @@ class DocumentController extends Controller
         } else {
             $refone = 'no-file.pdf';
         }
-        if ($request->hasFile('reftwo')) {
+
+         if ($request->hasFile('reftwo')) {
             $fileNameWithExt = $request->file('reftwo')->getClientOriginalName();
             $filename = pathinfo($fileNameWithExt, PATHINFO_FILENAME);
 
@@ -68,18 +80,6 @@ class DocumentController extends Controller
             $path = $request->file('reftwo')->storeAs('public/documents', $reftwo);
         } else {
             $reftwo = 'no-file.pdf';
-        }
-
-         if ($request->hasFile('refthree')) {
-            $fileNameWithExt = $request->file('refthree')->getClientOriginalName();
-            $filename = pathinfo($fileNameWithExt, PATHINFO_FILENAME);
-
-            $extension = $request->file('refthree')->getClientOriginalExtension();
-
-            $refthree = $filename.'_'.time().'.'.$extension;
-            $path = $request->file('refthree')->storeAs('public/documents', $refthree);
-        } else {
-            $refthree = 'no-file.pdf';
         }
 
          if ($request->hasFile('degree')) {
@@ -169,9 +169,9 @@ class DocumentController extends Controller
         $document = Document::create([
             'fullname' => $request->fullname,
             'cv' => $cv,
-            'refone' => $refone,
+            'guarantor_form' => $guarantor_form,
+            'refone' => $reftwo,
             'reftwo' => $reftwo,
-            'refthree' => $refthree,
             'degree' => $degree,
             'licence' => $licence,
             'identity' => $identity,

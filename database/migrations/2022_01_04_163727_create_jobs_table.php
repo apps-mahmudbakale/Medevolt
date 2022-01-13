@@ -19,6 +19,7 @@ class CreateJobsTable extends Migration
             $table->string('location');
             $table->integer('qty');
             $table->text('description');
+            $table->string('slug')->unique();
             $table->timestamps();
         });
     }

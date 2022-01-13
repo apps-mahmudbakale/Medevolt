@@ -36,7 +36,7 @@
 	                <tr>
 	                  <th scope="row">{{$loop->iteration}}</th>
 	                  <td>{{$document->fullname}}</td>
-	                  <td>{{$document->created_at->toDateString()}}</td>
+	                  <td>{{$document->created_at->diffForHumans()}}</td>
 	                  <td class="btn-group">
 	                  	@can('read-users')
 	                  	<a href="{{route('admin.documents.show', $document->id)}}" class="btn btn-success"><i class="bi bi-eye"></i></a>

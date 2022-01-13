@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Job;
 use Illuminate\Http\Request;
+use Illuminate\Support\Str;
 
 class JobController extends Controller
 {
@@ -37,7 +38,13 @@ class JobController extends Controller
      */
     public function store(Request $request)
     {
-        $job = Job::create($request->all());
+        $job = Job::create([
+                'role' => $request->role,
+                'qty' => $request->qty,
+                'location' => $request->location,
+                'description' => $request->description,
+                'slug' => Str::slug($request->role,'-'),
+        ]);
 
         return redirect()->route('admin.jobs.index')->with('success', 'Jobs Added');
     }

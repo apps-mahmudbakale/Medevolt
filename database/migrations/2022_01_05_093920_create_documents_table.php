@@ -17,9 +17,9 @@ class CreateDocumentsTable extends Migration
             $table->id();
             $table->string('fullname');
             $table->string('cv');
+            $table->string('guarantor_form');
             $table->string('refone');
             $table->string('reftwo');
-            $table->string('refthree');
             $table->string('degree');
             $table->string('licence');
             $table->string('drivers_licence');
