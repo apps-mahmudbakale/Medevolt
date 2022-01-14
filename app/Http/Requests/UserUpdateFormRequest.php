@@ -13,7 +13,8 @@ class UserUpdateFormRequest extends FormRequest
      */
     public function authorize()
     {
-        return auth()->user()->can('update-users');
+        // return auth()->user()->can('update-users');
+        return false;
     }
 
     /**

@@ -43,7 +43,7 @@ class JobController extends Controller
                 'qty' => $request->qty,
                 'location' => $request->location,
                 'description' => $request->description,
-                'slug' => Str::slug($request->role,'-'),
+                'slug' => Str::slug($request->role.' '.$request->location,'-'),
         ]);
 
         return redirect()->route('admin.jobs.index')->with('success', 'Jobs Added');

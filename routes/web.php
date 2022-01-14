@@ -91,6 +91,7 @@ Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\DashboardController::class, 'index'])->name('home');
 Route::get('/register-now', [ApplicationController::class, 'index'])->name('register-now');
+Route::get('/register/{job}', [ApplicationController::class, 'registerJob'])->name('register-job');
 Route::post('/register-now', [ApplicationController::class, 'store'])->name('register.store');
 
 Route::post('/documents', [DocumentController::class, 'store'])->name('documents.store');
@@ -107,6 +108,8 @@ Route::group(['prefix' => 'admin', 'as' => 'admin.', 'middleware' => ['auth']], 
     Route::get('/', [DashboardController::class, 'index'])->name('dashboard');
     Route::post('test', [UserController::class, 'test'])->name('test');
     Route::resource('users', UserController::class);
+    Route::get('profile', [UserController::class, 'profile'])->name('profile');
+    Route::put('profile/{id}', [UserController::class, 'updateProfile'])->name('update.profile');
     Route::resource('roles', RoleController::class);
     Route::resource('recruites', RecruiteController::class);
     Route::resource('jobs', JobController::class);

@@ -18,5 +18,17 @@ class Job extends Model
         'created_at',
         'updated_at'
     ];
+
+
+    public function application()
+    {
+        return $this->hasOne(Application::class);
+    }
+
+
+    public function getJobTitle()
+    {
+        return "{$this->role} {$this->location}";
+    }
 }
 

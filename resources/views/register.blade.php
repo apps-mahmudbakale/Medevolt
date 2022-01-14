@@ -42,49 +42,47 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='formidable-css'  href='wp-content/plugins/formidable/css/formidableformsab4e.css?ver=10191033' media='all' />
-<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style74e5.css?ver=5.9.1' media='all' />
-<link rel='stylesheet' id='wc-blocks-style-css'  href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style74e5.css?ver=5.9.1' media='all' />
-<link rel='stylesheet' id='cookie-law-info-css'  href='wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public1717.css?ver=2.0.6' media='all' />
-<link rel='stylesheet' id='cookie-law-info-gdpr-css'  href='wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr1717.css?ver=2.0.6' media='all' />
-<link rel='stylesheet' id='wpdm-font-awesome-css'  href='wp-content/plugins/download-manager/assets/fontawesome/css/all986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
-<link rel='stylesheet' id='wpdm-front-bootstrap-css'  href='wp-content/plugins/download-manager/assets/bootstrap/css/bootstrap.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
-<link rel='stylesheet' id='wpdm-front-css'  href='wp-content/plugins/download-manager/assets/css/front986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
+	<link rel='stylesheet' id='formidable-css'  href='{{asset('wp-content/plugins/formidable/css/formidableformsab4e.css?ver=10191033')}}' media='all' />
+<link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='{{asset('wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style74e5.css?ver=5.9.1')}}' media='all' />
+<link rel='stylesheet' id='wc-blocks-style-css'  href='{{asset('wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style74e5.css?ver=5.9.1')}}' media='all' />
+<link rel='stylesheet' id='wpdm-font-awesome-css'  href='{{asset('wp-content/plugins/download-manager/assets/fontawesome/css/all986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
+<link rel='stylesheet' id='wpdm-front-bootstrap-css'  href='{{asset('wp-content/plugins/download-manager/assets/bootstrap/css/bootstrap.min986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
+<link rel='stylesheet' id='wpdm-front-css'  href='{{asset('wp-content/plugins/download-manager/assets/css/front986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
 <style id='woocommerce-inline-inline-css'>
 .woocommerce form .form-row .required { visibility: visible; }
 </style>
-<link rel='stylesheet' id='wp-job-manager-job-listings-css'  href='wp-content/plugins/wp-job-manager/assets/dist/css/job-listings9c8b.css?ver=d866e43503c5e047c6b0be0a9557cf8e' media='all' />
-<link rel='stylesheet' id='6c153d8fb-css'  href='wp-content/uploads/essential-addons-elementor/734e5f942.mina900.css?ver=1637259365' media='all' />
-<link rel='stylesheet' id='wc-gateway-ppec-frontend-css'  href='wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/css/wc-gateway-ppec-frontend4c71.css?ver=2.1.3' media='all' />
-<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='wp-content/plugins/elementor/assets/css/frontend-legacy.min4c8b.css?ver=3.4.5' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css'  href='wp-content/plugins/elementor/assets/css/frontend.min4c8b.css?ver=3.4.5' media='all' />
+<link rel='stylesheet' id='wp-job-manager-job-listings-css'  href='{{asset('wp-content/plugins/wp-job-manager/assets/dist/css/job-listings9c8b.css?ver=d866e43503c5e047c6b0be0a9557cf8e')}}' media='all' />
+<link rel='stylesheet' id='6c153d8fb-css'  href='{{asset('wp-content/uploads/essential-addons-elementor/734e5f942.mina900.css?ver=1637259365')}}' media='all' />
+<link rel='stylesheet' id='wc-gateway-ppec-frontend-css'  href='{{asset('wp-content/plugins/woocommerce-gateway-paypal-express-checkout/assets/css/wc-gateway-ppec-frontend4c71.css?ver=2.1.3')}}' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='{{asset('wp-content/plugins/elementor/assets/css/frontend-legacy.min4c8b.css?ver=3.4.5')}}' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='{{asset('wp-content/plugins/elementor/assets/css/frontend.min4c8b.css?ver=3.4.5')}}' media='all' />
 <style id='elementor-frontend-inline-css'>
 @font-face{font-family:eicons;src:url(wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons0b93.eot?5.10.0);src:url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://www.txmhealthcare.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
 </style>
-<link rel='stylesheet' id='elementor-post-19681-css'  href='wp-content/uploads/elementor/css/post-196810756.css?ver=1634639653' media='all' />
-<link rel='stylesheet' id='oceanwp-woo-mini-cart-css'  href='wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
-<link rel='stylesheet' id='font-awesome-css'  href='wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min9e0b.css?ver=5.15.1' media='all' />
-<link rel='stylesheet' id='simple-line-icons-css'  href='wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min8d5a.css?ver=2.4.0' media='all' />
-<link rel='stylesheet' id='oceanwp-style-css'  href='wp-content/themes/oceanwp/assets/css/style.min8571.css?ver=3.0.7' media='all' />
-<link rel='stylesheet' id='oceanwp-hamburgers-css'  href='wp-content/themes/oceanwp/assets/css/third/hamburgers/hamburgers.min8571.css?ver=3.0.7' media='all' />
-<link rel='stylesheet' id='oceanwp-stand-css'  href='wp-content/themes/oceanwp/assets/css/third/hamburgers/types/stand8571.css?ver=3.0.7' media='all' />
+<link rel='stylesheet' id='elementor-post-19681-css'  href='{{asset('wp-content/uploads/elementor/css/post-196810756.css?ver=1634639653')}}' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-mini-cart-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/woo/woo-mini-cart.min986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='{{asset('wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min9e0b.css?ver=5.15.1')}}' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min8d5a.css?ver=2.4.0')}}' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/style.min8571.css?ver=3.0.7')}}' media='all' />
+<link rel='stylesheet' id='oceanwp-hamburgers-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/third/hamburgers/hamburgers.min8571.css?ver=3.0.7')}}' media='all' />
+<link rel='stylesheet' id='oceanwp-stand-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/third/hamburgers/types/stand8571.css?ver=3.0.7')}}' media='all' />
 <link rel='stylesheet' id='oceanwp-google-font-poppins-css'  href='http://fonts.googleapis.com/css?family=Poppins%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&amp;subset=latin&amp;display=swap&amp;ver=fab647613944cce2c98c440ab05a878f' media='all' />
-<link rel='stylesheet' id='elementor-icons-css'  href='wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.minb683.css?ver=5.12.0' media='all' />
-<link rel='stylesheet' id='elementor-post-19665-css'  href='wp-content/uploads/elementor/css/post-196650756.css?ver=1634639653' media='all' />
-<link rel='stylesheet' id='elementor-pro-css'  href='wp-content/plugins/elementor-pro/assets/css/frontend.minccfb.css?ver=3.4.2' media='all' />
-<link rel='stylesheet' id='premium-pro-css'  href='wp-content/plugins/premium-addons-pro/assets/frontend/min-css/premium-addons.min91ee.css?ver=2.5.3' media='all' />
-<link rel='stylesheet' id='elementor-post-14785-css'  href='wp-content/uploads/elementor/css/post-14785a16d.css?ver=1634829285' media='all' />
-<link rel='stylesheet' id='oceanwp-woocommerce-css'  href='wp-content/themes/oceanwp/assets/css/woo/woocommerce.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
-<link rel='stylesheet' id='oceanwp-woo-star-font-css'  href='wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
-<link rel='stylesheet' id='oceanwp-woo-quick-view-css'  href='wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
-<link rel='stylesheet' id='ow-perfect-scrollbar-css'  href='wp-content/themes/oceanwp/assets/css/third/perfect-scrollbar91ce.css?ver=1.5.0' media='all' />
-<link rel='stylesheet' id='omw-styles-css'  href='wp-content/plugins/ocean-modal-window/assets/css/style.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
-<link rel='stylesheet' id='oss-social-share-style-css'  href='wp-content/plugins/ocean-social-sharing/assets/css/style.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='{{asset('wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.minb683.css?ver=5.12.0')}}' media='all' />
+<link rel='stylesheet' id='elementor-post-19665-css'  href='{{asset('wp-content/uploads/elementor/css/post-196650756.css?ver=1634639653')}}' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='{{asset('wp-content/plugins/elementor-pro/assets/css/frontend.minccfb.css?ver=3.4.2')}}' media='all' />
+<link rel='stylesheet' id='premium-pro-css'  href='{{asset('wp-content/plugins/premium-addons-pro/assets/frontend/min-css/premium-addons.min91ee.css?ver=2.5.3')}}' media='all' />
+<link rel='stylesheet' id='elementor-post-14785-css'  href='{{asset('wp-content/uploads/elementor/css/post-14785a16d.css?ver=1634829285')}}' media='all' />
+<link rel='stylesheet' id='oceanwp-woocommerce-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/woo/woocommerce.min986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-star-font-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/woo/woo-star-font.min986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
+<link rel='stylesheet' id='oceanwp-woo-quick-view-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
+<link rel='stylesheet' id='ow-perfect-scrollbar-css'  href='{{asset('wp-content/themes/oceanwp/assets/css/third/perfect-scrollbar91ce.css?ver=1.5.0')}}' media='all' />
+<link rel='stylesheet' id='omw-styles-css'  href='{{asset('wp-content/plugins/ocean-modal-window/assets/css/style.min986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
+<link rel='stylesheet' id='oss-social-share-style-css'  href='{{asset('wp-content/plugins/ocean-social-sharing/assets/css/style.min986b.css?ver=fab647613944cce2c98c440ab05a878f')}}' media='all' />
 {{-- <link rel="stylesheet" href="css/bootstrap.min.css"> --}}
 <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDosis%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=fab647613944cce2c98c440ab05a878f' media='all' />
-<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' media='all' />
-<link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='{{asset('wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3')}}' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='{{asset('wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3')}}' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='{{asset('wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3')}}' media='all' />
 <script src='wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.minafbb.js?ver=8.1.0' id='monsterinsights-frontend-script-js'></script>
 <script src='../wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script src='../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
@@ -373,6 +371,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				@csrf
 				<h2>Your Details</h2>
 				<div class="row col-md-12">
+					<input type="hidden" name="job_id" value="{{$job->id ?? ''}}">
 				<div class="col-md-4">
 					Title
 					<select name="title" id="" required class="form-control">

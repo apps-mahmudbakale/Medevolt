@@ -41,7 +41,7 @@
 	                  <td>{{$recruite->title}}</td>
 	                  <td>{{$recruite->firstname}} {{$recruite->lastname}}</td>
 	                  <td>{{$recruite->phone}}</td>
-	                  <td>Job Title</td>
+	                  <td>{{$recruite->job_type ?? ''}}</td>
 	                  <td>{{$recruite->career}}</td>
 	                  <td class="btn-group">
 	                  	@can('read-users')

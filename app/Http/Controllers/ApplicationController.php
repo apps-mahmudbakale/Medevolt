@@ -16,9 +16,33 @@ class ApplicationController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index($job = null)
     {
-        return view('register');
+        if ($job) {
+            
+            $job = base64_decode($job);
+
+            return view('register', compact('job'));
+        }else{
+        
+            return view('register');
+        }
+
+        
+    }
+
+    public function registerJob($job = null)
+    {
+        if ($job) {
+            
+            $job = Job::where('slug', base64_decode($job))->firstOrFail();
+
+            return view('register', compact('job'));
+        }else{
+        
+            return view('register');
+        }
+        
     }
 
     /**
@@ -68,6 +92,8 @@ class ApplicationController extends Controller
         Mail::to($request->email)->send(new WelcomeMail());
 
         return redirect()->route('register-now')->with('success', 'Added');
+
+        // dd($request->all());
     }
 
     public function roles()

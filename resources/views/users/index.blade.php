@@ -50,9 +50,9 @@
 	                  	@can('read-users')
 	                  	<a href="{{route('admin.users.show', $user->id)}}" class="btn btn-success"><i class="bi bi-eye"></i></a>
 	                  	@endcan
-	                  	@can('update-users')
+	                  	{{-- @can('update-users') --}}
 	                  	<a href="{{route('admin.users.edit', $user->id)}}" class="btn btn-primary"><i class="bi bi-pencil-square"></i></a>
-	                  	@endcan
+	                  {{-- 	@endcan --}}
 	                  	@can('delete-users')
 	                  	<a href="" class="btn btn-danger" onclick="event.preventDefault(); document.getElementById('del#{{$user->id}}').submit();"><i class="bi bi-trash"></i></a>
 	                  	<form id="del#{{$user->id}}" action="{{ route('admin.users.destroy', $user->id) }}" method="POST" onsubmit="return confirm('Are you sure');" style="display: inline-block;">

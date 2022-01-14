@@ -86,6 +86,23 @@ class UserController extends Controller
         return view('users.edit', compact('roles', $roles, 'user', $user));
     }
 
+    public function profile()
+    {
+        return view('users.profile');
+    }
+
+
+    public function updateProfile(Request $request, User $user)
+    {
+        $user->name = $request->name;
+        $user->email = $request->email;
+        $user->password = Auth::user()->password;
+
+        $user->save();
+
+        return redirect()->route('admin.profile')->with('Profile Updated');;
+
+    }
     /**
      * Update the specified resource in storage.
      *

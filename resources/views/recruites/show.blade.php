@@ -63,6 +63,14 @@
 	                    <div class="col-lg-9 col-md-8">{{$recruite->phone}}</div>
 	                  </div>
 	                   <div class="row">
+	                    <div class="col-lg-3 col-md-4 label">Job Applied</div>
+	                    <div class="col-lg-9 col-md-8">{{ optional($recruite->job)->getJobTitle() ?? ''}}</div>
+	                  </div>
+	                   <div class="row">
+	                    <div class="col-lg-3 col-md-4 label">Job Type</div>
+	                    <div class="col-lg-9 col-md-8">{{$recruite->job_type}}</div>
+	                  </div>
+	                   <div class="row">
 	                    <div class="col-lg-3 col-md-4 label">Career</div>
 	                    <div class="col-lg-9 col-md-8">{{$recruite->career}}</div>
 	                  </div>
