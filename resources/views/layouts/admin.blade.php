@@ -13,6 +13,7 @@
   <link href="{{asset('assets/img/icon.png')}}" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
   <link href="{{ asset('css/admin.css')}}" rel="stylesheet">
+  <link href="{{ asset('css/summernote.min.css')}}" rel="stylesheet">
 </head>
 
 <body>
@@ -24,5 +25,10 @@
   <form id="logoutform" action="{{ route('logout') }}" method="POST" style="display: none;">
       {{ csrf_field() }}
   </form>
+  <script type="text/javascript">
+  $(document).ready(function() {
+  $('.summernote').summernote();
+  });
+  </script>
 </body>
 </html>
