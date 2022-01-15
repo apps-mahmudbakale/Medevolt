@@ -5,12 +5,12 @@
 	<main id="main" class="main">
 
 	  <div class="pagetitle">
-	    <h1>Create Job</h1>
+	    <h1>Change Password</h1>
 	    <nav>
 	      <ol class="breadcrumb">
 	        <li class="breadcrumb-item"><a href="{{route('admin.dashboard')}}">Dashboard</a></li>
-	        <li class="breadcrumb-item"><a href="{{route('admin.jobs.index')}}">Users</a></li>
-	        <li class="breadcrumb-item active">Create Job</li>
+	        <li class="breadcrumb-item"><a href="{{route('admin.profile')}}">Profile</a></li>
+	        <li class="breadcrumb-item active">Change Password</li>
 	      </ol>
 	    </nav>
 	  </div><!-- End Page Title -->
@@ -20,21 +20,18 @@
 	      <div class="col-lg-12">
 	      		<div class="card">
 	      		  <div class="card-body">
-	      		    <h5 class="card-title">Create Job</h5>
+	      		    <h5 class="card-title">Change Password</h5>
 	      		    <!-- No Labels Form -->
-	      		    <form  action="{{route('admin.jobs.store')}}" method="POST" class="row g-3">
+	      		    <form  action="{{route('admin.users.store')}}" method="POST" class="row g-3">
 	      		    	@csrf
-	      		      <div class="col-md-6">
-	      		        <input type="text" name="role" class="form-control" placeholder="Role">
-	      		      </div>
-	      		      <div class="col-md-6">
-	      		        <input type="text" name="location" class="form-control" placeholder="Location">
-	      		      </div>
-	      		      <div class="col-md-6">
-	      		        <input type="number" name="qty" class="form-control" placeholder="Quantity">
+	      		      <div class="col-md-12">
+	      		        <input type="password" name="current" class="form-control" placeholder="Current Password">
 	      		      </div>
 	      		      <div class="col-md-12">
-	      		       <textarea name="description" id="summernote" placeholder="Job Description"  cols="30" rows="10">@include('partials.job_template')</textarea>
+	      		        <input type="password" name="new" class="form-control" placeholder="New Password">
+	      		      </div>
+	      		      <div class="col-md-12">
+	      		        <input type="password" name="cnew" class="form-control" placeholder="Confirm New Password">
 	      		      </div>
 	      		      <div>
 	      		        <button type="submit" class="btn btn-primary">Submit</button>

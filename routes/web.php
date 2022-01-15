@@ -114,5 +114,7 @@ Route::group(['prefix' => 'admin', 'as' => 'admin.', 'middleware' => ['auth']], 
     Route::resource('recruites', RecruiteController::class);
     Route::resource('jobs', JobController::class);
     Route::resource('documents', DocumentController::class);
+    Route::get('changePassword', [UserController::class, 'changepasswordForm']->name('password.change');
+    Route::post('changepassword', [UserController::class, 'changepassword']->name('change.password');
 
 });

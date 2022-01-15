@@ -91,17 +91,16 @@ class UserController extends Controller
         return view('users.profile');
     }
 
-
-    public function updateProfile(Request $request, User $user)
+    public function changepasswordForm()
     {
-        $user->name = $request->name;
-        $user->email = $request->email;
-        $user->password = Auth::user()->password;
+        return view('users.password');
+    }
 
-        $user->save();
-
-        return redirect()->route('admin.profile')->with('Profile Updated');;
-
+    public function changepassword(Request $request)
+    {
+        if(!Hash::check($request->current, auth()->user()->password)){
+            dd($request->all());
+        }
     }
     /**
      * Update the specified resource in storage.

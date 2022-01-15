@@ -13,7 +13,9 @@
   <link href="{{asset('assets/img/icon.png')}}" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
   <link href="{{ asset('css/admin.css')}}" rel="stylesheet">
-  <link href="{{ asset('css/summernote.min.css')}}" rel="stylesheet">
+  <script src="{{asset('js/jquery-3.5.1.min.js')}}"></script>
+  <link href="{{asset('css/summernote.min.css')}}" rel="stylesheet">
+    <script src="{{asset('js/summernote.min.js')}}"></script>
 </head>
 
 <body>
@@ -25,10 +27,13 @@
   <form id="logoutform" action="{{ route('logout') }}" method="POST" style="display: none;">
       {{ csrf_field() }}
   </form>
-  <script type="text/javascript">
-  $(document).ready(function() {
-  $('.summernote').summernote();
-  });
-  </script>
+ <script>
+     $(document).ready(function() {
+         $('#summernote').summernote({
+             height: 400, 
+             placeholder: 'techsolutionstuff.com',
+         });
+     });
+   </script>
 </body>
 </html>

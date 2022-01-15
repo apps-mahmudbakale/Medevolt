@@ -38,10 +38,6 @@
 	                <li class="nav-item">
 	                  <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#profile-overview"> Profile Details</button>
 	                </li>
-
-	                <li class="nav-item">
-	                  <button class="nav-link" data-bs-toggle="tab" data-bs-target="#profile-edit">Edit Details</button>
-	                </li>
 	              </ul>
 	              <div class="tab-content pt-2">
 
@@ -58,32 +54,6 @@
 	                    <div class="col-lg-9 col-md-8">{{auth()->user()->email}}</div>
 	                  </div>
 	                </div>
-
-	                <div class="tab-pane fade profile-edit pt-3" id="profile-edit">
-
-	                  <!-- Profile Edit Form -->
-	                  <form action="{{route('admin.update.profile', auth()->user()->id)}}" method="POST">
-	                  @csrf
-	                  @method('PUT') 
-	                   <div class="row mb-3">
-	                      <label for="name" class="col-md-4 col-lg-3 col-form-label">Full Name</label>
-	                      <div class="col-md-8 col-lg-9">
-	                        <input name="name" type="text" class="form-control" id="name" value="{{auth()->user()->name}}">
-	                      </div>
-	                    </div>
-	                    <div class="row mb-3">
-	                      <label for="email" class="col-md-4 col-lg-3 col-form-label">Email</label>
-	                      <div class="col-md-8 col-lg-9">
-	                        <input name="email" type="email" class="form-control" id="email" value="{{auth()->user()->email}}">
-	                      </div>
-	                    </div>
-	                    <div class="text-center">
-	                      <button type="submit" class="btn btn-primary">Save Changes</button>
-	                    </div>
-	                  </form><!-- End Profile Edit Form -->
-
-	                </div>
-
 	              </div><!-- End Bordered Tabs -->
 
 	            </div>
