@@ -15,6 +15,7 @@
   <link href="{{ asset('css/admin.css')}}" rel="stylesheet">
   <script src="{{asset('js/jquery-3.5.1.min.js')}}"></script>
   <link href="{{asset('css/summernote.min.css')}}" rel="stylesheet">
+  {{-- <link href="{{asset('bootstrap.min.css')}}" rel="stylesheet"> --}}
     <script src="{{asset('js/summernote.min.js')}}"></script>
 </head>
 

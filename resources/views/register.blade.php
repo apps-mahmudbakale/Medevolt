@@ -84,14 +84,8 @@ img.emoji {
 <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='{{asset('wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3')}}' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='{{asset('wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3')}}' media='all' />
 <script src='wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.minafbb.js?ver=8.1.0' id='monsterinsights-frontend-script-js'></script>
-<script src='../wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
-<script src='../wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<script id='cookie-law-info-js-extra'>
-var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
-var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#61a229","button_1_button_hover":"#4e8221","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#dedfe0","button_3_button_hover":"#b2b2b3","button_3_link_colour":"#333333","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#dedfe0","button_4_button_hover":"#b2b2b3","button_4_link_colour":"#333333","button_4_as_button":"1","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
-var log_object = {"ajax_url":"https:\/\/www.txmhealthcare.co.uk\/wp-admin\/admin-ajax.php"};
-</script>
-<script src='wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public1717.js?ver=2.0.6' id='cookie-law-info-js'></script>
+<script src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
 <script src='wp-content/plugins/download-manager/assets/bootstrap/js/popper.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wpdm-poper-js'></script>
 <script src='wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wpdm-front-bootstrap-js'></script>
 <script id='wpdm-frontjs-js-extra'>
@@ -199,6 +193,15 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 
 
         </style>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-PWQDQ6JVKL"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-PWQDQ6JVKL');
+        </script>
         </head>
 
 <body class="page-template-default page page-id-14785 wp-custom-logo wp-embed-responsive theme-oceanwp woocommerce-no-js oceanwp-theme fullscreen-mobile no-header-border content-full-screen has-topbar page-header-disabled has-breadcrumbs has-grid-list account-original-style oceanwp elementor-default elementor-kit-19665 elementor-page elementor-page-14785" itemscope="itemscope" itemtype="https://schema.org/WebPage">
@@ -365,7 +368,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-widget-container">
 			<div class="cognito row">
 				@if(Session::has('success'))
-				<span><p>Thank you.</p> <p>Your CV was successfully submitted.</p> <p>Right now using the power of the internet this submission is being sent to the perfect recruitment consultant based on the details provfided..</p> <p>We will be in touch within 24 hours. If you wish to speak to anyone sooner please give us a call on <b>+237049255550</b> between the hours of <b>8:30am and 5:30pm</b>.</p> <p>Please continue to look around our website or refresh this page if you need to submit for the form again for any reason.</p> <p>We look forward to taking your career Beyond Expectations!&nbsp;</p></span>
+				<span><p>Thank you.</p> <p>Your CV was successfully submitted.</p> <p>Right now using the power of the internet this submission is being sent to the perfect recruitment consultant based on the details provided..</p> <p>We will be in touch within 24 hours. If you wish to speak to anyone sooner please give us a call on <b>+237049255550</b> between the hours of <b>8:30am and 5:30pm</b>.</p> <p>Please continue to look around our website or refresh this page if you need to submit for the form again for any reason.</p> <p>We look forward to taking your career Beyond Expectations!&nbsp;</p></span>
 			@else
 			<form action="{{route('register.store')}}" class="" method="POST" enctype="multipart/form-data">
 				@csrf

@@ -22,7 +22,7 @@
 	      		  <div class="card-body">
 	      		    <h5 class="card-title">Change Password</h5>
 	      		    <!-- No Labels Form -->
-	      		    <form  action="{{route('admin.users.store')}}" method="POST" class="row g-3">
+	      		    <form  action="{{route('admin.change.password')}}" method="POST" class="row g-3">
 	      		    	@csrf
 	      		      <div class="col-md-12">
 	      		        <input type="password" name="current" class="form-control" placeholder="Current Password">

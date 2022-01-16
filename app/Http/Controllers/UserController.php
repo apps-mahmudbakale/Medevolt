@@ -9,6 +9,8 @@ use App\Models\Role;
 use App\Models\User;
 use Illuminate\Http\Request;
 
+use Hash;
+
 class UserController extends Controller
 {
     /**
@@ -99,7 +101,9 @@ class UserController extends Controller
     public function changepassword(Request $request)
     {
         if(!Hash::check($request->current, auth()->user()->password)){
-            dd($request->all());
+            
+        }else{
+           
         }
     }
     /**

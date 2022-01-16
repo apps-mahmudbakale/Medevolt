@@ -38,200 +38,7 @@
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel="alternate" type="application/rss+xml" title="Medivolt Healthcare &raquo; Feed" href="feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="Medivolt Healthcare &raquo; Comments Feed" href="comments/feed/index.html" />
-        <!-- This site uses the Google Analytics by MonsterInsights plugin v8.1.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
-                            <script src="http://www.googletagmanager.com/gtag/js?id=UA-85607066-1"  type="text/javascript" data-cfasync="false" async></script>
-            <script type="text/javascript" data-cfasync="false">
-                var mi_version = '8.1.0';
-                var mi_track_user = true;
-                var mi_no_track_reason = '';
-                
-                                var disableStrs = [
-                                                            'ga-disable-UA-85607066-1',
-                                    ];
-
-                /* Function to detect opted out users */
-                function __gtagTrackerIsOptedOut() {
-                    for ( var index = 0; index < disableStrs.length; index++ ) {
-                        if ( document.cookie.indexOf( disableStrs[ index ] + '=true' ) > -1 ) {
-                            return true;
-                        }
-                    }
-
-                    return false;
-                }
-
-                /* Disable tracking if the opt-out cookie exists. */
-                if ( __gtagTrackerIsOptedOut() ) {
-                    for ( var index = 0; index < disableStrs.length; index++ ) {
-                        window[ disableStrs[ index ] ] = true;
-                    }
-                }
-
-                /* Opt-out function */
-                function __gtagTrackerOptout() {
-                    for ( var index = 0; index < disableStrs.length; index++ ) {
-                        document.cookie = disableStrs[ index ] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-                        window[ disableStrs[ index ] ] = true;
-                    }
-                }
-
-                if ( 'undefined' === typeof gaOptout ) {
-                    function gaOptout() {
-                        __gtagTrackerOptout();
-                    }
-                }
-                                window.dataLayer = window.dataLayer || [];
-
-                window.MonsterInsightsDualTracker = {
-                    helpers: {},
-                    trackers: {},
-                };
-                if ( mi_track_user ) {
-                    function __gtagDataLayer() {
-                        dataLayer.push( arguments );
-                    }
-
-                    function __gtagTracker( type, name, parameters ) {
-                        if ( type === 'event' ) {
-                            
-                                                            parameters.send_to = monsterinsights_frontend.ua;
-                                __gtagDataLayer.apply( null, arguments );
-                                                    } else {
-                            __gtagDataLayer.apply( null, arguments );
-                        }
-                    }
-                    __gtagTracker( 'js', new Date() );
-                    __gtagTracker( 'set', {
-                        'developer_id.dZGIzZG' : true,
-                                            } );
-                                                            __gtagTracker( 'config', 'UA-85607066-1', {"forceSSL":"true"} );
-                                        window.gtag = __gtagTracker;                                        (
-                        function () {
-                            /* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
-                            /* ga and __gaTracker compatibility shim. */
-                            var noopfn = function () {
-                                return null;
-                            };
-                            var newtracker = function () {
-                                return new Tracker();
-                            };
-                            var Tracker = function () {
-                                return null;
-                            };
-                            var p = Tracker.prototype;
-                            p.get = noopfn;
-                            p.set = noopfn;
-                            p.send = function (){
-                                var args = Array.prototype.slice.call(arguments);
-                                args.unshift( 'send' );
-                                __gaTracker.apply(null, args);
-                            };
-                            var __gaTracker = function () {
-                                var len = arguments.length;
-                                if ( len === 0 ) {
-                                    return;
-                                }
-                                var f = arguments[len - 1];
-                                if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
-                                    if ( 'send' === arguments[0] ) {
-                                        var hitConverted, hitObject = false, action;
-                                        if ( 'event' === arguments[1] ) {
-                                            if ( 'undefined' !== typeof arguments[3] ) {
-                                                hitObject = {
-                                                    'eventAction': arguments[3],
-                                                    'eventCategory': arguments[2],
-                                                    'eventLabel': arguments[4],
-                                                    'value': arguments[5] ? arguments[5] : 1,
-                                                }
-                                            }
-                                        }
-                                        if ( 'pageview' === arguments[1] ) {
-                                            if ( 'undefined' !== typeof arguments[2] ) {
-                                                hitObject = {
-                                                    'eventAction': 'page_view',
-                                                    'page_path' : arguments[2],
-                                                }
-                                            }
-                                        }
-                                        if ( typeof arguments[2] === 'object' ) {
-                                            hitObject = arguments[2];
-                                        }
-                                        if ( typeof arguments[5] === 'object' ) {
-                                            Object.assign( hitObject, arguments[5] );
-                                        }
-                                        if ( 'undefined' !== typeof arguments[1].hitType ) {
-                                            hitObject = arguments[1];
-                                            if ( 'pageview' === hitObject.hitType ) {
-                                                hitObject.eventAction = 'page_view';
-                                            }
-                                        }
-                                        if ( hitObject ) {
-                                            action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
-                                            hitConverted = mapArgs( hitObject );
-                                            __gtagTracker( 'event', action, hitConverted );
-                                        }
-                                    }
-                                    return;
-                                }
-
-                                function mapArgs( args ) {
-                                    var arg, hit = {};
-                                    var gaMap = {
-                                        'eventCategory': 'event_category',
-                                        'eventAction': 'event_action',
-                                        'eventLabel': 'event_label',
-                                        'eventValue': 'event_value',
-                                        'nonInteraction': 'non_interaction',
-                                        'timingCategory': 'event_category',
-                                        'timingVar': 'name',
-                                        'timingValue': 'value',
-                                        'timingLabel': 'event_label',
-                                        'page' : 'page_path',
-                                        'location' : 'page_location',
-                                        'title' : 'page_title',
-                                    };
-                                    for ( arg in args ) {
-                                                                                if ( ! ( ! args.hasOwnProperty(arg) || ! gaMap.hasOwnProperty(arg) ) ) {
-                                            hit[gaMap[arg]] = args[arg];
-                                        } else {
-                                            hit[arg] = args[arg];
-                                        }
-                                    }
-                                    return hit;
-                                }
-
-                                try {
-                                    f.hitCallback();
-                                } catch ( ex ) {
-                                }
-                            };
-                            __gaTracker.create = newtracker;
-                            __gaTracker.getByName = newtracker;
-                            __gaTracker.getAll = function () {
-                                return [];
-                            };
-                            __gaTracker.remove = noopfn;
-                            __gaTracker.loaded = true;
-                            window['__gaTracker'] = __gaTracker;
-                        }
-                    )();
-                                    } else {
-                                        console.log( "" );
-                    ( function () {
-                            function __gtagTracker() {
-                                return null;
-                            }
-                            window['__gtagTracker'] = __gtagTracker;
-                            window['gtag'] = __gtagTracker;
-                    } )();
-                                    }
-            </script>
-                <!-- / Google Analytics by MonsterInsights -->
-                <script>
-            window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.MedeVolthealthcare.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=fab647613944cce2c98c440ab05a878f"}};
-            !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-        </script>
-        <style>
+<style>
 img.wp-smiley,
 img.emoji {
     display: inline !important;
@@ -291,11 +98,6 @@ img.emoji {
 <script src='wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.minafbb.js?ver=8.1.0' id='monsterinsights-frontend-script-js'></script>
 <script src='wp-includes/js/jquery/jquery.minaf6c.js?ver=3.6.0' id='jquery-core-js'></script>
 <script src='wp-includes/js/jquery/jquery-migrate.mind617.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<script id='cookie-law-info-js-extra'>
-var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
-var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#61a229","button_1_button_hover":"#4e8221","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#dedfe0","button_3_button_hover":"#b2b2b3","button_3_link_colour":"#333333","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#dedfe0","button_4_button_hover":"#b2b2b3","button_4_link_colour":"#333333","button_4_as_button":"1","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#333333","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
-</script>
-<script src='wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public1717.js?ver=2.0.6' id='cookie-law-info-js'></script>
 <script src='wp-content/plugins/download-manager/assets/bootstrap/js/popper.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wpdm-poper-js'></script>
 <script src='wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wpdm-front-bootstrap-js'></script>
 <script src='wp-content/plugins/download-manager/assets/js/fronta318.js?ver=3.2.18' id='wpdm-frontjs-js'></script>
@@ -397,6 +199,15 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
 
 
         </style>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-PWQDQ6JVKL"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-PWQDQ6JVKL');
+        </script>
         </head>
 
 <body class="home page-template-default page page-id-14502 wp-custom-logo wp-embed-responsive theme-oceanwp woocommerce-no-js oceanwp-theme fullscreen-mobile no-header-border content-full-screen has-topbar page-header-disabled has-breadcrumbs has-grid-list account-original-style oceanwp elementor-default elementor-kit-19665 elementor-page elementor-page-14502" itemscope="itemscope" itemtype="https://schema.org/WebPage">
