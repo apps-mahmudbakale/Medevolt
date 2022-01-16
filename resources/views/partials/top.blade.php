@@ -51,9 +51,9 @@
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-b514687 elementor-widget elementor-widget-wp-widget-custom_html" data-id="b514687" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="tel:+2349065284943" class=" toptext" role="button">
+			<div class="textwidget custom-html-widget"><a href="tel:+2347032101055" class=" toptext" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Gombe : +2349065284943</span>
+						<span class="elementor-button-text">Gombe : +2347032101055</span>
 		</span>
 					</a></div>		</div>
 				</div>
@@ -65,9 +65,9 @@
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-b1590a6 elementor-widget elementor-widget-wp-widget-custom_html" data-id="b1590a6" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="tel:+2347032101055" class=" toptext" role="button">
+			<div class="textwidget custom-html-widget"><a href="tel:+2349065284943" class=" toptext" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Kano : +2347032101055</span>
+						<span class="elementor-button-text">Kano : +2349065284943</span>
 		</span>
 					</a></div>		</div>
 				</div>
@@ -148,9 +148,9 @@
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-c82b0a1 elementor-widget elementor-widget-wp-widget-custom_html" data-id="c82b0a1" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="tel:+2349065284943" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
+			<div class="textwidget custom-html-widget"><a href="tel:+2347032101055" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Gombe : +2349065284943</span>
+						<span class="elementor-button-text">Gombe : +2347032101055</span>
 		</span>
 					</a></div>		</div>
 				</div>
@@ -162,9 +162,9 @@
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-a9668af elementor-widget elementor-widget-wp-widget-custom_html" data-id="a9668af" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="tel:+2347032101055" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
+			<div class="textwidget custom-html-widget"><a href="tel:+2349065284943" class="elementor-button-link elementor-button elementor-size-sm toptext" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Kano : +2347032101055</span>
+						<span class="elementor-button-text">Kano : +2349065284943</span>
 		</span>
 					</a></div>		</div>
 				</div>
@@ -242,7 +242,7 @@ Abuja : +237049255550					</a></div>		</div>
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-059b371 elementor-widget elementor-widget-wp-widget-custom_html" data-id="059b371" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="tel:+2349065284943" class=" toptext" role="button" style="text-align: center">Gombe : +2349065284943				</a></div>		</div>
+			<div class="textwidget custom-html-widget"><a href="tel:+2347032101055" class=" toptext" role="button" style="text-align: center">Gombe : +2347032101055				</a></div>		</div>
 				</div>
 						</div>
 					</div>
@@ -252,8 +252,8 @@ Abuja : +237049255550					</a></div>		</div>
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-3e6a667 elementor-widget elementor-widget-wp-widget-custom_html" data-id="3e6a667" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
-			<div class="textwidget custom-html-widget"><a href="tel:+2347032101055" class=" toptext" role="button" style="text-align: center">
-Kano : +2347032101055				</a></div>		</div>
+			<div class="textwidget custom-html-widget"><a href="tel:+2349065284943" class=" toptext" role="button" style="text-align: center">
+Kano : +2349065284943				</a></div>		</div>
 				</div>
 						</div>
 					</div>
