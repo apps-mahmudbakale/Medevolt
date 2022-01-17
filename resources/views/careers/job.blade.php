@@ -313,15 +313,17 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
 
 
         <div class="job_description">
-            <p><strong>{{$role->role}}</strong></p>
-<p><b>Location</b>: {{$role->location}}</p>
-<p><b>Position:</b>&nbsp;{{$role->role}}</p>
-<p>Medevolt Healthcare are currently seeking a&nbsp;<strong>{{$role->role}} </strong>to work in a <b>Hospital</b> based in&nbsp;<strong>{{$role->location}}.</strong></p>
-<p><b>Contract Type:</b> Full-time.</p>
-<p><b>Length &amp; Details</b>: As soon as possible</p>
-<p><b>Rate of Pay</b>: Competitive Rates Offered</p>
-<p>If you are interested and wish to receive more information about the job then please send your CV to:&nbsp;<strong>contact@</strong><b>medevolthealthcare.com&nbsp;</b>or call Funmilayo on&nbsp;<b>+237049255550&nbsp;</b></p>
-<p><i>Medevolt Healthcare is an equal opportunities employer. If you have any specific requirements or require assistance or reasonable adjustments to be made for you during the selection process due to disability or long-term health condition, we will do our best to assist you.</i></p>
+            {{-- <p><strong>{{$role->role}}</strong></p>
+            <p><b>Location</b>: {{$role->location}}</p>
+            <p><b>Position:</b>&nbsp;{{$role->role}}</p>
+            <p>Medevolt Healthcare are currently seeking a&nbsp;<strong>{{$role->role}} </strong>to work in a <b>Hospital</b> based in&nbsp;<strong>{{$role->location}}.</strong></p>
+            <p><b>Contract Type:</b> Full-time.</p>
+            <p><b>Length &amp; Details</b>: As soon as possible</p>
+            <p><b>Rate of Pay</b>: Competitive Rates Offered</p>
+            <p>If you are interested and wish to receive more information about the job then please send your CV to:&nbsp;<strong>contact@</strong><b>medevolthealthcare.com&nbsp;</b>or call Funmilayo on&nbsp;<b>+237049255550&nbsp;</b></p>
+            <p><i>Medevolt Healthcare is an equal opportunities employer. If you have any specific requirements or require assistance or reasonable adjustments to be made for you during the selection process due to disability or long-term health condition, we will do our best to assist you.</i></p> --}}
+
+            {!! $role->description !!}
         </div>
 
                         <div class="job_application application">

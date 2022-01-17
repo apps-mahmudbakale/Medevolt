@@ -9,7 +9,7 @@
 	    <nav>
 	      <ol class="breadcrumb">
 	        <li class="breadcrumb-item"><a href="{{route('admin.dashboard')}}">Dashboard</a></li>
-	        <li class="breadcrumb-item"><a href="{{route('admin.jobs.index')}}">jobs</a></li>
+	        <li class="breadcrumb-item"><a href="{{route('admin.jobs.index')}}">Jobs</a></li>
 	        <li class="breadcrumb-item active">Update Job</li>
 	      </ol>
 	    </nav>
@@ -26,16 +26,16 @@
 	      		    	@csrf
 	      		    	@method('PUT')
 	      		      <div class="col-md-6">
-	      		        <input type="text" name="role" value="{{ old('firstname', isset($job) ? $job->role : '') }}" class="form-control" placeholder="Role">
+	      		        <input type="text" name="role" value="{{ old('role', isset($job) ? $job->role : '') }}" class="form-control" placeholder="Role">
 	      		      </div>
 	      		      <div class="col-md-6">
-	      		        <input type="text" name="location" value="{{ old('firstname', isset($job) ? $job->location : '') }}" class="form-control" placeholder="Location">
+	      		        <input type="text" name="location" value="{{ old('location', isset($job) ? $job->location : '') }}" class="form-control" placeholder="Location">
 	      		      </div>
 	      		      <div class="col-md-6">
-	      		        <input type="number" name="qty" value="{{ old('firstname', isset($job) ? $job->qty : '') }}" class="form-control" placeholder="Quantity">
+	      		        <input type="number" name="qty" value="{{ old('qty', isset($job) ? $job->qty : '') }}" class="form-control" placeholder="Quantity">
 	      		      </div>
 	      		      <div class="col-md-12">
-	      		        <textarea name="description" placeholder="Job Description"  cols="30" rows="10" class="form-control">{{ old('firstname', isset($job) ? $job->description : '') }}</textarea>
+	      		        <textarea name="description" id="summernote" placeholder="Job Description"  cols="30" rows="10" class="form-control">{{ old('description', isset($job) ? $job->description : '') }}</textarea>
 	      		      </div>
 	      		      <div>
 	      		        <button type="submit" class="btn btn-primary">Submit</button>

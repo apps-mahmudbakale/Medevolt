@@ -101,9 +101,23 @@ class UserController extends Controller
     public function changepassword(Request $request)
     {
         if(!Hash::check($request->current, auth()->user()->password)){
+
+            return back()->with('error', 'Wrong Current Password');
             
         }else{
            
+           if ($request->new == $request->cnew) {
+
+            $user = User::find(auth()->user()->id);
+            $user->password = bcrypt($request->new);
+
+            User::where('id', auth()->user()->id)->update(array('password' => $user->password));
+
+            return redirect()->route('admin.profile')->with('success', 'Password Changed');
+               
+           }else{
+            return redirect()->route('admin.profile')->with('error', 'Confirm Password Mismatch');
+           }
         }
     }
     /**
