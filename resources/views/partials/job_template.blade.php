@@ -6,5 +6,5 @@
 <p><b>Length & Details:</b> As soon as possible</p>
 <p><b>Rate of Pay:</b> Competitive Rates Offered</p>
 
-<p>If you are interested and wish to receive more information about the job then please send your CV to: <b>contact@medevolthealthcare.com</b> or call Funmilayo on <b>+237049255550</b>.</p>
+<p>If you are interested and wish to receive more information about the job then please send your CV to: <b>info@medevolthealthcare.com</b> or call Funmilayo on <b>+237049227730</b>.</p>
 <p>Medevolt Healthcare is an equal opportunities employer. If you have any specific requirements or require assistance or reasonable adjustments to be made for you during the selection process due to disability or long-term health condition, we will do our best to assist you.</p>
