@@ -331,7 +331,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
         <a  href="{{route('register-job', base64_encode($role->slug))}}" class="application_button button">Apply for job</a>
 
         <div class="application_details" style="display: block;">
-            <p>To apply for this job <strong>email your details to</strong> <a class="job_application_email" href="mailto:contact@medevolthealthcare.com?subject=Application%20via%20{{$role->role}}-{{$role->location}}listing%20on%20https%3A%2F%2Fwww.medevolthealthcare.com">contact@medevolthealthcare.com</a>.</p>
+            <p>To apply for this job <strong>email your details to</strong> <a class="job_application_email" href="mailto:info@medevolthealthcare.com?subject=Application%20via%20{{$role->role}}-{{$role->location}}listing%20on%20https%3A%2F%2Fwww.medevolthealthcare.com">info@medevolthealthcare.com</a>.</p>
         </div>
             </div>
             </div>
