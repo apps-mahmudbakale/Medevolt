@@ -7215,9 +7215,17 @@ var Gi=!a.canvasSupported,Fi={},Hi={};var Wi=function(){function t(t,e,n){var i=
   /**
    * Initiate Datatables
    */
+  // const datatables = select('.datatable', true)
+  // datatables.forEach(datatable => {
+  //   new simpleDatatables.DataTable(datatable);
+  // })
+
   const datatables = select('.datatable', true)
   datatables.forEach(datatable => {
-    new simpleDatatables.DataTable(datatable);
+    new simpleDatatables.DataTable(datatable, {
+          searchable: false,
+          perPageSelect: false,
+    });
   })
 
   /**

@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Application;
-use Illuminate\Http\Request;
+use Illuminate\Http\Request; 
 
 class RecruiteController extends Controller
 {
@@ -12,10 +12,14 @@ class RecruiteController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index(Request $request)
     {
-        $recruites = Application::all();
-        return view('recruites.index', compact('recruites'));
+    
+            $recruites = Application::filter($request->all())->get();
+
+            // dd($recruites);
+
+            return view('recruites.index', compact('recruites'));
     }
 
     /**
@@ -87,4 +91,5 @@ class RecruiteController extends Controller
 
         return back()->with('success', 'Recruite Deleted');
     }
-}
+        }
+

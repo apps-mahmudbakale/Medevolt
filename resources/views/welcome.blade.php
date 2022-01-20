@@ -92,6 +92,7 @@ img.emoji {
 <link rel='stylesheet' id='omw-styles-css'  href='wp-content/plugins/ocean-modal-window/assets/css/style.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
 <link rel='stylesheet' id='oss-social-share-style-css'  href='wp-content/plugins/ocean-social-sharing/assets/css/style.min986b.css?ver=fab647613944cce2c98c440ab05a878f' media='all' />
 <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDosis%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=fab647613944cce2c98c440ab05a878f' media='all' />
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <link rel='stylesheet' id='elementor-icons-shared-0-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3' media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3' media='all' />
@@ -197,6 +198,24 @@ img.emoji {
                 border-radius: 4px;
             }
 
+            .float{
+              position:fixed;
+              width:60px;
+              height:60px;
+              bottom:40px;
+              right:40px;
+              background-color:#25d366;
+              color:#FFF;
+              border-radius:50px;
+              text-align:center;
+              font-size:30px;
+              box-shadow: 2px 2px 3px #999;
+              z-index:100;
+            }
+
+            .my-float{
+              margin-top:16px;
+            }
 
         </style>
         <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -235,7 +254,7 @@ img.emoji {
     <div id="site-logo-inner" class="clr">
 
         <a href="{{route('welcome')}}}" class="custom-logo-link" rel="home" aria-current="page">
-<img width="600" height="222" style="max-width: 216px;" src="{{asset('img/logo5.png')}}" alt="Medivolt Healthcare"/>
+<img width="600" height="222" style="max-width: 216px;" src="{{asset('img/logo.jpeg')}}" alt="Medivolt Healthcare"/>
 </a>
     </div><!-- #site-logo-inner -->
     
@@ -1101,6 +1120,11 @@ img.emoji {
 
 
 <a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+
+<a href="https://api.whatsapp.com/send?phone=+2348038969767&text=Hello%21%20Mahmud Bakale" class="float" target="_blank">
+            <i class="fa fa-whatsapp my-float"></i>
+        </a>
+
 
 @include('partials.navs-mobile')
 

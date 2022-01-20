@@ -22,6 +22,36 @@
 	          <div class="card-body">
 	            <h5 class="card-title">Recruites</h5>
 	            <!-- Table with stripped rows -->
+	            <form action="">	
+	            	<div class="row">
+	            	<div class="col-md-3">
+	            	Job-Type
+					<select name="type" id="" class="form-control">
+						<option>Any</option>
+						<option>Full-Time</option>
+						<option>Part-Time</option>
+						<option>Locum</option>
+					</select>            		
+	            	</div>
+	            	<div class="col-md-3">
+	            	Role 
+					<select name="role" id="" class="form-control">
+						<option>Any</option>
+						<option>MedeVolt Doctors</option>
+						<option>MedeVolt Nursing</option>
+						<option>Medevolt Allied Health</option>
+					</select>            		
+	            	</div>
+	            	<div class="col-md-3">
+	            	Location
+	            	<input type="text" name="location" class="form-control">             		
+	            	</div>
+	            	<div class="col-md-3">
+	            	<br>
+		            <button class="btn btn-info" type="submit"><i class="bi bi-search"></i></button>             		
+	            	</div>
+	            </div>
+	            </form>
 	            <table class="table datatable">
 	              <thead>
 	                <tr>
@@ -69,5 +99,12 @@
 	  </section>
 
 	</main><!-- End #main -->
+
+	<script type="text/javascript">
+		const datatables = select('.datatable', true)
+		datatables.forEach(datatable => {
+		  new simpleDatatables.DataTable(datatable);
+		})
+	</script>
 
  @endsection
