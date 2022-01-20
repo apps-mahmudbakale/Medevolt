@@ -28,10 +28,10 @@ class ApplicationFilter extends ModelFilter
         });
     }
 
-    public function location($location)
-    {
-        return $this->where(function($l) use ($location){
-            return $l->where('location', 'LIKE', "%$location%");
-        });
-    }
+    // public function location($location)
+    // {
+    //     return $this->where(function($l) use ($location){
+    //         return $l->where('location', 'LIKE', "%$location%");
+    //     });
+    // }
 }
