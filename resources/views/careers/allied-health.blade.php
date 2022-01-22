@@ -867,7 +867,7 @@ Milton Keynes</p></div></div>		</div>
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-<img width="190" height="190" src="{{asset('img/avatar.jpg')}}" alt="profile photo 190 2">
+<img width="190" height="190" src="{{asset('img/Aisha.jpeg')}}" alt="profile photo 190 2">
 						</div>
 					
 										<div class="elementor-testimonial-details">
@@ -894,7 +894,7 @@ Milton Keynes</p></div></div>		</div>
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
 
-<img width="190" height="190" src="{{asset('img/avatar.jpg')}}" alt="profile photo 190">
+<img width="190" height="190" src="{{asset('img/Ikilima.jpeg')}}" alt="profile photo 190">
 						</div>
 					
 										<div class="elementor-testimonial-details">

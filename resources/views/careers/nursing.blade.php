@@ -727,7 +727,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
-<img width="190" height="190" src="{{asset('img/avatar.jpg')}}">
+<img width="190" height="190" src="{{asset('img/Aisha.jpeg')}}">
 						</div>
 					
 										<div class="elementor-testimonial-details">
@@ -754,7 +754,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
 
-<img width="190" height="190" src="{{asset('img/avatar.jpg')}}" alt="profile photo 190 7">
+<img width="190" height="190" src="{{asset('img/Ikilima.jpeg')}}" alt="profile photo 190 7">
 						</div>
 					
 										<div class="elementor-testimonial-details">
