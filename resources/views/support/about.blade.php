@@ -424,7 +424,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
     <div id="site-logo-inner" class="clr">
 
         <a href="{{route('welcome')}}}" class="custom-logo-link" rel="home" aria-current="page">
-<img width="600" height="222" style="max-width: 216px;" src="{{asset('img/logo5.png')}}" alt="Medivolt Healthcare"/>
+<img width="600" height="222" style="max-width: 216px;" src="{{asset('img/LOGO.png')}}" alt="Medivolt Healthcare"/>
 </a>
     </div><!-- #site-logo-inner -->
     
@@ -489,7 +489,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
   <div class="job_description" style="margin: 7px;">
         <p>Medevolt Healthcare Limited is a Recruitment Process Outsourcing (RPO) provider that provides medical professionals and healthcare providers with long lasting solution of recruitment challenges.</p>
         <p>Depending on what an organization is looking for, our solution can bring an array of many benefits including managing hiring fluctuations throughout the year; reducing total recruiting cost and dependency on staffing agencies; improving hiring manager satisfaction; reducing time-to-fill; elevating employment brand; improving candidate experience; simplifying or streamlining the hiring process; and saving time for other duties among other benefits.</p>
-        <p>Depending of what the healthcare professional is looking for, weather you are looking for a long-term role or a locum role, our term of expert will be with you every step of the way.</p>
+        <p>Depending of what the healthcare professional is looking for, weather you are looking for a long-term role or a locum role, our team of expert will be with you every step of the way.</p>
     </div>
 
 </div><!-- .entry -->

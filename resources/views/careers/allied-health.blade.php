@@ -217,7 +217,7 @@ img.emoji {
 	<div id="site-logo-inner" class="clr">
 
 		<a href="{{route('welcome')}}" class="custom-logo-link" rel="home">
-<img width="600" height="222" style="max-width: 216px;" src="{{asset('img/logo5.png')}}" alt="MedeVoltHealthcare">
+<img width="600" height="222" style="max-width: 216px;" src="{{asset('img/LOGO.png')}}" alt="MedeVoltHealthcare">
 </a>
 	</div><!-- #site-logo-inner -->
 
