@@ -12,10 +12,10 @@
 <link rel="canonical" href="index.html" />
 <meta property="og:locale" content="en_GB" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Latest Roles - MediVolt Healthcare" />
+<meta property="og:title" content="Latest Roles - MedeVolt Healthcare" />
 <meta property="og:description" content="Use the search below for the band, grade, speciality or location you are looking to work in" />
 <meta property="og:url" content="index.html" />
-<meta property="og:site_name" content="MediVolt Healthcare" />
+<meta property="og:site_name" content="MedeVolt Healthcare" />
 <meta property="article:publisher" content="https://www.facebook.com/MedevoltHealthcare/" />
 <meta property="og:updated_time" content="2021-09-06T06:43:20+01:00" />
 <meta property="og:image:width" content="1100" />
@@ -214,7 +214,7 @@ img.emoji {
 	<div id="site-logo-inner" class="clr">
 
 		<a href="{{route('welcome')}}" class="custom-logo-link" rel="home">
-<img width="600" height="222" style="max-width: 216px;" src="{{asset('img/LOGO.png')}}" alt="MediVolt Healthcare">
+<img width="600" height="222" style="max-width: 216px;" src="{{asset('img/LOGO.png')}}" alt="MedeVolt Healthcare">
 </a>
 	</div><!-- #site-logo-inner -->
 
@@ -316,7 +316,7 @@ img.emoji {
 				<div class="elementor-element elementor-element-qi9hrsx elementor-widget elementor-widget-text-editor" data-id="qi9hrsx" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 								<div class="elementor-text-editor elementor-clearfix">
-				<h3><span style="color: #ffffff;"><strong>At MediVolt Healthcare, our experts go the Extra Mile to find Healthcare professionals all over the country their next opportunity.</strong></span></h3><h3><span style="color: #ffffff;"><strong>We release new roles onto our website every week, but for a full range of positions and information please contact our team directly by arranging a callback at your convenience.</strong></span></h3>					</div>
+				<h3><span style="color: #ffffff;"><strong>At MedeVolt Healthcare, our experts go the Extra Mile to find Healthcare professionals all over the country their next opportunity.</strong></span></h3><h3><span style="color: #ffffff;"><strong>We release new roles onto our website every week, but for a full range of positions and information please contact our team directly by arranging a callback at your convenience.</strong></span></h3>					</div>
 						</div>
 				</div>
 						</div>
@@ -501,7 +501,7 @@ img.emoji {
 						<div class="elementor-element elementor-element-xyiuqmi elementor-widget elementor-widget-testimonial" data-id="xyiuqmi" data-element_type="widget" data-widget_type="testimonial.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">I have no reservations in recommending MediVolt Healthcare. They offer a tailor made,  personnel, and highly professional service. All aspects of the work are well thought of and delivered in a seamless fashion with the main aim is to deliver safe service for patients and a comfortable healthy environment for the health professional to deliver their duties to the highest standards"</div>
+							<div class="elementor-testimonial-content">I have no reservations in recommending MedeVolt Healthcare. They offer a tailor made,  personnel, and highly professional service. All aspects of the work are well thought of and delivered in a seamless fashion with the main aim is to deliver safe service for patients and a comfortable healthy environment for the health professional to deliver their duties to the highest standards"</div>
 			
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">

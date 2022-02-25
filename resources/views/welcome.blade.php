@@ -1122,7 +1122,7 @@ img.emoji {
 <a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
 
 <a href="https://api.whatsapp.com/send?phone=+2347049225550&text=Hello%21%20Medevolt" class="float" target="_blank">
-            <img src="{{asset('whatsapp.png')}}" alt="">
+            <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png"/>
         </a>
 
 
