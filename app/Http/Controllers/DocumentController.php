@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Models\Document;
-use Illuminate\Http\Request;
+use App\Http\Requests\DocumentFormRequest;
 
 class DocumentController extends Controller
 {
@@ -34,7 +34,7 @@ class DocumentController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
+    public function store(DocumentFormRequest $request)
     {
          if ($request->hasFile('cv')) {
             $fileNameWithExt = $request->file('cv')->getClientOriginalName();
