@@ -182,7 +182,7 @@ class DocumentController extends Controller
 
         ]);
 
-        return redirect()->route('upload-document')->with('success', 'Added');
+        return redirect()->route('upload-document')->with('success', 'Your Documents Have Been Submitted ');
     }
 
     /**

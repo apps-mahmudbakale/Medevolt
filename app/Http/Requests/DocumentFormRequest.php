@@ -35,8 +35,16 @@ class DocumentFormRequest extends FormRequest
            'drivers_licence' => 'required|mimes:png,jpg,jpeg,pdf|max:2048',
            'identity' => 'mimes:png,jpg,jpeg|max:2048',
            'photo' => 'required|mimes:png,jpg,jpeg|max:2048',
-           // 'cv' => 'required|mimes:png,jpg,jpeg,doc,docx,pdf|max:2048',
+           'proof_add_one' => 'required|mimes:doc,docx,pdf|max:2048',
+           'proof_add_two' => 'required|mimes:doc,docx,pdf|max:2048',
 
+        ];
+    }
+
+    public function messages()
+    {
+        return [
+            'cv.max' => 'Cv is Too Large',
         ];
     }
 }

@@ -11,6 +11,7 @@ class Document extends Model
 
     protected $fillable = [
        'fullname',
+       'guarantor_form',
        'cv',
        'refone',
        'reftwo',
