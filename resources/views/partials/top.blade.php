@@ -19,13 +19,13 @@
 						<div class="elementor-element elementor-element-09e0eba elementor-widget elementor-widget-wp-widget-custom_html" data-id="09e0eba" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
 				<div class="elementor-widget-container">
 			<div class="textwidget custom-html-widget">
-	<a class="elementor-icon" href="https://en-gb.facebook.com/MedeVoltHealthcare/" style="font-size: 35px">
+	<a class="elementor-icon" href="https://web.facebook.com/MedeVolt/?ref=pages_you_manage"  target="_blank" style="font-size: 35px">
 	<i aria-hidden="true" class="fab fa-facebook-square"></i>			</a>
 	
-	<a class="elementor-icon" href="https://twitter.com/MedeVoltHealthcare" style="font-size: 35px">
+	<a class="elementor-icon" href="https://twitter.com/medevolt?t=l9v2W5J_inJjoxLF6WKDVg&s=09" target="_blank"  style="font-size: 35px">
 	<i aria-hidden="true" class="fab fa-twitter-square"></i>			</a>
 	
-	<a class="elementor-icon" href="https://www.linkedin.com/company/MedeVolt-healthcare" style="font-size: 35px">
+	<a class="elementor-icon" href="https://www.linkedin.com/company/medevolthealthcare.com"  target="_blank" style="font-size: 35px">
 	<i aria-hidden="true" class="fab fa-linkedin"></i>			</a>
 	</div>		</div>
 				</div>
@@ -46,7 +46,7 @@
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-3c0190b" data-id="3c0190b" data-element_type="column">
+{{-- 				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-3c0190b" data-id="3c0190b" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-b514687 elementor-widget elementor-widget-wp-widget-custom_html" data-id="b514687" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
@@ -59,8 +59,8 @@
 				</div>
 						</div>
 					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-0d5f1b3" data-id="0d5f1b3" data-element_type="column">
+		</div> --}}
+{{-- 				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-0d5f1b3" data-id="0d5f1b3" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-b1590a6 elementor-widget elementor-widget-wp-widget-custom_html" data-id="b1590a6" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
@@ -73,7 +73,7 @@
 				</div>
 						</div>
 					</div>
-		</div>
+		</div> --}}
 				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-cd8090e" data-id="cd8090e" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
@@ -103,7 +103,7 @@
 				<div class="elementor-element elementor-element-4b4463f elementor-view-default elementor-widget elementor-widget-icon" data-id="4b4463f" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://en-gb.facebook.com/MedeVoltHealthcare/">
+			<a class="elementor-icon" href="https://web.facebook.com/MedeVolt/?ref=pages_you_manage" target="_blank" >
 			<i aria-hidden="true" class="fab fa-facebook-square"></i>			</a>
 		</div>
 				</div>
@@ -111,7 +111,7 @@
 				<div class="elementor-element elementor-element-5e86e2d elementor-view-default elementor-widget elementor-widget-icon" data-id="5e86e2d" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://twitter.com/MedeVoltHealthcare">
+			<a class="elementor-icon" href="https://twitter.com/medevolt?t=l9v2W5J_inJjoxLF6WKDVg&s=09" target="_blank" >
 			<i aria-hidden="true" class="fab fa-twitter-square"></i>			</a>
 		</div>
 				</div>
@@ -119,7 +119,7 @@
 				<div class="elementor-element elementor-element-5f604a9 elementor-view-default elementor-widget elementor-widget-icon" data-id="5f604a9" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://www.linkedin.com/company/MedeVolt-healthcare">
+			<a class="elementor-icon" href="https://www.linkedin.com/company/medevolthealthcare.com" target="_blank" >
 			<i aria-hidden="true" class="fab fa-linkedin"></i>			</a>
 		</div>
 				</div>
@@ -143,7 +143,7 @@
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-f4421ee" data-id="f4421ee" data-element_type="column">
+{{-- 				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-f4421ee" data-id="f4421ee" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-c82b0a1 elementor-widget elementor-widget-wp-widget-custom_html" data-id="c82b0a1" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
@@ -156,8 +156,8 @@
 				</div>
 						</div>
 					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-1d31b84" data-id="1d31b84" data-element_type="column">
+		</div> --}}
+{{-- 				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-1d31b84" data-id="1d31b84" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-a9668af elementor-widget elementor-widget-wp-widget-custom_html" data-id="a9668af" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
@@ -170,7 +170,7 @@
 				</div>
 						</div>
 					</div>
-		</div>
+		</div> --}}
 				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-7e78b79" data-id="7e78b79" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
@@ -200,7 +200,7 @@
 				<div class="elementor-element elementor-element-4b4463f elementor-view-default elementor-widget elementor-widget-icon" data-id="4b4463f" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://en-gb.facebook.com/MedeVoltHealthcare/">
+			<a class="elementor-icon" href="https://web.facebook.com/MedeVolt/?ref=pages_you_manage" target="_blank" >
 			<i aria-hidden="true" class="fab fa-facebook-square"></i>			</a>
 		</div>
 				</div>
@@ -208,7 +208,7 @@
 				<div class="elementor-element elementor-element-5e86e2d elementor-view-default elementor-widget elementor-widget-icon" data-id="5e86e2d" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://twitter.com/MedeVoltHealthcare">
+			<a class="elementor-icon" href="https://twitter.com/medevolt?t=l9v2W5J_inJjoxLF6WKDVg&s=09" target="_blank" >
 			<i aria-hidden="true" class="fab fa-twitter-square"></i>			</a>
 		</div>
 				</div>
@@ -216,7 +216,7 @@
 				<div class="elementor-element elementor-element-5f604a9 elementor-view-default elementor-widget elementor-widget-icon" data-id="5f604a9" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon" href="https://www.linkedin.com/company/MedeVolt-healthcare">
+			<a class="elementor-icon" href="https://www.linkedin.com/company/medevolthealthcare.com" target="_blank">
 			<i aria-hidden="true" class="fab fa-linkedin"></i>			</a>
 		</div>
 				</div>
@@ -237,7 +237,7 @@ Abuja : +2347049225550					</a></div>		</div>
 						</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-d2ed94d" data-id="d2ed94d" data-element_type="column">
+{{-- 				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-d2ed94d" data-id="d2ed94d" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-059b371 elementor-widget elementor-widget-wp-widget-custom_html" data-id="059b371" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
@@ -246,8 +246,8 @@ Abuja : +2347049225550					</a></div>		</div>
 				</div>
 						</div>
 					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-03a47ba" data-id="03a47ba" data-element_type="column">
+		</div> --}}
+{{-- 				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-03a47ba" data-id="03a47ba" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
 						<div class="elementor-element elementor-element-3e6a667 elementor-widget elementor-widget-wp-widget-custom_html" data-id="3e6a667" data-element_type="widget" data-widget_type="wp-widget-custom_html.default">
@@ -257,7 +257,7 @@ Kano : +2349065284943				</a></div>		</div>
 				</div>
 						</div>
 					</div>
-		</div>
+		</div> --}}
 				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-f02a599" data-id="f02a599" data-element_type="column">
 			<div class="elementor-column-wrap elementor-element-populated">
 							<div class="elementor-widget-wrap">
