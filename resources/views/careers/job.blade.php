@@ -229,7 +229,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
     <div id="site-logo-inner" class="clr">
 
         <a href="{{route('welcome')}}}" class="custom-logo-link" rel="home" aria-current="page">
-<img width="600" height="222" style="max-width: 216px;" src="{{asset('img/logo5.png')}}" alt="Medivolt Healthcare"/>
+<img width="600" height="222" style="max-width: 216px;" src="{{asset('img/LOGO.png')}}" alt="Medivolt Healthcare"/>
 </a>
     </div><!-- #site-logo-inner -->
     
