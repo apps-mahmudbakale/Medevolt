@@ -413,13 +413,17 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				</div>
 				<div class="col-md-12">
 					Job Type :
-					<select name="job_type" id="" required class="form-control">
+					<select name="job_type" id="job_type" required class="form-control">
 						<option></option>
 						<option value="Full-Time">Full-Time</option>
 						<option value="Part-Time">Part-Time</option>
 						<option value="Locum">Locum</option>
 					</select>
 				</div>
+				<div class="col-md-12" id="available_hours" style="display:none;">
+					Available Hours <i>(in this format 04:00pm-08:00am)</i>
+						<input type="text" name="hours"  placeholder="Available hours (04:00pm-08:00am)" class="form-control">
+					</div> 
 				<div class="col-md-12">
 					The ideal role for me would be
 					<textarea required name="role" id="" cols="30" rows="10" class="form-control"></textarea>
@@ -1525,5 +1529,19 @@ window.scopes_array = {};
 <script src='wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.minccfb.js?ver=3.4.2' id='pro-preloaded-elements-handlers-js'></script>
 <script src='wp-content/plugins/elementor/assets/js/preloaded-modules.min4c8b.js?ver=3.4.5' id='preloaded-modules-js'></script>
 <script src='wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.minccfb.js?ver=3.4.2' id='e-sticky-js'></script>
+<script>
+	let job_type = document.getElementById('job_type');
+	let available_hours = document.getElementById('available_hours');
+
+	job_type.addEventListener('change', function(){
+		// alert(this.value);
+		if(this.value == 'Locum'){
+			available_hours.style.display = 'block';
+		}else{
+			available_hours.style.display = 'none';
+		}
+		
+	})
+</script>
 </body>
 </html>

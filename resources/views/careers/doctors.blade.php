@@ -40,7 +40,7 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='formidable-css'  href='wp-content/plugins/formidable/css/formidableformsab4e.css?ver=10191033' media='all' />
+	<link rel='stylesheet' id='formidable-css'  href='{{asset('wp-content/plugins/formidable/css/formidableformsab4e.css?ver=10191033')}}' media='all' />
 <link rel='stylesheet' id='wc-blocks-vendors-style-css'  href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style74e5.css?ver=5.9.1' media='all' />
 <link rel='stylesheet' id='wc-blocks-style-css'  href='wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style74e5.css?ver=5.9.1' media='all' />
 <link rel='stylesheet' id='cookie-law-info-css'  href='wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public1717.css?ver=2.0.6' media='all' />
@@ -1906,7 +1906,7 @@ var oceanwpLocalize = {"nonce":"085f226188","isRTL":"","menuSearchStyle":"disabl
 <script id='wp-util-js-extra'>
 var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src='wp-includes/js/wp-util.min986b.js?ver=fab647613944cce2c98c440ab05a878f' id='wp-util-js'></script>
+<script src='{{asset('wp-includes/js/wp-util.min986b.js?ver=fab647613944cce2c98c440ab05a878f')}}' id='wp-util-js'></script>
 <script id='wc-add-to-cart-variation-js-extra'>
 var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_no_matching_variations_text":"Sorry, no products matched your selection. Please choose a different combination.","i18n_make_a_selection_text":"Please select some product options before adding this product to your basket.","i18n_unavailable_text":"Sorry, this product is unavailable. Please choose a different combination."};
 </script>

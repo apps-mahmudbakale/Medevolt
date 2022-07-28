@@ -46,6 +46,14 @@
       @endcan
       @can('read-users')
        <li class="nav-item">
+        <a class="nav-link collapsed" href="{{route('admin.questions.index')}}">
+          <i class="bi bi-book"></i>
+          <span>Interview Questions</span>
+        </a>
+      </li><!-- End Dashboard Nav -->
+      @endcan
+      @can('read-users')
+       <li class="nav-item">
         <a class="nav-link collapsed" href="{{route('admin.documents.index')}}">
           <i class="bi bi-card-text"></i>
           <span>Documents</span>

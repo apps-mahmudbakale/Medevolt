@@ -32,7 +32,7 @@
                     <i class="bi bi-globe"></i>
                   </div>
                   <div class="ps-3">
-                    <h6>{{number_format(0)}}</h6>
+                    <h6>{{number_format($analytics['total_requests'])}}</h6>
                   </div>
                 </div>
 
