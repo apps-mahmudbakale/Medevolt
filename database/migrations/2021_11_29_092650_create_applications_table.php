@@ -22,6 +22,7 @@ class CreateApplicationsTable extends Migration
             $table->string('email')->unique();
             $table->string('phone')->unique();
             $table->string('job_type')->nullable();
+            $table->string('hours')->nullable();
             $table->string('career');
             $table->text('role');
             $table->string('cv');

@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateAnalyticLogsTable extends Migration
+class CreateOptionsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,9 +13,11 @@ class CreateAnalyticLogsTable extends Migration
      */
     public function up()
     {
-        Schema::create('analytic_logs', function (Blueprint $table) {
+        Schema::create('options', function (Blueprint $table) {
             $table->id();
-            $table->string('url')->unique();
+            $table->foreignId('question_id')->references('id')->on('questions')->onDelete('cascade');
+            $table->string('option');
+            $table->string('correct')->default(0);
             $table->timestamps();
         });
     }
@@ -27,6 +29,6 @@ class CreateAnalyticLogsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('analytic_logs');
+        Schema::dropIfExists('options');
     }
 }

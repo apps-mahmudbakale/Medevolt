@@ -2,10 +2,12 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Application;
 use App\Models\Job;
 use App\Models\User;
+use App\Models\Application;
 use Illuminate\Http\Request;
+use App\Services\LogsService;
+
 
 class DashboardController extends Controller
 {
@@ -24,7 +26,7 @@ class DashboardController extends Controller
      *
      * @return \Illuminate\Contracts\Support\Renderable
      */
-    public function index()
+    public function index(LogsService $analyticsLogsService)
     {
         $users = User::count();   
         $jobs = Job::count();   
@@ -33,6 +35,7 @@ class DashboardController extends Controller
         $doctors = Application::where('career', '=', 'MedeVolt Doctors')->count();
         $nursing = Application::where('career', '=', 'MedeVolt Nursing')->count();
         $allied = Application::where('career', '=', 'MedeVolt Allied Health')->count();
+        $analytics = $analyticsLogsService->getAnalytics();
         
         return view('home',[
             'users' => $users, 
@@ -41,7 +44,8 @@ class DashboardController extends Controller
             'recents'  => $recents,
             'doctors' => $doctors,
             'nursing' => $nursing,
-            'allied' => $allied
+            'allied' => $allied,
+            'analytics' => $analytics,
         ]);
     }
 }
