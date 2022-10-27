@@ -78,10 +78,10 @@
 	                  <td>{{$recruite->job_type ?? ''}}</td>
 	                  <td>{{$recruite->career}}</td>
 	                  <td class="btn-group">
-	                  	@can('read-users')
+	                  	@can('read-recruites')
 	                  	<a href="{{route('admin.recruites.show', $recruite->id)}}" class="btn btn-success"><i class="bi bi-eye"></i></a>
 	                  	@endcan
-	                  	@can('delete-users')
+	                  	@can('delete-recruites')
 	                  	<a href="" class="btn btn-danger" onclick="event.preventDefault(); document.getElementById('del#{{$recruite->id}}').submit();"><i class="bi bi-trash"></i></a>
 	                  	<form id="del#{{$recruite->id}}" action="{{ route('admin.recruites.destroy', $recruite->id) }}" method="POST" onsubmit="return confirm('Are you sure');" style="display: inline-block;">
                           <input type="hidden" name="_method" value="DELETE">
