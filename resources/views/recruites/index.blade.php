@@ -70,7 +70,11 @@
 	                  <th scope="row">{{$loop->iteration}}</th>
 	                  <td>{{$recruite->title}}</td>
 	                  <td>{{$recruite->firstname}} {{$recruite->lastname}}</td>
+					  @role('admin')
 	                  <td>{{$recruite->phone}}</td>
+					  @else
+	                  <td>*********</td>
+					  @endrole
 	                  <td>{{$recruite->job_type ?? ''}}</td>
 	                  <td>{{$recruite->career}}</td>
 	                  <td class="btn-group">

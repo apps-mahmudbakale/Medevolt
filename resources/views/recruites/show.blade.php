@@ -56,11 +56,19 @@
 
 	                  <div class="row">
 	                    <div class="col-lg-3 col-md-4 label">Email</div>
+						@role('admin')
 	                    <div class="col-lg-9 col-md-8">{{$recruite->email}}</div>
+						@else
+						<div class="col-lg-9 col-md-8">***********</div>
+						@endrole
 	                  </div>
 	                   <div class="row">
 	                    <div class="col-lg-3 col-md-4 label">Phone</div>
-	                    <div class="col-lg-9 col-md-8">{{$recruite->phone}}</div>
+						@role('admin')
+						<div class="col-lg-9 col-md-8">{{$recruite->phone}}</div>
+						@else
+						<div class="col-lg-9 col-md-8">***********</div>
+						@endrole
 	                  </div>
 	                   <div class="row">
 	                    <div class="col-lg-3 col-md-4 label">Job Applied</div>
@@ -79,7 +87,9 @@
 	                    <div class="col-lg-9 col-md-8">{{$recruite->role}}</div>
 	                  </div>
 	                   <div class="row">
+						@role('admin')
 	                    <div class="col-lg-9 col-md-8"><a href="/storage/cv/{{$recruite->cv}}" download class="btn btn-primary btn-block"><i class="bi bi-card-text"></i> Download Cv</a></div>
+						@endrole
 	                  </div>
 	                </div>
 	              </div><!-- End Bordered Tabs -->
