@@ -28,7 +28,7 @@
         </ul>
       </li><!-- End Components Nav -->
       @endcan
-      @can('read-users')
+      @can('read-jobs')
        <li class="nav-item">
         <a class="nav-link collapsed" href="{{route('admin.jobs.index')}}">
           <i class="bi bi-briefcase"></i>
@@ -36,7 +36,7 @@
         </a>
       </li><!-- End Dashboard Nav -->
       @endcan
-      @can('read-users')
+      @can('read-recruites')
        <li class="nav-item">
         <a class="nav-link collapsed" href="{{route('admin.recruites.index')}}">
           <i class="bi bi-people"></i>
@@ -52,7 +52,7 @@
         </a>
       </li><!-- End Dashboard Nav -->
       @endcan
-      @can('read-users')
+      @can('read-documents')
        <li class="nav-item">
         <a class="nav-link collapsed" href="{{route('admin.documents.index')}}">
           <i class="bi bi-card-text"></i>

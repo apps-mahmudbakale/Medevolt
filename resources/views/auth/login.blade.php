@@ -59,7 +59,7 @@
           </div>
 
           <div class="credits">
-            Designed by <a href="">Ihmami Tech Solution</a>
+            Designed by <a href="">Bentworks IT Solutions</a>
           </div>
 
         </div>
