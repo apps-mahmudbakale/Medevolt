@@ -243,6 +243,14 @@ class PermissionsTableSeeder extends Seeder
                 'created_at' => '2022-01-14 11:05:42',
                 'updated_at' => '2022-01-14 11:05:42',
             ),
+            27 => 
+            array (
+                'id' => 28,
+                'name' => 'download-cv',
+                'guard_name' => 'web',
+                'created_at' => '2022-01-14 11:05:42',
+                'updated_at' => '2022-01-14 11:05:42',
+            ),
         ));
         
         

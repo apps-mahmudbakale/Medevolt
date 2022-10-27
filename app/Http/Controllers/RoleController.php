@@ -21,7 +21,7 @@ class RoleController extends Controller
         $this->authorize('read-roles');
 
         $roles = Role::with('permissions')->get();
-        return view('roles.index', compact('roles', $roles));
+        return view('roles.index', compact('roles'));
     }
 
     /**
@@ -35,7 +35,7 @@ class RoleController extends Controller
 
         $permissions = Permission::all()->pluck('name', 'id');
 
-        return view('roles.create', compact('permissions', $permissions));
+        return view('roles.create', compact('permissions'));
     }
 
     /**
