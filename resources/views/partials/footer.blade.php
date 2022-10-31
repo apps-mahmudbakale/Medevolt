@@ -4,7 +4,7 @@
       &copy; Copyright <strong><span>Medevolt Healthcare</span></strong>. All Rights Reserved
     </div>
     <div class="credits">
-      Designed by <a href="">Bnetworks</a>
+      Designed by <a href="">Bnetworks IT Solutions</a>
     </div>
   </footer><!-- End Footer -->
 
