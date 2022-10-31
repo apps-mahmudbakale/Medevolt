@@ -18,12 +18,12 @@
           </a>
         </li><!-- End Search Icon-->
 
-        <li class="nav-item dropdown">
+        {{-- <li class="nav-item dropdown">
 
           <a class="nav-link nav-icon" href="#" data-bs-toggle="dropdown">
             <i class="bi bi-bell"></i>
             <span class="badge bg-primary badge-number">4</span>
-          </a><!-- End Notification Icon -->
+          </a><!-- End Notification Icon --> --}}
 
           {{-- <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow notifications">
             <li class="dropdown-header">
@@ -91,7 +91,7 @@
 
           </ul><!-- End Notification Dropdown Items --> --}}
 
-        </li><!-- End Notification Nav -->
+        {{-- </li><!-- End Notification Nav --> --}}
 
         <li class="nav-item dropdown pe-3">
 
