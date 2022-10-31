@@ -85,7 +85,7 @@ class UserController extends Controller
 
         $user->load('roles');
 
-        return view('users.edit', compact('roles', $roles, 'user', $user));
+        return view('users.edit', compact('roles','user'));
     }
 
     public function profile()
