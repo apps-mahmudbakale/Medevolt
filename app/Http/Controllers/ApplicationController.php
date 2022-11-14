@@ -98,14 +98,14 @@ class ApplicationController extends Controller
 
     public function roles()
     {
-        $roles = Job::orderBy('role', 'desc')->get();
+        $roles = Job::orderBy('created_at', 'desc')->get();
 
         return view('careers.latest-roles', compact('roles'));
     }
 
     public function welcome()
     {
-        $roles = Job::orderBy('role', 'desc')->paginate(10);
+        $roles = Job::orderBy('created_at', 'desc')->paginate(10);
 
         return view('welcome', compact('roles'));
     }
