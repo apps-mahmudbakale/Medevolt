@@ -28,13 +28,15 @@ class RequestLogger
             return $response;
         }else if($request->routeIs('admin.*')){
             return $response;
+        }else if($request->routeIs('storage/*')){
+            return $response;
         }else if($request->method() == 'POST'){
             return $response;
         }
 
         $requestTime = Carbon::createFromTimestamp($_SERVER['REQUEST_TIME']);
         $request = RequestLog::create([
-            'url' => Route::current()->getName(),
+            'url' => Route::currentRouteName() ? Route::currentRouteName() : 'admin',
             'method' => $request->method(),
             'response_time' => $requestTime->timestamp,
             'day' => date('d-m-Y'),
