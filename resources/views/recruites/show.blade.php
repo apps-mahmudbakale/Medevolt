@@ -88,7 +88,7 @@
 	                  </div>
 	                   <div class="row">
 						@role('admin')
-	                    <div class="col-lg-9 col-md-8"><a href="/storage/cv/{{$recruite->cv}}" download class="btn btn-primary btn-block"><i class="bi bi-card-text"></i> Download Cv</a></div>
+	                    <div class="col-lg-9 col-md-8"><a href="{{asset('storage/cv/'.$recruite->cv)}}" download class="btn btn-primary btn-block"><i class="bi bi-card-text"></i> Download Cv</a></div>
 						@endrole
 	                  </div>
 	                </div>
