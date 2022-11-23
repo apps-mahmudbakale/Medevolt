@@ -49,7 +49,7 @@ class DashboardController extends Controller
         ]);
     }
 
-    public function our_backup_database(){
+    public function backup_database(){
 
         //ENTER THE RELEVANT INFO BELOW
         $mysqlHostName      = env('DB_HOST');
