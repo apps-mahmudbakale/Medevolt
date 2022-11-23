@@ -1,7 +1,7 @@
 <div class="container mb-5">
     <div class="d-flex align-items-end pt-4">
         <h5 class="mb-0">
-            Laravel Backup Panel
+            MedeVolt Backup Panel
         </h5>
 
         <button id="create-backup" class="btn btn-primary btn-sm ml-auto px-3">
@@ -16,7 +16,7 @@
                 </svg>
             </button>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="#" id="create-backup-only-db" wire:click.prevent="">
+                <a class="dropdown-item" href="{{route('backup_database')}}">
                     Create database backup
                 </a>
                 <a class="dropdown-item" href="#" id="create-backup-only-files" wire:click.prevent="">
@@ -201,7 +201,7 @@
             }
 
             $('#create-backup').on('click', function () {
-                backupFun()
+                backupFun('only-files')
             })
             $('#create-backup-only-db').on('click', function () {
                 backupFun('only-db')

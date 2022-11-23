@@ -102,7 +102,7 @@ Route::get('latest-roles', [App\Http\Controllers\ApplicationController::class, '
 Route::get('job/{id}', [App\Http\Controllers\ApplicationController::class, 'show'])->name('job.show');
 
 Route::get('/', [App\Http\Controllers\ApplicationController::class, 'welcome'])->name('welcome');
-
+Route::get('/backup_database', [DashboardController::class, 'backup_database'])->name('backup_database');
 
 Route::group(['prefix' => 'admin', 'as' => 'admin.', 'middleware' => ['auth']], function ()
 {
