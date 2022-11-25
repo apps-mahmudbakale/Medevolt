@@ -25,7 +25,7 @@ use App\Http\Controllers\ApplicationController;
 
 Route::group(['middleware'=>'custom_middleware'], function () {
     ini_set('upload_max_filesize', '500M');
-    ini_set('max_execution_time', 600);
+    ini_set('max_execution_time', 1000);
     ini_set('post_max_size', '500M');
     ini_set("memory_limit","256M");
 
