@@ -23,8 +23,7 @@ RUN apt-get update && apt-get install -y \
     git \
     curl \
     lua-zlib-dev \
-    libmemcached-dev \
-    #nginx
+    libmemcached-dev 
 
 # Install supervisor
 RUN apt-get install -y supervisor
