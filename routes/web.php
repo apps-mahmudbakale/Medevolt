@@ -3,6 +3,7 @@
 use App\Mail\WelcomeMail;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\JobController;
+use Illuminate\Support\Facades\Artisan;
 use App\Http\Controllers\RoleController;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\DocumentController;
@@ -23,7 +24,7 @@ use App\Http\Controllers\ApplicationController;
 */
 
 Route::get('/test', function () {
-    return view('careers.job');
+        Artisan::call('iseed users,jobs --force');
 })->name('job');
 
 
@@ -79,6 +80,9 @@ Route::get('medevolt-news', function () {
     return view('support.news');
 })->name('news');
 
+Route::get('/backup_database', function (){
+    Artisan::call('iseed jobs --force');
+});
 
 Route::get('medevolt-blog', function () {
     return view('support.blog');
@@ -102,7 +106,7 @@ Route::get('latest-roles', [App\Http\Controllers\ApplicationController::class, '
 Route::get('job/{id}', [App\Http\Controllers\ApplicationController::class, 'show'])->name('job.show');
 
 Route::get('/', [App\Http\Controllers\ApplicationController::class, 'welcome'])->name('welcome');
-Route::get('/backup_database', [DashboardController::class, 'backup_database'])->name('backup_database');
+// Route::get('/backup_database', [DashboardController::class, 'backup_database'])->name('backup_database');
 
 Route::group(['prefix' => 'admin', 'as' => 'admin.', 'middleware' => ['auth']], function ()
 {
