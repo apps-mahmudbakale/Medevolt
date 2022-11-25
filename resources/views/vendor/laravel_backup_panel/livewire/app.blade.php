@@ -16,7 +16,7 @@
                 </svg>
             </button>
             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenuButton">
-                <a class="dropdown-item" href="{{route('backup_database')}}">
+                <a class="dropdown-item" href="">
                     Create database backup
                 </a>
                 <a class="dropdown-item" href="#" id="create-backup-only-files" wire:click.prevent="">
