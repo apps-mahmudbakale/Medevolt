@@ -13,5 +13,5 @@ COPY --chown=www:www-data . /var/www
 
 # add root to www group
 RUN chmod -R ug+w /var/www/storage
-RUN chmod -R ug+w /var/www/databasedocker
+RUN chmod -R ug+w /var/www/database
 
