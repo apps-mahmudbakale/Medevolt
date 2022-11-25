@@ -24,7 +24,7 @@ RUN apt-get update && apt-get install -y \
     curl \
     lua-zlib-dev \
     libmemcached-dev \
-    nginx
+    #nginx
 
 # Install supervisor
 RUN apt-get install -y supervisor
@@ -47,9 +47,9 @@ RUN chmod -R ug+w /var/www/storage
 RUN chmod -R ug+w /var/www/database
 
 # Copy nginx/php/supervisor configs
-RUN cp docker/supervisor.conf /etc/supervisord.conf
+#RUN cp docker/supervisor.conf /etc/supervisord.conf
 RUN cp docker/php.ini /usr/local/etc/php/conf.d/app.ini
-RUN cp docker/nginx.conf /etc/nginx/sites-enabled/default
+#RUN cp docker/nginx.conf /etc/nginx/sites-enabled/default
 
 # PHP Error Log Files
 RUN mkdir /var/log/php
