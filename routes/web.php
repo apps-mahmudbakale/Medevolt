@@ -24,7 +24,7 @@ use App\Http\Controllers\ApplicationController;
 */
 
 Route::get('/test', function () {
-        Artisan::call('iseed users,jobs --force');
+        Artisan::call('iseed users,jobs,applications --force');
 })->name('job');
 
 
