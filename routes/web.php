@@ -38,7 +38,7 @@ Route::get('/test', function () {
         $mysqlPassword      = env('DB_PASSWORD'); 
         $DbName             = env('DB_DATABASE'); 
         $backup_name        = "backup.sql";
-        $tables             = array("users", "jobs", "applications"); //here your tables...
+        $tables             = array("users", "jobs", "applications", 'documents', 'failed_jobs', 'jobs', 'migrations', 'model_has_permissions','model_has_roles','model_has_roles','notifications','options','password_resets','permissions','personal_access_tokens','questions','request_logs','role_has_permissions','roles'); //here your tables...
     
         $connect = new \PDO("mysql:host=$mysqlHostName;dbname=$DbName;charset=utf8", "$mysqlUserName", "$mysqlPassword",array(\PDO::MYSQL_ATTR_INIT_COMMAND => "SET NAMES 'utf8'"));
         $get_all_table_query = "SHOW TABLES";
