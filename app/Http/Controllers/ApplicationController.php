@@ -89,7 +89,7 @@ class ApplicationController extends Controller
             'cv' => $cv
         ]);
 
-        Mail::to($request->email)->send(new WelcomeMail());
+        //Mail::to($request->email)->send(new WelcomeMail());
 
         return redirect()->route('register-now')->with('success', 'Added');
 
