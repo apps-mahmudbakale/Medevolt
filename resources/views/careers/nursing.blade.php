@@ -93,7 +93,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 <script src='wp-content/plugins/download-manager/assets/js/fronta318.js?ver=3.2.18' id='wpdm-frontjs-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/smoothscroll.min8571.js?ver=3.0.7' id='ow-smoothscroll-js'></script>
 <link rel="https://api.w.org/" href="../wp-json/index.html" /><link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/14603.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
 	<link rel="icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-100x100.png" sizes="32x32" />
 <link rel="icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="wp-content/uploads/NHS-issues-warning-over-new-Covid-19-vaccine-email-scam-300x300.png" />
@@ -180,28 +180,28 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 
 <body class="page-template-default page page-id-14603 wp-custom-logo wp-embed-responsive theme-oceanwp woocommerce-no-js oceanwp-theme fullscreen-mobile no-header-border content-full-screen has-topbar page-header-disabled has-breadcrumbs has-grid-list account-original-style oceanwp elementor-default elementor-kit-19665 elementor-page elementor-page-14603" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 
-	
-	
+
+
 	<div id="outer-wrap" class="site clr">
 
 		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
 
-		
+
 		<div id="wrap" class="clr">
 
-			@include('partials.top')			
+			@include('partials.top')
 <header id="site-header" class="minimal-header clr" data-height="54" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
 
-	
-					
+
+
 			<div id="site-header-inner" class="clr container">
 
-				
-				
+
+
 
 <div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
 
-	
+
 	<div id="site-logo-inner" class="clr">
 
 		<a href="{{route('welcome')}}" class="custom-logo-link" rel="home">
@@ -209,22 +209,22 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 </a>
 	</div><!-- #site-logo-inner -->
 
-	
-	
+
+
 </div><!-- #site-logo -->
 
 			<div id="site-navigation-wrap" class="clr">
-			
-			@include('partials.navs')	
-			
+
+			@include('partials.navs')
+
 		</div><!-- #site-navigation-wrap -->
-			
-		
-	
-				
-	
+
+
+
+
+
 	<div class="oceanwp-mobile-menu-icon clr mobile-right">
-			
+
 		<a href="javascript:void(0)" class="mobile-menu"  aria-label="Mobile Menu">
 							<div class="hamburger hamburger--stand" aria-expanded="false">
 					<div class="hamburger-box">
@@ -233,44 +233,44 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				</div>
 						</a>
 
-		
-		
-		
+
+
+
 	</div><!-- #oceanwp-mobile-menu-navbar -->
 
-	
+
 
 			</div><!-- #site-header-inner -->
 
-			
-			
-			
-		
-		
+
+
+
+
+
 </header><!-- #site-header -->
 
 
-			
+
 			<main id="main" class="site-main clr"  role="main">
 
-				
-	
+
+
 	<div id="content-wrap" class="container clr">
 
-		
+
 		<div id="primary" class="content-area clr">
 
-			
+
 			<div id="content" class="site-content clr">
 
-				
-				
+
+
 <article class="single-page-article clr">
 
-	
+
 <div class="entry clr" itemprop="text">
 
-	
+
 			<div data-elementor-type="wp-page" data-elementor-id="14603" class="elementor elementor-14603" data-elementor-settings="[]">
 						<div class="elementor-inner">
 							<div class="elementor-section-wrap">
@@ -439,7 +439,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 							</div>
 		</div>
 				</div>
-				</div> --}}{{-- 
+				</div> --}}{{--
 				<div class="elementor-element elementor-element-qooshp2 elementor-view-framed elementor-position-left elementor-vertical-align-middle elementor-shape-circle elementor-widget elementor-widget-icon-box" data-id="qooshp2" data-element_type="widget" data-widget_type="icon-box.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-box-wrapper">
@@ -565,7 +565,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
 							<div class="elementor-testimonial-content">"This is the second occasion when I am working for my recruitment consultant at MedeVolt Healthcare. They are always helpful, efficient, reliable and find me regular work in a location that suits"</div>
-			
+
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
@@ -574,7 +574,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 <img width="824" height="990" src="wp-content/uploads/row-1-col-3-1.jpg" alt="row 1 col 3 1" loading="lazy"/>
 </picture>
 						</div>
-					
+
 										<div class="elementor-testimonial-details">
 														<div class="elementor-testimonial-name">ELENA</div>
 																						<div class="elementor-testimonial-job">Registered Nurse</div>
@@ -596,7 +596,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
 							<div class="elementor-testimonial-content">"Having worked with MedeVolt over the years we have developed a trusting relationship. The service was second to none working with efficient staff who follow up with ones welfare in the placement provided. They are a business you can rely on"</div>
-			
+
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
@@ -605,7 +605,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 <img width="824" height="990" src="wp-content/uploads/row-2-col-4-1.jpg" alt="row 2 col 4 1" loading="lazy"/>
 </picture>
 						</div>
-					
+
 										<div class="elementor-testimonial-details">
 														<div class="elementor-testimonial-name">louise</div>
 																						<div class="elementor-testimonial-job">Nurse Team Leader</div>
@@ -625,7 +625,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
 							<div class="elementor-testimonial-content">"As a healthcare assistant I found working with MedeVolt and my recruiting consultant, very easy. They facilitated every aspects of my posts, shifts, holidays as well as my payments in a very professional way"</div>
-			
+
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
@@ -634,7 +634,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 <img width="824" height="990" src="wp-content/uploads/row-2-col-2-1.jpg" alt="row 2 col 2 1" loading="lazy"/>
 </picture>
 						</div>
-					
+
 										<div class="elementor-testimonial-details">
 														<div class="elementor-testimonial-name">VIVIEN</div>
 																						<div class="elementor-testimonial-job">Healthcare Assistant</div>
@@ -656,7 +656,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div class="elementor-widget-container">
 					<div class="elementor-testimonial-wrapper">
 							<div class="elementor-testimonial-content">"The most proactive I have ever seen. They help with absolutely everything from timesheets, contacts, payments and are always available. There are no more things they can do to adapt a job for you. Also they have an excellent sense of humour"</div>
-			
+
 						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
 				<div class="elementor-testimonial-meta-inner">
 											<div class="elementor-testimonial-image">
@@ -665,7 +665,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 <img width="824" height="990" src="wp-content/uploads/row-3-col-1-1.jpg" alt="row 3 col 1 1" loading="lazy"/>
 </picture>
 						</div>
-					
+
 										<div class="elementor-testimonial-details">
 														<div class="elementor-testimonial-name">BEATRICE</div>
 																						<div class="elementor-testimonial-job">Registered Nurse</div>
@@ -713,65 +713,164 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<p>We’re delighted that you have chosen to join the MedeVolt Healthcare family. Mothers, Fathers, Sisters and Brothers we’re all working together to go Beyond Expectations in supporting the next step in your career.</p>					</div>
 						</div>
 				</div>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-9378c30 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9378c30" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-							<div class="elementor-row">
-					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-31869dc" data-id="31869dc" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-72bbd7a elementor-widget elementor-widget-testimonial" data-id="72bbd7a" data-element_type="widget" data-widget_type="testimonial.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">"As a healthcare business there is nothing more important than taking care of our people and its important that everyone who works with us feels Beyond Expectations in everything we do. Welcome to the MedeVolt family!"</div>
-			
-						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
-				<div class="elementor-testimonial-meta-inner">
-											<div class="elementor-testimonial-image">
-<img width="190" height="190" src="{{asset('img/Aisha.jpeg')}}">
-						</div>
-					
-										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">Aisha Muhammad Sani</div>
-																						<div class="elementor-testimonial-job">Director of Health & Social Care</div>
-													</div>
-									</div>
-			</div>
-					</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3f259ef" data-id="3f259ef" data-element_type="column">
-			<div class="elementor-column-wrap elementor-element-populated">
-							<div class="elementor-widget-wrap">
-						<div class="elementor-element elementor-element-e01f975 elementor-widget elementor-widget-testimonial" data-id="e01f975" data-element_type="widget" data-widget_type="testimonial.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-testimonial-wrapper">
-							<div class="elementor-testimonial-content">Having worked with MedeVolt over the years we have developed a trusting relationship. They communicate openly and transparently and we always find that they are a business you can rely on.</div>
-			
-						<div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
-				<div class="elementor-testimonial-meta-inner">
-											<div class="elementor-testimonial-image">
+				<section style="color: white;" class="elementor-section elementor-inner-section elementor-element elementor-element-a46d959 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a46d959" data-element_type="section">
+                    <div class="elementor-container elementor-column-gap-default">
+                        <div class="elementor-row">
+                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-290e4db" data-id="290e4db" data-element_type="column">
+        <div class="elementor-column-wrap elementor-element-populated">
+                        <div class="elementor-widget-wrap">
+                    <div class="elementor-element elementor-element-33ece97 elementor-widget elementor-widget-testimonial" data-id="33ece97" data-element_type="widget" data-widget_type="testimonial.default">
+            <div class="elementor-widget-container">
+                <div class="elementor-testimonial-wrapper">
+                        <div class="elementor-testimonial-content" style="text-align:justify">Elizabeth is a retired deputy director Radiography from the National
+                            Orthopaedic Hospital after 24 years of meritorious service to humanity as
+                            well as impacting lives through teaching and mentoring of young
+                            professionals.She is widely travelled across Nigeria, Africa and the world being a regular
+                            face at international conferences as speaker or guest speaker. Pays
+                            attention to details, adherence to medical ethics, team player. Time
+                            management skill, yet keep seeking for additional knowledge for the
+                            betterment of the human race</div>
 
-<img width="190" height="190" src="{{asset('img/Ikilima.jpeg')}}" alt="profile photo 190 7">
-						</div>
-					
-										<div class="elementor-testimonial-details">
-														<div class="elementor-testimonial-name">Ikilima Ismail</div>
-																						<div class="elementor-testimonial-job">Sales Director</div>
-													</div>
-									</div>
-			</div>
-					</div>
-				</div>
-				</div>
-						</div>
-					</div>
-		</div>
-								</div>
-					</div>
-		</section>
+                    <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
+            <div class="elementor-testimonial-meta-inner">
+                                        <div class="elementor-testimonial-image">
+<img width="190" height="190" src="{{asset('img/MD.jpg')}}" alt="profile photo 190 3" loading="lazy"
+style="
+width: 235px;
+height: 213px;
+object-fit: contain;
+border-radius: 19%;"
+/>
+                    </div>
+
+                                    <div class="elementor-testimonial-details">
+                                                    <div class="elementor-testimonial-name">Mrs. Elizabeth Balogun</div>
+            <div class="elementor-testimonial-job">Managing Director</div>
+                                                </div>
+                                </div>
+        </div>
+                </div>
+            </div>
+            </div>
+                    </div>
+                </div>
+    </div>
+            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c41e7a5" data-id="c41e7a5" data-element_type="column">
+        <div class="elementor-column-wrap elementor-element-populated">
+                        <div class="elementor-widget-wrap">
+                    <div class="elementor-element elementor-element-09d8f83 elementor-widget elementor-widget-testimonial" data-id="09d8f83" data-element_type="widget" data-widget_type="testimonial.default">
+            <div class="elementor-widget-container">
+                <div class="elementor-testimonial-wrapper">
+                        <div class="elementor-testimonial-content" style="text-align: justify;">Mr. Segun is a highly experienced Management Consultant with expertise in
+                            HR Innovations and Strategy. With over 13 years of professional experience,
+                            he has held leadership positions in various industries, showcasing his ability
+                            to shape high‑performing teams and implement people‑focused programs.</div>
+
+                    <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
+            <div class="elementor-testimonial-meta-inner">
+                                        <div class="elementor-testimonial-image">
+<img width="190" height="190" src="{{asset('img/OP.jpeg')}}" alt="coco" loading="lazy" style="width: 235px;
+height: 213px;
+object-fit: contain;
+border-radius: 19%;"/>
+
+                    </div>
+
+                                    <div class="elementor-testimonial-details">
+                                                    <div class="elementor-testimonial-name">Mr. Segun Lawal</div>
+                                        <div class="elementor-testimonial-job">Chief Operating Officer</div>
+                                                </div>
+                                </div>
+        </div>
+                </div>
+            </div>
+            </div>
+                    </div>
+                </div>
+    </div>
+
+                            </div>
+                </div>
+    </section>
+    <section style="color: white;" class="elementor-section elementor-inner-section elementor-element elementor-element-a46d959 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a46d959" data-element_type="section">
+        <div class="elementor-container elementor-column-gap-default">
+            <div class="elementor-row">
+    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-290e4db" data-id="290e4db" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+            <div class="elementor-widget-wrap">
+        <div class="elementor-element elementor-element-33ece97 elementor-widget elementor-widget-testimonial" data-id="33ece97" data-element_type="widget" data-widget_type="testimonial.default">
+<div class="elementor-widget-container">
+    <div class="elementor-testimonial-wrapper">
+            <div class="elementor-testimonial-content" style="text-align:justify">Mr Adelani is a fellow of Chartered Accountant with over 15 years’
+                experience in top level business environments. Highly skilled in auditing,
+                investigation, financial analysis and management. He is a core business
+                analyst that provides business insights that will influence the financial
+                direction and action of a company. He worked as Banker for over 12 years
+                before joining our team.</div>
+
+        <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
+<div class="elementor-testimonial-meta-inner">
+                            <div class="elementor-testimonial-image">
+<img width="190" height="190" src="{{asset('img/CFA.jpeg')}}" alt="profile photo 190 3" loading="lazy"
+style="
+width: 235px;
+height: 213px;
+object-fit: contain;
+border-radius: 19%;"
+/>
+        </div>
+
+                        <div class="elementor-testimonial-details">
+                                        <div class="elementor-testimonial-name">Mr. Adelani Ahmad</div>
+<div class="elementor-testimonial-job">Chief Financial and Strategic Analyst (CFA)</div>
+                                    </div>
+                    </div>
+</div>
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c41e7a5" data-id="c41e7a5" data-element_type="column">
+<div class="elementor-column-wrap elementor-element-populated">
+            <div class="elementor-widget-wrap">
+        <div class="elementor-element elementor-element-09d8f83 elementor-widget elementor-widget-testimonial" data-id="09d8f83" data-element_type="widget" data-widget_type="testimonial.default">
+<div class="elementor-widget-container">
+    <div class="elementor-testimonial-wrapper">
+            <div class="elementor-testimonial-content" style="text-align: justify;">Mr Aliyu is an alumni of Maryam Abacha American University, hold his
+                Masters Degree in Public Health from Ahmadu Bello University Zaria,
+                presently undergoing a masters in business administration in dangote
+                business school of bayero university kano. He received a professional
+                development certificate in monitoring and evaluation in global health from
+                the University of Washington.</div>
+
+        <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
+<div class="elementor-testimonial-meta-inner">
+                            <div class="elementor-testimonial-image">
+<img width="190" height="190" src="{{asset('img/BDM.jpg')}}" alt="coco" loading="lazy" style="width: 235px;
+height: 213px;
+object-fit: contain;
+border-radius: 19%;"/>
+
+        </div>
+
+                        <div class="elementor-testimonial-details">
+                                        <div class="elementor-testimonial-name">Mr. Aliyu Tokori</div>
+                            <div class="elementor-testimonial-job">Business Development Manager</div>
+                                    </div>
+                    </div>
+</div>
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+</div>
+
+                </div>
+    </div>
+</section>
 						</div>
 					</div>
 		</div>
@@ -1018,58 +1117,58 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 						</div>
 						</div>
 					</div>
-		
-	
+
+
 </div>
 
 </article>
 
-				
+
 			</div><!-- #content -->
 
-			
+
 		</div><!-- #primary -->
 
-		
+
 	</div><!-- #content-wrap -->
 
-	
+
 
 	</main><!-- #main -->
 
-	
-	
-	
-		
+
+
+
+
 <footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
 
-	
+
 	<div id="footer-inner" class="clr">
 
 <div id="footer-bottom" class="clr no-footer-nav">
 
-	
+
 	<div id="footer-bottom-inner" class="container clr">
 
-		
-		
+
+
 			<div id="copyright" class="clr" role="contentinfo">
 				MedeVolt Healthcare 2021 | All Rights Reserved | <a href="">Privacy Policy</a>			</div><!-- #copyright -->
 
-			
+
 	</div><!-- #footer-bottom-inner -->
 
-	
+
 </div><!-- #footer-bottom -->
 
 
 	</div><!-- #footer-inner -->
 
-	
+
 </footer><!-- #footer -->
 
-	
-	
+
+
 </div><!-- #wrap -->
 
 
@@ -1084,7 +1183,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 <script>
                 jQuery(function($){
 
-                    
+
                 });
             </script>
             <div id="fb-root"></div>
@@ -1104,7 +1203,7 @@ var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>"};
 				<div id="omw-18128" class="omw-modal">
 
 											<a href="#" class="omw-close-modal"></a>
-					
+
 					<div class="omw-modal-inner clr">
 						<p>[frmmodal-content modal_class=&#8221;classes here&#8221; label=&#8221;Click here&#8221;]Please select a valid form.[/frmmodal-content]</p>
 					 </div>
@@ -1258,7 +1357,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                });	
+                });
 window.scopes_array = {};
                 window.backend = 0;
                 jQuery( window ).on( "elementor/frontend/init", function() {
@@ -1313,7 +1412,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                });	
+                });
 window.scopes_array = {};
                 window.backend = 0;
                 jQuery( window ).on( "elementor/frontend/init", function() {
@@ -1368,7 +1467,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                });	
+                });
 window.scopes_array = {};
                 window.backend = 0;
 
@@ -1425,7 +1524,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                });	
+                });
 window.scopes_array = {};
                 window.backend = 0;
                 jQuery( window ).on( "elementor/frontend/init", function() {
@@ -1460,7 +1559,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                });	
+                });
 window.scopes_array = {};
                 window.backend = 0;
                 jQuery( window ).on( "elementor/frontend/init", function() {
@@ -1511,7 +1610,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                });	
+                });
 </script>
 <script src='wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.minccfb.js?ver=3.4.2' id='pro-preloaded-elements-handlers-js'></script>
 <script src='wp-content/plugins/elementor/assets/js/preloaded-modules.min4c8b.js?ver=3.4.5' id='preloaded-modules-js'></script>
