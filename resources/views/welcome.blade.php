@@ -14,7 +14,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Medivolt Healthcare - Medical Recruitment Specialists" />
 <meta property="og:description" content="Specialist Medical Recruitment agency offering a range of locum and permanent job opportunities to Doctors, Nurses &amp; Healthcare Assistants. Register Now!" />
-<meta property="og:url" content="index.html" />
+<meta property="og:url" content="https://medevolthealthcare.com" />
 <meta property="og:site_name" content="Medivolt Healthcare" />
 <meta property="og:updated_time" content="2021-09-14T20:52:21+01:00" />
 <meta property="og:image" content="wp-content/uploads/row-2-col-5-1.jpg" />
@@ -104,7 +104,7 @@ img.emoji {
 <script src='wp-content/plugins/download-manager/assets/js/fronta318.js?ver=3.2.18' id='wpdm-frontjs-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/smoothscroll.min8571.js?ver=3.0.7' id='ow-smoothscroll-js'></script>
 <link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/14502.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
 
 <link rel='shortlink' href='index.html' />
 <meta name="google-site-verification" content="-x44A-jJXId6c02KM49itH_1NkXDUcASkuT1VnSAeZw" />    <script type="text/javascript">
@@ -231,43 +231,43 @@ img.emoji {
 
 <body class="home page-template-default page page-id-14502 wp-custom-logo wp-embed-responsive theme-oceanwp woocommerce-no-js oceanwp-theme fullscreen-mobile no-header-border content-full-screen has-topbar page-header-disabled has-breadcrumbs has-grid-list account-original-style oceanwp elementor-default elementor-kit-19665 elementor-page elementor-page-14502" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 
-    
-    
+
+
     <div id="outer-wrap" class="site clr">
 
         <a class="skip-link screen-reader-text" href="#main">Skip to content</a>
 
-        
+
         <div id="wrap" class="clr">
             @include('partials.top')
-            
+
 <header id="site-header" class="minimal-header clr" data-height="54" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
 
-    
-                    
+
+
             <div id="site-header-inner" class="clr container">
 
 
         <div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
 
-    
+
     <div id="site-logo-inner" class="clr">
 
         <a href="{{route('welcome')}}}" class="custom-logo-link" rel="home" aria-current="page">
 <img width="600" height="222" style="max-width: 216px;" src="{{asset('img/LOGO.png')}}" alt="Medivolt Healthcare"/>
 </a>
     </div><!-- #site-logo-inner -->
-    
+
 </div><!-- #site-logo -->
 
     <div id="site-navigation-wrap" class="clr">
-            
+
             @include('partials.navs')
-    
-        </div><!-- #site-navigation-wrap -->        
-    
+
+        </div><!-- #site-navigation-wrap -->
+
     <div class="oceanwp-mobile-menu-icon clr mobile-right">
-            
+
         <a href="javascript:void(0)" class="mobile-menu"  aria-label="Mobile Menu">
                             <div class="hamburger hamburger--stand" aria-expanded="false">
                     <div class="hamburger-box">
@@ -276,44 +276,44 @@ img.emoji {
                 </div>
                         </a>
 
-        
-        
-        
+
+
+
     </div><!-- #oceanwp-mobile-menu-navbar -->
 
-    
+
 
             </div><!-- #site-header-inner -->
 
-            
-            
-            
-        
-        
+
+
+
+
+
 </header><!-- #site-header -->
 
 
-            
+
             <main id="main" class="site-main clr"  role="main">
 
-                
-    
+
+
     <div id="content-wrap" class="container clr">
 
-        
+
         <div id="primary" class="content-area clr">
 
-            
+
             <div id="content" class="site-content clr">
 
-                
-                
+
+
 <article class="single-page-article clr">
 
-    
+
 <div class="entry clr" itemprop="text">
 
-    
+
             <div data-elementor-type="wp-page" data-elementor-id="14502" class="elementor elementor-14502" data-elementor-settings="[]">
                         <div class="elementor-inner">
                             <div class="elementor-section-wrap">
@@ -557,13 +557,13 @@ img.emoji {
                 <div class="elementor-widget-container">
                     <div class="elementor-testimonial-wrapper">
                             <div class="elementor-testimonial-content">Having worked with MedeVolt over the years we have developed a trusting relationship. They communicate openly and transparently and we always find that they are a business you can rely on.</div>
-            
+
                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                 <div class="elementor-testimonial-meta-inner">
                                             <div class="elementor-testimonial-image">
 <img width="824" height="990" src="{{asset('img/avatar.jpg')}}" alt="row 4 col 2 1" loading="lazy">
                         </div>
-                    
+
                                         <div class="elementor-testimonial-details">
                                                         <div class="elementor-testimonial-name">Abubakar Kala</div>
                     <div class="elementor-testimonial-job">HR Manager<br>Foresight Specialist Clinic Gombe</div>
@@ -577,13 +577,13 @@ img.emoji {
                 <div class="elementor-widget-container">
                     <div class="elementor-testimonial-wrapper">
                             <div class="elementor-testimonial-content">"Medivolt Healthcare have always responded to my booking needs expediently and I have enjoyed the personal relationship with my agent over the time we have worked together. I would consider them first, as the quality of service is much better than other locum agencies I have previously used"</div>
-            
+
                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                 <div class="elementor-testimonial-meta-inner">
                                             <div class="elementor-testimonial-image">
 <img width="824" height="990" src="wp-content/uploads/row-2-col-4-2.jpg" alt="row 2 col 4 2" loading="lazy">
                         </div>
-                    
+
                                         <div class="elementor-testimonial-details">
                                                         <div class="elementor-testimonial-name">Omolola Olawumi</div>
                         <div class="elementor-testimonial-job">Admin Manager <br> Foresight Specialist Clinic Abuja</div>
@@ -603,14 +603,14 @@ img.emoji {
                 <div class="elementor-widget-container">
                     <div class="elementor-testimonial-wrapper">
                             <div class="elementor-testimonial-content">"I have worked closely with MedeVolt in regard to our need for a supply of numerous qualified Staff Nurses for our hospital and overall I've been really impressed with the performance"</div>
-            
+
                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                 <div class="elementor-testimonial-meta-inner">
                                             <div class="elementor-testimonial-image">
-                            
+
 <img width="824" height="990" src="{{asset('img/avatar.jpg')}}" alt="row 4 col 5 2" loading="lazy">
                         </div>
-                    
+
                                         <div class="elementor-testimonial-details">
                                                         <div class="elementor-testimonial-name">Abbas Bello</div>
                                         <div class="elementor-testimonial-job">HR Manager <br>Sokoto State Advance Diagnostic Centre</div>
@@ -624,7 +624,7 @@ img.emoji {
                 <div class="elementor-widget-container">
                     <div class="elementor-testimonial-wrapper">
                             <div class="elementor-testimonial-content">"I want to thank you so much for your professionalism. Probably your agency is the best. I also want to through you thank the entire staff it is difficult to name any particular one but all your colleagues are friendly and always polite.  You always brighten up my stressful day whenever I get to speak to you"</div>
-            
+
                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                 <div class="elementor-testimonial-meta-inner">
                                             <div class="elementor-testimonial-image">
@@ -633,7 +633,7 @@ img.emoji {
 <img width="824" height="990" src="wp-content/uploads/row-2-col-5-1.jpg" alt="row 2 col 5 1" loading="lazy"/>
 </picture>
                         </div>
-                    
+
                 <div class="elementor-testimonial-details">
                                 <div class="elementor-testimonial-name">Oliver</div>
                 <div class="elementor-testimonial-job">NHS Medical Staffing Manager</div>
@@ -919,9 +919,9 @@ img.emoji {
                                 <div class="elementor-text-editor elementor-clearfix">
                 <h3>Use the search below for the band, grade, speciality or location you are looking to work in</h3><p><div class="job_listings" data-location="" data-keywords="" data-show_filters="true" data-show_pagination="false" data-per_page="5" data-orderby="featured" data-order="DESC" data-categories="" data-disable-form-state-storage="" data-post_id="14502" >
 <form class="job_filters">
-    
+
     <div class="search_jobs">
-        
+
         <div class="search_keywords">
             <label for="search_keywords">Keywords</label>
             <input type="text" name="search_keywords" id="search_keywords" placeholder="Keywords" value="" />
@@ -934,11 +934,11 @@ img.emoji {
 
         <div style="clear: both"></div>
 
-        
+
                     <div class="search_submit">
                 <input type="submit" value="Search Jobs">
             </div>
-        
+
             </div>
 
         <ul class="job_types">
@@ -952,13 +952,13 @@ img.emoji {
         @foreach($roles as $key => $role)
         <li class="post-25123 job_listing type-job_listing status-publish has-post-thumbnail hentry entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav" data-longitude="" data-latitude="" style="visibility: visible;">
         <a href="{{route('job.show', $role->slug)}}">
-            <img class="company_logo" src="{{asset('img/GenMed200x200.png.webp')}}" alt=""> 
+            <img class="company_logo" src="{{asset('img/GenMed200x200.png.webp')}}" alt="">
             <div class="position">
                 <h3>{{$role->role}} ({{$role->qty}}) – {{$role->location}}</h3>
                 <div class="company"></div>
             </div>
             <div class="location">{{$role->location}}</div>
-            <ul class="meta">                                           
+            <ul class="meta">
             <li class="date"><time datetime="{{$role->created_at}}">{{$role->created_at->diffForHumans()}}</time></li></ul>
         </a>
     </li>
@@ -1042,7 +1042,7 @@ img.emoji {
                             <div class="elementor-widget-wrap">
                         <div class="elementor-element elementor-element-e97167f elementor-widget elementor-widget-premium-addon-facebook-chat" data-id="e97167f" data-element_type="widget" data-widget_type="premium-addon-facebook-chat.default">
                 <div class="elementor-widget-container">
-            
+
     <div id="premium-fbchat-container" class="premium-fbchat-container" data-settings='{"appId":"173455743059370","hideMobile":false,"lang":"en_US"}'>
         <div class="fb-customerchat" page_id="150691074972348" theme_color="" logged_in_greeting="" logged_out_greeting="" greeting_dialog_display="hide" ref="" minimized=""></div>
     </div>
@@ -1060,58 +1060,58 @@ img.emoji {
                         </div>
                         </div>
                     </div>
-        
-    
+
+
 </div>
 
 </article>
 
-                
+
             </div><!-- #content -->
 
-            
+
         </div><!-- #primary -->
 
-        
+
     </div><!-- #content-wrap -->
 
-    
+
 
     </main><!-- #main -->
 
-    
-    
-    
-        
+
+
+
+
 <footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
 
-    
+
     <div id="footer-inner" class="clr">
 
 <div id="footer-bottom" class="clr no-footer-nav">
 
-    
+
     <div id="footer-bottom-inner" class="container clr">
 
-        
-        
-            <div id="copyright" class="clr" role="contentinfo">
-                Medevolt Healthcare 2020 | All Rights Reserved | <a href="">Privacy Policy</a>         </div><!-- #copyright -->
 
-            
+
+            <div id="copyright" class="clr" role="contentinfo">
+                Medevolt Healthcare {{date('Y')}} | All Rights Reserved | <a href="">Privacy Policy</a>         </div><!-- #copyright -->
+
+
     </div><!-- #footer-bottom-inner -->
 
-    
+
 </div><!-- #footer-bottom -->
 
 
     </div><!-- #footer-inner -->
 
-    
+
 </footer><!-- #footer -->
 
-    
-    
+
+
 </div><!-- #wrap -->
 
 
@@ -1132,7 +1132,7 @@ img.emoji {
 <script>
                 jQuery(function($){
 
-                    
+
                 });
             </script>
             <div id="fb-root"></div>
@@ -1152,7 +1152,7 @@ img.emoji {
                 <div id="omw-18128" class="omw-modal">
 
                                             <a href="#" class="omw-close-modal"></a>
-                    
+
                     <div class="omw-modal-inner clr">
                         <p>[frmmodal-content modal_class=&#8221;classes here&#8221; label=&#8221;Click here&#8221;]Please select a valid form.[/frmmodal-content]</p>
                      </div>
@@ -1334,7 +1334,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                }); 
+                });
 window.scopes_array = {};
                 window.backend = 0;
                 jQuery( window ).on( "elementor/frontend/init", function() {
@@ -1389,7 +1389,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                }); 
+                });
 window.scopes_array = {};
                 window.backend = 0;
                 jQuery( window ).on( "elementor/frontend/init", function() {
@@ -1444,7 +1444,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                }); 
+                });
 window.scopes_array = {};
                 window.backend = 0;
 
@@ -1501,7 +1501,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                }); 
+                });
 window.scopes_array = {};
                 window.backend = 0;
                 jQuery( window ).on( "elementor/frontend/init", function() {
@@ -1536,7 +1536,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                }); 
+                });
 window.scopes_array = {};
                 window.backend = 0;
                 jQuery( window ).on( "elementor/frontend/init", function() {
@@ -1587,7 +1587,7 @@ window.scopes_array = {};
                         return jQuery.ajax( options );
                     };
                     jQuery.cachedAssets( url );
-                }); 
+                });
 </script>
 <script src='wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.minccfb.js?ver=3.4.2' id='pro-preloaded-elements-handlers-js'></script>
 <script src='wp-content/plugins/elementor/assets/js/preloaded-modules.min4c8b.js?ver=3.4.5' id='preloaded-modules-js'></script>

@@ -44,7 +44,7 @@
                 var mi_version = '8.1.0';
                 var mi_track_user = true;
                 var mi_no_track_reason = '';
-                
+
                                 var disableStrs = [
                                                             'ga-disable-UA-85607066-1',
                                     ];
@@ -93,7 +93,7 @@
 
                     function __gtagTracker( type, name, parameters ) {
                         if ( type === 'event' ) {
-                            
+
                                                             parameters.send_to = monsterinsights_frontend.ua;
                                 __gtagDataLayer.apply( null, arguments );
                                                     } else {
@@ -301,7 +301,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
 <script src='wp-content/plugins/download-manager/assets/js/fronta318.js?ver=3.2.18' id='wpdm-frontjs-js'></script>
 <script src='wp-content/themes/oceanwp/assets/js/vendors/smoothscroll.min8571.js?ver=3.0.7' id='ow-smoothscroll-js'></script>
 <link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/14502.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
 
 <link rel='shortlink' href='index.html' />
 <meta name="google-site-verification" content="-x44A-jJXId6c02KM49itH_1NkXDUcASkuT1VnSAeZw" />    <script type="text/javascript">
@@ -401,43 +401,43 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
 
 <body class="home page-template-default page page-id-14502 wp-custom-logo wp-embed-responsive theme-oceanwp woocommerce-no-js oceanwp-theme fullscreen-mobile no-header-border content-full-screen has-topbar page-header-disabled has-breadcrumbs has-grid-list account-original-style oceanwp elementor-default elementor-kit-19665 elementor-page elementor-page-14502" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 
-    
-    
+
+
     <div id="outer-wrap" class="site clr">
 
         <a class="skip-link screen-reader-text" href="#main">Skip to content</a>
 
-        
+
         <div id="wrap" class="clr">
             @include('partials.top')
-            
+
 <header id="site-header" class="minimal-header clr" data-height="54" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
 
-    
-                    
+
+
             <div id="site-header-inner" class="clr container">
 
 
         <div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
 
-    
+
     <div id="site-logo-inner" class="clr">
 
         <a href="{{route('welcome')}}}" class="custom-logo-link" rel="home" aria-current="page">
 <img width="600" height="222" style="max-width: 216px;" src="{{asset('img/LOGO.png')}}" alt="Medivolt Healthcare"/>
 </a>
     </div><!-- #site-logo-inner -->
-    
+
 </div><!-- #site-logo -->
 
     <div id="site-navigation-wrap" class="clr">
-            
+
             @include('partials.navs')
-    
-        </div><!-- #site-navigation-wrap -->        
-    
+
+        </div><!-- #site-navigation-wrap -->
+
     <div class="oceanwp-mobile-menu-icon clr mobile-right">
-            
+
         <a href="javascript:void(0)" class="mobile-menu"  aria-label="Mobile Menu">
                             <div class="hamburger hamburger--stand" aria-expanded="false">
                     <div class="hamburger-box">
@@ -446,50 +446,58 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                 </div>
                         </a>
 
-        
-        
-        
+
+
+
     </div><!-- #oceanwp-mobile-menu-navbar -->
 
-    
+
 
             </div><!-- #site-header-inner -->
 
-            
-            
-            
-        
-        
+
+
+
+
+
 </header><!-- #site-header -->
 
-            
+
             <main id="main" class="site-main clr" role="main">
 
-                
-    
+
+
     <div id="content-wrap" class="container clr" style="margin-left: 10px; margin-top: 20px;">
 
-        
+
         <div id="primary" class="content-area clr">
 
-            
-            <div id="content" class="site-content clr">
 
-                
-                
+            <div id="content" class="site-content clr" style="margin: 10px;">
+
+
+
 <article id="post-25118">
 <header class="entry-header clr">
-    <h1 class="single-post-title entry-title" itemprop="headline">About MedeVolt Healthcare</h1><!-- .single-post-title -->
+    <h1 class="single-post-title entry-title" itemprop="headline" style="font-weight: 700; text-transform: uppercase; color:#006db6;">About Us</h1><!-- .single-post-title -->
     <hr>
 </header><!-- .entry-header -->
 
 
 
 <div class="entry-content clr">
-  <div class="job_description" style="margin: 7px;">
-        <p>Medevolt Healthcare Limited is a Recruitment Process Outsourcing (RPO) provider that provides medical professionals and healthcare providers with long lasting solution of recruitment challenges.</p>
-        <p>Depending on what an organization is looking for, our solution can bring an array of many benefits including managing hiring fluctuations throughout the year; reducing total recruiting cost and dependency on staffing agencies; improving hiring manager satisfaction; reducing time-to-fill; elevating employment brand; improving candidate experience; simplifying or streamlining the hiring process; and saving time for other duties among other benefits.</p>
-        <p>Depending of what the healthcare professional is looking for, weather you are looking for a long-term role or a locum role, our team of expert will be with you every step of the way.</p>
+  <p class="job_description" style="margin: 7px;">
+      <p><span style="font-weight: 800; color: #006db6;">Medevolt Healthcare Limited:</span> <span style="font-weight: 600; color: black"> <i>Partnering with Healthcare Organizations for Success</i></span></p>
+
+      <p style="text-align: justify">Medevolt Healthcare Limited is a leading healthcare consultancy dedicated to helping organizations achieve operational excellence, cultivate high-performing teams, and develop winning strategies. We understand the unique challenges facing the healthcare industry today, including increasing pressure to improve quality, reduce costs, and enhance patient satisfaction.</p>
+
+      <span style="font-weight: 800; color:#006db6; ">Our Focus:</span>
+      <p><span style="font-weight:700">Operational Improvement:</span>  We specialize in streamlining workflows, improving resource utilization, and enhancing operational efficiency through Lean Six Sigma methodologies, process re-engineering, and revenue cycle management optimization.</p>
+    <p><span style="font-weight: 700">Human Resources & Talent Management:</span> We assist clients in attracting, developing, and retaining top talent through effective recruitment and selection strategies, comprehensive training programs, competitive compensation and benefits packages, and robust employee engagement initiatives.</p>
+    <p><span style="font-weight: 700">Strategic Planning & Consulting:</span> We guide clients in developing and implementing strategic plans aligned with their organizational goals, including market analysis, financial modeling, and risk mitigation.</p>
+      <p><span style="font-weight: 800; color: #006db6;">Our Approach:</p>
+    <p>We believe in a collaborative and data-driven approach. Our team of experienced consultants works closely with clients to understand their unique needs and challenges. We then develop customized solutions that address their specific goals and deliver measurable results.</p>
+    <p>We invite you to explore our services and learn more about how Medevolt Healthcare Limited can help your organization achieve its strategic objectives, improve patient outcomes, and enhance the overall patient experience.</p>
     </div>
 
 </div><!-- .entry -->
@@ -499,48 +507,48 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
 
 </article>
 
-                
+
             </div><!-- #content -->
 
-            
+
         </div><!-- #primary -->
 
 
     </div><!-- #content-wrap -->
 
-    
+
 
     </main><!-- #main -->
 
     <footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
 
-        
+
         <div id="footer-inner" class="clr">
 
     <div id="footer-bottom" class="clr no-footer-nav">
 
-        
+
         <div id="footer-bottom-inner" class="container clr">
 
-            
-            
-                <div id="copyright" class="clr" role="contentinfo">
-                    Medevolt Healthcare 2020 | All Rights Reserved | <a href="">Privacy Policy</a>         </div><!-- #copyright -->
 
-                
+
+                <div id="copyright" class="clr" role="contentinfo">
+                    Medevolt Healthcare {{date('Y')}} | All Rights Reserved | <a href="">Privacy Policy</a>         </div><!-- #copyright -->
+
+
         </div><!-- #footer-bottom-inner -->
 
-        
+
     </div><!-- #footer-bottom -->
 
 
         </div><!-- #footer-inner -->
 
-        
+
     </footer><!-- #footer -->
 
-        
-        
+
+
     </div><!-- #wrap -->
 
 
@@ -556,7 +564,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
     <script>
                     jQuery(function($){
 
-                        
+
                     });
                 </script>
                 <div id="fb-root"></div>
@@ -576,7 +584,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                     <div id="omw-18128" class="omw-modal">
 
                                                 <a href="#" class="omw-close-modal"></a>
-                        
+
                         <div class="omw-modal-inner clr">
                             <p>[frmmodal-content modal_class=&#8221;classes here&#8221; label=&#8221;Click here&#8221;]Please select a valid form.[/frmmodal-content]</p>
                          </div>
@@ -758,7 +766,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                             return jQuery.ajax( options );
                         };
                         jQuery.cachedAssets( url );
-                    }); 
+                    });
     window.scopes_array = {};
                     window.backend = 0;
                     jQuery( window ).on( "elementor/frontend/init", function() {
@@ -813,7 +821,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                             return jQuery.ajax( options );
                         };
                         jQuery.cachedAssets( url );
-                    }); 
+                    });
     window.scopes_array = {};
                     window.backend = 0;
                     jQuery( window ).on( "elementor/frontend/init", function() {
@@ -868,7 +876,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                             return jQuery.ajax( options );
                         };
                         jQuery.cachedAssets( url );
-                    }); 
+                    });
     window.scopes_array = {};
                     window.backend = 0;
 
@@ -925,7 +933,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                             return jQuery.ajax( options );
                         };
                         jQuery.cachedAssets( url );
-                    }); 
+                    });
     window.scopes_array = {};
                     window.backend = 0;
                     jQuery( window ).on( "elementor/frontend/init", function() {
@@ -960,7 +968,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                             return jQuery.ajax( options );
                         };
                         jQuery.cachedAssets( url );
-                    }); 
+                    });
     window.scopes_array = {};
                     window.backend = 0;
                     jQuery( window ).on( "elementor/frontend/init", function() {
@@ -1011,7 +1019,7 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
                             return jQuery.ajax( options );
                         };
                         jQuery.cachedAssets( url );
-                    }); 
+                    });
     </script>
     <script src='wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.minccfb.js?ver=3.4.2' id='pro-preloaded-elements-handlers-js'></script>
     <script src='wp-content/plugins/elementor/assets/js/preloaded-modules.min4c8b.js?ver=3.4.5' id='preloaded-modules-js'></script>
