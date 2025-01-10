@@ -473,31 +473,43 @@ var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"5
         <div id="primary" class="content-area clr">
 
 
-            <div id="content" class="site-content clr" style="margin: 10px;">
+            <div id="content" class="site-content clr" style="margin: 10px; padding:22px;">
 
 
 
 <article id="post-25118">
 <header class="entry-header clr">
-    <h1 class="single-post-title entry-title" itemprop="headline" style="font-weight: 700; text-transform: uppercase; color:#006db6;">About Us</h1><!-- .single-post-title -->
+    <h1 class="single-post-title entry-title" itemprop="headline" style="font-weight: 700; text-transform: uppercase; color:#006db6; font-size:34px;">About Us</h1><!-- .single-post-title -->
     <hr>
 </header><!-- .entry-header -->
 
 
 
-<div class="entry-content clr">
-  <p class="job_description" style="margin: 7px;">
+<div class="entry-content clr" style="font-size: 26px;line-height: 1.4;font-weight: 400; padding-left:34px; padding-right:34px;">
       <p><span style="font-weight: 800; color: #006db6;">Medevolt Healthcare Limited:</span> <span style="font-weight: 600; color: black"> <i>Partnering with Healthcare Organizations for Success</i></span></p>
 
       <p style="text-align: justify">Medevolt Healthcare Limited is a leading healthcare consultancy dedicated to helping organizations achieve operational excellence, cultivate high-performing teams, and develop winning strategies. We understand the unique challenges facing the healthcare industry today, including increasing pressure to improve quality, reduce costs, and enhance patient satisfaction.</p>
 
       <span style="font-weight: 800; color:#006db6; ">Our Focus:</span>
-      <p><span style="font-weight:700">Operational Improvement:</span>  We specialize in streamlining workflows, improving resource utilization, and enhancing operational efficiency through Lean Six Sigma methodologies, process re-engineering, and revenue cycle management optimization.</p>
+      <p style="text-align: justify"><span style="font-weight:700">Operational Improvement:</span>  We specialize in streamlining workflows, improving resource utilization, and enhancing operational efficiency through Lean Six Sigma methodologies, process re-engineering, and revenue cycle management optimization.</p>
     <p><span style="font-weight: 700">Human Resources & Talent Management:</span> We assist clients in attracting, developing, and retaining top talent through effective recruitment and selection strategies, comprehensive training programs, competitive compensation and benefits packages, and robust employee engagement initiatives.</p>
     <p><span style="font-weight: 700">Strategic Planning & Consulting:</span> We guide clients in developing and implementing strategic plans aligned with their organizational goals, including market analysis, financial modeling, and risk mitigation.</p>
       <p><span style="font-weight: 800; color: #006db6;">Our Approach:</p>
     <p>We believe in a collaborative and data-driven approach. Our team of experienced consultants works closely with clients to understand their unique needs and challenges. We then develop customized solutions that address their specific goals and deliver measurable results.</p>
     <p>We invite you to explore our services and learn more about how Medevolt Healthcare Limited can help your organization achieve its strategic objectives, improve patient outcomes, and enhance the overall patient experience.</p>
+    <header class="entry-header clr">
+        <h1 class="single-post-title entry-title" itemprop="headline" style="font-weight: 700; text-transform: uppercase; color:#006db6; font-size:34px;">What we do</h1><!-- .single-post-title -->
+        <hr>
+    </header>
+    <span style="font-weight:800; color: #006db6 ">Healthcare consultancy Services:</span>
+    <p style="text-align: justify">Medevolt Healthcare has extensive experience in Healthcare Consultancy Services; For a healthcare organization to survive in a competitive market, it should stay at the top of its patients '(customers) minds. As a Healthcare consultant, we have diverse business knowledge and a deep understanding of your target audience's pain points.</p>
+    <p style="text-align: justify">We'll conduct well-rounded assessments to find glitches in your operations and create solutions. Our job would be to ensure the healthcare organization growth its revenue and delivers excellent patient care.</p>
+    <span style="font-weight:800; color: #006db6 ">Training and capacity building:</span>
+    <p style="text-align:justify">Medevolt Healthcare also specialised on Training and Retraining of Medical as well as Administrative Staff in Healthcare space. Even if you have the most advanced medical equipment, your patients won't be able to receive high-quality healthcare unless you have medical professionals who knows how to operate it.</p>
+    <p>On the other hand, it is very unlikely that your patients will return to your clinic/hospital if they're met by sour-faced medical staff, no matter how qualified they may be.</p>
+    <p>So, to make sure your biggest asset is your staff (as it should be!), you need to train your medical staff.</p>
+    <p style="text-align:justify">The advantages of training and Retraining of your staff can never be over emphasized; it will build staff morale, build team rapport, Increase productivity and performance, better risk management, improve staff retention, Increase staff confidence and competence, enable career progression, build a better reputation, improve patient care, improve patient satisfaction as well as avoid legal issues.</p>
+    We Will Train your Staff in areas such as; Composure Training, EHR and Technical Training, Customer Service Training, Legal Compliance Training, Staff Efficiency Training among others.
     </div>
 
 </div><!-- .entry -->
